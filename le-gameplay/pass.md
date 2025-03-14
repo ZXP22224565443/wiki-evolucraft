@@ -14,7 +14,7 @@ Avec le Pass sur Evolucraft, chaque mois est une nouvelle aventure remplie de po
 
 ## <mark style="color:green;">**Fonctionnement du Pass**</mark>
 
-Chaque mois, vous aurez l'opportunité de progresser à travers différents niveaux du Pass en accumulant du Farmium grâce à vos activités métiers. Plus vous progressez, plus les récompenses deviennent attrayantes.
+Chaque mois, vous aurez l'opportunité de progresser à travers différents niveaux du Pass en accumulant du Farmium grâce à vos activités métiers ou par les boss finaux des donjons. Plus vous progressez, plus les récompenses deviennent attrayantes.
 
 ## <mark style="color:green;">Farmium</mark>
 
