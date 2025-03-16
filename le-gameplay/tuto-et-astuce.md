@@ -7,17 +7,17 @@ Lors de votre première connexion, le serveur vous rajoute automatiquement le te
 
 1.<span style="align-items: center;">
 Rends-toi dans le menu de sélection des serveurs, puis faites un **clic droit** sur Evolucraft. L’icône passera en surbrillance.
-  <figure><img src="../.gitbook/assets/Tuto_EvoOverlay.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_EvoOverlay.png" alt="" width="600"></figure>
 </span>
 
 2.<span style="align-items: center;">
 En bas à gauche de ton écran, clique sur le bouton **Modifier**.
-  <figure><img src="../.gitbook/assets/Tuto_Modifier.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_Modifier.png" alt="" width="600"></figure>
 </span>
 
 3.<span style="align-items: center;">
 Active les packs de ressources, puis clique sur **Terminer**.
-  <figure><img src="../.gitbook/assets/Tuto_PackEnable.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_PackEnable.png" alt="" width="600"></figure>
 </span>
 
 {% hint style="warning" %}
@@ -33,7 +33,7 @@ Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes su
 
 1.<span style="align-items: center;">
   Appuie sur Échap et va dans les **paramètres de ton launcher**. 
-  <figure><img src="../.gitbook/assets/Tuto_LunarOption.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_LunarOption.png" alt="" width="600"></figure>
 </span>
 
 2.<span style="align-items: center;"> 
