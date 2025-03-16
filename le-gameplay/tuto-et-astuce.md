@@ -27,26 +27,26 @@ Pense à bien allouer suffisamment de RAM pour pouvoir le télécharger !
 
 ### <mark style="color:green;">Enlever les barres violettes</mark>
 Si tu joues sur Lunar Client, Badlion, Feather ou sur un launcher autre que celui de base, il se peut que tu aies des barres violettes affichées sur ton écran lors de ta première connexion.  
-<figure><img src="../.gitbook/assets/image (53).png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Tuto_BarreViolette" alt=""></figure>
 
 Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes suivantes (la manipulation reste plus ou moins la même sur les autres launchers) :
 
 1.<span style="align-items: center;">
   Appuie sur Échap et va dans les **paramètres de ton launcher**. 
-  <figure><img src="../.gitbook/assets/image (54).png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/LunarOption.png" alt=""></figure>
 </span>
 
 2.<span style="align-items: center;"> 
   Tape boss bar dans l'onglet de recherche.
-  <figure><img src="../.gitbook/assets/image (55).png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_SelectBossBar.png" alt=""></figure>
 </span>
 
 3.<span style="align-items: center;">
   Met l'échelle à 1 (optionnel) et désactive les "barre personnalisée"
-  <figure><img src="../.gitbook/assets/image (56).png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_ScaleEtDesac.png" alt=""></figure>
 </span>
 
 4.<span style="align-items: center;">
-  Pour finir, va dans la section permettant de modifier l'hud et centre la boss bar
-  <figure><img src="../.gitbook/assets/image (57).png" alt=""></figure>
+  Pour finir, va dans la section permettant de modifier l'HUD et centre la boss bar
+  <figure><img src="../.gitbook/assets/Tuto_BarrePlacement.png" alt=""></figure>
 </span>
