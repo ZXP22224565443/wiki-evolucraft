@@ -38,15 +38,15 @@ Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes su
 
 2.<span style="align-items: center;"> 
   Tape boss bar dans l'onglet de recherche.
-  <figure><img src="../.gitbook/assets/Tuto_SelectBossBar.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_SelectBossBar.png" alt="" width="600"></figure>
 </span>
 
 3.<span style="align-items: center;">
   Met l'échelle à 1 (optionnel) et désactive les "barre personnalisée"
-  <figure><img src="../.gitbook/assets/Tuto_ScaleEtDesac.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_ScaleEtDesac.png" alt="" width="600"></figure>
 </span>
 
 4.<span style="align-items: center;">
   Pour finir, va dans la section permettant de modifier l'HUD et centre la boss bar
-  <figure><img src="../.gitbook/assets/Tuto_BarrePlacement.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_BarrePlacement.png" alt="" width="600"></figure>
 </span>
