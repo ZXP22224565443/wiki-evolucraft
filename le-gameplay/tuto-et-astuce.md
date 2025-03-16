@@ -33,7 +33,7 @@ Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes su
 
 1.<span style="align-items: center;">
   Appuie sur Échap et va dans les **paramètres de ton launcher**. 
-  <figure><img src="../.gitbook/assets/LunarOption.png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_LunarOption.png" alt=""></figure>
 </span>
 
 2.<span style="align-items: center;"> 
