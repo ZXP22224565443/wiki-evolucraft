@@ -12,9 +12,10 @@ Rends-toi dans le menu de sélection des serveurs, puis faites un **clic droit**
 2. En bas à gauche de ton écran, clique sur le bouton **Modifier**.
   <figure><img src="../.gitbook/assets/image (51).png" alt=""></figure>
 
-3. Active les packs de ressources, puis clique sur **Terminer**.
+3.<span style="display: flex; align-items: center;"> 
+Active les packs de ressources, puis clique sur **Terminer**.
   <figure><img src="../.gitbook/assets/image (52).png" alt=""></figure>
-
+</span>
 {% hint style="warning" %}
 Pense à bien allouer suffisamment de RAM pour pouvoir le télécharger ! 
 {% endhint %}
