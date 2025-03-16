@@ -7,17 +7,17 @@ Lors de votre première connexion, le serveur vous rajoute automatiquement le te
 
 1.<span style="align-items: center;">
 Rends-toi dans le menu de sélection des serveurs, puis faites un **clic droit** sur Evolucraft. L’icône passera en surbrillance.
-  <figure><img src="../.gitbook/assets/image (50).png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_EvoOverlay.png" alt=""></figure>
 </span>
 
 2.<span style="align-items: center;">
 En bas à gauche de ton écran, clique sur le bouton **Modifier**.
-  <figure><img src="../.gitbook/assets/image (51).png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_Modifier.png" alt=""></figure>
 </span>
 
 3.<span style="align-items: center;">
 Active les packs de ressources, puis clique sur **Terminer**.
-  <figure><img src="../.gitbook/assets/image (52).png" alt=""></figure>
+  <figure><img src="../.gitbook/assets/Tuto_PackEnable.png" alt=""></figure>
 </span>
 
 {% hint style="warning" %}
@@ -27,7 +27,7 @@ Pense à bien allouer suffisamment de RAM pour pouvoir le télécharger !
 
 ### <mark style="color:green;">Enlever les barres violettes</mark>
 Si tu joues sur Lunar Client, Badlion, Feather ou sur un launcher autre que celui de base, il se peut que tu aies des barres violettes affichées sur ton écran lors de ta première connexion.  
-<figure><img src="../.gitbook/assets/Tuto_BarreViolette" alt=""></figure>
+<figure><img src="../.gitbook/assets/Tuto_BarreViolette.png" alt=""></figure>
 
 Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes suivantes (la manipulation reste plus ou moins la même sur les autres launchers) :
 
