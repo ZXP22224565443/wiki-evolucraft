@@ -27,6 +27,7 @@ Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes su
 
 1. Fait echap et va dans les paramètres de ton luncher
 <figure><img src="../.gitbook/assets/image (54).png" alt=""></figure>
+
 2. Tape boss bar dans l'onglet de recherche
 <figure><img src="../.gitbook/assets/image (55).png" alt=""></figure>
 
