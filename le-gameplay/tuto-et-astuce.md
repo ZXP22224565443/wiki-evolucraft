@@ -26,7 +26,7 @@ Pense à bien allouer suffisamment de RAM pour pouvoir le télécharger !
 
 
 ### <mark style="color:green;">Enlever les barres violettes</mark>
-Si tu joues sur Lunar Client, Badlion, Feather ou tout autre launcher autre que celui de base, il se peut que tu aies des barres violettes affichées sur ton écran lors de ta première connexion.  
+Si tu joues sur Lunar Client, Badlion, Feather ou sur un launcher autre que celui de base, il se peut que tu aies des barres violettes affichées sur ton écran lors de ta première connexion.  
 <figure><img src="../.gitbook/assets/image (53).png" alt=""></figure>
 
 Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes suivantes (la manipulation reste plus ou moins la même sur les autres launchers) :
