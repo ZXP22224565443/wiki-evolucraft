@@ -5,16 +5,17 @@ description: Retrouvez ici différent tuto/astuce pour votre aventure sur évolu
 ### <mark style="color:green;">Mettre le texture pack</mark>
 Lors de votre première connexion, le serveur vous rajoute automatiquement le texture pack, si cela n'est pas le cas il vous suffit de suivre les étapes suivantes : 
 
-1.<span style="align-items: center;"> 
+1.<span style="align-items: center;">
 Rends-toi dans le menu de sélection des serveurs, puis faites un **clic droit** sur Evolucraft. L’icône passera en surbrillance.
   <figure><img src="../.gitbook/assets/image (50).png" alt=""></figure>
+</span>
 
-2.<span style="align-items: center;">  
+2.<span style="align-items: center;">
 En bas à gauche de ton écran, clique sur le bouton **Modifier**.
   <figure><img src="../.gitbook/assets/image (51).png" alt=""></figure>
 </span>
 
-3.<span style="align-items: center;"> 
+3.<span style="align-items: center;">
 Active les packs de ressources, puis clique sur **Terminer**.
   <figure><img src="../.gitbook/assets/image (52).png" alt=""></figure>
 </span>
@@ -30,14 +31,22 @@ Si tu joues sur Lunar Client, Badlion, Feather ou tout autre launcher autre que 
 
 Pour enlever ceci de votre écran sur lunar client il faut suivre les étapes suivantes (la manipulation reste plus ou moins la même sur les autres launchers) :
 
-1. Appuie sur Échap et va dans les **paramètres de ton launcher**. 
+1.<span style="align-items: center;">
+  Appuie sur Échap et va dans les **paramètres de ton launcher**. 
   <figure><img src="../.gitbook/assets/image (54).png" alt=""></figure>
+</span>
 
-2. Tape boss bar dans l'onglet de recherche.
+2.<span style="align-items: center;"> 
+  Tape boss bar dans l'onglet de recherche.
   <figure><img src="../.gitbook/assets/image (55).png" alt=""></figure>
+</span>
 
-3. Met l'échelle à 1 (optionnel) et désactive les "barre personnalisée"
+3.<span style="align-items: center;">
+  Met l'échelle à 1 (optionnel) et désactive les "barre personnalisée"
   <figure><img src="../.gitbook/assets/image (56).png" alt=""></figure>
+</span>
 
-4. Pour finir, va dans la section permettant de modifier l'hud et centre la boss bar
+4.<span style="align-items: center;">
+  Pour finir, va dans la section permettant de modifier l'hud et centre la boss bar
   <figure><img src="../.gitbook/assets/image (57).png" alt=""></figure>
+</span>
