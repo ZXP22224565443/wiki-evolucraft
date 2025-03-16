@@ -4,10 +4,10 @@ description: Retrouvez ici différent tuto/astuce pour votre aventure sur évolu
 
 ### <mark style="color:green;">Mettre le texture pack</mark>
 Lors de votre première connexion, le serveur vous rajoute automatiquement le texture pack, si cela n'est pas le cas il vous suffit de suivre les étapes suivantes : 
-
+<span>
 1. Rends-toi dans le menu de sélection des serveurs, puis faites un **clic droit** sur Evolucraft. L’icône passera en surbrillance.
   <figure><img src="../.gitbook/assets/image (50).png" alt=""></figure>
-
+</span>
 2. En bas à gauche de ton écran, clique sur le bouton **Modifier**.
   <figure><img src="../.gitbook/assets/image (51).png" alt=""></figure>
 
