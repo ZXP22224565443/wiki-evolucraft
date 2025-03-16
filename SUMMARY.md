@@ -40,6 +40,7 @@
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
+* [📋Tuto et Astuce](le-gameplay/tuto-et-astuce.md)
 
 ## 🏙️ LES VILLES
 
