@@ -27,6 +27,7 @@ Si tu joues sur Lunar Client, Badlion, Feather ou autre sur un launcher autre qu
 <figure><img src="../.gitbook/assets/Tuto_BarreViolette.png" alt=""></figure>
 
 Pour les enlever sur **Lunar Client**, voici les étapes à suivre (la manipulation reste plus ou moins sur les autres launchers) :
+
 1.<span style="align-items: center;"> Tu appuies sur Echap et tu vas dans les **paramètres** de ton launcher. 
   <figure><img src="../.gitbook/assets/Tuto_LunarOption.png" alt="" width="600"></figure>
 </span>
