@@ -43,7 +43,7 @@ Voici un tableau récapitulatif de la machine à bois :
 
 <figure><img src="../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la tailleuse de pierre</strong></p></figcaption></figure>
 
-<mark style="color:green;">**Les Statues communes**</mark>**&#x20;:**
+#### <mark style="color:green;">**Les Statues communes**</mark>**&#x20;:**
 Les statues de rareté commune, ont un temps de fabrication de 10 minutes. Voici une liste exaustif des statues commune fabricable :
 | Nom de la statue | Ressource                                                              | Prix de revente |
 |------------------|------------------------------------------------------------------------|-----------------|
@@ -53,8 +53,8 @@ Les statues de rareté commune, ont un temps de fabrication de 10 minutes. Voici
 | Chien            | 16 pierres, 16 fers, 32 côtelettes de porc                             | 2 100           |
 | Têtard           | 16 pierres, 16 fers, 32 morues                                         | 4 875           |
 
-<mark style="color:yellow;">**Les Statues rare**</mark>**&#x20;:**
-Les statues de rareté commune, ont un temps de fabrication de 20 minutes. Voici une liste exaustif des statues commune fabricable :
+#### <mark style="color:yellow;">**Les Statues rare**</mark>**&#x20;:**
+Les statues de rareté rare, ont un temps de fabrication de 20 minutes. Voici une liste exaustif des statues rare fabricable :
 | Nom de la statue | Ressource                                  | Prix de revente |
 |------------------|--------------------------------------------|-----------------|
 | Creeper          | 64 pierres, 32 ors, 48 poudre à canon      | 5 625           |
@@ -62,8 +62,8 @@ Les statues de rareté commune, ont un temps de fabrication de 20 minutes. Voici
 | Perroquet        | 64 pierres, 32 ors, 32 plumes              | 5 250           |
 | Requin           | 16 pierres, 16 fers, 32 côtelettes de porc | 9 000           |
 
-<mark style="color:blue;">**Les Statues épique**</mark>**&#x20;:**
-Les statues de rareté commune, ont un temps de fabrication de 30 minutes. Voici une liste exaustif des statues commune fabricable :
+#### <mark style="color:blue;">**Les Statues épique**</mark>**&#x20;:**
+Les statues de rareté épique, ont un temps de fabrication de 30 minutes. Voici une liste exaustif des statues épique fabricable :
 | Nom de la statue | Ressource                                                           | Prix de revente |
 |------------------|---------------------------------------------------------------------|-----------------|
 | Enderman         | 256 roches, 64 diamants, 64 perles de l'ender                       | 26 250          |
@@ -71,8 +71,8 @@ Les statues de rareté commune, ont un temps de fabrication de 30 minutes. Voici
 | Nautilox         | 256 roches, 64 diamants, 2 poisson lune, 1 cristal de donjon épique | 90 000          |
 | Dauphin          | 256 roches, 64 diamants, 1 saumon royal                             | 45 000          |
 
-<mark style="color:purple;">**Les Statues légendaire**</mark>**&#x20;:**
-Les statues de rareté commune, ont un temps de fabrication de 60 minutes. Voici une liste exaustif des statues commune fabricable :
+#### <mark style="color:purple;">**Les Statues légendaire**</mark>**&#x20;:**
+Les statues de rareté légendaire, ont un temps de fabrication de 60 minutes. Voici une liste exaustif des statues légendaire fabricable :
 | Nom de la statue   | Ressource                                                                                                 | Prix de revente |
 |--------------------|-----------------------------------------------------------------------------------------------------------|-----------------|
 | Phénix             | 512 roches, 32 émeraudes, 5 lingots de netherite, 1 plume de phénix                                       | 252 000         |
