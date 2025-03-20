@@ -64,7 +64,20 @@ Les statues de rareté commune, ont un temps de fabrication de 20 minutes. Voici
 
 <mark style="color:blue;">**Les Statues épique**</mark>**&#x20;:**
 Les statues de rareté commune, ont un temps de fabrication de 30 minutes. Voici une liste exaustif des statues commune fabricable :
+| Nom de la statue | Ressource                                                           | Prix de revente |
+|------------------|---------------------------------------------------------------------|-----------------|
+| Enderman         | 256 roches, 64 diamants, 64 perles de l'ender                       | 26 250          |
+| Ours polaire     | 256 roches, 64 diamants, 320 bloc de neige                          | 21 000          |
+| Nautilox         | 256 roches, 64 diamants, 2 poisson lune, 1 cristal de donjon épique | 90 000          |
+| Dauphin          | 256 roches, 64 diamants, 1 saumon royal                             | 45 000          |
 
 <mark style="color:purple;">**Les Statues légendaire**</mark>**&#x20;:**
-Les statues de rareté commune, ont un temps de fabrication de 60 minutes. Voici une liste exaustif des statues commune fabricable : 
-
+Les statues de rareté commune, ont un temps de fabrication de 60 minutes. Voici une liste exaustif des statues commune fabricable :
+| Nom de la statue   | Ressource                                                                                                 | Prix de revente |
+|--------------------|-----------------------------------------------------------------------------------------------------------|-----------------|
+| Phénix             | 512 roches, 32 émeraudes, 5 lingots de netherite, 1 plume de phénix                                       | 252 000         |
+| Licorne            | 512 roches, 32 émeraudes, 4 lingots de netherite 1 corne de licorne                                       | 292 500         |
+| Golem de   fer     | 512 roches, 32 émeraudes, 1 bloc de netherite,  128 bloc de fer                                           | 81 000          |
+| Warden             | 512 roches, 32 émeraudes, 1 bloc de netherite,  3 sculk shrieker                                          | 135 000         |
+| BlobFish           | 512 roches, 32 émeraudes, 4 lingots de netherite, 1 poisson perroquet, 1 truite arc-en-ciel, 1 hippocampe | 108 000         |
+| Poisson   écarlate | 512 roches, 32 émeraudes, 1 poisson écarlate,  1 cristal de donjon légendaire                             | 1 500   000     |
