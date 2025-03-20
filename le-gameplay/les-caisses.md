@@ -301,7 +301,7 @@ La clé est actuellement disponible (/boutique).
 | <mark style="color:green;">**Coffre du Leprechaun**</mark>                        | <mark style="color:green;">**5,55%**</mark>         |
 | <mark style="color:green;">**Oeuf du Leprechaun**</mark>                          | <mark style="color:green;">**5,56%**</mark>         |
 | <mark style="color:green;">**Peluche aléatoire**</mark>                           | <mark style="color:green;">**5,56%**</mark>         |
-| <mark style="color:green;">**Booster aléatoire (100%) (1H)**</mark>               | <mark style="color:green;">**5,56%**</mark>         |
+| <mark style="color:green;">**Booster aléatoire (100%) (1h)**</mark>               | <mark style="color:green;">**5,56%**</mark>         |
 | <mark style="color:green;">**3.500.000💰**</mark>                                | <mark style="color:green;">**5,56%**</mark>         |
 | <mark style="color:green;">**Spawner aléatoire**</mark>                           | <mark style="color:green;">**5,56%**</mark>         |
 | <mark style="color:green;">**Bière du Leprechaun**</mark>                         | <mark style="color:green;">**5,56%**</mark>         |
