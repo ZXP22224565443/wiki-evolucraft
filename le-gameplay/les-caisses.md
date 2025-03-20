@@ -308,7 +308,7 @@ La clé est actuellement disponible (/boutique).
 | <mark style="color:purple;">**Pierre de téléportation**</mark>                    | <mark style="color:purple;">**5,56%**</mark>        |
 | <mark style="color:red;">**Parchemin d'aventure Impossible**</mark>**&#x20;(x2)** | <mark style="color:red;">**5,56%**</mark>           |
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**             | <mark style="color:purple;">**5,56%**</mark>        |
-| <mark style="color:green;">**Clé du Leprechaun**</mark>**&#x20;(x2)**             | <mark style="color:blue;">**5,56%**</mark>          |
+| <mark style="color:green;">**Clé du Leprechaun**</mark>**&#x20;(x2)**             | <mark style="color:green;">**5,56%**</mark>          |
 
 {% hint style="success" %}
 Tentez votre chance et ouvrez des caisses sur Evolucraft !
