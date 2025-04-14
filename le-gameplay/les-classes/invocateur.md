@@ -12,62 +12,54 @@ Maîtrisez les arcanes des invocations spirituelles pour invoquer des gardiens e
 
 Votre gardien spirituel dégaine son épée, frappant les cibles devant vous.
 
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 0.5s
-* <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 9.6
+* <mark style="color:blue;">**Temps de recharge**</mark>**:** 
+* <mark style="color:blue;">**Mana**</mark>**:** 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 5 : Gardien**</mark>
+### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 5 : Force pure**</mark>
 
-Vous invoquez un gardien spirituel qui peut lancer des sorts pour vous défendre.
+Les attaques de votre gardien spirituel sont plus puissantes et peuvent ralentir.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** Passif (toujours actif)
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 10 : Esprit du Gardien**</mark>
+### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 10 : Ange gardien**</mark>
 
-Les attaques de votre gardien spirituel sont plus puissantes et peuvent ralentir les ennemis.
+Votre gardien spirituel vous couvre de son bouclier bloquant les projectiles et les attaques qui vous visent.
 
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 1s
-* <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 4.8
+* <mark style="color:blue;">**Temps de recharge**</mark>**:** 
+* <mark style="color:blue;">**Mana**</mark>**:** 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 20 : Ange Gardien**</mark>
+### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 15 : Lames magiques**</mark>
 
-Votre gardien spirituel vous protège en bloquant les projectiles et les attaques ennemies.
+Invoquez 5 lames magiques qui seront tirées une par une.
 
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
-* <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 0
+* <mark style="color:blue;">**Temps de recharge**</mark>**:** 
+* <mark style="color:blue;">**Mana**</mark>**:** 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 30 : Lames Magiques**</mark>
+### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 20 : Chevaux Aliénés**</mark>
 
-Invoquez 5 lames magiques qui sont tirées une par une vers les cibles ennemies.
+Invoquez 2 chevaux spirituels qui galopent sur la surface, propulsant les cibles touchées dans les airs.
 
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 7s
-* <mark style="color:blue;">**Mana**</mark>**:** 75
-* <mark style="color:blue;">**Dégâts**</mark>**:** 330
+* <mark style="color:blue;">**Temps de recharge**</mark>**:** 
+* <mark style="color:blue;">**Mana**</mark>**:** 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 40 : Chevaux Aliénés**</mark>
+### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 30 : Monture**</mark>
 
-Invoquez 2 chevaux spirituels qui galopent et propulsent les ennemis touchés dans les airs.
+Invoquez et montez un cheval spirituel.
 
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 10s
-* <mark style="color:blue;">**Mana**</mark>**:** 125
-* <mark style="color:blue;">**Dégâts**</mark>**:** 17.5
+* <mark style="color:blue;">**Temps de recharge**</mark>**:** 
+* <mark style="color:blue;">**Mana**</mark>**:** 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 50 : Monture**</mark>
+### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 40  Pluie du phénix**</mark>
 
-Invoquez et chevauchez un cheval spirituel pour vous déplacer rapidement.
+Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dégâts mortels aux cibles. Le phénix laisse également une trajectoire de feu qui brûle les cibles au fil du temps.
 
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
-* <mark style="color:blue;">**Mana**</mark>**:** 50
-* <mark style="color:blue;">**Dégâts**</mark>**:** 0
-
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 60 : Pluie du Phénix**</mark>
-
-Invoquez un phénix qui glisse à travers le sol, infligeant des dégâts mortels aux ennemis et laissant une trajectoire de feu brûlant les cibles au fil du temps.
-
-* <mark style="color:blue;">**Temps de recharge**</mark>**:** 20s
-* <mark style="color:blue;">**Mana**</mark>**:** 350
-* <mark style="color:blue;">**Dégâts**</mark>**:** 52.5
+* <mark style="color:blue;">**Temps de recharge**</mark>**:** 
+* <mark style="color:blue;">**Mana**</mark>**:** 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 

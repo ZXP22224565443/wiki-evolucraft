@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant la classe Artifici
 
 # 🎇 Artificier
 
-Maîtrisez les techniques de combat agile pour infliger des dégâts rapides et précis à vos ennemis, utilisant des mouvements fluides et des attaques combinées pour dominer le champ de bataille.
+L'artificier est un ingénieur de génie qui maîtrise les technologies futuristes pour détruire ses ennemis et dominer le champ de bataille.
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Artificier</strong></p></figcaption></figure>
 

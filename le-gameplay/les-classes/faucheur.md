@@ -52,7 +52,7 @@ Devenez invisible et foncez rapidement vers l'avant, en lançant une attaque cro
 
 ### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 30 : Faux d'âme**</mark>
 
-Invoquez le faux de la grande faucheuse et coupez vos ennemis, tout en drainant leurs âmes et en vous soignant.
+Invoquez la faux de la grande faucheuse et coupez vos ennemis, tout en drainant leurs âmes et en vous soignant.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 30s
 * <mark style="color:blue;">**Mana**</mark>**:** 350

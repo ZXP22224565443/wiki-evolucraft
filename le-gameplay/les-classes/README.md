@@ -14,7 +14,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 Sur le serveur Evolucraft, il existe <mark style="color:green;">**14 classes**</mark> distinctes :
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LesClasses_ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Classes Communes</mark>
 
@@ -28,12 +28,15 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**14 classes**</
 * <mark style="color:yellow;">**Assassin**</mark> : Maîtres de l'ombre, spécialisés dans les attaques furtives et les éliminations rapides.
 * <mark style="color:yellow;">**Paladin**</mark> : Chevaliers sacrés combattant au nom de la justice, purifiant les forces du malin.
 * <mark style="color:yellow;">**Élémentaliste**</mark> : Maîtres des éléments primordiaux, manipulant le feu, le vent, l'eau et la terre. Aussi versatile que puissant.
+* <mark style="color:yellow;">**Chavalier des glaces**</mark> : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidi leurs ardeur.
 
 ## <mark style="color:blue;">Classes Épiques</mark>
 
 * <mark style="color:blue;">**Chaman**</mark> : Utilisateurs des pouvoirs surnaturels, puisant leur force dans les esprits, redoutables mages païens.
 * <mark style="color:blue;">**Invocateur**</mark> : Manipulateurs de monstres, contrôlant les bêtes de ce monde pour combattre à leurs côtés.
 * <mark style="color:blue;">**Moine**</mark> : S'entraînant sans relâche dans des terres reculées, il combine un entraînement acharné et une foi inflexible.
+* <mark style="color:blue;">**Faucheur**</mark> : Fusion d'une discipline millénaire et d'une dévotion inflexible à la mort, le Faucheur aiguise sa faux, prêt à accomplir son devoir éternel.
+* <mark style="color:blue;">**Archimage**</mark> : Manipulateurs des forces mystiques, lançant des sorts dévastateurs, il carne la puissance des arcanes.
 
 ## <mark style="color:purple;">Classes Légendaires</mark>
 
@@ -48,7 +51,7 @@ Les classes sont réparties en trois catégories : Tanks, DPS, et Soutien.
 
 **Tanks :&#x20;**<mark style="color:green;">**Guerrier**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Paladin**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Moine**</mark>
 
-**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/** <mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>
+**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chavalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>
 
 **Soutien :&#x20;**<mark style="color:green;">**Barde**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Chaman**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Clerc**</mark>
 
