@@ -18,7 +18,7 @@ Tirez une boule de feu brûlante sur votre cible.
 * <mark style="color:green;">**Mana**</mark>: 0
 * <mark style="color:green;">**Dégâts**</mark>: 24
 
-### <mark style="color:green;">Niveau 5 :</mark> <mark style="color:green;"></mark><mark style="color:green;">**Tire Arcanique**</mark>
+### <mark style="color:green;">**Niveau 5 : Tire Arcanique**</mark>
 
 Toutes les 5 attaques, vous invoquez 3 missiles arcaniques qui suivent et endommagent les cibles.
 
@@ -34,7 +34,7 @@ Téléportez-vous dans la direction dans laquelle vous regardez.
 * <mark style="color:green;">**Mana**</mark>: 10
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 15 : Nova de Froid**</mark>
+### <mark style="color:green;">**Niveau 15 : Nova de Froid**</mark>
 
 Invoque une vague de pointes de glace qui endommagent et paralysent les ennemis.
 
@@ -42,7 +42,7 @@ Invoque une vague de pointes de glace qui endommagent et paralysent les ennemis.
 * <mark style="color:green;">**Mana**</mark>: 50
 * <mark style="color:green;">**Dégâts**</mark>: 12
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 20 : Météore**</mark>
+### <mark style="color:green;">**Niveau 20 : Météore**</mark>
 
 Invoquez un météore explosif qui endommage et brûle les cibles, laissant une zone en feu.
 
@@ -58,7 +58,7 @@ Créez un petit tremblement de terre, endommageant et étourdissant les cibles a
 * <mark style="color:green;">**Mana**</mark>: 38
 * <mark style="color:green;">**Dégâts**</mark>: 24
 
-### <mark style="color:green;">Ni</mark><mark style="color:green;">**veau 40 : Chaîne Infernal**</mark>
+### <mark style="color:green;">**Niveau 40 : Chaîne Infernal**</mark>
 
 Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au sol qui provoque une explosion verticale.
 

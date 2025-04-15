@@ -10,7 +10,7 @@ Maîtrisez les arts sacrés pour soutenir vos alliés et infliger des dégâts d
 
 ## <mark style="color:purple;">Compétences</mark>
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 1 : L'immolation divine**</mark>
+### <mark style="color:purple;">**Niveau 1 : L'immolation divine**</mark>
 
 Votre masse produit une traînée de lumière rayonnante, repoussant les ennemis.
 
@@ -18,7 +18,7 @@ Votre masse produit une traînée de lumière rayonnante, repoussant les ennemis
 * <mark style="color:purple;">**Mana**</mark>**:** 0
 * <mark style="color:purple;">**Dégâts**</mark>**:** 3.5
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 5 : Aile Angélique**</mark>
+### <mark style="color:purple;">**Niveau 5 : Aile Angélique**</mark>
 
 Vous invoquez un ange gardien qui vole à vos côtés, devenant plus brillant à chaque utilisation de l'immolation divine.
 
@@ -26,7 +26,7 @@ Vous invoquez un ange gardien qui vole à vos côtés, devenant plus brillant à
 * <mark style="color:purple;">**Mana**</mark>**:** 0
 * <mark style="color:purple;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 10 : Vague Lumineuse**</mark>
+### <mark style="color:purple;">**Niveau 10 : Vague Lumineuse**</mark>
 
 Projetez un cône de lumière devant vous, infligeant des dégâts et repoussant légèrement les ennemis.
 
@@ -34,7 +34,7 @@ Projetez un cône de lumière devant vous, infligeant des dégâts et repoussant
 * <mark style="color:purple;">**Mana**</mark>**:** 10
 * <mark style="color:purple;">**Dégâts**</mark>**:** 9
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 15 : Bénédiction de la lanterne blanche**</mark>
+### <mark style="color:purple;">**Niveau 15 : Bénédiction de la lanterne blanche**</mark>
 
 Invoquez une lanterne sacrée au-dessus de vous, affaiblissant les ennemis et renforçant les alliés dans son rayon.
 
@@ -42,7 +42,7 @@ Invoquez une lanterne sacrée au-dessus de vous, affaiblissant les ennemis et re
 * <mark style="color:purple;">**Mana**</mark>**:** 100
 * <mark style="color:purple;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 20 : Croix Divine**</mark>
+### <mark style="color:purple;">**Niveau 20 : Croix Divine**</mark>
 
 Invoquez une croix sacrée au sol, infligeant des dégâts aux ennemis et soignant les alliés dans la zone.
 
@@ -50,7 +50,7 @@ Invoquez une croix sacrée au sol, infligeant des dégâts aux ennemis et soigna
 * <mark style="color:purple;">**Mana**</mark>**:** 200
 * <mark style="color:purple;">**Dégâts**</mark>**:** 25
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 30 : Larmes de Dieu**</mark>
+### <mark style="color:purple;">**Niveau 30 : Larmes de Dieu**</mark>
 
 Sacrifiez une partie de vos PV pour invoquer une larme d'eau bénite, guérissant instantanément un allié.
 
@@ -58,7 +58,7 @@ Sacrifiez une partie de vos PV pour invoquer une larme d'eau bénite, guérissan
 * <mark style="color:purple;">**Mana**</mark>**:** 150
 * <mark style="color:purple;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:purple;">N</mark><mark style="color:purple;">**iveau 40 : Juge Divin**</mark>
+### <mark style="color:purple;">**Niveau 40 : Juge Divin**</mark>
 
 Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alliés tout en affligeant les ennemis.
 

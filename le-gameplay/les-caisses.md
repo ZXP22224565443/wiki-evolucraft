@@ -134,7 +134,9 @@ La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:gr
 
 ## <mark style="color:blue;">Caisse Abyssale</mark> (Temporaire)
 
-La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 850 Gemmes.
+{% hint style="warning" %}
+&#x20;La clé de la Caisse Abyssale n'est plus disponible.&#x20;
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
 
@@ -282,8 +284,8 @@ La clé de la Caisse Noël n'est plus disponible.
 
 ## <mark style="color:green;">Caisse Saint-Patrick</mark> (Temporaire)
 
-{% hint style="success" %}
-La clé est actuellement disponible (/boutique).
+{% hint style="warning" %}
+La clé de la Caisse Saint-Patrick n'est plus disponible.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Box_SaintPatrick.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Patrick</p></figcaption></figure>

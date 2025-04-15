@@ -35,8 +35,9 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 
 * Draconique
 * Abyssal
-* Noël
 * Halloween
+* Noël
+* Cupidon
 
 Chaque donjon propose des monstres différents selon son biome.
 

@@ -10,7 +10,7 @@ Le Barde est une classe polyvalente qui utilise la musique pour soutenir ses all
 
 ## <mark style="color:green;">Compétences</mark>
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 1 : Onde Mélodieuse**</mark>
+### <mark style="color:green;">**Niveau 1 : Onde Mélodieuse**</mark>
 
 Envoyez une onde sonore harmonieuse qui perturbe et endommage les ennemis.
 
@@ -26,7 +26,7 @@ Vos notes de musique protectrices appliquent une résistance à vous et vos alli
 * <mark style="color:green;">**Mana**</mark>: 0
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 10 : Mélodie**</mark>
+### <mark style="color:green;">**Niveau 10 : Mélodie**</mark>
 
 Crée une vibration massive qui étourdit les ennemis.
 
@@ -34,7 +34,7 @@ Crée une vibration massive qui étourdit les ennemis.
 * <mark style="color:green;">**Mana**</mark>: 25
 * <mark style="color:green;">**Dégâts**</mark>: 6.5
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 15 : Sérénade**</mark>
+### <mark style="color:green;">**Niveau 15 : Sérénade**</mark>
 
 Invoquez un ange qui crée une aura de guérison, soignant les alliés à l'intérieur de la zone.
 
@@ -42,7 +42,7 @@ Invoquez un ange qui crée une aura de guérison, soignant les alliés à l'int�
 * <mark style="color:green;">**Mana**</mark>: 125
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 20 : Rhapsodie**</mark>
+### <mark style="color:green;">**Niveau 20 : Rhapsodie**</mark>
 
 Augmentez le tempo avec l'aide des oiseaux, appliquant de la vitesse à vous et vos alliés proches.
 
@@ -50,7 +50,7 @@ Augmentez le tempo avec l'aide des oiseaux, appliquant de la vitesse à vous et 
 * <mark style="color:green;">**Mana**</mark>: 100
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 30 : Memento Mori**</mark>
+### <mark style="color:green;">**Niveau 30 : Memento Mori**</mark>
 
 Jouez un accord de mort, déclenchant une onde sonore sombre qui aveugle votre cible.
 
@@ -58,7 +58,7 @@ Jouez un accord de mort, déclenchant une onde sonore sombre qui aveugle votre c
 * <mark style="color:green;">**Mana**</mark>: 150
 * <mark style="color:green;">**Dégâts**</mark>: 18
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 40 : Symphonie**</mark>
+### <mark style="color:green;">**Niveau 40 : Symphonie**</mark>
 
 Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur de la zone. La clé au milieu du cercle crée une explosion destructrice après un certain temps, faisant léviter les cibles à l'intérieur.
 

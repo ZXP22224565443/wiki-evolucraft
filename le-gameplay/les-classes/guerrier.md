@@ -58,7 +58,7 @@ Faites tourner votre épée, endommageant les cibles proches.
 * <mark style="color:green;">**Mana**</mark>**:** 150
 * <mark style="color:green;">**Dégâts**</mark>**:** 36
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 40 : Jugement**</mark>
+### <mark style="color:green;">**Niveau 40 : Jugement**</mark>
 
 Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cibles. Vous bondissez et invoquez l'épée du jugement, brisant la surface, endommageant et étourdissant les cibles proches.
 
