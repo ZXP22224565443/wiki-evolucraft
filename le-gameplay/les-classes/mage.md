@@ -18,7 +18,7 @@ Tirez une boule de feu brûlante sur votre cible.
 * <mark style="color:green;">**Mana**</mark>: 0
 * <mark style="color:green;">**Dégâts**</mark>: 24
 
-### <mark style="color:green;">Niveau 5 :</mark> <mark style="color:green;"></mark><mark style="color:green;">**Tire Arcanique**</mark>
+### <mark style="color:green;">**Niveau 5 : Tire Arcanique**</mark>
 
 Toutes les 5 attaques, vous invoquez 3 missiles arcaniques qui suivent et endommagent les cibles.
 
@@ -58,7 +58,7 @@ Créez un petit tremblement de terre, endommageant et étourdissant les cibles a
 * <mark style="color:green;">**Mana**</mark>: 38
 * <mark style="color:green;">**Dégâts**</mark>: 24
 
-### <mark style="color:green;">Ni</mark><mark style="color:green;">**veau 40 : Chaîne Infernal**</mark>
+### <mark style="color:green;">**Niveau 40 : Chaîne Infernal**</mark>
 
 Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au sol qui provoque une explosion verticale.
 

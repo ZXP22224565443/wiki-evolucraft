@@ -58,7 +58,7 @@ Liez un ennemi avec des chaînes et invoquez une lance sacrée qui transperce et
 * <mark style="color:yellow;">**Mana**</mark>**:** 75
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 75
 
-### <mark style="color:yellow;">Niveau</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**40 : Dernier combat**</mark>
+### <mark style="color:yellow;">**Niveau 40 : Dernier combat**</mark>
 
 Dessinez un large cercle autour de vous, attirant les ennemis proches. Vous invoquez vos ailes sacrées, sautez en arrière et frappez le sol avec votre marteau, propulsant les ennemis dans les airs. Si l'ennemi touché est marqué, il laisse derrière lui une aura de guérison.
 
