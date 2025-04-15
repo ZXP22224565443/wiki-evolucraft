@@ -10,7 +10,7 @@ L'art de la divinité et de la défense. Utilisez des attaques puissantes et des
 
 ## <mark style="color:yellow;">Compétences</mark>
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 1 : Frappe sacrée**</mark>
+### <mark style="color:yellow;">**Niveau 1 : Frappe sacrée**</mark>
 
 Effectuez une attaque sacrée. Chaque troisième frappe coupe vos ennemis et les fait décoller.
 
@@ -18,7 +18,7 @@ Effectuez une attaque sacrée. Chaque troisième frappe coupe vos ennemis et les
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 12.6
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 5 : Aura radieuse**</mark>
+### <mark style="color:yellow;">**Niveau 5 : Aura radieuse**</mark>
 
 Chaque utilisation de compétence empile un anneau sacré autour de vous. Chaque 4ème anneau crée une aura qui guérit et donne de la résistance.
 
@@ -26,7 +26,7 @@ Chaque utilisation de compétence empile un anneau sacré autour de vous. Chaque
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 10 : Volonté inébranlable**</mark>
+### <mark style="color:yellow;">**Niveau 10 : Volonté inébranlable**</mark>
 
 Invoquez un bouclier sacré devant vous, foncez à l'emplacement ciblé et repoussez les ennemis, les étourdissant.
 
@@ -34,7 +34,7 @@ Invoquez un bouclier sacré devant vous, foncez à l'emplacement ciblé et repou
 * <mark style="color:yellow;">**Mana**</mark>**:** 75
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 12
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 15 : Marteau de justice**</mark>
+### <mark style="color:yellow;">**Niveau 15 : Marteau de justice**</mark>
 
 Invoquez un marteau sacré et brisez la surface, créant des éruptions lumineuses dans la direction que vous regardez.
 
@@ -42,7 +42,7 @@ Invoquez un marteau sacré et brisez la surface, créant des éruptions lumineus
 * <mark style="color:yellow;">**Mana**</mark>**:** 200
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 18.5
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 20 : Bouclier divin**</mark>
+### <mark style="color:yellow;">**Niveau 20 : Bouclier divin**</mark>
 
 Donnez-vous un bouclier divin et à vos alliés proches. Vous ne subissez aucun dégât tant que vous avez le bouclier.
 
@@ -50,7 +50,7 @@ Donnez-vous un bouclier divin et à vos alliés proches. Vous ne subissez aucun 
 * <mark style="color:yellow;">**Mana**</mark>**:** 200
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 30 : Sceau**</mark>
+### <mark style="color:yellow;">**Niveau 30 : Sceau**</mark>
 
 Liez un ennemi avec des chaînes et invoquez une lance sacrée qui transperce et marque un ennemi.
 

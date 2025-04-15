@@ -18,7 +18,7 @@ Tire une flèche.
 * <mark style="color:green;">**Mana**</mark>**:** 0
 * <mark style="color:green;">**Dégâts**</mark>**:** 19
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 5 : Visée du Sniper**</mark>
+### <mark style="color:green;">**Niveau 5 : Visée du Sniper**</mark>
 
 Le quatrième coup de votre flèche ralentit la cible pendant une courte période. Vous bénéficiez également d'une augmentation de vitesse pendant une courte période.
 

@@ -10,7 +10,7 @@ Maîtrisez les éléments pour manipuler le terrain et infliger des dégâts dé
 
 ## <mark style="color:yellow;">Compétences</mark>&#x20;
 
-### <mark style="color:yellow;">Niveau</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**1 : Lancer de Terre**</mark>
+### <mark style="color:yellow;">**Niveau 1 : Lancer de Terre**</mark>
 
 Projectile de rocher lancé sur un ennemi, le repoussant légèrement.
 
@@ -18,7 +18,7 @@ Projectile de rocher lancé sur un ennemi, le repoussant légèrement.
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 75
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 5 : Explosion d'Air**</mark>
+### <mark style="color:yellow;">**Niveau 5 : Explosion d'Air**</mark>
 
 Crée une bulle d'air explosive lorsque vous sprintez, repoussant les ennemis proches après un court délai.
 
@@ -26,7 +26,7 @@ Crée une bulle d'air explosive lorsque vous sprintez, repoussant les ennemis pr
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 10 : Fouet Aquatique**</mark>
+### <mark style="color:yellow;">**Niveau 10 : Fouet Aquatique**</mark>
 
 Invoque un tentacule aquatique pour fouetter les ennemis, les repoussant.
 
@@ -34,7 +34,7 @@ Invoque un tentacule aquatique pour fouetter les ennemis, les repoussant.
 * <mark style="color:yellow;">**Mana**</mark>**:** 50
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 10.5
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 15 : Bête Magmatique**</mark>
+### <mark style="color:yellow;">**Niveau 15 : Bête Magmatique**</mark>
 
 Invoque une bête magmatique qui émerge du sol, écrasant et brûlant les ennemis dans la zone.
 
@@ -42,7 +42,7 @@ Invoque une bête magmatique qui émerge du sol, écrasant et brûlant les ennem
 * <mark style="color:yellow;">**Mana**</mark>**:** 100
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 12.5
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 20 : Vent Extrême**</mark>
+### <mark style="color:yellow;">**Niveau 20 : Vent Extrême**</mark>
 
 Appelle un faucon qui crée un tourbillon endommageant et renversant continuellement les ennemis à l'intérieur.
 
@@ -50,7 +50,7 @@ Appelle un faucon qui crée un tourbillon endommageant et renversant continuelle
 * <mark style="color:yellow;">**Mana**</mark>**:** 150
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 18
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 30 : Barricade de Terre**</mark>
+### <mark style="color:yellow;">**Niveau 30 : Barricade de Terre**</mark>
 
 Invoque un golem de terre qui émerge du sol pour élever un mur de terre, repoussant tous les ennemis au passage.
 
@@ -58,7 +58,7 @@ Invoque un golem de terre qui émerge du sol pour élever un mur de terre, repou
 * <mark style="color:yellow;">**Mana**</mark>**:** 100
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 25
 
-### <mark style="color:yellow;">N</mark><mark style="color:yellow;">**iveau 40 : Surchauffe**</mark>
+### <mark style="color:yellow;">**Niveau 40 : Surchauffe**</mark>
 
 Invoque une bête tirant un faisceau infernal continu, infligeant des dégâts et brûlant les ennemis en contact.
 

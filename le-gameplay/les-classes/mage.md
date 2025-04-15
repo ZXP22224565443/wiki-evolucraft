@@ -34,7 +34,7 @@ Téléportez-vous dans la direction dans laquelle vous regardez.
 * <mark style="color:green;">**Mana**</mark>: 10
 * <mark style="color:green;">**Dégâts**</mark>: 0
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 15 : Nova de Froid**</mark>
+### <mark style="color:green;">**Niveau 15 : Nova de Froid**</mark>
 
 Invoque une vague de pointes de glace qui endommagent et paralysent les ennemis.
 
@@ -42,7 +42,7 @@ Invoque une vague de pointes de glace qui endommagent et paralysent les ennemis.
 * <mark style="color:green;">**Mana**</mark>: 50
 * <mark style="color:green;">**Dégâts**</mark>: 12
 
-### <mark style="color:green;">N</mark><mark style="color:green;">**iveau 20 : Météore**</mark>
+### <mark style="color:green;">**Niveau 20 : Météore**</mark>
 
 Invoquez un météore explosif qui endommage et brûle les cibles, laissant une zone en feu.
 

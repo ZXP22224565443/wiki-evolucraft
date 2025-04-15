@@ -8,7 +8,7 @@ Maîtrisez les arcanes des invocations spirituelles pour invoquer des gardiens e
 
 ## <mark style="color:blue;">Compétences</mark>
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 1 : Frappe d'Âme**</mark>
+### <mark style="color:blue;">**Niveau 1 : Frappe d'Âme**</mark>
 
 Votre gardien spirituel dégaine son épée, frappant les cibles devant vous.
 
@@ -16,7 +16,7 @@ Votre gardien spirituel dégaine son épée, frappant les cibles devant vous.
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 9.6
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 5 : Force pure**</mark>
+### <mark style="color:blue;">**Niveau 5 : Force pure**</mark>
 
 Les attaques de votre gardien spirituel sont plus puissantes et peuvent ralentir.
 
@@ -24,7 +24,7 @@ Les attaques de votre gardien spirituel sont plus puissantes et peuvent ralentir
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 10
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 10 : Ange gardien**</mark>
+### <mark style="color:blue;">**Niveau 10 : Ange gardien**</mark>
 
 Votre gardien spirituel vous couvre de son bouclier bloquant les projectiles et les attaques qui vous visent.
 
@@ -32,7 +32,7 @@ Votre gardien spirituel vous couvre de son bouclier bloquant les projectiles et 
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 0 
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 15 : Lames magiques**</mark>
+### <mark style="color:blue;">**Niveau 15 : Lames magiques**</mark>
 
 Invoquez 5 lames magiques qui seront tirées une par une.
 
@@ -40,7 +40,7 @@ Invoquez 5 lames magiques qui seront tirées une par une.
 * <mark style="color:blue;">**Mana**</mark>**:** 75
 * <mark style="color:blue;">**Dégâts**</mark>**:** 4858
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 20 : Chevaux Aliénés**</mark>
+### <mark style="color:blue;">**Niveau 20 : Chevaux Aliénés**</mark>
 
 Invoquez 2 chevaux spirituels qui galopent sur la surface, propulsant les cibles touchées dans les airs.
 
@@ -48,7 +48,7 @@ Invoquez 2 chevaux spirituels qui galopent sur la surface, propulsant les cibles
 * <mark style="color:blue;">**Mana**</mark>**:** 125
 * <mark style="color:blue;">**Dégâts**</mark>**:** 250
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 30 : Monture**</mark>
+### <mark style="color:blue;">**Niveau 30 : Monture**</mark>
 
 Invoquez et montez un cheval spirituel.
 
@@ -56,7 +56,7 @@ Invoquez et montez un cheval spirituel.
 * <mark style="color:blue;">**Mana**</mark>**:** 50
 * <mark style="color:blue;">**Dégâts**</mark>**:** 0
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**iveau 40  Pluie du phénix**</mark>
+### <mark style="color:blue;">**Niveau 40  Pluie du phénix**</mark>
 
 Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dégâts mortels aux cibles. Le phénix laisse également une trajectoire de feu qui brûle les cibles au fil du temps.
 

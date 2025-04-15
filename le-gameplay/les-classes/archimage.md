@@ -17,7 +17,7 @@ L'Archimage est une classe spécialisée dans les attaques à mi-distance. Grâc
 * <mark style="color:blue;">**Mana**</mark>**:** 0
 * <mark style="color:blue;">**Dégâts**</mark>**:** 9
 
-### <mark style="color:blue;">N</mark><mark style="color:blue;">**Niveau 5 : Bouclier Mana**</mark>
+### <mark style="color:blue;">**Niveau 5 : Bouclier Mana**</mark>
 
 Vous formez 2 boucliers de mana qui vous donne résistance. Vos boucliers se régénèrent après un certain temps.
 
