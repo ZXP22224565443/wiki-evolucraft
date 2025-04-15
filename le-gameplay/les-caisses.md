@@ -134,7 +134,9 @@ La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:gr
 
 ## <mark style="color:blue;">Caisse Abyssale</mark> (Temporaire)
 
-La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 850 Gemmes.
+{% hint style="warning" %}
+&#x20;La clé de la Caisse Abyssale n'est plus disponible.&#x20;
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
 
