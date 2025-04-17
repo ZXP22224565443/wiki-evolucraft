@@ -312,6 +312,36 @@ La clé de la Caisse Saint-Patrick n'est plus disponible.
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**             | <mark style="color:purple;">**5,56%**</mark>        |
 | <mark style="color:green;">**Clé du Leprechaun**</mark>**&#x20;(x2)**             | <mark style="color:green;">**5,56%**</mark>          |
 
+## <mark style="color:green;">Caisse Pâques</mark> (Temporaire)
+
+{% hint style="success" %}
+La clé de la caisse Pâques est actuellement disponible (/boutique)
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Box_Paques.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
+
+|                                                                                   |                                                     |
+| ----------------------------------------------------------------------------------| ----------------------------------------------------|
+| **Récompense**                                                                    | **Chance**                                          |
+| <mark style="color:brown;">**Casque du Lapin**</mark>                             | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Plastron du Lapin**</mark>                           | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Jambières du Lapin**</mark>                          | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Bottes du Lapin**</mark>                             | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Traqueur de donjon**</mark>                          | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Sceau vide infini**</mark>                           | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Oeufs de pâques**</mark>                             | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Pack de décoration**</mark>                          | <mark style="color:brown;">**5,55%**</mark>         |
+| <mark style="color:brown;">**Peluche aléatoire**</mark>                           | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:brown;">**Arme aléatoire**</mark>                              | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:brown;">**Booster aléatoire (100%) (1h)**</mark>               | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:brown;">**4.000.000💰**</mark>                                | <mark style="color:brown;">**5,56%**</mark>          |
+| <mark style="color:brown;">**Spawner aléatoire**</mark>                           | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:brown;">**Carte du samouraï**</mark>                           | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:brown;">**Pierre de téléportation**</mark>                     | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:brown;">**Parchemin aléatoire Pâques**</mark>**&#x20;(x3)**    | <mark style="color:brown;">**5,56%**</mark>         |
+| <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**             | <mark style="color:purple;">**5,56%**</mark>        |
+| <mark style="color:brown;">**Clé Pâques**</mark>**&#x20;(x2)**                    | <mark style="color:brown;">**5,56%**</mark>         |
+
 {% hint style="success" %}
 Tentez votre chance et ouvrez des caisses sur Evolucraft !
 {% endhint %}
