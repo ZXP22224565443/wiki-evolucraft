@@ -287,6 +287,7 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
     </tr>
   </tbody>
 </table>
+
 <table data-header-hidden>
   <thead>
     <tr>

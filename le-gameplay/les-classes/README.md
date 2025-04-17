@@ -36,7 +36,7 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**14 classes**</
 * <mark style="color:blue;">**Invocateur**</mark> : Manipulateurs de monstres, contrôlant les bêtes de ce monde pour combattre à leurs côtés.
 * <mark style="color:blue;">**Moine**</mark> : S'entraînant sans relâche dans des terres reculées, il combine un entraînement acharné et une foi inflexible.
 * <mark style="color:blue;">**Faucheur**</mark> : Fusion d'une discipline millénaire et d'une dévotion inflexible à la mort, le Faucheur aiguise sa faux, prêt à accomplir son devoir éternel.
-* <mark style="color:blue;">**Archimage**</mark> : Manipulateurs des forces mystiques, lançant des sorts dévastateurs, il carne la puissance des arcanes.
+* <mark style="color:blue;">**Archimage**</mark> : Manipulateurs des forces mystiques, lançant des sorts dévastateurs, il incarne la puissance des arcanes.
 
 ## <mark style="color:purple;">Classes Légendaires</mark>
 
