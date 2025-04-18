@@ -43,7 +43,8 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**14 classes**</
 * <mark style="color:purple;">**Guerrier Dragon**</mark> : Héros tueur de dragons, destructeur de cité, semant la peur dans le cœur de ses ennemis.
 * <mark style="color:purple;">**Clerc**</mark> : Prêtres dévoués, guérissant les blessures et repoussant les forces obscures avec la magie divine.
 * <mark style="color:purple;">**Artiste Martial**</mark> : Maître légendaire dans l'art antique du poing d'acier, il recherche la perfection dans chacune de ses frappes.
-* <mark style="color:purple;">**Artificier**</mark>**&#x20;:** Maître de la robotique et de la destruction, il répand la terreur avec son grincement sinistre.
+* <mark style="color:purple;">**Artificier**</mark> : Maître de la robotique et de la destruction, il répand la terreur avec son grincement sinistre.
+* <mark style="color:purple;">**Samouraï**</mark> : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision.
 
 ## <mark style="color:green;">Catégories de Classes</mark>
 
@@ -51,7 +52,7 @@ Les classes sont réparties en trois catégories : Tanks, DPS, et Soutien.
 
 **Tanks :&#x20;**<mark style="color:green;">**Guerrier**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Paladin**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Moine**</mark>
 
-**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chavalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>
+**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chavalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Samouraï**</mark>
 
 **Soutien :&#x20;**<mark style="color:green;">**Barde**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Chaman**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Clerc**</mark>
 
