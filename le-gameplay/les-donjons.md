@@ -16,7 +16,7 @@ Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventu
 
 Les donjons apparaissent aléatoirement dans le monde ressource et offrent différentes récompenses en fonction de leur rareté et de leur complexité.&#x20;
 
-Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe (Max - 4 Joueurs), la difficulté s'adaptant en conséquence.
+Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la difficulté s'adaptant en conséquence.
 
 ## <mark style="color:green;">Types de Donjons</mark>
 
@@ -38,6 +38,7 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 * Halloween
 * Noël
 * Cupidon
+* Pâque
 
 Chaque donjon propose des monstres différents selon son biome.
 
@@ -301,8 +302,8 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
     <tr>
       <th align="center"> <mark style="color:red;">Donjon Noël Commun</th>
       <th align="center"><mark style="color:red;">Donjon Noël Épique</th>
-      <th align="center"><mark style="color:pink;">Donjon Cupidon Commun</th>
-      <th align="center"><mark style="color:pink;">Donjon Cupidon Épique</th>
+      <th align="center"><mark style="color:pink;">Donjon De l'Amour</th>
+      <th align="center"><mark style="color:pink;">Donjon Cupidon</th>
     </tr>
     <tr>
       <td><mark style="color:red;">Parchemin Noël</td>
@@ -329,16 +330,16 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <td><mark style="color:pink;">100.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color:red;">Sucre d'orge (x1) 💰</td>
-      <td><mark style="color:red;">Sucre d'orge (x2) 💰</td>
-      <td><mark style="color:pink;">Auréole (x1) 💰</td>
-      <td><mark style="color:pink;">Auréole (x2) 💰</td>
+      <td><mark style="color:red;">Sucre d'orge (x1)</td>
+      <td><mark style="color:red;">Sucre d'orge (x2)</td>
+      <td><mark style="color:pink;">Auréole (x1)</td>
+      <td><mark style="color:pink;">Auréole (x2)</td>
     </tr>
     <tr>
-      <td><mark style="color:green;">Bonbon à la pomme (x1) 💰</td>
-      <td><mark style="color:orange;">Bonbon à l'orange (x2) 💰</td>
-      <td><mark style="color:green;">Bonbon à la pomme (x1) 💰</td>
-      <td><mark style="color:orange;">Bonbon à l'orange (x2) 💰</td>
+      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
+      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
+      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
+      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
     </tr>
     <tr>
       <td><mark style="color:red;">Œuf de familier givré</td>
@@ -367,6 +368,60 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
   </tbody>
 </table>
 
+<table data-header-hidden>
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center"> <mark style="color: color:rgb(129, 60, 13);;">Donjon Terrier du Roi Lapin</th>
+      <th align="center"><mark style="color: color:rgb(129, 60, 13);;">Donjon Fabrique de Chocolat</th>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin du Terrier Roi Lapin</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin de la Fabrique de Chocolat</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">10.000 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">40.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">15.000 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">60.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">25.000 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">100.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x1) 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x2) 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
+      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Exp classe (x1.000)</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">EXP classe (x5.000)</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x500)</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x2.500)</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Clé de Pâques (x1)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 {% hint style="info" %}

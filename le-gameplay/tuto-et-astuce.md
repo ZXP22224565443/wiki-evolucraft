@@ -3,7 +3,7 @@ description: Retrouvez ici différent tuto/astuce pour votre aventure sur évolu
 ---
 
 ### Changer de version
-
+<!-- Un grand merci a WhiteMarshadow pour les images ! -->
 Pour jouer au serveur vous devez être dans une version comprise entre la 1.20.4-1.21.1, si vous ne savez pas faire suivez le tuto ci-dessous.
 
 1.<span style="align-items:center;"> Tu ouvres ton launcher minecraft et tu cliques sur l'onglet configuration.
@@ -22,7 +22,7 @@ Pour jouer au serveur vous devez être dans une version comprise entre la 1.20.4
 <figure><img src="../.gitbook/assets/Tuto_ConfVersion.png" alt="" width="600"></figure>
 </span>
 
-
+<!-- Un grand merci a Corie pour les images ! -->
 ### <mark style="color:green;">Mettre le texture pack</mark>
 Lors de votre première connexion, le serveur vous rajoute automatiquement le texture pack, si cela n'est pas le cas il vous suffit de suivre les étapes suivantes : 
 

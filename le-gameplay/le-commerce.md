@@ -46,6 +46,10 @@ Les deux boutons en bas de l'interface permettent aux joueurs de gérer leurs ve
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p><strong>Menu</strong> <strong><code>/ah</code></strong></p></figcaption></figure>
 
+{% hint style="info" %}
+Pour récupérer vos objets acheter au /ah, il vous suffit de faire la commande /ah claim
+{% endhint %}
+
 ## <mark style="color:green;">Shop Général</mark>
 
 Sur Evolucraft, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:green;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre vos matériaux à des PNJ. Cependant, gardez à l'esprit que la rentabilité est assez faible. Notez également que vous ne pouvez pas acheter d'objets dans ce shop.
