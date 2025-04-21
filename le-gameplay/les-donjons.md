@@ -152,31 +152,31 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
-      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:red;">Bonbon au Raisin (x2)</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
       <td align="center"><mark style="color:orange;">Arme 3 Rare</mark></td>
-      <td align="center"><mark style="color:purple;">Parchemin Expert</mark></td>
+      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
       <td align="center"><mark style="color:orange;">Arme 4 Rare</mark></td>
-      <td align="center"><mark style="color:purple;">Pet aléatoire donjon</mark></td>
+      <td align="center"><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
-      <td align="center">X</td>
+      <td align="center">Pet Aléatoire Donjon</td>
     </tr>
     <tr>
       <td align="center">X</td>
       <td align="center"><mark style="color:orange;">Arme 1 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
-      <td align="center">X</td>
+      <td align="center">Clé Aléatoire</td>
     </tr>
     <tr>
       <td align="center">X</td>
