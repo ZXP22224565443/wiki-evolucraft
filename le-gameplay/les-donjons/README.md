@@ -377,48 +377,48 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
   </thead>
   <tbody>
     <tr>
-      <th align="center"> <mark style="color: color:rgb(129, 60, 13);;">Donjon Terrier du Roi Lapin</th>
-      <th align="center"><mark style="color: color:rgb(129, 60, 13);;">Donjon Fabrique de Chocolat</th>
+      <th align="center"> <mark style="color: color:brown;">Donjon Terrier du Roi Lapin</th>
+      <th align="center"><mark style="color: color:brown;;">Donjon Fabrique de Chocolat</th>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin du Terrier Roi Lapin</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin de la Fabrique de Chocolat</td>
+      <td><mark style="color: color:brown;">Parchemin du Terrier Roi Lapin</td>
+      <td><mark style="color: color:brown;;">Parchemin de la Fabrique de Chocolat</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">10.000 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">40.000 💰</td>
+      <td><mark style="color: color:brown;">10.000 💰</td>
+      <td><mark style="color: color:brown;">40.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">15.000 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">60.000 💰</td>
+      <td><mark style="color: color:brown;">15.000 💰</td>
+      <td><mark style="color: color:brown;">60.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">25.000 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">100.000 💰</td>
+      <td><mark style="color: color:brown;">25.000 💰</td>
+      <td><mark style="color: color:brown;">100.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x1) 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x2) 💰</td>
+      <td><mark style="color: color:brown;">Tablette de chocolat (x1) 💰</td>
+      <td><mark style="color: color:brown;">Tablette de chocolat (x2) 💰</td>
     </tr>
     <tr>
       <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
       <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
+      <td><mark style="color: color:brown;">Œuf de familier de Pâques</td>
+      <td><mark style="color: color:brown;">Œuf de familier de Pâques</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Exp classe (x1.000)</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">EXP classe (x5.000)</td>
+      <td><mark style="color: color:brown;">Exp classe (x1.000)</td>
+      <td><mark style="color: color:brown;">EXP classe (x5.000)</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x500)</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x2.500)</td>
+      <td><mark style="color: color:brown;"> Chocolat (x500)</td>
+      <td><mark style="color: color:brown;"> Chocolat (x2.500)</td>
     </tr>
     <tr>
       <td>X</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Clé de Pâques (x1)</td>
+      <td><mark style="color: color:brown;">Clé de Pâques (x1)</td>
     </tr>
   </tbody>
 </table>

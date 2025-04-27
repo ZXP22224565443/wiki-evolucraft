@@ -89,6 +89,138 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
   </thead>
   <tbody>
     <tr>
+      <td align="center"><mark style="color:green;"><strong>Commun</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Rare</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Épique</strong></mark></td>
+      <td align="center"><mark style="color:purple;"><strong>Légendaire</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Classe Aléatoire Commune</mark></td>
+      <td align="center"><mark style="color:green;">Classe Aléatoire Commune (x2)</mark></td>
+      <td align="center"><mark style="color:orange;">Classe Aléatoire Rare</mark></td>
+      <td align="center"><mark style="color:orange;">Classe Aléatoire Rare</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Parchemin Commun</mark></td>
+      <td align="center"><mark style="color:orange;">Parchemin Rare</mark></td>
+      <td align="center"><mark style="color:blue;">Parchemin Expert</mark></td>
+      <td align="center"><mark style="color:blue;">Classe Aléatoire Épique</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">10,000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">20,000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">50,000 💰</mark></td>
+      <td align="center"><mark style="color:purple;">Parchemin Difficile</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">15,000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">50,000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">100,000 💰</mark></td>
+      <td align="center"><mark style="color:purple;">Parchemin Expert</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">25,000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">100,000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">250.000 💰</mark></td>
+      <td align="center"><mark style="color:purple;">150.000 💰</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Cristaux Donjon Commun</mark></td>
+      <td align="center"><mark style="color:orange;">Cristaux Donjon Rare</mark></td>
+      <td align="center"><mark style="color:blue;">Cristaux Donjon Épique</mark></td>
+      <td align="center"><mark style="color:purple;">300.000 💰</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Bonbon à la Pomme</mark></td>
+      <td align="center"><mark style="color:orange;">Bonbon à l’Orange (x2)</mark></td>
+      <td align="center"><mark style="color:blue;">Bonbon à la Myrtille (x2)</mark></td>
+      <td align="center"><mark style="color:purple;">750.000 💰</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Plume de Fly 10min</mark></td>
+      <td align="center"><mark style="color:green;">Plume de Fly 30min</mark></td>
+      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:purple;">Cristaux de donjon légendaire</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:orange;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 1 Rare</mark></td>
+      <td align="center"><mark style="color:blue;">Bonbon à la Myrtille (x2)</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
+      <td align="center"><mark style="color:red;">Bonbon au Raisin (x2)</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 3 Rare</mark></td>
+      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 4 Rare</mark></td>
+      <td align="center"><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
+      <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
+      <td align="center">Pet Aléatoire Donjon</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 1 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
+      <td align="center">Clé Aléatoire</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 2 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 3 Épique</mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 2 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 3 Épique</mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 3 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 4 Épique</mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 4 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Pet Donjon</mark></td>
+      <td align="center">X</td>
+    </tr>
+     <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Pet Donjon </mark></td>
+      <td align="center">X</td>
+      <td align="center">X</td>
+    </tr>
+  </tbody>
+</table>
+
+<table data-header-hidden>
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <th align="center">Donjon Draconique</th>
       <th align="center">Donjon Abyssal</th>
       <th align="center">Donjon Halloween</th>
@@ -289,7 +421,6 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
     </tr>
   </tbody>
 </table>
-
 
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
