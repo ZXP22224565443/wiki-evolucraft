@@ -39,7 +39,6 @@ Pour plus d'information concernant les crafts :
 <mark style="color:green;">**Forge**</mark>** :**
 
 * La forge est un outil puissant qui vous permettra d'améliorer les objets obtenus dans les donjons en utilisant des ressources métiers et des cristaux.&#x20;
-* Notez que vous devez être au minimum niveau 100 en forgemage pour utiliser cette machine.
 
 Deux fonctionnalités principales sont disponibles grâce à la forge :
 
