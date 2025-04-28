@@ -217,14 +217,13 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <th align="center"></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th align="center">Donjon Draconique</th>
-      <th align="center">Donjon Abyssal</th>
-      <th align="center">Donjon Halloween</th>
+      <td align="center"><mark style="color:orange;"><strong>Draconique</strong></mark></td>      
+      <td align="center"><mark style="color:blue;"><strong>Abyssal</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Halloween</strong></mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td>
@@ -302,38 +301,38 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
     <tr>
       <th align="center"> <mark style="color:red;">Donjon Noël Commun</th>
       <th align="center"><mark style="color:red;">Donjon Noël Épique</th>
-      <th align="center"><mark style="color:pink;">Donjon De l'Amour</th>
-      <th align="center"><mark style="color:pink;">Donjon Cupidon</th>
+      <th align="center"><mark style="color:red;">Donjon De l'Amour</th>
+      <th align="center"><mark style="color:red;">Donjon Cupidon</th>
     </tr>
     <tr>
       <td><mark style="color:red;">Parchemin Noël</td>
       <td><mark style="color:red;">Parchemin Noël</td>
-      <td><mark style="color:pink;">Parchemin de l'amour</td>
-      <td><mark style="color:pink;">Parchemin de l'amour</td>
+      <td><mark style="color:red;">Parchemin de l'amour</td>
+      <td><mark style="color:red;">Parchemin de l'amour</td>
     </tr>
     <tr>
       <td><mark style="color:red;">10.000 💰</td>
       <td><mark style="color:red;">40.000 💰</td>
-      <td><mark style="color:pink;">10.000 💰</td>
-      <td><mark style="color:pink;">40.000 💰</td>
+      <td><mark style="color:red;">10.000 💰</td>
+      <td><mark style="color:red;">40.000 💰</td>
     </tr>
     <tr>
       <td><mark style="color:red;">15.000 💰</td>
       <td><mark style="color:red;">60.000 💰</td>
-      <td><mark style="color:pink;">15.000 💰</td>
-      <td><mark style="color:pink;">60.000 💰</td>
+      <td><mark style="color:red;">15.000 💰</td>
+      <td><mark style="color:red;">60.000 💰</td>
     </tr>
     <tr>
       <td><mark style="color:red;">25.000 💰</td>
       <td><mark style="color:red;">100.000 💰</td>
       <td><mark style="color:blue;">25.000 💰</td>
-      <td><mark style="color:pink;">100.000 💰</td>
+      <td><mark style="color:red;">100.000 💰</td>
     </tr>
     <tr>
       <td><mark style="color:red;">Sucre d'orge (x1)</td>
       <td><mark style="color:red;">Sucre d'orge (x2)</td>
-      <td><mark style="color:pink;">Auréole (x1)</td>
-      <td><mark style="color:pink;">Auréole (x2)</td>
+      <td><mark style="color:red;">Auréole (x1)</td>
+      <td><mark style="color:red;">Auréole (x2)</td>
     </tr>
     <tr>
       <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
@@ -344,26 +343,26 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
     <tr>
       <td><mark style="color:red;">Œuf de familier givré</td>
       <td><mark style="color:red;">Œuf de familier givré</td>
-      <td><mark style="color:pink;">Œuf de familier de l'amour</td>
-      <td><mark style="color:pink;">Œuf de familier de l'amour</td>
+      <td><mark style="color:red;">Œuf de familier de l'amour</td>
+      <td><mark style="color:red;">Œuf de familier de l'amour</td>
     </tr>
     <tr>
       <td><mark style="color:red;">Exp classe (x250)</td>
       <td><mark style="color:red;">EXP classe (x1.500)</td>
-      <td><mark style="color:pink;">Exp classe (x1.000)</td>
-      <td><mark style="color:pink;">Exp classe (x5.000)</td>
+      <td><mark style="color:red;">Exp classe (x1.000)</td>
+      <td><mark style="color:red;">Exp classe (x5.000)</td>
     </tr>
     <tr>
       <td>X</td>
       <td><mark style="color:red;">Clé givrée (x1)</td>
-      <td><mark style="color:pink;">Coeur (x500)</td>
-      <td><mark style="color:pink;">Cœur (x2.500)</td>
+      <td><mark style="color:red;">Coeur (x500)</td>
+      <td><mark style="color:red;">Cœur (x2.500)</td>
     </tr>
     <tr>
       <td>X</td>
       <td>X</td>
       <td>X</td>
-      <td><mark style="color:pink;">Clé Cupidon (x1)</td>
+      <td><mark style="color:red;">Clé Cupidon (x1)</td>
     </tr>
   </tbody>
 </table>
@@ -377,52 +376,51 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
   </thead>
   <tbody>
     <tr>
-      <th align="center"> <mark style="color: color:rgb(129, 60, 13);;">Donjon Terrier du Roi Lapin</th>
-      <th align="center"><mark style="color: color:rgb(129, 60, 13);;">Donjon Fabrique de Chocolat</th>
+      <th align="center"> <mark style="color:yellow;">Donjon Terrier du Roi Lapin</th>
+      <th align="center"><mark style="color:yellow;">Donjon Fabrique de Chocolat</th>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin du Terrier Roi Lapin</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin de la Fabrique de Chocolat</td>
+      <td><mark style="color:yellow;">Parchemin du Terrier Roi Lapin</td>
+      <td><mark style="color:yellow;">Parchemin de la Fabrique de Chocolat</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">10.000 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">40.000 💰</td>
+      <td><mark style="color:yellow;">10.000 💰</td>
+      <td><mark style="color:yellow;">40.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">15.000 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">60.000 💰</td>
+      <td><mark style="color:yellow;">15.000 💰</td>
+      <td><mark style="color:yellow;">60.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">25.000 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">100.000 💰</td>
+      <td><mark style="color:yellow;">25.000 💰</td>
+      <td><mark style="color:yellow;">100.000 💰</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x1) 💰</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x2) 💰</td>
+      <td><mark style="color:yellow;">Tablette de chocolat (x1) 💰</td>
+      <td><mark style="color:yellow;">Tablette de chocolat (x2) 💰</td>
     </tr>
     <tr>
       <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
       <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
+      <td><mark style="color:yellow;">Œuf de familier de Pâques</td>
+      <td><mark style="color:yellow;">Œuf de familier de Pâques</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Exp classe (x1.000)</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">EXP classe (x5.000)</td>
+      <td><mark style="color:yellow;">Exp classe (x1.000)</td>
+      <td><mark style="color:yellow;">EXP classe (x5.000)</td>
     </tr>
     <tr>
-      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x500)</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x2.500)</td>
+      <td><mark style="color:yellow;"> Chocolat (x500)</td>
+      <td><mark style="color:yellow;"> Chocolat (x2.500)</td>
     </tr>
     <tr>
       <td>X</td>
-      <td><mark style="color: color:rgb(129, 60, 13);;">Clé de Pâques (x1)</td>
+      <td><mark style="color:yellow;">Clé de Pâques (x1)</td>
     </tr>
   </tbody>
 </table>
-
 
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
