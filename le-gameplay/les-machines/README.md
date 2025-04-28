@@ -10,16 +10,23 @@ Les machines sont des blocs de craft qui permettent aux joueurs de créer de nou
 
 Sur le serveur Evolucraft, voici les machines disponibles :
 
-<mark style="color:green;">**Machine à bois**</mark>** :**
+### <mark style="color:green;">**Machine à bois**</mark>**&#x20;:**
 
 * Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
+* La machine à bois est récupérable à partir du niveau 40 bûcheron.
+<figure><img src="../.gitbook/assets/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la machine à bois</strong></p></figcaption></figure>
 
-<mark style="color:green;">**Tailleuse de pierre**</mark>** :**
+
+### <mark style="color:green;">**Tailleuse de pierre**</mark>**&#x20;:**
 
 * Laissez libre cours à votre créativité en fabriquant des statues uniques, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>.
 * &#x20;Notez que chaque joueur est limité à deux tailleuses de pierre.
 * Les statues sont fabriquées à partir de matériaux provenant des donjons et des ressources classiques.
-* La Tailleuse de pierre est récupérable à partir du niveau 50 forgemage.
+* La Tailleuse en pierre est récupérable à partir du niveau 45 et 145 forgemage.
+* Les statues sont vendable au près du tailleur de pierre situé au spawn. 
+* Il existe 4 rareté de statue : commun, rare, épique et légendaire.
+
+<figure><img src="../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la tailleuse de pierre</strong></p></figcaption></figure>
 
 <mark style="color:green;">**Forge**</mark>** :**
 

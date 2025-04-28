@@ -32,6 +32,10 @@ Ces quêtes peuvent être accomplies une seule fois et offrent des récompenses 
 
 Chaque quête accomplie vous rapproche un peu plus de la vérité cachée derrière les ombres du passé, enrichissant ainsi votre expérience de jeu d'une dimension narrative captivante.
 
+{% hint style="warning" %}
+Les quêtes histoire ne sont actuellement pas disponible sur le serveur. Pour vous tenir au courant de leurs sorties, regarder le #mise-à-jour sur discord.
+{% endhint %}
+
 ## <mark style="color:green;">**Parchemin d'Aventure**</mark>
 
 Cette catégorie comprend des quêtes disponibles en 5 niveaux de difficulté :&#x20;

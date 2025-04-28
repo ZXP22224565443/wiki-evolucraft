@@ -16,7 +16,7 @@ Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventu
 
 Les donjons apparaissent aléatoirement dans le monde ressource et offrent différentes récompenses en fonction de leur rareté et de leur complexité.&#x20;
 
-Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe (Max - 4 Joueurs), la difficulté s'adaptant en conséquence.
+Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la difficulté s'adaptant en conséquence.
 
 ## <mark style="color:green;">Types de Donjons</mark>
 
@@ -38,6 +38,7 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 * Halloween
 * Noël
 * Cupidon
+* Pâque
 
 Chaque donjon propose des monstres différents selon son biome.
 
@@ -77,22 +78,350 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
 
-<table data-header-hidden><thead><tr><th width="130" align="center"></th><th align="center"></th><th width="148" align="center"></th><th width="144" align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Commun</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Épique</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Draconique</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Abyssal</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune x2</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Classe Aléatoire Rare</strong></mark></td><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune x2</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Parchemin Commun</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Parchemin Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Classe Aléatoire Rare</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Classe Aléatoire Rare</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>10,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:green;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>20,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:yellow;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>50,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>Parchemin Rare</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Parchemin Rare</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>15,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:green;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>50,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:yellow;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>100,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>25,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:green;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>100,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:yellow;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>250,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:orange;"><strong>50,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:orange;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>75,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Crystal Donjon Commun</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Crystal Donjon Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Crystal Donjon Épique</strong></mark></td><td align="center"><mark style="color:orange;"><strong>100,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:orange;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>125,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Bonbon à la Pomme</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Bonbon à l'Orange (x2)</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark></td><td align="center"><mark style="color:orange;"><strong>150,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:orange;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>175,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Plume de Fly 10min</strong></mark></td><td align="center"><mark style="color:green;"><strong>Plume de Fly 30min</strong></mark></td><td align="center"><mark style="color:purple;"><strong>Plume de Phoenix</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Coeur de Dragon (x4)</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Pince de Crabe Abyssale (x2)</strong></mark></td></tr><tr><td align="center"><mark style="color:purple;"><strong>Plume de Phoenix</strong></mark></td><td align="center"><mark style="color:purple;"><strong>Plume de Phoenix</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 1 Rare</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Coeur de Dragon (x6)</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Bonbon à l'Orange (x2)</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 1 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 1 Commune</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 2 Rare</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Bonbon à l'Orange (x2)</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Pet Boss Abyssal</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 2 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 2 Commune</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 3 Rare</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Oeuf de Familier Draconique</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Exp Classe (x5,000)</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 3 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 3 Commune</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 4 Rare</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Exp Classe (x5,000)</strong></mark></td><td align="center">X</td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 4 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 4 Commune</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 1 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 1 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 2 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 2 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 3 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 3 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 4 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 4 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Pet Donjon</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Pet Donjon</strong></mark></td><td align="center">X</td><td align="center">X</td><td align="center">X</td></tr></tbody></table>
+<table data-header-hidden>
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><mark style="color:green;"><strong>Commun</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Rare</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Épique</strong></mark></td>
+      <td align="center"><mark style="color:purple;"><strong>Légendaire</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Classe Aléatoire Commune</mark></td>
+      <td align="center"><mark style="color:green;">Classe Aléatoire Commune (x2)</mark></td>
+      <td align="center"><mark style="color:orange;">Classe Aléatoire Rare</mark></td>
+      <td align="center"><mark style="color:orange;">Classe Aléatoire Rare</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Parchemin Commun</mark></td>
+      <td align="center"><mark style="color:orange;">Parchemin Rare</mark></td>
+      <td align="center"><mark style="color:blue;">Parchemin Expert</mark></td>
+      <td align="center"><mark style="color:blue;">Classe Aléatoire Épique</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">10,000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">20,000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">50,000 💰</mark></td>
+      <td align="center"><mark style="color:purple;">Parchemin Difficile</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">15,000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">50,000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">100,000 💰</mark></td>
+      <td align="center"><mark style="color:purple;">Parchemin Expert</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">25,000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">100,000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">250.000 💰</mark></td>
+      <td align="center"><mark style="color:purple;">150.000 💰</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Cristaux Donjon Commun</mark></td>
+      <td align="center"><mark style="color:orange;">Cristaux Donjon Rare</mark></td>
+      <td align="center"><mark style="color:blue;">Cristaux Donjon Épique</mark></td>
+      <td align="center"><mark style="color:purple;">300.000 💰</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Bonbon à la Pomme</mark></td>
+      <td align="center"><mark style="color:orange;">Bonbon à l’Orange (x2)</mark></td>
+      <td align="center"><mark style="color:blue;">Bonbon à la Myrtille (x2)</mark></td>
+      <td align="center"><mark style="color:purple;">750.000 💰</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Plume de Fly 10min</mark></td>
+      <td align="center"><mark style="color:green;">Plume de Fly 30min</mark></td>
+      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:purple;">Cristaux de donjon légendaire</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:orange;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 1 Rare</mark></td>
+      <td align="center"><mark style="color:blue;">Bonbon à la Myrtille (x2)</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
+      <td align="center"><mark style="color:red;">Bonbon au Raisin (x2)</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 3 Rare</mark></td>
+      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
+      <td align="center"><mark style="color:orange;">Arme 4 Rare</mark></td>
+      <td align="center"><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
+      <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
+      <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
+      <td align="center">Pet Aléatoire Donjon</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 1 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
+      <td align="center">Clé Aléatoire</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 2 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 3 Épique</mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 2 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 3 Épique</mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 3 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Arme 4 Épique</mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Arme 4 Rare </mark></td>
+      <td align="center"><mark style="color:blue;">Pet Donjon</mark></td>
+      <td align="center">X</td>
+    </tr>
+     <tr>
+      <td align="center">X</td>
+      <td align="center"><mark style="color:orange;">Pet Donjon </mark></td>
+      <td align="center">X</td>
+      <td align="center">X</td>
+    </tr>
+  </tbody>
+</table>
 
-|                                                                                                                            |                                                                                                                             |                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:orange;">**Halloween**</mark>                                                                           | <mark style="color:red;">**Noël Commun**</mark>                                                                             | <mark style="color:red;">**Noël Épique**</mark>                                                                              |
-| <mark style="color:yellow;">**Classe Aléatoire Rare**</mark>                                                               | <mark style="color:red;">**Parchemin Noël**</mark>                                                                          | <mark style="color:red;">**Parchemin Noël**</mark>                                                                           |
-| <mark style="color:orange;">**Parchemin Halloween**</mark>                                                                 | <mark style="color:green;">**10,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**40,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/)  |
-| <mark style="color:blue;">**50,000**</mark> [<mark style="color:blue;">**💰**</mark>](https://emojiterra.com/fr/monnaie/)  | <mark style="color:green;">**15,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**60,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/)  |
-| <mark style="color:blue;">**100,000**</mark> [<mark style="color:blue;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**25,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**100,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) |
-| <mark style="color:blue;">**250,000**</mark> [<mark style="color:blue;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:red;">**Sucre d'orge x1**</mark>                                                                         | <mark style="color:red;">**Sucre d'orge x2**</mark>                                                                          |
-| <mark style="color:orange;">**Citrouille scintillante x2**</mark>                                                          | <mark style="color:green;">**Bonbon à la pomme x1**</mark>                                                                  | <mark style="color:orange;">**Bonbon à l'Orange x2**</mark>                                                                  |
-| <mark style="color:purple;">**Bonbon à la myrtille x2**</mark>                                                             | <mark style="color:red;">**Œuf de familier Givré x1**</mark>                                                                | <mark style="color:red;">**Œuf de familier Givré x1**</mark>                                                                 |
-| <mark style="color:orange;">**Œuf de familier Halloween x1**</mark>                                                        | <mark style="color:orange;">**Exp Classe (x250)**</mark>                                                                    | <mark style="color:orange;">**Exp Classe (x1500)**</mark>                                                                    |
-| <mark style="color:orange;">**Exp Classe (x5,000)**</mark>                                                                 | <mark style="color:red;">**Flocons x250**</mark>                                                                            | <mark style="color:red;">**Flocons x1500**</mark>                                                                            |
-| **X**                                                                                                                      | **X**                                                                                                                       | <mark style="color:blue;">**Clé Givrée x1**</mark>                                                                           |
+<table data-header-hidden>
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center">Donjon Draconique</th>
+      <th align="center">Donjon Abyssal</th>
+      <th align="center">Donjon Halloween</th>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td>
+      <td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Parchemin Halloween</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Parchemin Rare</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Parchemin Rare</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>50.000 💰</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>100.000 💰</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>50.000 💰</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>75.000 💰</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>250.000 💰</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>100.000 💰</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>125.000 💰</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Citrouille Scintillante (x2)</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>150.000 💰</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>175.000 💰</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Cœur de Dragon (x4)</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Pince de Crabe Abyssale (x2)</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Œuf de Familier Halloween</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Cœur de Dragon (x6)</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Bonbon à l'Orange (x2)</strong></mark></td>
+      <td align="center"><mark style="color:orange;"><strong>Exp Classe (x5.000)</strong></mark></td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Bonbon à l'Orange</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Pet Boss Abyssal</strong></mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Œuf de Familier Draconique</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Exp Classe (x5.000)</strong></mark></td>
+      <td align="center">X</td>
+    </tr>
+    <tr>
+      <td align="center"><mark style="color:orange;"><strong>Exp Classe (x5.000)</strong></mark></td>
+      <td align="center">X</td>
+      <td align="center">X</td>
+    </tr>
+  </tbody>
+</table>
 
+<table data-header-hidden>
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center"> <mark style="color:red;">Donjon Noël Commun</th>
+      <th align="center"><mark style="color:red;">Donjon Noël Épique</th>
+      <th align="center"><mark style="color:pink;">Donjon De l'Amour</th>
+      <th align="center"><mark style="color:pink;">Donjon Cupidon</th>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">Parchemin Noël</td>
+      <td><mark style="color:red;">Parchemin Noël</td>
+      <td><mark style="color:pink;">Parchemin de l'amour</td>
+      <td><mark style="color:pink;">Parchemin de l'amour</td>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">10.000 💰</td>
+      <td><mark style="color:red;">40.000 💰</td>
+      <td><mark style="color:pink;">10.000 💰</td>
+      <td><mark style="color:pink;">40.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">15.000 💰</td>
+      <td><mark style="color:red;">60.000 💰</td>
+      <td><mark style="color:pink;">15.000 💰</td>
+      <td><mark style="color:pink;">60.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">25.000 💰</td>
+      <td><mark style="color:red;">100.000 💰</td>
+      <td><mark style="color:blue;">25.000 💰</td>
+      <td><mark style="color:pink;">100.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">Sucre d'orge (x1)</td>
+      <td><mark style="color:red;">Sucre d'orge (x2)</td>
+      <td><mark style="color:pink;">Auréole (x1)</td>
+      <td><mark style="color:pink;">Auréole (x2)</td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
+      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
+      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
+      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">Œuf de familier givré</td>
+      <td><mark style="color:red;">Œuf de familier givré</td>
+      <td><mark style="color:pink;">Œuf de familier de l'amour</td>
+      <td><mark style="color:pink;">Œuf de familier de l'amour</td>
+    </tr>
+    <tr>
+      <td><mark style="color:red;">Exp classe (x250)</td>
+      <td><mark style="color:red;">EXP classe (x1.500)</td>
+      <td><mark style="color:pink;">Exp classe (x1.000)</td>
+      <td><mark style="color:pink;">Exp classe (x5.000)</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color:red;">Clé givrée (x1)</td>
+      <td><mark style="color:pink;">Coeur (x500)</td>
+      <td><mark style="color:pink;">Cœur (x2.500)</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>X</td>
+      <td>X</td>
+      <td><mark style="color:pink;">Clé Cupidon (x1)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table data-header-hidden>
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="center"> <mark style="color: color:rgb(129, 60, 13);;">Donjon Terrier du Roi Lapin</th>
+      <th align="center"><mark style="color: color:rgb(129, 60, 13);;">Donjon Fabrique de Chocolat</th>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin du Terrier Roi Lapin</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Parchemin de la Fabrique de Chocolat</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">10.000 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">40.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">15.000 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">60.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">25.000 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">100.000 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x1) 💰</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Tablette de chocolat (x2) 💰</td>
+    </tr>
+    <tr>
+      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
+      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Œuf de familier de Pâques</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Exp classe (x1.000)</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">EXP classe (x5.000)</td>
+    </tr>
+    <tr>
+      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x500)</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;"> Chocolat (x2.500)</td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td><mark style="color: color:rgb(129, 60, 13);;">Clé de Pâques (x1)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 {% hint style="info" %}
@@ -103,13 +432,14 @@ Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté
 
 Il y aura toujours 80 donjons ouverts en permanence sur la carte des ressources. Pour le Nether, seulement 10 donjons sont ouverts en permanence.&#x20;
 
-Les donjons draconiques et abyssaux sont accessibles de la même manière que les autres donjons. Lorsqu'un donjon est complété, un nouveau apparaît à un autre endroit de la carte.
+Les donjons événementiels sont accessibles de la même manière que les autres donjons. Lorsqu'un donjon est complété, un nouveau apparaît à un autre endroit de la carte.
 
 ## <mark style="color:green;">Fonctionnement des Donjons</mark>
 
 ### <mark style="color:green;">Entrée</mark>
 
-Les joueurs peuvent entrer dans n'importe quel donjon avec un maximum de 4 joueurs par donjon en passant le portail dans un délai total de 30 secondes.
+Chaque donjon possède une certaines limite de joueur, une fois le premier joueur entrée dans le donjon il commencera après un délai de 30 secondes.
+
 
 ### <mark style="color:green;">Salle d'attente</mark>
 
