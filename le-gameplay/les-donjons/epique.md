@@ -8,7 +8,7 @@ description: Retrouvez ici les informations concernant le donjon Épique
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**level 25**</mark> dans votre classe.
+Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 25**</mark> dans votre classe.
 
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
