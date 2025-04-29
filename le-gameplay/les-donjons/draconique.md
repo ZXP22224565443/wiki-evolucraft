@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Draconique
 
 # 🟧 Donjon Draconique
 
-<figure><img src="../.gitbook/assets/Portail_Draconique.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Draconique</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Portail_Draconique.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Draconique</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 

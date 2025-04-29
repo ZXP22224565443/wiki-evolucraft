@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Épique
 
 # 🟦 Donjon Épique
 
-<figure><img src="../.gitbook/assets/Portail_Epique.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Épique</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Portail_Epique.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Épique</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 

@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le Terrier du roi Lapin
 
 # 🟫 Terrier du Roi Lapin
 
-<figure><img src="../.gitbook/assets/Portail_TerrierLapin.png" alt=""><figcaption><p><strong>Aperçu du Terrier du roi Lapin</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Portail_TerrierLapin.png" alt=""><figcaption><p><strong>Aperçu du Terrier du roi Lapin</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
