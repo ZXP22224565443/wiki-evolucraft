@@ -8,16 +8,16 @@ description: Retrouvez ici les informations concernant le donjon Épique
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
-Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 25**</mark> dans votre classe.
+Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**level 25**</mark> dans votre classe.
 
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
 ### XP obtenable
 Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
 
-Mob normal : 35 xp
-Mini boss : 1500 xp
-Boss : 4000 xp
+* Mob normal : 35 xp
+* Mini boss : 1500 xp
+* Boss : 4000 xp
 
 ### Récompense en fin de donjon
 
