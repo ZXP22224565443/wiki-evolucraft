@@ -12,13 +12,13 @@ description: Retrouvez ici les informations concernant la Fabrique de chocolat
 
 |                                                                                         |
 |:---------------------------------------------------------------------------------------:|
-| <mark style="color:brown;"><strong>Parchemin de la Fabrique de Chocolat</strong></mark> |
-| <mark style="color:brown;"><strong>40.000 💰</strong></mark>                            |
-| <mark style="color:brown;"><strong>60.000 💰</strong></mark>                            |
-| <mark style="color:brown;"><strong>100.000 💰</strong></mark>                           |
-| <mark style="color:brown;"><strong>Tablette de chocolat (x2) 💰</strong></mark>         |
+| <mark style="color:yellow;"><strong>Parchemin de la Fabrique de Chocolat</strong></mark> |
+| <mark style="color:yellow;"><strong>40.000 💰</strong></mark>                            |
+| <mark style="color:yellow;"><strong>60.000 💰</strong></mark>                            |
+| <mark style="color:yellow;"><strong>100.000 💰</strong></mark>                           |
+| <mark style="color:yellow;"><strong>Tablette de chocolat (x2) 💰</strong></mark>         |
 | <mark style="color:orange;"><strong>Bonbon à l'orange (x2)</strong></mark>              |
-| <mark style="color:brown;"><strong>Œuf de familier de Pâques</strong></mark>            |
-| <mark style="color:brown;"><strong>EXP classe (x5.000)</strong></mark>                  |
-| <mark style="color:brown;"><strong>Chocolat (x2.500)</strong></mark>                    |
-| <mark style="color:brown;"><strong>Clé de Pâques (x1)</strong></mark>                   |
+| <mark style="color:yellow;"><strong>Œuf de familier de Pâques</strong></mark>            |
+| <mark style="color:yellow;"><strong>EXP classe (x5.000)</strong></mark>                  |
+| <mark style="color:yellow;"><strong>Chocolat (x2.500)</strong></mark>                    |
+| <mark style="color:yellow;"><strong>Clé de Pâques (x1)</strong></mark>                   |
