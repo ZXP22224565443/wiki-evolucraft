@@ -12,7 +12,7 @@ Ce donjon est <mark style="color:green;">**limité à 10 personnes**</mark>. Pou
 
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
-### XP obtenable
+### <mark style="color:green;">XP obtenable</mark>
 Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
 
 * Bébé Dragon : 1 xp
@@ -20,7 +20,7 @@ Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit :
 * Mini boss : 100 xp
 * Boss : 500 xp
 
-### Récompense en fin de donjon
+### <mark style="color:green;">Récompense en fin de donjon</mark>
 
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|

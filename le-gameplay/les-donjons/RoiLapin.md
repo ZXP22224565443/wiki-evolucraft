@@ -12,10 +12,10 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
-### XP obtenable
+### <mark style="color:green;">XP obtenable</mark>
 Il n'y a pas encore d'information disponible a ce sujet.
 
-### Récompense en fin de donjon
+### <mark style="color:green;">Récompense en fin de donjon</mark>
 
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|
