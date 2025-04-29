@@ -2,13 +2,20 @@
 description: Retrouvez ici les informations concernant le donjon Amour
 ---
 
-# Donjon Amour
-
-## 4 personnes, level 10 requis
+#  Donjon Amour
 
 Il n'y a actuellement pas d'image du portail de ce donjon de disponible. Merci de votre compréhension
 
-## Aperçu des récompenses
+## <mark style="color:green;"> Pré-requis </mark>
+
+Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 15**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Il n'y a pas encore d'information disponible a ce sujet.
+
+### Récompense en fin de donjon
 
 |                                                                              |
 |:----------------------------------------------------------------------------:|

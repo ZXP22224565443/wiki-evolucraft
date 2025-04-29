@@ -2,13 +2,25 @@
 description: Retrouvez ici les informations concernant le donjon Légendaire
 ---
 
-# Donjon Légendaire
-
-## 4 personnes, level 40 requis
+# 🟪 Donjon Légendaire
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Portail_Legendaire.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Légendaire</strong></p></figcaption></figure>
 
-## Aperçu des récompenses
+## <mark style="color:green;"> Pré-requis </mark>
+
+Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 40**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+
+Mob normal : 50 xp
+Sl'Endermen : 500
+Mini boss : 5000 xp
+Boss : 10000 xp
+
+### Récompense en fin de donjon
 
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|

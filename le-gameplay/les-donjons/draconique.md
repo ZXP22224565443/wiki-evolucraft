@@ -2,13 +2,25 @@
 description: Retrouvez ici les informations concernant le donjon Draconique
 ---
 
-# Donjon Draconique
-
-## 10 personnes, level 10 requis
+# 🟧 Donjon Draconique
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Portail_Draconique.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Draconique</strong></p></figcaption></figure>
 
-## Aperçu des récompenses
+## <mark style="color:green;"> Pré-requis </mark>
+
+Ce donjon est <mark style="color:green;">**limiter a 10 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 10**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+
+Bébé Dragon : 1 xp
+Dragon teresstre et volant : 50 xp
+Mini boss : 100 xp
+Boss : 500 xp
+
+### Récompense en fin de donjon
 
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|

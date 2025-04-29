@@ -2,14 +2,25 @@
 description: Retrouvez ici les informations concernant le donjon commun
 ---
 
-# Donjon Commun
-
-## 4 personnes, level 1 requis
+# 🟩 Donjon Commun
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Portail_Commun.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Commun</strong></p></figcaption></figure>
 
+## <mark style="color:green;"> Pré-requis </mark>
 
-## Aperçu des récompenses 
+Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 1**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+
+Mob normal : 6.5 xp
+Mini boss : 200 xp
+Boss : 400 xp
+
+
+### Récompense en fin de donjon
 
 |                                                                              |
 |:----------------------------------------------------------------------------:|

@@ -2,13 +2,20 @@
 description: Retrouvez ici les informations concernant la Fabrique de chocolat
 ---
 
-# Fabrique de Chocolat
-
-## 4 personnes, level 40 requis
+# 🟫 Fabrique de Chocolat
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Portail_FabriqueChocolat.png" alt=""><figcaption><p><strong>Aperçu d'une Fabrique de Chocolat</strong></p></figcaption></figure>
 
-## Aperçu des récompenses
+## <mark style="color:green;"> Pré-requis </mark>
+
+Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 40**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Il n'y a pas encore d'information disponible a ce sujet.
+
+### Récompense en fin de donjon
 
 |                                                                                         |
 |:---------------------------------------------------------------------------------------:|

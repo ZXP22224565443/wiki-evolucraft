@@ -2,13 +2,24 @@
 description: Retrouvez ici les informations concernant le donjon Halloween
 ---
 
-# Donjon Halloween
-
-## 4 personnes, level 20 requis
+# 🟧 Donjon Halloween
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Portail_Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
 
-## Aperçu des récompenses
+## <mark style="color:green;"> Pré-requis </mark>
+
+Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 10**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Lors de ce donjon vous pouvez obtenir l'xp de classe comme suit : 
+
+Mob normal : 35 xp
+Mini boss : 1250 xp
+Boss : 3500 xp
+
+### Récompense en fin de donjon
 
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|

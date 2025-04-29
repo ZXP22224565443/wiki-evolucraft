@@ -2,13 +2,20 @@
 description: Retrouvez ici les informations concernant le Terrier du roi Lapin
 ---
 
-# Terrier du Roi Lapin
-
-## 4 personnes, level 15 requis
+# 🟫 Terrier du Roi Lapin
 
 <figure><img src="../.gitbook/assets/Les_Donjons/Portail_TerrierLapin.png" alt=""><figcaption><p><strong>Aperçu du Terrier du roi Lapin</strong></p></figcaption></figure>
 
-## Aperçu des récompenses
+## <mark style="color:green;"> Pré-requis </mark>
+
+Ce donjon est <mark style="color:green;">**limiter a 4 personnes**</mark>. Pour le faire vous devez être <mark style="color:green;">**level 15**</mark> dans votre classe.
+
+## <mark style="color:green;">Aperçu des récompenses</mark>
+
+### XP obtenable
+Il n'y a pas encore d'information disponible a ce sujet.
+
+### Récompense en fin de donjon
 
 |                                                                                   |
 |:---------------------------------------------------------------------------------:|
