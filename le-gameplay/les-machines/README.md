@@ -16,6 +16,10 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 * La machine à bois est récupérable à partir du niveau 40 bûcheron.
 <figure><img src="../.gitbook/assets/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la machine à bois</strong></p></figcaption></figure>
 
+Pour plus d'information concernant les crafts : 
+{% content-ref url="machine-à-bois.md" %}
+[machine-à-bois.md](machine-à-bois.md)
+{% endcontent-ref %}
 
 ### <mark style="color:green;">**Tailleuse de pierre**</mark>**&#x20;:**
 
@@ -25,15 +29,23 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 * La Tailleuse en pierre est récupérable à partir du niveau 45 et 145 forgemage.
 * Les statues sont vendable au près du tailleur de pierre situé au spawn. 
 * Il existe 4 rareté de statue : commun, rare, épique et légendaire.
+Pour plus d'information concernant les crafts : 
+{% content-ref url="tailleuse-de-pierre.md" %}
+[tailleuse-de-pierre.md](tailleuse-de-pierre.md)
+{% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la tailleuse de pierre</strong></p></figcaption></figure>
 
 <mark style="color:green;">**Forge**</mark>** :**
 
 * La forge est un outil puissant qui vous permettra d'améliorer les objets obtenus dans les donjons en utilisant des ressources métiers et des cristaux.&#x20;
-* Notez que vous devez être au minimum niveau 100 en forgemage pour utiliser cette machine.
 
 Deux fonctionnalités principales sont disponibles grâce à la forge :
 
-* <mark style="color:green;">**Création de Gemmes Métiers**</mark>** :** Ces gemmes sont disponibles en cinq raretés différentes : commune, rare, épique, légendaire et mythique. Utilisez-les pour renforcer vos équipements et les rendre encore plus puissants.
+* <mark style="color:green;">**Création de Gemmes Métiers**</mark>** :** Ces gemmes sont disponibles en quatre raretés différentes : commune, rare, épique et légendaire. Utilisez-les pour renforcer vos équipements et les rendre encore plus puissants.
 * <mark style="color:green;">**Amélioration des Armes de Classes**</mark>** :** Utilisez la forge pour améliorer les armes spécifiques à chaque classe. Renforcez vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
+
+Pour plus d'information concernant les crafts : 
+{% content-ref url="forge.md" %}
+[forge.md](forge.md)
+{% endcontent-ref %}
