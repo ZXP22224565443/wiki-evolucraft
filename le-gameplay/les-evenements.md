@@ -4,32 +4,52 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 # 🎪 Les Événements
 
-Les événements proposés ici seront uniquement des événements récurrents automatiquement lancés.
+Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement.
 
-Voici les différents types d’événements que tu pourras expérimenter sur le serveur :
+## <mark style="color:green;">Q</mark><mark style="color:green;">**uels sont les différents événements journaliers ?**</mark>
 
-## <mark style="color:green;">Q</mark><mark style="color:green;">**uels sont les différents événements ?**</mark>
 
-### <mark style="color:green;">Enchères</mark>&#x20;
+### <mark style="color:green;">💠 Enchère 💸</mark>
 
-Assistez aux enchères et misez sur des objets rares et précieux. Faites monter les enchères et repartez avec des trésors uniques. Tous les jours à 19h00
+<mark style="color:white;">**⏰ Tous les jours à 19h**</mark>
 
-### <mark style="color:green;">Event Pêche</mark>
+Les enchères, accessibles via la commande <mark style="color:green;">**`/encheres`**</mark> puis <mark style="color:green;">**`/encherejoin`**</mark>, est l'événements où plusieurs objets sont mis en vente. À vous d’enchérir pour avoir le dernier mot et remporter l’objet ! Vous pourrez ensuite le récupérer à la fin de l’événement avec la commande <mark style="color:green;">**`/enchereclaim`**</mark>.
 
-Pêchez pendant 15 minutes pour attraper des poissons d'une certaine rareté. Tous les jours à 21h00
+{% hint style="info" %}
+Pour participer aux enchères, vous devez avoir au minimum <mark style="color:green;">**50 000\$**</mark> sur vous (cette somme **n’est pas déduite** de votre portefeuille).
+{% endhint %}
 
-### <mark style="color:green;">Course</mark>
 
-Suivez un parcours balisé avec des anneaux. Montrez vos compétences en navigation et rapidité pour atteindre la ligne d'arrivée en premier et gagner des récompenses. Tous les jours à 15h00, 16h00, 19h30, et 22h30
+### <mark style="color:green;">💠 Évent Pêche 🐠</mark>
 
-{% hint style="success" %}
+<mark style="color:white;">**⏰ Tous les jours à 21h**</mark>
 
-## <mark style="color:green;">M</mark><mark style="color:green;">**ais aussi les événements de notre chère équipe d'animation !**</mark>
+L’évent pêche est un concours où vous devez attraper des poissons selon la **rareté demandée** pour marquer des points (**1 point** par poisson correspondant). Après <mark style="color:green;">**15 minutes**</mark> de pêche intense, les 3 meilleurs pêcheurs seront récompensés !
 
-Ces événements sont créés par des joueurs, pour des joueurs ! Il vous suffit de regarder dans le channel #événements sur le Discord fréquemment, ou pour ne rien louper, de vous donner le rôle événement (ajoutable depuis le channel #auto-role) !
+🎯 **Différentes déclinaison de l'événement :**
 
-Nos animateurs vous feront divertir pour votre plus grand plaisir dans un /events rempli de magie !
+* <mark style="color:white;">**Pêche chanceuse**</mark> → <mark style="color:white;">Tous les poissons non vanilla</mark>
+* <mark style="color:green;">**Pêche commune**</mark> → <mark style="color:green;">Tous les poissons de rareté *Commune*</mark>
+* <mark style="color:yellow;">**Pêche rare**</mark> → <mark style="color:yellow;">Tous les poissons de rareté *Rare*</mark>
+* <mark style="color:blue;">**Pêche épique**</mark> → <mark style="color:blue;">Tous les poissons de rareté *Épique*</mark>
+* <mark style="color:purple;">**Pêche légendaire**</mark> → <mark style="color:purple;">Tous les poissons de rareté *Légendaire*</mark>
 
-Vous pouvez également créer vos événements et les mettre en avant dans le channel #événement-joueurs en y faisant la demande en ticket !
+🏆 **Récompenses pour le top 3 :**
 
-Plus d'excuse pour manquer ces occasions uniques de briller et de vous amuser !
+* <mark style="color:yellow;">**🥇・1er**</mark> → <mark style="color:green;">**10 poissons légendaires**</mark> aléatoires, <mark style="color:green;">**1 carte commune**</mark> aléatoire, <mark style="color:green;">**1 pierre de téléportation**</mark> vers un <mark style="color:green;">**donjon commun**</mark>
+* <mark style="color:white;">**🥈・2e**</mark> → <mark style="color:green;">**5 poissons légendaires**</mark> aléatoires
+* <mark style="color:orange;">**🥉・3e**</mark> → <mark style="color:green;">**3 poissons légendaires**</mark> aléatoires
+
+
+### <mark style="color:green;">💠 D</mark><mark style="color:green;">**es événements de l'équipe d'animation 🎉 !**</mark>
+
+Ces événements sont créés **par des joueurs, pour des joueurs** ! Pour y participer, gardez un œil sur le channel <a href="https://discord.com/channels/699670538737418343/1130976264199622829"><mark style="color:green;">**`#🦄・événement`**</mark></a> et n'oubliez pas de vous attribuer le <mark style="color:green;">**rôle @Événement**</mark> pour ne rien manquer. Nos animateurs vous feront vivre des moments magiques dans un <mark style="color:green;">**`/events`**</mark> inoubliable !
+
+{% hint style="info" %}
+Le <mark style="color:green;">**rôle Événement**</mark> est disponible dans le channel <a href="https://discord.com/channels/699670538737418343/1063145057919701144"><mark style="color:green;">**`#📌・auto-rôle`**</mark></a>.
+{% endhint %}
+
+Vous souhaitez organiser **votre propre événement** ? 🤔 Proposez votre idée d'événement en créant un ticket, tout en suivant <a href="https://discord.com/channels/699670538737418343/1100899408641536000/1105953174864543865"><mark style="color:green;">les conditions indiquées</mark></a> afin qu'il sois mit en avant dans le channel <a href="https://discord.com/channels/699670538737418343/1100899408641536000"><mark style="color:green;">**`#🦄・événement-joueur`**</mark></a> !
+
+✨ **Plus d’excuse pour manquer ces occasions uniques de briller et de vous amuser !**
+
