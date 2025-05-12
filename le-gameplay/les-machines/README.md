@@ -47,7 +47,7 @@ Deux fonctionnalités principales sont disponibles grâce à la forge :
 * <mark style="color:green;">**Création de Gemmes Métiers**</mark>**&#x20;:** Ces gemmes sont disponibles en quatre raretés différentes : commune, rare, épique et légendaire. Utilisez-les pour renforcer vos équipements et les rendre encore plus puissants.
 * <mark style="color:green;">**Amélioration des Armes de Classes**</mark>**&#x20;:** Utilisez la forge pour améliorer les armes spécifiques à chaque classe. Renforcez vos capacités de combat et de défense pour mieux affronter les défis qui vous attendent dans le monde d'Evolucraft.
 
-<figure><img src="../../.gitbook/assets/Interface_Forge1.png" alt=""><figcaption><p><strong>Interface pour les gemmes</strong></p></figcaption></figure><figure><img src="../.gitbook/assets/Interface_Forge2.png" alt=""><figcaption><p><strong>Interface pour les armes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Interface_Forge.png" alt=""><figcaption><p><strong>Interface de la Forge</strong></p></figcaption></figure>
 
 Pour plus d'information concernant les crafts : 
 {% content-ref url="forge.md" %}
