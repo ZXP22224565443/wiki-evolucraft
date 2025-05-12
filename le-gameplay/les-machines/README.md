@@ -38,7 +38,7 @@ Pour plus d'information concernant les crafts :
 [tailleuse-de-pierre.md](tailleuse-de-pierre.md)
 {% endcontent-ref %}
 
-<mark style="color:green;">**Forge**</mark>** :**
+### <mark style="color:green;">**Forge**</mark>**&#x20;:**
 
 * La forge est un outil puissant qui vous permettra d'améliorer les objets obtenus dans les donjons en utilisant des ressources métiers et des cristaux.&#x20;
 
