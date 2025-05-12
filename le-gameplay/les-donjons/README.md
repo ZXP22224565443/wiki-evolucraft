@@ -18,6 +18,8 @@ Les donjons apparaissent aléatoirement dans le monde ressource et offrent diff�
 
 Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la difficulté s'adaptant en conséquence.
 
+Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`
+
 ## <mark style="color:green;">Types de Donjons</mark>
 
 Il existe 8 types de donjons, chacun associé à un biome spécifique :
@@ -152,7 +154,7 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
-      <td align="center"><mark style="color:red;">Bonbon au Raisin (x2)</mark></td>
+      <td align="center"><mark style="color:violet;">Bonbon au Raisin (x2)</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
