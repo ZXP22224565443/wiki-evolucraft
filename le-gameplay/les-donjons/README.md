@@ -18,10 +18,6 @@ Les donjons apparaissent aléatoirement dans le monde ressource et offrent diff�
 
 Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la difficulté s'adaptant en conséquence.
 
-Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`
-
-## <mark style="color:green;">Répartition des Donjons</mark>
-
 Les donjons sont classés en quatre niveaux de difficulté :
 
 * <mark style="color:green;">Commun</mark> : il faut être <mark style="color:green;">niveau 1</mark> pour y accéder.
@@ -32,6 +28,8 @@ Les donjons sont classés en quatre niveaux de difficulté :
 {% hint style="info" %}
 Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
 {% endhint %}
+
+Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`.
 
 ## <mark style="color:green;">Types de Donjons</mark>
 
@@ -60,6 +58,8 @@ Chaque donjon propose des monstres différents selon son biome.
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
+
+### Récompenses dans les coffres
 
 <table data-header-hidden>
   <thead>
@@ -404,6 +404,26 @@ Chaque donjon propose des monstres différents selon son biome.
     </tr>
   </tbody>
 </table>
+
+### Armes obtenables en fonction des biomes
+
+| **Forêt**           | **Jungle**               | **Marais**                    | **Toundra**              |
+| ------------------- | ------------------------ | ----------------------------- | ------------------------ |
+| **Arc sylvanique**  | **Souffle du serpent**   | **Bénédiction d'Adam**        | **Sceptre de glace**     |
+| **Brise-feuille**   | **Sceptre de la nature** | **Sceptre des âmes errantes** | **Lance glacial**        |
+| **Croc de Fenrir**  | **Dague vipérienne**     | **Lame du komodo**            | **Tranche givre**        |
+| **Bâton de vie**    | **Bâton arcanique**      | **Bâton de Cthulhu**          | **Dague polaire**        |
+| **Harpe sylvestre** | **Harpe épineuse**       | **Poing de la tristesse**     | **Gant gelé**            |
+| **X**               | **Pistolet racineux**    | **X**                         | **Pistolet du blizzard** |
+
+| **Mesa**               | **Désert**                 | **Savane**               | **Nether**             |
+| ---------------------- | -------------------------- | ------------------------ | ---------------------- |
+| **Marteau sismique**   | **Sabre des sables**       | **Écraseur de tête**     | **Lame du styx**       |
+| **Sceptre d'orc**      | **Sceptre de feu**         | **Bâton magique**        | **Lance éternelle**    |
+| **Fendoir orc**        | **Courroux de la lumière** | **Sceptre du monarque**  | **Bouclier du chaos**  |
+| **Os d'ogre**          | **Livre ancien momifié**   | **Bâton squelettique**   | **Arc traque-coeur**   |
+| **Gant du massacreur** | **Poing de la colère**     | **Harpe des murmures**   | **Gant emflammé**      |
+| **X**                  | **X**                      | **Poing de la sérénité** | **Pistolet du phénix** |
 
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
