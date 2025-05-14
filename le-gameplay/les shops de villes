@@ -32,7 +32,7 @@ Pour cela, réalisez la commande suivante en fonction de votre besoin :
 
 ## <mark style="color:green;">**💡 Quelques commandes à connaître !**</mark>
 
-* **<mark style="color:green;">`/qs create [montant]`</mark> : Permet de créer un coffre de vente (⚠: Il faudra cependant avoir l'item en main).**
+* **<mark style="color:green;">`/qs create [montant]`</mark> : Permet de créer un coffre de vente (⚠: Il faudra cependant avoir l'item en main et en regardant le coffre).**
 * **<mark style="color:green;">`/qs price [montant]`</mark> : Permet de modifier le prix de votre coffre de vente.**
 * **<mark style="color:green;">`/qs buy`</mark> : Permet de transformer un coffre de vente en un coffre d'achat.**
 * **<mark style="color:green;">`/qs sell`</mark> : Permet de transformer un coffre d'achat en un coffre de vente.**
