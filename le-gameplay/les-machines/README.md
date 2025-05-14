@@ -15,7 +15,7 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 * Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
 * La machine à bois est récupérable à partir du niveau 40 bûcheron.
 
-<figure><img src="../../.gitbook/assets/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la machine à bois </strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois </strong></p></figcaption></figure>
 
 Pour plus d'information concernant les crafts : 
 {% content-ref url="machine-à-bois.md" %}
@@ -31,7 +31,7 @@ Pour plus d'information concernant les crafts :
 * Les statues sont vendable au près du tailleur de pierre situé au spawn. 
 * Il existe 4 rareté de statue : commun, rare, épique et légendaire.
 
-<figure><img src="../../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la tailleuse de pierre</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
 
 Pour plus d'information concernant les crafts : 
 {% content-ref url="tailleuse-de-pierre.md" %}
