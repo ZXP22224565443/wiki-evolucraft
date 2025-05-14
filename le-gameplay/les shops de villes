@@ -1,16 +1,20 @@
-# 🔖 Les Coffres de Vente
+---
+description: Retrouvez ici toutes les informations concernant les coffres de vente
+---
+
+# 🔖 Les coffres de vente
 
 **Les coffres de vente** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre 👁️‍🗨️ <a href="https://wiki.evolucraft.fr/les-villes/les-warps">**pwarp**</a>.
 
-## <mark style="color:green;">**🛒 Créer un Coffre de Vente dans votre Ville**</mark>
+## <mark style="color:green;">**🛒 Créer un coffre de vente dans votre ville**</mark>
 
 * <mark style="color:green;">**Étape 1️⃣ :**</mark> Placez le coffre à l’endroit où vous souhaitez installer votre shop.
 
 * <mark style="color:green;">**Étape 2️⃣ :**</mark> Prenez en main l'item que vous souhaitez mettre en vente, puis cliquez avec le bouton gauche de votre souris sur le coffre.
 
-* <mark style="color:green;">**Étape 3️⃣ :**</mark> Insérez le prix unitaire auquel vous souhaitez que les autres joueurs achètent l’item.
+* <mark style="color:green;">**Étape 3️⃣ :**</mark> Insérez le prix unitaire dans le chat auquel vous souhaitez que les autres joueurs achètent l’item.
 
-* <mark style="color:green;">**Étape BONUS :**</mark> Tapez `/qs buy` pour transformer votre coffre de vente en coffre d'achat.
+* <mark style="color:green;">**Étape BONUS :**</mark> Tapez **`/qs buy`** pour transformer votre coffre de vente en coffre d'achat.
 
 Et voilà ! Votre coffre de vente est créé 🤩 !
 
