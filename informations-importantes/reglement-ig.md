@@ -34,7 +34,11 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
-* Chaque pub quelle qu'elle soit se doit d'être espacée de **20 minutes** (pwarp, vente d'item, annonce d'événement, promotion d'un item, téléportation à un donjon...) et doit être réalisée via le **/pub**.
+* Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon...) ne doit apparaître **qu’une seule fois** dans le menu des pubs, et doit obligatoirement être réalisée via la commande <mark style="color:green;">**`/pub`**</mark>. Vous ne pourrez la republier **qu’après que l’ancienne soit expirée**. Dans le cas contraire, elle sera **supprimée par un membre du staff compétent**.
+
+{% hint style="info" %} 
+Cependant, vous pouvez activer le **message automatique** dans le <mark style="color:green;">**`/pub`**</mark>, puis dans "mes annonces", cliquez sur la pub en quetsion et enfin cliquez sur "message récurant" afin qu’il réapparaisse automatiquement **toutes les 20 minutes** dans le chat des autres joueurs.
+{% endhint %}
 
 ### <mark style="color:green;">Article B : Un langage respectueux</mark>
 
@@ -59,6 +63,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 ### <mark style="color:green;">Article A : Interactions entre joueurs</mark>
 
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
+* Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
@@ -87,13 +92,11 @@ Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket
 * **Concernant les mondes constructions et les villes :**
   * Il est interdit de créer des villes dans le seul but de récupérer des coffres, de piller des structures, etc.
   * Il est recommandé de ne pas dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
-  * Toute ville peut **être unclaim après 30 jours d'inactivité** du maire ou du député.
+  * Toute ville peut **être unclaim si tout les joueurs de cette dernière ont au minimum 30 jours d'inactivité**.
 
 {% hint style="warning" %}
 Si ces règles ne sont pas respectées, nous vous contacterons et nous vous laisserons un délai pour que vous puissiez modifier ou retirer votre structure. Une fois ce délai expiré, la structure sera détruite.
 {% endhint %}
-
-Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
 
 ### <mark style="color:green;">Article C : Utilisation de la Redstone</mark>
 
@@ -144,12 +147,14 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 
 
 * Il est interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
-* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
+
+{% hint style="warning" %}
+Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
+{% endhint %}
+
 * Merci de signaler pour une pancarte dans le spawn de votre ville & par un ticket une absence de plus d'un mois.
 
-
-
-* Au bout d'un mois d'inactivité d'un maire, sous certaines conditions, nous nous gardons le droit d'unclaim une ville.
+* Au bout d'un mois d'inactivité de tout les joueurs d'une ville et/ou sous certaines conditions, nous nous gardons le droit d'unclaim une ville.
 * Vous pouvez désormais récupérer le lead d'une ville sous ces conditions :
   * Si le maire est totalement inactif depuis 60 jours
   * Si le maire ne répond pas sur discord et/ou est totalement injoignable
@@ -182,6 +187,6 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais.
 {% endhint %}
 
-En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement.
+En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté le règlement, même en cas de changement.
 
 Toute sanction sera donnée à l'entière appréciation du staff.
