@@ -55,7 +55,7 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 
 Chaque donjon propose des monstres différents selon son biome.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image(23).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
 
