@@ -20,6 +20,19 @@ Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la diff
 
 Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`
 
+## <mark style="color:green;">Répartition des Donjons</mark>
+
+Les donjons sont classés en quatre niveaux de difficulté :
+
+* <mark style="color:green;">Commun</mark> : il faut être <mark style="color:green;">niveau 1</mark> pour y accéder.
+* <mark style="color:yellow;">Rare</mark> : il faut être <mark style="color:yellow;">niveau 10</mark> pour y accéder.
+* <mark style="color:blue;">Épique</mark> : il faut être <mark style="color:blue;">niveau 25</mark> pour y accéder.
+* <mark style="color:purple;">Légendaire</mark> : il faut être <mark style="color:purple;">niveau 40</mark> pour y accéder.
+
+{% hint style="info" %}
+Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
+{% endhint %}
+
 ## <mark style="color:green;">Types de Donjons</mark>
 
 Il existe 8 types de donjons, chacun associé à un biome spécifique :
@@ -45,38 +58,6 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 Chaque donjon propose des monstres différents selon son biome.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
-
-## <mark style="color:green;">Répartition des Donjons</mark>
-
-Les donjons sont classés en cinq niveaux de difficulté avec des pourcentages d'apparition différents :
-
-<mark style="color:green;">**Monde Ressources**</mark>
-
-| Type de Donjon                                    | Répartition (%)                               | Nombre                                      |
-| ------------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-| <mark style="color:green;">**Commun**</mark>      | <mark style="color:green;">**49,19%**</mark>  | <mark style="color:green;">**23,6**</mark>  |
-| <mark style="color:yellow;">**Rare**</mark>       | <mark style="color:yellow;">**29,51%**</mark> | <mark style="color:yellow;">**14,2**</mark> |
-| <mark style="color:blue;">**Épique**</mark>       | <mark style="color:blue;">**15,05%**</mark>   | <mark style="color:blue;">**7,2**</mark>    |
-| <mark style="color:purple;">**Légendaire**</mark> | <mark style="color:purple;">**0,00%**</mark>  | <mark style="color:purple;">**0**</mark>    |
-| <mark style="color:orange;">**Draconique**</mark> | <mark style="color:orange;">**1,25%**</mark>  | <mark style="color:orange;">**1**</mark>    |
-| <mark style="color:blue;">**Abyssal**</mark>      | <mark style="color:blue;">**10,00%**</mark>   | <mark style="color:blue;">1</mark>          |
-| <mark style="color:orange;">**Halloween**</mark>  | <mark style="color:orange;">**1,25%**</mark>  | <mark style="color:orange;">1</mark>        |
-| <mark style="color:red;">**Noël Commun**</mark>   | <mark style="color:red;">**1,25%**</mark>     | <mark style="color:red;">**16**</mark>      |
-| <mark style="color:red;">**Noël Épique**</mark>   | <mark style="color:red;">**1,25%**</mark>     | <mark style="color:red;">**16**</mark>      |
-| **Total**                                         | **100,00%**                                   | **80**                                      |
-
-<mark style="color:red;">**Nether**</mark>
-
-| Type de Donjon                                | Répartition (%)                               | Nombre                                      |
-| --------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-| <mark style="color:green;">**Commun**</mark>  | <mark style="color:green;">**52,50%**</mark>  | <mark style="color:green;">**5,25**</mark>  |
-| <mark style="color:yellow;">**Rare**</mark>   | <mark style="color:yellow;">**31,50%**</mark> | <mark style="color:yellow;">**3,15**</mark> |
-| <mark style="color:purple;">**Épique**</mark> | <mark style="color:purple;">**16,00%**</mark> | <mark style="color:purple;">**1,6**</mark>  |
-| **Total**                                     | **100,00%**                                   | **10**                                      |
-
-{% hint style="info" %}
-Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
-{% endhint %}
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
 
