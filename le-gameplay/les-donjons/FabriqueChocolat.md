@@ -13,7 +13,10 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
 ### <mark style="color:green;">XP obtenable</mark>
-Il n'y a pas encore d'information disponible a ce sujet.
+
+* Mob normal : 35 xp
+* Mini boss : 1500 xp
+* Boss : 4000 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
