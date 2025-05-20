@@ -12,6 +12,8 @@ description: Retrouvez ici toutes les informations concernant les différents co
 
 ### <mark style="color:green;"></mark><mark style="color:green;">**Créer un Coffre de Vente dans votre Ville**</mark>
 
+#### Création Manuel
+
 Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
 <mark style="color:green;">**Placez un Coffre**</mark>**&#x20;:** Posez un coffre dans votre ville à l'emplacement souhaité.
@@ -23,6 +25,8 @@ Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples 
 <mark style="color:green;">**Choisissez le Prix**</mark>**&#x20;:** Dans le chat, on vous demandera de spécifier le prix en monnaie pour l'item que vous souhaitez vendre.
 
 <mark style="color:green;">**Coffre de Vente Créé**</mark>**&#x20;:** Une fois que vous avez défini le prix, le coffre de vente sera créé. Maintenant, vous pouvez stocker l'item que vous souhaitez vendre dans ce coffre.
+
+#### Commande
 
 {% hint style="info" %}
 En suivant ces étapes, vous pouvez établir un système de vente dans votre ville, offrant aux autres joueurs la possibilité d'acheter les items que vous proposez.
@@ -82,7 +86,7 @@ Ces acheteurs sont spécialisés dans l'achat de différentes catégories de pro
 
 ## <mark style="color:green;">**Échanges entre Joueurs**</mark>
 
-Les joueurs peuvent également effectuer des échanges directs entre eux via la commande <mark style="color:green;">**`/trade "nom du joueur"`**</mark>. Cela permet des transactions de marchandises ou des achats d'articles directement entre deux joueurs.
+Les joueurs peuvent également effectuer des échanges directs entre eux via la commande <mark style="color:green;">**`/trade "nom du joueur"`**</mark>. Cette commande permet d’effectuer des transactions sécurisées (objets ou argent) entre deux joueurs proches l’un de l’autre.
 
 ## <mark style="color:green;">Enchère</mark>
 
@@ -114,3 +118,7 @@ En bas à gauche du menu principal, vous trouverez les différentes catégories 
 L'icône représentant un livre permet de trier les annonces par date ou par auteur par ordre alphabétique. Le bouton central permet d'activer des notifications pour ne rien manquer des événements sur le serveur. Vous pouvez également enregistrer des modèles d'annonces grâce à l'icône représentant un engrenage.
 
 Enfin, le bouton en bas à droite vous permet de poster votre annonce. Il est aussi possible de booster votre annonce pour augmenter sa visibilité et attirer plus d'attention.
+
+{% hint style="info" %}
+Cependant, vous pouvez activer le message automatique dans le `/pub`. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement toutes les 20 minutes dans le chat des autres joueurs.
+{% endhint %}

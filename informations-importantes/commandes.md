@@ -64,7 +64,7 @@ Le reste des commandes liées au Ville est disponible dans la section [créer un
 * <mark style="color:green;">**/encherejoin**</mark> : Permet de rejoindre les enchères.
 * <mark style="color:green;">**/encheres**</mark> : Affiche toutes les enchères en cours.
 * <mark style="color:green;">**/enchereclaim**</mark> : Permet de récupérer les gains des enchères.
-* <mark style="color:green;">**/trade \[nom du joueur]**</mark> : Échange des objets avec un autre joueur.
+* <mark style="color:green;">**/trade \[nom du joueur]**</mark> : Permet d’échanger des objets avec un autre joueur à proximité de vous.
 * <mark style="color:green;">**/money**</mark> : Affiche le montant d'argent du joueur.
 * <mark style="color:green;">**/copper\_exchange**</mark> : Permet d'échanger des ressources en cuivre.
 * <mark style="color:green;">**/boutique**</mark> : Ouvre la boutique du serveur.
