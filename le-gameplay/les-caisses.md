@@ -20,7 +20,7 @@ Il existe différents moyens d'obtenir des clés : en les achetant dans la bouti
 
 La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <mark style="color:green;">**`/vote`**</mark>.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><strong>Récompense de la caisse Vote</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Vote.png" alt=""><figcaption><p><strong>Récompense de la caisse Vote</strong></p></figcaption></figure>
 
 | **Récompense**                                                                              | **Chance**                                   |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -55,7 +55,7 @@ La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <
 
 La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 500 Gemmes, ou en participant à des events.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>Récompense de la caisse Cosmétique</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Cosmetique.png" alt=""><figcaption><p><strong>Récompense de la caisse Cosmétique</strong></p></figcaption></figure>
 
 | **Récompense**                                                      | **Chance**                                   |
 | ------------------------------------------------------------------- | -------------------------------------------- |
@@ -82,7 +82,7 @@ La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="co
 
 La clé de la Caisse Émeraude s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 350 Gemmes, ou en participant à des events.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p><strong>Récompense de la caisse Émeraude</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Emeraude.png" alt=""><figcaption><p><strong>Récompense de la caisse Émeraude</strong></p></figcaption></figure>
 
 | **Récompense**                                                           | **Chance**                                   |
 | ------------------------------------------------------------------------ | -------------------------------------------- |
@@ -109,7 +109,7 @@ La clé de la Caisse Émeraude s'obtient en l'achetant dans le <mark style="colo
 
 La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 650 Gemmes.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p><strong>Récompense de la Caisse Rubis</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Rubis.png" alt=""><figcaption><p><strong>Récompense de la Caisse Rubis</strong></p></figcaption></figure>
 
 | **Récompense**                                                                                            | **Chance**                                   |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -138,7 +138,7 @@ La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:gr
 La clé de la Caisse Draconique n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Draconique</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Draconique.png" alt=""><figcaption><p><strong>Aperçu de la Caisse Draconique</strong></p></figcaption></figure>
 
 | **Récompense**                                                       | **Chance**                                   |
 | -------------------------------------------------------------------- | -------------------------------------------- |
@@ -167,7 +167,7 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 &#x20;La clé de la Caisse Abyssale n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Abyssal.png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
 
 | **Récompense**                                                      | **Chance**                                   |
 | ------------------------------------------------------------------- | -------------------------------------------- |
@@ -196,7 +196,7 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 &#x20;La clé de la Caisse New World n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Aperçu de la Caisse New World</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Neworld.png" alt=""><figcaption><p>Aperçu de la Caisse New World</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
@@ -226,7 +226,7 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 La clé de la Caisse Halloween n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Aperçu de la Caisse Halloween</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Halloween.png" alt=""><figcaption><p>Aperçu de la Caisse Halloween</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
@@ -256,7 +256,7 @@ La clé de la Caisse Halloween n'est plus disponible.&#x20;
 La clé de la Caisse Noël n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Aperçu de la Caisse Noël</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Noel.png" alt=""><figcaption><p>Aperçu de la Caisse Noël</p></figcaption></figure>
 
 |                                                                                 |                                              |
 | ------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -286,7 +286,7 @@ La clé de la Caisse Noël n'est plus disponible.
 La clé de la Caisse Saint-Valentin n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Box_SaintValentin.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Valentin</p></figecaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_SaintValentin.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Valentin</p></figecaption></figure>
 
 |                                                                                 |                                              |
 | ------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -316,7 +316,7 @@ La clé de la Caisse Saint-Valentin n'est plus disponible.
 La clé de la Caisse Saint-Patrick n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Box_SaintPatrick.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Patrick</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_SaintPatrick.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Patrick</p></figcaption></figure>
 
 |                                                                                   |                                                     |
 | ----------------------------------------------------------------------------------| ----------------------------------------------------|
@@ -346,7 +346,7 @@ La clé de la Caisse Saint-Patrick n'est plus disponible.
 La clé de la caisse Pâques est actuellement disponible (/boutique)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Box_Paques.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Box_Paques.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
 
 |                                                                                    |                                                      |
 | -----------------------------------------------------------------------------------| -----------------------------------------------------|
