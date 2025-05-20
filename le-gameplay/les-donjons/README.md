@@ -153,13 +153,13 @@ Chaque donjon propose des monstres différents selon son biome.
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
-      <td align="center">Pet Aléatoire Donjon</td>
+      <td align="center"><mark style="color:purple;">Pet Aléatoire Donjon</mark></td>
     </tr>
     <tr>
       <td align="center">X</td>
       <td align="center"><mark style="color:orange;">Arme 1 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
-      <td align="center">Clé Aléatoire</td>
+      <td align="center"><mark style="color:purple;">Clé Aléatoire</mark></td>
     </tr>
     <tr>
       <td align="center">X</td>
