@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon Cupidon
 
 # 🟥 Donjon Cupidon
 
-<figure><img src="../../.gitbook/assets/Portail_Cupidon.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Abyssal</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Portail_Cupidon.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Cupidon</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
