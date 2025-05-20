@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le donjon rare
 
 # 🟧 Donjon Rare
 
-<figure><img src="../../.gitbook/assets/Portail_Rare.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Rare</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Rare.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Rare</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
