@@ -46,7 +46,8 @@ Cette catégorie comprend des quêtes disponibles en 5 niveaux de difficulté :&
 * <mark style="color:purple;">**Expert**</mark>
 * <mark style="color:red;">**Impossible**</mark>
 
-Il existe 6 quêtes associés aux évents :&#x20;
+Il aussi existe 6 quêtes associés aux évents :&#x20;
+
 * <mark style="color:orange;">**Halloween**</mark>
 * <mark style="color:red;">**Noël Easy**</mark>
 * <mark style="color:red;">**Noël Hard**</mark>
