@@ -8,13 +8,13 @@ description: Retrouvez ici toutes les informations concernant les classes
 **Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/Classe.gif" alt=""><figcaption><p><strong>Compétence de Classe</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Classe.gif" alt=""><figcaption><p><strong>Compétence de Classe</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Informations Générales</mark>
 
 Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</mark> distinctes :
 
-<figure><img src="../../.gitbook/assets/LesClasses_ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Classes Communes</mark>
 
@@ -69,7 +69,7 @@ En plus de ces bonus, les classes ont une progression basée sur leur rareté. P
 
 Les <mark style="color:green;">**compétences**</mark> varient également selon les classes, elles sont disponibles dans le menu de votre classe.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Déblocage des Classes</mark>
 
@@ -83,11 +83,28 @@ Dans chaque menu de classe, vous trouverez une boutique dédiée à l'achat de n
 
 #### <mark style="color:green;">Commun</mark>
 
-<table><thead><tr><th width="196" align="center">Compétences</th><th width="265" align="center">Cartes requises</th><th align="center">Prix</th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>1</strong></mark></td><td align="center"><mark style="color:green;"><strong>Obtention de la classe</strong></mark></td><td align="center"><mark style="color:green;"><strong>-</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>2</strong></mark></td><td align="center"><mark style="color:green;"><strong>50</strong></mark></td><td align="center"><mark style="color:green;"><strong>50 000</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>3</strong></mark></td><td align="center"><mark style="color:green;"><strong>100</strong></mark></td><td align="center"><mark style="color:green;"><strong>150 000</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>4</strong></mark></td><td align="center"><mark style="color:green;"><strong>200</strong></mark></td><td align="center"><mark style="color:green;"><strong>450 000</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>5</strong></mark></td><td align="center"><mark style="color:green;"><strong>400</strong></mark></td><td align="center"><mark style="color:green;"><strong>1 350 000</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>6</strong></mark></td><td align="center"><mark style="color:green;"><strong>800</strong></mark></td><td align="center"><mark style="color:green;"><strong>4 050 000</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>7</strong></mark></td><td align="center"><mark style="color:green;"><strong>1600</strong></mark></td><td align="center"><mark style="color:green;"><strong>12 150 000</strong></mark></td></tr></tbody></table>
+|               Compétences               |                        Cartes requises                       |                       Prix                       |
+| :-------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: |
+| <mark style="color:green;">**1**</mark> | <mark style="color:green;">**Obtention de la classe**</mark> |      <mark style="color:green;">**-**</mark>     |
+| <mark style="color:green;">**2**</mark> |          <mark style="color:green;">**50**</mark>            |   <mark style="color:green;">**50 000**</mark>   |
+| <mark style="color:green;">**3**</mark> |         <mark style="color:green;">**100**</mark>            |  <mark style="color:green;">**150 000**</mark>   |
+| <mark style="color:green;">**4**</mark> |         <mark style="color:green;">**200**</mark>            |  <mark style="color:green;">**450 000**</mark>   |
+| <mark style="color:green;">**5**</mark> |         <mark style="color:green;">**400**</mark>            | <mark style="color:green;">**1 350 000**</mark>  |
+| <mark style="color:green;">**6**</mark> |         <mark style="color:green;">**800**</mark>            | <mark style="color:green;">**4 050 000**</mark>  |
+| <mark style="color:green;">**7**</mark> |        <mark style="color:green;">**1600**</mark>            | <mark style="color:green;">**12 150 000**</mark> |
 
 #### <mark style="color:yellow;">Rare</mark>
 
-<table><thead><tr><th width="200" align="center">Compétences</th><th align="center">Cartes requises</th><th align="center">Prix</th></tr></thead><tbody><tr><td align="center"><mark style="color:yellow;"><strong>1</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Obtention de la classe</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>-</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>2</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>10</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>75 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>3</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>20</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>225 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>4</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>40</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>675 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>5</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>80</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>2 025 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>6</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>160</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>6 075 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>7</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>320</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>18 225 000</strong></mark></td></tr></tbody></table>
+|                Compétences               |                        Cartes requises                        |                        Prix                       |
+| :--------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------: |
+| <mark style="color:yellow;">**1**</mark> | <mark style="color:yellow;">**Obtention de la classe**</mark> |      <mark style="color:yellow;">**-**</mark>     |
+| <mark style="color:yellow;">**2**</mark> |          <mark style="color:yellow;">**10**</mark>            |   <mark style="color:yellow;">**75 000**</mark>   |
+| <mark style="color:yellow;">**3**</mark> |          <mark style="color:yellow;">**20**</mark>            |  <mark style="color:yellow;">**225 000**</mark>   |
+| <mark style="color:yellow;">**4**</mark> |          <mark style="color:yellow;">**40**</mark>            |  <mark style="color:yellow;">**675 000**</mark>   |
+| <mark style="color:yellow;">**5**</mark> |          <mark style="color:yellow;">**80**</mark>            | <mark style="color:yellow;">**2 025 000**</mark>  |
+| <mark style="color:yellow;">**6**</mark> |         <mark style="color:yellow;">**160**</mark>            | <mark style="color:yellow;">**6 075 000**</mark>  |
+| <mark style="color:yellow;">**7**</mark> |         <mark style="color:yellow;">**320**</mark>            | <mark style="color:yellow;">**18 225 000**</mark> |
+
 
 <mark style="color:blue;">**Épique**</mark>
 
@@ -115,7 +132,12 @@ Dans chaque menu de classe, vous trouverez une boutique dédiée à l'achat de n
 
 <mark style="color:green;">**Nombre de cartes nécessaires pour les classes aléatoires**</mark>
 
-<table><thead><tr><th>Classe</th><th width="259">Nombre de cartes minimum</th><th>Nombre de cartes maximum</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Classe aléatoire commune</strong></mark></td><td><mark style="color:green;"><strong>x15</strong></mark></td><td><mark style="color:green;"><strong>x30</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Classe aléatoire rare</strong></mark></td><td><mark style="color:yellow;"><strong>x5</strong></mark></td><td><mark style="color:yellow;"><strong>x10</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Classe aléatoire épique</strong></mark></td><td><mark style="color:blue;"><strong>x2</strong></mark></td><td><mark style="color:blue;"><strong>x4</strong></mark></td></tr><tr><td><mark style="color:purple;"><strong>Classe aléatoire légendaire</strong></mark></td><td><mark style="color:purple;"><strong>x1</strong></mark></td><td><mark style="color:purple;"><strong>x1</strong></mark></td></tr></tbody></table>
+|                               Classe                               |          Nombre de cartes minimum          |          Nombre de cartes maximum          |
+| :----------------------------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+| <mark style="color:green;">**Classe aléatoire commune**</mark>     | <mark style="color:green;">**x15**</mark>  | <mark style="color:green;">**x30**</mark>  |
+| <mark style="color:yellow;">**Classe aléatoire rare**</mark>       | <mark style="color:yellow;">**x5**</mark>  | <mark style="color:yellow;">**x10**</mark> |
+| <mark style="color:blue;">**Classe aléatoire épique**</mark>       | <mark style="color:blue;">**x2**</mark>    | <mark style="color:blue;">**x4**</mark>    |
+| <mark style="color:purple;">**Classe aléatoire légendaire**</mark> | <mark style="color:purple;">**x1**</mark>  | <mark style="color:purple;">**x1**</mark>  |
 
 ## <mark style="color:green;">Utilisation des compétences</mark>
 
