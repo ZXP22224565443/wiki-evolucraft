@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Archimag
 
 L'Archimage est une classe spécialisée dans les attaques à mi-distance. Grâce au pouvoir des arcanes, l'Archimage peut terrasser ses ennemis ou soutenir ses alliés.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_Archimage.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Archimage</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Archimage.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Archimage</strong></p></figcaption></figure>
 
 ## <mark style="color:blue;">Compétences</mark>
 

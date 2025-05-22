@@ -1,6 +1,6 @@
 # 🥷 Samouraï
 
-<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_Samourai.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Samouraï</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Samourai.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Samouraï</strong></p></figcaption></figure>
 
 ## <mark style="color:purple;">Compétences</mark>
 

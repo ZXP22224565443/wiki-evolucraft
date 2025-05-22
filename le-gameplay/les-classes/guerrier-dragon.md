@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Guerrier
 
 Maîtrisez la puissance draconique pour dominer le champ de bataille, infligeant des dégâts impressionnants tout en renforçant votre défense et vos compétences spéciales.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_GuerrierDragon.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Guerrier Dragon</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Guerrier_Dragon.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Guerrier Dragon</strong></p></figcaption></figure>
 
 ## <mark style="color:purple;">Compétences</mark>
 

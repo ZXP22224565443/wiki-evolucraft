@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Assassin
 
 L'Assassin est un maître de l'art de la furtivité et du combat rapproché. Utilisant des techniques rapides et précises, l'Assassin inflige des dégâts critiques et utilise des compétences mortelles pour éliminer ses ennemis avant même qu'ils ne remarquent sa présence.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_Assasin.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Assassin</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Assasin.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Assassin</strong></p></figcaption></figure>
 
 ## <mark style="color:yellow;">Compétences</mark>
 

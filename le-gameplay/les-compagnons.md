@@ -30,7 +30,7 @@ De même, le <mark style="color:green;">**donjon abyssal**</mark> offre des <mar
 Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjons draconiques et abyssaux offrent une occasion unique d'élargir votre collection de pets et de renforcer votre équipe pour affronter de nouvelles aventures.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 ## Liste des différents compagnons
 
