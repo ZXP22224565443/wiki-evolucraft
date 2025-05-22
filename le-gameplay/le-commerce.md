@@ -97,7 +97,7 @@ Les coffres de vente automatique possèdent 5 icônes :
 * <mark style="color:green;">**Coffre (inventaire)**</mark> : Permet d’accéder à l’inventaire du coffre Rubis.
 * <mark style="color:green;">**Œil de l’Ender (suppression des invendus)**</mark> : Permet de supprimer automatiquement du coffre les items ne pouvant être vendus au `/shop`.
 * <mark style="color:green;">**Porte-armure (hologramme)**</mark> : Permet d’afficher ou de cacher l’hologramme présent au-dessus du coffre.
-* <mark style="color:green;">**Seau de lave (chargement)**</mark> : Permet d’activer votre coffre de vente pour une durée d’une heure. Vous pouvez recharger le coffre sans limite.
+* <mark style="color:green;">**Seau de lave (chargement)**</mark> : Permet d’activer gratuitement votre coffre de vente pour une durée d’une heure. Vous pouvez recharger le coffre avec une durée maximum de 24H en continu.
 
 ## <mark style="color:green;">**Échanges entre Joueurs**</mark>
 
