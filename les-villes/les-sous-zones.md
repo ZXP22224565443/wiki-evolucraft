@@ -12,7 +12,7 @@ Sinon, assurez-vous que le maire vous ait donné toutes les permissions nécessa
 
 Ouvrez le menu de la ville via la commande <mark style="color:green;">**`/ville`**</mark> et cliquez sur l’onglet “Sous-Zones”, puis sur "Créer".
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/LesVilles_InterfaceV.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2</mark>
 
@@ -22,7 +22,7 @@ Le premier clic gauche avec la houe détermine la première position, tandis que
 
 Cela vous permettra de créer une zone cubique avec un point A et un point B.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/LesVilles_Selection_SousZone.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:green;">Étape 3</mark>
 

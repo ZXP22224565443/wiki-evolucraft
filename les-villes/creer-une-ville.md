@@ -16,13 +16,13 @@ Vous souhaitez créer une ville ? Parfait, vous êtes au bon endroit ! Commenço
 
 * Choisir un pays _(<mark style="color:green;">**Jaya**</mark> / <mark style="color:green;">**Lyria**</mark> / <mark style="color:green;">**Sarys**</mark>)_ dans le <mark style="color:green;">**`/pays`**</mark>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Menu du <code>/pays</code></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/LesVilles_Monde.png" alt=""><figcaption><p><strong>Menu du <code>/pays</code></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">Étape 2</mark>
 
 Trouver une zone disponible et à plus de 5 chunks des autres villes grâce au <mark style="color:green;">**`/v map`**</mark>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><strong>Aperçu du <code>/v map</code></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/LesVilles_Vmap.png" alt=""><figcaption><p><strong>Aperçu du <code>/v map</code></strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Pour visualiser un chunk, vous pouvez faire un F3+G
