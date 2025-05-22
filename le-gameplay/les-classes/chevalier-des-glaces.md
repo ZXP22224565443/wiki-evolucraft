@@ -8,7 +8,7 @@ description: >-
 
 Chevalier maniant le givre, paralysant ses ennemis dans le froid et refroidi leur ardeur.
 
-<figure><img src="../../.gitbook/assets/2025-01-13_14.27.38.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chevalier des glaces</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LesClasses/LesClasses_ChevalierGlaces.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chevalier des glaces</strong></p></figcaption></figure>
 
 ## <mark style="color:yellow;">Compétences</mark>
 

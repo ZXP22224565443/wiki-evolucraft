@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Artifici
 
 L'artificier est un ingénieur de génie qui maîtrise les technologies futuristes pour détruire ses ennemis et dominer le champ de bataille.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Artificier</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LesClasses/LesClasses_Artificier.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Artificier</strong></p></figcaption></figure>
 
 ## <mark style="color:purple;">Compétences</mark>
 

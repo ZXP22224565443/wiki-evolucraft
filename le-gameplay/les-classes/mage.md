@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Mage
 
 Le Mage est une classe puissante qui utilise la magie pour infliger des dégâts élevés à distance. Avec une variété de sorts, le Mage peut contrôler le champ de bataille en infligeant des dégâts et en paralysant ses ennemis.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Mage</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LesClasses/LesClasses_Mage.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Mage</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Compétences</mark>
 
