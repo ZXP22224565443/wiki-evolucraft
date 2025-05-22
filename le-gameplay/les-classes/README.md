@@ -14,7 +14,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</mark> distinctes :
 
-<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Classes Communes</mark>
 
@@ -69,7 +69,7 @@ En plus de ces bonus, les classes ont une progression basée sur leur rareté. P
 
 Les <mark style="color:green;">**compétences**</mark> varient également selon les classes, elles sont disponibles dans le menu de votre classe.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Déblocage des Classes</mark>
 
