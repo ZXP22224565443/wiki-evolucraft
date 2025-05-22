@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Faucher
 
 Fusion d'une discipline millénaire et d'une dévotion inflexible à la mort, le Faucheur aiguise sa faux prêt à accomplir son devoir éternel.
 
-<figure><img src="../../.gitbook/assets/LesClasses/LesClasses_Faucheur.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Faucheur</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/LesClasses_Faucheur.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Faucheur</strong></p></figcaption></figure>
 
 ## <mark style="color:blue;">Compétences</mark>
 
