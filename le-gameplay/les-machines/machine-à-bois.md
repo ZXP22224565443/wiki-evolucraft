@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant la machine à bois
 ---
 
-# <!--ici nous faut un émoji--> Machine à bois
+# 🪚 Machine à bois
 
 
 ## Tableau récapitulatif
