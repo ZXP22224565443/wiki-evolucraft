@@ -47,6 +47,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
   * Provocation, insultes envers une personne ou une communauté.
   * Racisme, misogynie, homophobie, transphobie, politique.
   * Troll, obscénité.
+  * Les majuscules abusive (BONJOUR EVOLUCRAFT)
   * Spam (envoi répété de la même phrase, du même mot), Flood (succession de la même lettre ou du même caractère. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii)
   * La mendicité (demander des items, de l'argent, etc.).
 * **Où qu'ils soient les messages sont sanctionnables :**
