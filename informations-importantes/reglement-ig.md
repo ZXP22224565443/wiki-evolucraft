@@ -34,7 +34,6 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
-Voici une version corrigée du texte :
 * Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
 
 {% hint style="info" %}
