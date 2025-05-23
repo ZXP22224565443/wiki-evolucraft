@@ -18,6 +18,19 @@ Les donjons apparaissent aléatoirement dans le monde ressource et offrent diff�
 
 Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la difficulté s'adaptant en conséquence.
 
+Les donjons sont classés en quatre niveaux de difficulté :
+
+* <mark style="color:green;">Commun</mark> : il faut être <mark style="color:green;">niveau 1</mark> pour y accéder.
+* <mark style="color:yellow;">Rare</mark> : il faut être <mark style="color:yellow;">niveau 10</mark> pour y accéder.
+* <mark style="color:blue;">Épique</mark> : il faut être <mark style="color:blue;">niveau 25</mark> pour y accéder.
+* <mark style="color:purple;">Légendaire</mark> : il faut être <mark style="color:purple;">niveau 40</mark> pour y accéder.
+
+{% hint style="info" %}
+Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
+{% endhint %}
+
+Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`.
+
 ## <mark style="color:green;">Types de Donjons</mark>
 
 Il existe 8 types de donjons, chacun associé à un biome spécifique :
@@ -42,41 +55,11 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 
 Chaque donjon propose des monstres différents selon son biome.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
-
-## <mark style="color:green;">Répartition des Donjons</mark>
-
-Les donjons sont classés en cinq niveaux de difficulté avec des pourcentages d'apparition différents :
-
-<mark style="color:green;">**Monde Ressources**</mark>
-
-| Type de Donjon                                    | Répartition (%)                               | Nombre                                      |
-| ------------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-| <mark style="color:green;">**Commun**</mark>      | <mark style="color:green;">**49,19%**</mark>  | <mark style="color:green;">**23,6**</mark>  |
-| <mark style="color:yellow;">**Rare**</mark>       | <mark style="color:yellow;">**29,51%**</mark> | <mark style="color:yellow;">**14,2**</mark> |
-| <mark style="color:blue;">**Épique**</mark>       | <mark style="color:blue;">**15,05%**</mark>   | <mark style="color:blue;">**7,2**</mark>    |
-| <mark style="color:purple;">**Légendaire**</mark> | <mark style="color:purple;">**0,00%**</mark>  | <mark style="color:purple;">**0**</mark>    |
-| <mark style="color:orange;">**Draconique**</mark> | <mark style="color:orange;">**1,25%**</mark>  | <mark style="color:orange;">**1**</mark>    |
-| <mark style="color:blue;">**Abyssal**</mark>      | <mark style="color:blue;">**10,00%**</mark>   | <mark style="color:blue;">1</mark>          |
-| <mark style="color:orange;">**Halloween**</mark>  | <mark style="color:orange;">**1,25%**</mark>  | <mark style="color:orange;">1</mark>        |
-| <mark style="color:red;">**Noël Commun**</mark>   | <mark style="color:red;">**1,25%**</mark>     | <mark style="color:red;">**16**</mark>      |
-| <mark style="color:red;">**Noël Épique**</mark>   | <mark style="color:red;">**1,25%**</mark>     | <mark style="color:red;">**16**</mark>      |
-| **Total**                                         | **100,00%**                                   | **80**                                      |
-
-<mark style="color:red;">**Nether**</mark>
-
-| Type de Donjon                                | Répartition (%)                               | Nombre                                      |
-| --------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
-| <mark style="color:green;">**Commun**</mark>  | <mark style="color:green;">**52,50%**</mark>  | <mark style="color:green;">**5,25**</mark>  |
-| <mark style="color:yellow;">**Rare**</mark>   | <mark style="color:yellow;">**31,50%**</mark> | <mark style="color:yellow;">**3,15**</mark> |
-| <mark style="color:purple;">**Épique**</mark> | <mark style="color:purple;">**16,00%**</mark> | <mark style="color:purple;">**1,6**</mark>  |
-| **Total**                                     | **100,00%**                                   | **10**                                      |
-
-{% hint style="info" %}
-Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_Donjon_Foret.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
+
+### Récompenses dans les coffres
 
 <table data-header-hidden>
   <thead>
@@ -152,7 +135,7 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
       <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
-      <td align="center"><mark style="color:red;">Bonbon au Raisin (x2)</mark></td>
+      <td align="center"><mark style="color:violet;">Bonbon au Raisin (x2)</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
@@ -170,13 +153,13 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
-      <td align="center">Pet Aléatoire Donjon</td>
+      <td align="center"><mark style="color:purple;">Pet Aléatoire Donjon</mark></td>
     </tr>
     <tr>
       <td align="center">X</td>
       <td align="center"><mark style="color:orange;">Arme 1 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
-      <td align="center">Clé Aléatoire</td>
+      <td align="center"><mark style="color:purple;">Clé Aléatoire</mark></td>
     </tr>
     <tr>
       <td align="center">X</td>
@@ -421,6 +404,26 @@ Plus un donjon est rare, plus il est difficile, mais les récompenses sont égal
     </tr>
   </tbody>
 </table>
+
+### Armes obtenables en fonction des biomes
+
+| **Forêt**           | **Jungle**               | **Marais**                    | **Toundra**              |
+| ------------------- | ------------------------ | ----------------------------- | ------------------------ |
+| **Arc sylvanique**  | **Souffle du serpent**   | **Bénédiction d'Adam**        | **Sceptre de glace**     |
+| **Brise-feuille**   | **Sceptre de la nature** | **Sceptre des âmes errantes** | **Lance glacial**        |
+| **Croc de Fenrir**  | **Dague vipérienne**     | **Lame du komodo**            | **Tranche givre**        |
+| **Bâton de vie**    | **Bâton arcanique**      | **Bâton de Cthulhu**          | **Dague polaire**        |
+| **Harpe sylvestre** | **Harpe épineuse**       | **Poing de la tristesse**     | **Gant gelé**            |
+| **X**               | **Pistolet racineux**    | **X**                         | **Pistolet du blizzard** |
+
+| **Mesa**               | **Désert**                 | **Savane**               | **Nether**             |
+| ---------------------- | -------------------------- | ------------------------ | ---------------------- |
+| **Marteau sismique**   | **Sabre des sables**       | **Écraseur de tête**     | **Lame du styx**       |
+| **Sceptre d'orc**      | **Sceptre de feu**         | **Bâton magique**        | **Lance éternelle**    |
+| **Fendoir orc**        | **Courroux de la lumière** | **Sceptre du monarque**  | **Bouclier du chaos**  |
+| **Os d'ogre**          | **Livre ancien momifié**   | **Bâton squelettique**   | **Arc traque-coeur**   |
+| **Gant du massacreur** | **Poing de la colère**     | **Harpe des murmures**   | **Gant emflammé**      |
+| **X**                  | **X**                      | **Poing de la sérénité** | **Pistolet du phénix** |
 
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.

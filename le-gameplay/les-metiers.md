@@ -12,7 +12,7 @@ description: Retrouvez ici toutes les informations concernant les métiers
 
 La totalité des choses à connaître sur les métiers est à retrouver dans le menu <mark style="color:green;">**`/jobs`**</mark>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-15 à 09.47.50.png" alt=""><figcaption><p><strong>Menu des Métiers</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu/Jobs.png" alt=""><figcaption><p><strong>Menu des Métiers</strong></p></figcaption></figure>
 
 Sur Evolucraft, les joueurs ont la possibilité de choisir parmi six métiers différents, chacun offrant des opportunités uniques pour gagner de l'argent et progresser dans le jeu.&#x20;
 

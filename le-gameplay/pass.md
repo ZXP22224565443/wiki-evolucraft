@@ -10,7 +10,7 @@ description: Retrouvez ici toutes les informations concernant le pass
 
 Avec le Pass sur Evolucraft, chaque mois est une nouvelle aventure remplie de possibilités pour gagner du Farmium, un bien précieux pour évoluer et obtenir des récompenses exclusives.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pass</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu/Pass.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pass</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:green;">**Fonctionnement du Pass**</mark>
 

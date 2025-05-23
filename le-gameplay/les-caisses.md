@@ -8,11 +8,11 @@ description: Retrouvez ici toutes les informations concernant les caisses
 **Tuto : Maximiser sa Progression sur Evolucraft**
 {% endembed %}
 
-Pour ajouter un aspect aléatoire à votre aventure, des caisses sont disponibles sur Evolucraft. Certaines sont disponibles de manière permanente tandis que d'autres ne sont qu'éphémères.
+Pour ajouter un aspect Aléatoire à votre aventure, des caisses sont disponibles sur Evolucraft. Certaines sont disponibles de manière permanente tandis que d'autres ne sont qu'éphémères.
 
 Pour ouvrir ces caisses, vous devrez vous rendre, muni d'une clé, au <mark style="color:green;">**`/spawn`**</mark>. Les caisses se trouveront alors sur votre droite.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><strong>Aperçu des caisses</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Apercu.png" alt=""><figcaption><p><strong>Aperçu des caisses</strong></p></figcaption></figure>
 
 Il existe différents moyens d'obtenir des clés : en les achetant dans la boutique avec des Gemmes, en votant pour le serveur, ou encore en les gagnant dans les events.
 
@@ -20,7 +20,7 @@ Il existe différents moyens d'obtenir des clés : en les achetant dans la bouti
 
 La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <mark style="color:green;">**`/vote`**</mark>.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><strong>Récompense de la caisse Vote</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Vote.png" alt=""><figcaption><p><strong>Récompense de la caisse Vote</strong></p></figcaption></figure>
 
 | **Récompense**                                                                              | **Chance**                                   |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -55,7 +55,7 @@ La clé de la Caisse Vote s'obtient en votant pour le serveur avec la commande <
 
 La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 500 Gemmes, ou en participant à des events.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>Récompense de la caisse Cosmétique</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Cosmetique.png" alt=""><figcaption><p><strong>Récompense de la caisse Cosmétique</strong></p></figcaption></figure>
 
 | **Récompense**                                                      | **Chance**                                   |
 | ------------------------------------------------------------------- | -------------------------------------------- |
@@ -82,7 +82,7 @@ La clé de la Caisse Cosmétique s'obtient en l'achetant dans le <mark style="co
 
 La clé de la Caisse Émeraude s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 350 Gemmes, ou en participant à des events.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p><strong>Récompense de la caisse Émeraude</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Emeraude.png" alt=""><figcaption><p><strong>Récompense de la caisse Émeraude</strong></p></figcaption></figure>
 
 | **Récompense**                                                           | **Chance**                                   |
 | ------------------------------------------------------------------------ | -------------------------------------------- |
@@ -109,7 +109,7 @@ La clé de la Caisse Émeraude s'obtient en l'achetant dans le <mark style="colo
 
 La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:green;">**`/boutique`**</mark> au prix de 650 Gemmes.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p><strong>Récompense de la Caisse Rubis</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Rubis.png" alt=""><figcaption><p><strong>Récompense de la Caisse Rubis</strong></p></figcaption></figure>
 
 | **Récompense**                                                                                            | **Chance**                                   |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -132,42 +132,13 @@ La clé de la Caisse Rubis s'obtient en l'achetant dans le <mark style="color:gr
 | <mark style="color:red;">**Clé Rubis**</mark> (x2)                                                        | <mark style="color:red;">**5,82%**</mark>    |
 | <mark style="color:red;">**Grade**</mark>**&#x20;**<mark style="color:yellow;">**Héros**</mark> (Version) | <mark style="color:red;">**1%**</mark>       |
 
-## <mark style="color:blue;">Caisse Abyssale</mark> (Temporaire)
-
-{% hint style="warning" %}
-&#x20;La clé de la Caisse Abyssale n'est plus disponible.&#x20;
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
-
-| **Récompense**                                                      | **Chance**                                   |
-| ------------------------------------------------------------------- | -------------------------------------------- |
-| <mark style="color:blue;">**Casque Abyssal**</mark>                 | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Plastron Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Pantalon Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Bottes Abyssales**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Houe Abyssale**</mark>                  | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Oeuf de Familier**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Cosmétique Aléatoire**</mark>           | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Pack de Décorations Aléatoire**</mark>  | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**1.500.000**</mark>**💰**                | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Spawner Aléatoire**</mark>              | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Booster Aléatoire**</mark> (100%) (1h)  | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark> | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)        | <mark style="color:purple;">**5,55%**</mark> |
-| <mark style="color:blue;">**Clé Abyssale**</mark> (x2)              | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Arme Aléatoire**</mark>                 | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:green;">**Carte du Barde**</mark> (x40)          | <mark style="color:green;">**5,55%**</mark>  |
-| <mark style="color:purple;">**Carte de l'Artificier**</mark>        | <mark style="color:purple;">**5,55%**</mark> |
-| <mark style="color:blue;">**Pierre de Téléportation**</mark>        | <mark style="color:blue;">**5,55%**</mark>   |
-
 ## <mark style="color:orange;">Caisse Draconique</mark> (Temporaire)
 
 {% hint style="warning" %}
 La clé de la Caisse Draconique n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p><strong>Aperçu de la Caisse Draconique</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Draconique.png" alt=""><figcaption><p><strong>Aperçu de la Caisse Draconique</strong></p></figcaption></figure>
 
 | **Récompense**                                                       | **Chance**                                   |
 | -------------------------------------------------------------------- | -------------------------------------------- |
@@ -190,7 +161,34 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 | <mark style="color:orange;">**Clé Draconique**</mark> (x2)           | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Armes Aléatoire**</mark>               | <mark style="color:orange;">**5,55%**</mark> |
 
+## <mark style="color:blue;">Caisse Abyssale</mark> (Temporaire)
 
+{% hint style="warning" %}
+&#x20;La clé de la Caisse Abyssale n'est plus disponible.&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Les_Caisses/Abyssal.png" alt=""><figcaption><p><strong>Aperçu de la Caisse Abyssal</strong></p></figcaption></figure>
+
+| **Récompense**                                                      | **Chance**                                   |
+| ------------------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:blue;">**Casque Abyssal**</mark>                 | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Plastron Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Pantalon Abyssal**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Bottes Abyssales**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Houe Abyssale**</mark>                  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Oeuf de Familier**</mark>               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Cosmétique Aléatoire**</mark>           | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Pack de Décorations Aléatoire**</mark>  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**1.500.000**</mark>**💰**                | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Spawner Aléatoire**</mark>              | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Booster Aléatoire**</mark> (100%) (1h)  | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark> | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)        | <mark style="color:purple;">**5,55%**</mark> |
+| <mark style="color:blue;">**Clé Abyssale**</mark> (x2)              | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Arme Aléatoire**</mark>                 | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:green;">**Carte du Barde**</mark> (x40)          | <mark style="color:green;">**5,55%**</mark>  |
+| <mark style="color:purple;">**Carte de l'Artificier**</mark>        | <mark style="color:purple;">**5,55%**</mark> |
+| <mark style="color:blue;">**Pierre de Téléportation**</mark>        | <mark style="color:blue;">**5,55%**</mark>   |
 
 ## <mark style="color:purple;">Caisse New World</mark> (Temporaire)
 
@@ -198,27 +196,27 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 &#x20;La clé de la Caisse New World n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Aperçu de la Caisse New World</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Neworld.png" alt=""><figcaption><p>Aperçu de la Caisse New World</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
 | **Récompense**                                                                | **Chance**                                   |
-| <mark style="color:yellow;">**Casque du conquistador**</mark>                 | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Plastron du conquistador**</mark>               | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Jambières du conquistador**</mark>              | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Bottes du conquistador**</mark>                 | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Epée du conquistador**</mark>                   | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Pioche du conquistador**</mark>                 | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Hache du conquistador**</mark>                  | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Houe du conquistador**</mark>                   | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Canne à pêche du conquistador**</mark>          | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Œuf de familier**</mark>                        | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Arroseur automatique**</mark>                   | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Casque du Conquistador**</mark>                 | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Plastron du Conquistador**</mark>               | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Jambières du Conquistador**</mark>              | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Bottes du Conquistador**</mark>                 | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Epée du Conquistador**</mark>                   | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Pioche du Conquistador**</mark>                 | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Hache du Conquistador**</mark>                  | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Houe du Conquistador**</mark>                   | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Canne à pêche du Conquistador**</mark>          | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Œuf de Familier**</mark>                        | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Arroseur Automatique**</mark>                   | <mark style="color:yellow;">**5,55%**</mark> |
 | <mark style="color:yellow;">**Terre en pot**</mark>**&#x20;(x32)**            | <mark style="color:yellow;">**5,55%**</mark> |
 | <mark style="color:yellow;">**2.000.000💰**</mark>                            | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Spawner aléatoire**</mark>                      | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:yellow;">**Booster aléatoire**</mark>**&#x20;(100%) (1h)** | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:red;">**Parchemin d'aventure Impossible**</mark>           | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:yellow;">**Spawner Aléatoire**</mark>                      | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:yellow;">**Booster Aléatoire**</mark>**&#x20;(100%) (1h)** | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:red;">**Parchemin d'Aventure Impossible**</mark>           | <mark style="color:red;">**5,55%**</mark>    |
 | <mark style="color:purple;">**Bonbon au Raisin**</mark> (x4)                  | <mark style="color:purple;">**5,55%**</mark> |
 | <mark style="color:yellow;">**Clé aux Trésors**</mark>**&#x20;(2x)**          | <mark style="color:yellow;">**5,55%**</mark> |
 
@@ -228,26 +226,26 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 La clé de la Caisse Halloween n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Aperçu de la Caisse Halloween</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Halloween.png" alt=""><figcaption><p>Aperçu de la Caisse Halloween</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
 | **Récompense**                                                                | **Chance**                                   |
-| <mark style="color:orange;">**Casque de minuit**</mark>                       | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Plastron de minuit**</mark>                     | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Jambières de minuit**</mark>                    | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Bottes de minuit**</mark>                       | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Sceptre du bâtisseur**</mark>                   | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Sac chauve souris**</mark>                      | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Œuf de familier**</mark>                        | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Cosmétique aléatoire**</mark>                   | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Arme aléatoire**</mark>                         | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Booster aléatoire**</mark>**&#x20;(100%) (1h)** | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Peluche aléatoire**</mark>                      | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Casque de Minuit**</mark>                       | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Plastron de Minuit**</mark>                     | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Jambières de Minuit**</mark>                    | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Bottes de Minuit**</mark>                       | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Sceptre du Bâtisseur**</mark>                   | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Sac Chauve-souris**</mark>                      | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Œuf de Familier**</mark>                        | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Cosmétique Aléatoire**</mark>                   | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Arme Aléatoire**</mark>                         | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Booster Aléatoire**</mark>**&#x20;(100%) (1h)** | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Peluche Aléatoire**</mark>                      | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**2.500.000💰**</mark>                            | <mark style="color:orange;">**5,55%**</mark> |
-| <mark style="color:orange;">**Spawner aléatoire**</mark>                      | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Spawner Aléatoire**</mark>                      | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:blue;">**Carte du Faucheur**</mark>**&#x20;(x3)**          | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:orange;">**Pierre de téléportation**</mark>                | <mark style="color:orange;">**5,55%**</mark> |
+| <mark style="color:orange;">**Pierre de Téléportation**</mark>                | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:orange;">**Parchemin Halloween**</mark>**&#x20;(x3)**      | <mark style="color:orange;">**5,55%**</mark> |
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**         | <mark style="color:purple;">**5,55%**</mark> |
 | <mark style="color:orange;">**Clé Halloween**</mark>**&#x20;(x2)**            | <mark style="color:orange;">**5,55%**</mark> |
@@ -258,7 +256,7 @@ La clé de la Caisse Halloween n'est plus disponible.&#x20;
 La clé de la Caisse Noël n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Aperçu de la Caisse Noël</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Noel.png" alt=""><figcaption><p>Aperçu de la Caisse Noël</p></figcaption></figure>
 
 |                                                                                 |                                              |
 | ------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -267,18 +265,18 @@ La clé de la Caisse Noël n'est plus disponible.
 | <mark style="color:blue;">**Plastron du Père Noël**</mark>                      | <mark style="color:blue;">**5,55%**</mark>   |
 | <mark style="color:blue;">**Jambières du Père Noël**</mark>                     | <mark style="color:blue;">**5,55%**</mark>   |
 | <mark style="color:blue;">**Bottes du Père Noël**</mark>                        | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Pioche des glaces**</mark>                          | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Hache des glaces**</mark>                           | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Œuf de familier**</mark>                            | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Pack de décorations**</mark>                        | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Cosmétique aléatoire**</mark>                       | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Arme aléatoire**</mark>                             | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Booster aléatoire**</mark>                          | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Cadeau givré**</mark>                               | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Pioche des Glaces**</mark>                          | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Hache des Glaces**</mark>                           | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Œuf de Familier**</mark>                            | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Pack de Décorations**</mark>                        | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Cosmétique Aléatoire**</mark>                       | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Arme Aléatoire**</mark>                             | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Booster Aléatoire**</mark>                          | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Cadeau Givré**</mark>                               | <mark style="color:blue;">**5,55%**</mark>   |
 | <mark style="color:blue;">**2.750.000💰**</mark>                                | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:blue;">**Spawner aléatoire**</mark>                          | <mark style="color:blue;">**5,55%**</mark>   |
-| <mark style="color:yellow;">**Carte Chevalier des glaces**</mark>**&#x20;(x6)** | <mark style="color:yellow;">**5,55%**</mark> |
-| <mark style="color:blue;">**Parchemin des glaces**</mark>**&#x20;(x3)**         | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:blue;">**Spawner Aléatoire**</mark>                          | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:yellow;">**Carte Chevalier des Glaces**</mark>**&#x20;(x6)** | <mark style="color:yellow;">**5,55%**</mark> |
+| <mark style="color:blue;">**Parchemin des Glaces**</mark>**&#x20;(x3)**         | <mark style="color:blue;">**5,55%**</mark>   |
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**           | <mark style="color:purple;">**5,55%**</mark> |
 | <mark style="color:blue;">**Clé Givrée**</mark>**&#x20;(x2)**                   | <mark style="color:blue;">**5,55%**</mark>   |
 
@@ -288,7 +286,7 @@ La clé de la Caisse Noël n'est plus disponible.
 La clé de la Caisse Saint-Valentin n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Box_SaintValentin.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Valentin</p></figecaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Saint-Valentin.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Valentin</p></figecaption></figure>
 
 |                                                                                 |                                              |
 | ------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -300,16 +298,16 @@ La clé de la Caisse Saint-Valentin n'est plus disponible.
 | <mark style="color:red;">**Marteau de Cupidon**</mark>                          | <mark style="color:red;">**5,55%**</mark>    |
 | <mark style="color:red;">**Épée de Cupidon**</mark>                             | <mark style="color:red;">**5,55%**</mark>    |
 | <mark style="color:red;">**Œuf de Familier**</mark>                             | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:red;">**Pack de décorations**</mark>                         | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:red;">**Pack de Décorations**</mark>                         | <mark style="color:red;">**5,55%**</mark>    |
 | <mark style="color:red;">**Cosmétique Aléatoire**</mark>                        | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:red;">**Arme aléatoire**</mark>                              | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:red;">**Booster aléatoire**</mark>                           | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:blue;">**Carte de l'archimage**</mark>                       | <mark style="color:blue;">**5,55%**</mark>   |
+| <mark style="color:red;">**Arme Aléatoire**</mark>                              | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:red;">**Booster Aléatoire**</mark>                           | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:blue;">**Carte de l'Archimage**</mark>                       | <mark style="color:blue;">**5,55%**</mark>   |
 | <mark style="color:red;">**3.000.000💰**</mark>                                 | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:red;">**Spawner aléatoire**</mark>                           | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:red;">**Parchemin de l'amour**</mark>**&#x20;(x3)**           | <mark style="color:red;">**5,55%**</mark>    |
-| <mark style="color:purple;">**Bonbon au raisin**</mark>**&#x20;(x4)**            | <mark style="color:purple;">**5,55%**</mark> |
-| <mark style="color:red;">**Pierre de téléportation aléatoire**</mark>            | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:red;">**Spawner Aléatoire**</mark>                           | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:red;">**Parchemin de l'Amour**</mark>**&#x20;(x3)**          | <mark style="color:red;">**5,55%**</mark>    |
+| <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**           | <mark style="color:purple;">**5,55%**</mark> |
+| <mark style="color:red;">**Pierre de Téléportation Aléatoire**</mark>           | <mark style="color:red;">**5,55%**</mark>    |
 | <mark style="color:red;">**Clé de Cupidon**</mark>                              | <mark style="color:red;">**5,55%**</mark>    |
 
 ## <mark style="color:green;">Caisse Saint-Patrick</mark> (Temporaire)
@@ -318,7 +316,7 @@ La clé de la Caisse Saint-Valentin n'est plus disponible.
 La clé de la Caisse Saint-Patrick n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Box_SaintPatrick.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Patrick</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Saint-Patrick.png" alt=""><figcaption><p>Aperçu de la Caisse Saint-Patrick</p></figcaption></figure>
 
 |                                                                                   |                                                     |
 | ----------------------------------------------------------------------------------| ----------------------------------------------------|
@@ -328,16 +326,16 @@ La clé de la Caisse Saint-Patrick n'est plus disponible.
 | <mark style="color:green;">**Jambières du Leprechaun**</mark>                     | <mark style="color:green;">**5,55%**</mark>         |
 | <mark style="color:green;">**Bottes du Leprechaun**</mark>                        | <mark style="color:green;">**5,55%**</mark>         |
 | <mark style="color:green;">**Epée du Leprechaun**</mark>                          | <mark style="color:green;">**5,55%**</mark>         |
-| <mark style="color:green;">**Bâton de vent**</mark>                               | <mark style="color:green;">**5,55%**</mark>         |
+| <mark style="color:green;">**Bâton de Vent**</mark>                               | <mark style="color:green;">**5,55%**</mark>         |
 | <mark style="color:green;">**Houe du Leprechaun**</mark>                          | <mark style="color:green;">**5,55%**</mark>         |
 | <mark style="color:green;">**Coffre du Leprechaun**</mark>                        | <mark style="color:green;">**5,55%**</mark>         |
 | <mark style="color:green;">**Oeuf du Leprechaun**</mark>                          | <mark style="color:green;">**5,56%**</mark>         |
-| <mark style="color:green;">**Peluche aléatoire**</mark>                           | <mark style="color:green;">**5,56%**</mark>         |
-| <mark style="color:green;">**Booster aléatoire (100%) (1h)**</mark>               | <mark style="color:green;">**5,56%**</mark>         |
+| <mark style="color:green;">**Peluche Aléatoire**</mark>                           | <mark style="color:green;">**5,56%**</mark>         |
+| <mark style="color:green;">**Booster Aléatoire (100%) (1h)**</mark>               | <mark style="color:green;">**5,56%**</mark>         |
 | <mark style="color:green;">**3.500.000💰**</mark>                                | <mark style="color:green;">**5,56%**</mark>         |
-| <mark style="color:green;">**Spawner aléatoire**</mark>                           | <mark style="color:green;">**5,56%**</mark>         |
+| <mark style="color:green;">**Spawner Aléatoire**</mark>                           | <mark style="color:green;">**5,56%**</mark>         |
 | <mark style="color:green;">**Bière du Leprechaun**</mark>                         | <mark style="color:green;">**5,56%**</mark>         |
-| <mark style="color:purple;">**Pierre de téléportation**</mark>                    | <mark style="color:purple;">**5,56%**</mark>        |
+| <mark style="color:purple;">**Pierre de Téléportation**</mark>                    | <mark style="color:purple;">**5,56%**</mark>        |
 | <mark style="color:red;">**Parchemin d'aventure Impossible**</mark>**&#x20;(x2)** | <mark style="color:red;">**5,56%**</mark>           |
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**             | <mark style="color:purple;">**5,56%**</mark>        |
 | <mark style="color:green;">**Clé du Leprechaun**</mark>**&#x20;(x2)**             | <mark style="color:green;">**5,56%**</mark>          |
@@ -348,7 +346,7 @@ La clé de la Caisse Saint-Patrick n'est plus disponible.
 La clé de la caisse Pâques est actuellement disponible (/boutique)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Box_Paques.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Paques.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
 
 |                                                                                    |                                                      |
 | -----------------------------------------------------------------------------------| -----------------------------------------------------|
@@ -357,18 +355,18 @@ La clé de la caisse Pâques est actuellement disponible (/boutique)
 | <mark style="color:yellow;">**Plastron du Lapin**</mark>                           | <mark style="color:yellow;">**5,55%**</mark>         |
 | <mark style="color:yellow;">**Jambières du Lapin**</mark>                          | <mark style="color:yellow;">**5,55%**</mark>         |
 | <mark style="color:yellow;">**Bottes du Lapin**</mark>                             | <mark style="color:yellow;">**5,55%**</mark>         |
-| <mark style="color:yellow;">**Traqueur de donjon**</mark>                          | <mark style="color:yellow;">**5,55%**</mark>         |
-| <mark style="color:yellow;">**Sceau vide infini**</mark>                           | <mark style="color:yellow;">**5,55%**</mark>         |
-| <mark style="color:yellow;">**Oeufs de pâques**</mark>                             | <mark style="color:yellow;">**5,55%**</mark>         |
+| <mark style="color:yellow;">**Traqueur de Donjon**</mark>                          | <mark style="color:yellow;">**5,55%**</mark>         |
+| <mark style="color:yellow;">**Sceau Vide Infini**</mark>                           | <mark style="color:yellow;">**5,55%**</mark>         |
+| <mark style="color:yellow;">**Oeufs de Pâques**</mark>                             | <mark style="color:yellow;">**5,55%**</mark>         |
 | <mark style="color:yellow;">**Pack de décoration**</mark>                          | <mark style="color:yellow;">**5,55%**</mark>         |
-| <mark style="color:yellow;">**Peluche aléatoire**</mark>                           | <mark style="color:yellow;">**5,56%**</mark>         |
-| <mark style="color:yellow;">**Arme aléatoire**</mark>                              | <mark style="color:yellow;">**5,56%**</mark>         |
-| <mark style="color:yellow;">**Booster aléatoire (100%) (1h)**</mark>               | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Peluche Aléatoire**</mark>                           | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Arme Aléatoire**</mark>                              | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Booster Aléatoire (100%) (1h)**</mark>               | <mark style="color:yellow;">**5,56%**</mark>         |
 | <mark style="color:yellow;">**4.000.000💰**</mark>                                 | <mark style="color:yellow;">**5,56%**</mark>         |
-| <mark style="color:yellow;">**Spawner aléatoire**</mark>                           | <mark style="color:yellow;">**5,56%**</mark>         |
-| <mark style="color:yellow;">**Carte du samouraï**</mark>                           | <mark style="color:yellow;">**5,56%**</mark>         |
-| <mark style="color:yellow;">**Pierre de téléportation**</mark>                     | <mark style="color:yellow;">**5,56%**</mark>         |
-| <mark style="color:yellow;">**Parchemin aléatoire Pâques**</mark>**&#x20;(x3)**    | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Spawner Aléatoire**</mark>                           | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Carte du Samouraï**</mark>                           | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Pierre de Téléportation**</mark>                     | <mark style="color:yellow;">**5,56%**</mark>         |
+| <mark style="color:yellow;">**Parchemin Aléatoire Pâques**</mark>**&#x20;(x3)**    | <mark style="color:yellow;">**5,56%**</mark>         |
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**              | <mark style="color:purple;">**5,56%**</mark>         |
 | <mark style="color:yellow;">**Clé Pâques**</mark>**&#x20;(x2)**                    | <mark style="color:yellow;">**5,56%**</mark>         |
 

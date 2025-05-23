@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Clerc
 
 Maîtrisez les arts sacrés pour soutenir vos alliés et infliger des dégâts divins à vos ennemis, utilisant la lumière et la guérison pour guider votre équipe vers la victoire.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Clerc</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Clerc.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Clerc</strong></p></figcaption></figure>
 
 ## <mark style="color:purple;">Compétences</mark>
 

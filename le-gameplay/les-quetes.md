@@ -16,7 +16,7 @@ Que vous soyez un débutant cherchant à explorer le serveur ou un aventurier ch
 
 Toutes les fonctionnalités liées aux quêtes sont regroupées dans un menu pratique accessible via la commande <mark style="color:green;">**`/quete`**</mark>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-15 à 13.49.31.png" alt=""><figcaption><p><strong>Menu des quêtes</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu/Quest.png" alt=""><figcaption><p><strong>Menu des quêtes</strong></p></figcaption></figure>
 
 Il existe trois catégories de quêtes :
 
@@ -45,9 +45,16 @@ Cette catégorie comprend des quêtes disponibles en 5 niveaux de difficulté :&
 * <mark style="color:blue;">**Difficile**</mark>
 * <mark style="color:purple;">**Expert**</mark>
 * <mark style="color:red;">**Impossible**</mark>
+
+Il existe aussi 6 quêtes associées aux anciens évènement :&#x20;
+
 * <mark style="color:orange;">**Halloween**</mark>
 * <mark style="color:red;">**Noël Easy**</mark>
 * <mark style="color:red;">**Noël Hard**</mark>
+* <mark style="color:red;">De l'Amour</mark>
+* <mark style="color:yellow;">Terrier du Roi Lapin</mark>
+* <mark style="color:yellow;">Fabrique de Chocolat</mark>
+
 
 Ces quêtes sont obtenables dans les caisses, récompenses votes, récompenses jobs, les Rewards ainsi que dans les donjons.&#x20;
 

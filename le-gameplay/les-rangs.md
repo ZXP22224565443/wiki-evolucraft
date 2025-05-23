@@ -14,7 +14,7 @@ Avant même d'atteindre le palier suivant, les joueurs peuvent consulter les pr�
 
 Découvrez les <mark style="color:green;">**15 différents rangs**</mark> et les avantages associés à chacun grace au <mark style="color:green;">**`/rangs`**</mark> :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-04-15 à 11.41.51.png" alt=""><figcaption><p><strong><code>Menu</code></strong><mark style="color:green;"><strong><code>/rangs</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Menu/Rang.png" alt=""><figcaption><p><strong><code>Menu</code></strong><mark style="color:green;"><strong><code>/rangs</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:green;">Rang de Départ</mark>
 

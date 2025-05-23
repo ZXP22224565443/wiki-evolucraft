@@ -10,27 +10,33 @@ description: Retrouvez ici toutes les informations concernant les différents co
 
 ## <mark style="color:green;">Coffre de Vente</mark>
 
-### <mark style="color:green;">C</mark><mark style="color:green;">**réer un Coffre de Vente dans votre Ville**</mark>
+### <mark style="color:green;"></mark><mark style="color:green;">**Créer un Coffre de Vente dans votre Ville**</mark>
+
+#### Création Manuel
 
 Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
 <mark style="color:green;">**Placez un Coffre**</mark>**&#x20;:** Posez un coffre dans votre ville à l'emplacement souhaité.
 
-<mark style="color:green;">**Sélectionnez l'Item à Vendre**</mark>**&#x20;:** Tenez l'item que vous souhaitez vendre dans votre main.
+<mark style="color:green;">**Sélectionnez l'Item à Vendre**</mark>**&#x20;:** Tenez l'item que vous souhaitez vendre dans votre main. 
 
-<mark style="color:green;">**Clic Gauche sur le Coffre**</mark>**&#x20;:** Cliquez gauche sur le coffre que vous avez placé.
+<mark style="color:green;">**Clic Gauche sur le Coffre**</mark>**&#x20;:** Cliquez gauche sur le coffre que vous avez placé. Pour les items qui ce consomme avec un clique gauche, faite `/qs create` en regardant le coffre
 
 <mark style="color:green;">**Choisissez le Prix**</mark>**&#x20;:** Dans le chat, on vous demandera de spécifier le prix en monnaie pour l'item que vous souhaitez vendre.
 
 <mark style="color:green;">**Coffre de Vente Créé**</mark>**&#x20;:** Une fois que vous avez défini le prix, le coffre de vente sera créé. Maintenant, vous pouvez stocker l'item que vous souhaitez vendre dans ce coffre.
 
+#### Commande
+
 {% hint style="info" %}
 En suivant ces étapes, vous pouvez établir un système de vente dans votre ville, offrant aux autres joueurs la possibilité d'acheter les items que vous proposez.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p><strong>Aperçu d'un Clic Droit sur le Coffre de Vente</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Gestion_Shop.png" alt=""><figcaption><p><strong>Aperçu d'un Clic Droit sur le Coffre de Vente</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Hôtel des Ventes</mark>
+
+### Présentation de l'hôtel de vente
 
 Pour ce qui est des Objets Customs du serveur, ils peuvent être achetés et vendus via l'interface de l'Hôtel des Ventes. Cette interface est divisée en plusieurs sections :
 
@@ -44,39 +50,71 @@ Pour ce qui est des Objets Customs du serveur, ils peuvent être achetés et ven
 
 Les deux boutons en bas de l'interface permettent aux joueurs de gérer leurs ventes en premier lieu, puis de récupérer les objets qu'ils ont achetés.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p><strong>Menu</strong> <strong><code>/ah</code></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Ah.png" alt=""><figcaption><p><strong>Menu</strong> <strong><code>/ah</code></strong></p></figcaption></figure>
 
-{% hint style="info" %}
-Pour récupérer vos objets acheter au /ah, il vous suffit de faire la commande /ah claim
+### Commande de l'hôtel de vente
+
+{% hint style="warning" %}
+`[...]` Signifie que le paramètre est obligatoire
+
+`<...>` Signifie que vous pouvez mettre une chaine de caractères avec des espaces
+
+`{...}` Signifie que le paramètre est optionnel
 {% endhint %}
+
+* <mark style="color:green;">**`/ah sell [prix]`**</mark> : Vend l'objet dans votre main a l'hôtel de vente.
+* <mark style="color:green;">**`/ah average`**</mark> : Donne le prix moyen de l'objet dans votre main.
+* <mark style="color:green;">**`/ah search {paramètre:nom du paramètre}`**</mark> : Permet de rechercher un objet spécifique a l'hôtel des ventes.
+* <mark style="color:green;">**`/ah claim`**</mark> : Ouvre l'interface de récupération des objets acheter a l'hôtel des ventes.
+* <mark style="color:green;">**`/ah history`**</mark> : Ouvre l'historique de vos ventes / achats dans l'hôtel des ventes.
+* <mark style="color:green;">**`/ah viewmine`**</mark> : Affiche vos objets mis en vente dans l'hôtel des ventes.
 
 ## <mark style="color:green;">Shop Général</mark>
 
-Sur Evolucraft, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:green;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre vos matériaux à des PNJ. Cependant, gardez à l'esprit que la rentabilité est assez faible. Notez également que vous ne pouvez pas acheter d'objets dans ce shop.
+Sur Evolucraft, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:green;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre vos matériaux à des PNJ. Cependant, gardez à l'esprit que la rentabilité est assez faible.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Aperçu des acheteurs</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Apercu_Commercent.png" alt=""><figcaption><p><strong>Aperçu des commerçant</strong></p></figcaption></figure>
 
 Ces acheteurs sont spécialisés dans l'achat de différentes catégories de produits :
 
 * Acheteur de <mark style="color:green;">**minerais**</mark>: Ressources minérales comme le fer, l'or, le diamant, etc.
 * Acheteur d'<mark style="color:green;">**insectes**</mark>: Répertorie tous les insectes capturables dans le Parc d'Aurora
 * Acheteur de <mark style="color:green;">**blocs**</mark>: Différents types de blocs pour la construction et la décoration.
-* Acheteur d'<mark style="color:green;">**objets utilitaires**</mark>: Composants Redstone pour créer des mécanismes.
+* Vendeur d'<mark style="color:green;">**objets utilitaires**</mark>: Composants Redstone pour créer des mécanismes.
 * Acheteur de <mark style="color:green;">**cultures**</mark>: Articles liés à l'agriculture tels que les plantes et les produits agricoles.
 * Acheteur de <mark style="color:green;">**loots**</mark>: Objets obtenus en tuant des créatures.
 
+### Coffre de vente automatique
+
+Les coffres de vente automatique vendent et octroient un boost de vente sur les objets du `/shop`. Ce boost varie en fonction du coffre : 1.5 pour le coffre Rubis et 2 pour le coffre Leprechaun.
+
+<figure><img src="../.gitbook/assets/Le_Commerce/Coffre_Rubis.png" alt=""><figcaption><p><strong>Aperçu du coffre Rubis</strong></p></figcaption></figure>
+
+Les coffres de vente automatique possèdent 5 icônes :
+
+* <mark style="color:green;">**Livre (Statistiques)**</mark> : Il s'agit de diverses informations concernant votre coffre : propriétaire du coffre, type de coffre, multiplicateur de vente, argent gagné et nombre d’objets vendus.
+* <mark style="color:green;">**Lingot d’or (vente automatique)**</mark> : Permet d’activer ou de désactiver la vente automatique du coffre Rubis.
+* <mark style="color:green;">**Coffre (inventaire)**</mark> : Permet d’accéder à l’inventaire du coffre Rubis.
+* <mark style="color:green;">**Œil de l’Ender (suppression des invendus)**</mark> : Permet de supprimer automatiquement du coffre les items ne pouvant être vendus au `/shop`.
+* <mark style="color:green;">**Porte-armure (hologramme)**</mark> : Permet d’afficher ou de cacher l’hologramme présent au-dessus du coffre.
+* <mark style="color:green;">**Seau de lave (chargement)**</mark> : Permet d’activer gratuitement votre coffre de vente pour une durée d’une heure. Vous pouvez recharger le coffre avec une durée maximum de 24H en continu.
+
 ## <mark style="color:green;">**Échanges entre Joueurs**</mark>
 
-Les joueurs peuvent également effectuer des échanges directs entre eux via la commande <mark style="color:green;">**`/trade "nom du joueur"`**</mark>. Cela permet des transactions de marchandises ou des achats d'articles directement entre deux joueurs.
+Les joueurs peuvent également effectuer des échanges directs entre eux via la commande <mark style="color:green;">**`/trade "nom du joueur"`**</mark>. Cette commande permet d’effectuer des transactions sécurisées (objets ou argent) entre deux joueurs proches l’un de l’autre.
 
 ## <mark style="color:green;">Enchère</mark>
 
 * Les enchères sont une activité quotidienne disponible à 19H, offrant aux joueurs la possibilité de remporter des items uniques via une interface d'enchères.
 * Pour limiter la rareté des items, il y aura 5 articles disponibles à l'enchère chaque jour, comprenant des cosmétiques, des items de rankup, des outils évolutifs, des spawners, des parchemins, des elytras et des grappins.
 
+{% hint style="info" %}
+Pour récupérer vos objets acheter au enchère, faite `/enchereclaim` au spawn
+{% endhint %}
+
 ## <mark style="color:green;">Publicité</mark>
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pub</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Interface_Pub.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pub</code></strong></mark></p></figcaption></figure>
 
 Le système de <mark style="color:green;">**`/pub`**</mark> offre aux joueurs une plateforme polyvalente pour promouvoir leurs articles, chercher des partenaires pour vaincre les boss des donjons, et bien plus encore.
 
@@ -95,3 +133,7 @@ En bas à gauche du menu principal, vous trouverez les différentes catégories 
 L'icône représentant un livre permet de trier les annonces par date ou par auteur par ordre alphabétique. Le bouton central permet d'activer des notifications pour ne rien manquer des événements sur le serveur. Vous pouvez également enregistrer des modèles d'annonces grâce à l'icône représentant un engrenage.
 
 Enfin, le bouton en bas à droite vous permet de poster votre annonce. Il est aussi possible de booster votre annonce pour augmenter sa visibilité et attirer plus d'attention.
+
+{% hint style="info" %}
+Cependant, vous pouvez activer le message automatique dans le `/pub`. Pour cela, allez dans "mes annonces", cliquez sur la pub en question, puis activez "message récurrent" afin qu’il réapparaisse automatiquement toutes les 20 minutes dans le chat des autres joueurs.
+{% endhint %}

@@ -8,7 +8,7 @@ description: Retrouvez ici toutes les informations concernant les classes
 
 Sur le serveur Evolucraft, il existe <mark style="color:green;">**10 classes**</mark> distinctes :
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/LesClasses_ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
 * <mark style="color:green;">**Guerrier**</mark> : Experts du combat rapproché, équipés d'armures lourdes et d'armes variées, combattant en première ligne.
 * <mark style="color:green;">**Archer**</mark> : Maîtres dans l'art du tir à l'arc, agiles et précis, ne ratant jamais leur cible.
@@ -25,7 +25,7 @@ Chacune des classes offre des <mark style="color:green;">**bonus différents**</
 
 Les <mark style="color:green;">**compétences**</mark> varient également selon les classes, elles sont disponibles dans le menu de votre classe.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/LesClasses_ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de Classe</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Déblocage des Classes</mark>
 

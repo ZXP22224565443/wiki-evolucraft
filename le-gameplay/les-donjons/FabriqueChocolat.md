@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant la Fabrique de chocolat
 
 # 🟫 Fabrique de Chocolat
 
-<figure><img src="../../.gitbook/assets/Portail_FabriqueChocolat.png" alt=""><figcaption><p><strong>Aperçu d'une Fabrique de Chocolat</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_FabriqueChocolat.png" alt=""><figcaption><p><strong>Aperçu d'une Fabrique de Chocolat</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
@@ -13,7 +13,10 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
 ### <mark style="color:green;">XP obtenable</mark>
-Il n'y a pas encore d'information disponible a ce sujet.
+
+* Mob normal : 35 xp
+* Mini boss : 1500 xp
+* Boss : 4000 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 

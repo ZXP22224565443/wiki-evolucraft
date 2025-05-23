@@ -4,11 +4,11 @@ description: Retrouvez ici les informations concernant le donjon Halloween
 
 # 🟧 Donjon Halloween
 
-<figure><img src="../../.gitbook/assets/Portail_Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
-Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 10**</mark> dans votre classe.
+Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour le faire, vous devez être <mark style="color:green;">**niveau 20**</mark> dans votre classe.
 
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 

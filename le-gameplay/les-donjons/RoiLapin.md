@@ -4,7 +4,7 @@ description: Retrouvez ici les informations concernant le Terrier du roi Lapin
 
 # 🟫 Terrier du Roi Lapin
 
-<figure><img src="../../.gitbook/assets/Portail_TerrierLapin.png" alt=""><figcaption><p><strong>Aperçu du Terrier du roi Lapin</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_TerrierLapin.png" alt=""><figcaption><p><strong>Aperçu du Terrier du roi Lapin</strong></p></figcaption></figure>
 
 ## <mark style="color:green;"> Pré-requis </mark>
 
@@ -13,7 +13,10 @@ Ce donjon est <mark style="color:green;">**limité à 4 personnes**</mark>. Pour
 ## <mark style="color:green;">Aperçu des récompenses</mark>
 
 ### <mark style="color:green;">XP obtenable</mark>
-Il n'y a pas encore d'information disponible a ce sujet.
+
+* Mob normal : 17.5 xp
+* Mini boss : 450 xp
+* Boss : 900 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
