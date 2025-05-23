@@ -2,11 +2,11 @@
 description: Retrouvez ici toutes les informations concernant les coffres de vente
 ---
 
-# 🔖 Les coffres de vente
+# 🛒Les shops de joueurs
 
-**Les coffres de vente** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre 👁️‍🗨️ <a href="https://wiki.evolucraft.fr/les-villes/les-warps">**pwarp**</a>.
+**Les shops de joueurs** servent **à vendre ou acheter des items** dans des contenants (coffre, double coffre, et coffre piégé) à des joueurs visitant votre 👁️‍🗨️ <a href="https://wiki.evolucraft.fr/les-villes/les-warps">**pwarp**</a>.
 
-## <mark style="color:green;">**🛒 Créer un coffre de vente dans votre ville**</mark>
+## <mark style="color:green;">**👜 Créer un shop dans votre ville**</mark>
 
 * <mark style="color:green;">**Étape 1️⃣ :**</mark> Placez le coffre à l’endroit où vous souhaitez installer votre shop.
 
