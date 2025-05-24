@@ -57,7 +57,8 @@
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
-* [📋Tuto et Astuce](le-gameplay/tuto-et-astuce.md)
+* [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce.md)
+* [🧍‍♂️ Ase](le-gameplay/le-ase.md)
 
 ## 🏙️ LES VILLES
 
@@ -66,3 +67,5 @@
 * [🛠️ Les niveaux de ville](les-villes/les-niveaux-de-ville.md)
 * [✂️ Les sous-zones](les-villes/les-sous-zones.md)
 * [👁️‍🗨️ Les Warps](les-villes/les-warps.md)
+* [🛒 Les shops de joueurs](les-villes/les-shops-de-joueurs.md)
+
