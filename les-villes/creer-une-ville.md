@@ -20,7 +20,7 @@ Vous souhaitez créer une ville ? Parfait, vous êtes au bon endroit ! Commenço
 
 ### <mark style="color:green;">Étape 2</mark>
 
-Trouver une zone disponible et à plus de 5 chunks des autres villes grâce au <mark style="color:green;">**`/v map`**</mark>
+Trouver une zone disponible et à plus de 5 chunks des autres villes grâce à un <mark style="color:green;">**`/rtp`**</mark> ou avec le <mark style="color:green;">**`/v map`**</mark>
 
 <figure><img src="../.gitbook/assets/Les_Villes/Vmap.png" alt=""><figcaption><p><strong>Aperçu du <code>/v map</code></strong></p></figcaption></figure>
 
@@ -60,7 +60,6 @@ Voici les commandes à connaître pour gérer votre ville :
 
 ### Globale
 * <mark style="color:green;">**`/v create <nom de votre ville>`**</mark> : Crée votre ville.
-* <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
 * <mark style="color:green;">**`/v`**</mark> : Ouvre le menu de votre ville
 * <mark style="color:green;">**`/v sethome /v setspawn`**</mark> : Crée le point de téléportation de votre ville.
 * <mark style="color:green;">**`/v home /v spawn`**</mark> : Se téléporte au home de votre ville.
@@ -70,6 +69,12 @@ Voici les commandes à connaître pour gérer votre ville :
 * <mark style="color:green;">**`/v pinfo [joueur]`**</mark> : Donne des informations concernant la ville du joueur.
 * <mark style="color:green;">**`/v list`**</mark> : Donne la liste de toutes les villes présentes sur le serveur.
 * <mark style="color:green;">**`/v player [joueur]`** : Donne les informations d'un joueur : ville, statue dans la ville, dernière connexion.
+* <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
+
+{% hint style="warning" %}
+### Important 🚨
+Avant de confirmer la suppression de votre ville, pensez à récupérer l’argent de votre ville avec le /v bank withdraw [montant] et à récupérer le stuff qui s’y trouve dans votre ville !
+{% endhint %}
 
 ### Gestion des joueurs
 * <mark style="color:green;">**`/v add [joueur] /v invite [joueur]`**</mark> : Invite un joueur dans votre ville.
