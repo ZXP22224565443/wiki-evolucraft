@@ -11,9 +11,9 @@ Dans un premier temps, voyons comment utiliser les titres, pour ceux qui les uti
 
 Pour mettre en forme un titre, il faut placer un # devant votre texte au tout début de la ligne, de tel sorte que : 
 
-\# Ceci est un titre 1
-\## Ceci est un titre 2
-\### Ceci est un titre 3
+<br>\# Ceci est un titre 1</br>
+<br>\## Ceci est un titre 2</br>
+<br>\### Ceci est un titre 3</br>
 
 # Ceci est un titre 1
 ## Ceci est un titre 2 
