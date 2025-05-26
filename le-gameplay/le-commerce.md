@@ -12,8 +12,6 @@ description: Retrouvez ici toutes les informations concernant les différents co
 
 ### <mark style="color:green;"></mark><mark style="color:green;">**Créer un Coffre de Vente dans votre Ville**</mark>
 
-#### Création Manuel
-
 Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
 <mark style="color:green;">**Placez un Coffre**</mark>**&#x20;:** Posez un coffre dans votre ville à l'emplacement souhaité.
@@ -25,8 +23,6 @@ Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples 
 <mark style="color:green;">**Choisissez le Prix**</mark>**&#x20;:** Dans le chat, on vous demandera de spécifier le prix en monnaie pour l'item que vous souhaitez vendre.
 
 <mark style="color:green;">**Coffre de Vente Créé**</mark>**&#x20;:** Une fois que vous avez défini le prix, le coffre de vente sera créé. Maintenant, vous pouvez stocker l'item que vous souhaitez vendre dans ce coffre.
-
-#### Commande
 
 {% hint style="info" %}
 En suivant ces étapes, vous pouvez établir un système de vente dans votre ville, offrant aux autres joueurs la possibilité d'acheter les items que vous proposez.
