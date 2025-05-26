@@ -11,9 +11,11 @@ Dans un premier temps, voyons comment utiliser les titres, pour ceux qui les uti
 
 Pour mettre en forme un titre, il faut placer un # devant votre texte au tout début de la ligne, de tel sorte que : 
 
-<br>\# Ceci est un titre 1</br>
-<br>\## Ceci est un titre 2</br>
-<br>\### Ceci est un titre 3</br>
+\# Ceci est un titre 1
+
+\## Ceci est un titre 2
+
+\### Ceci est un titre 3
 
 # Ceci est un titre 1
 ## Ceci est un titre 2 
@@ -30,12 +32,17 @@ Pour mettre en couleurdu texte, c'est assez simple, il suffit de respecter le fo
 Le nom des couleurs, doit uniquement s'écrire en anglais. De plus gitbook nous limite au couleur suivante : rouge, bleu, vert, jaune, orange et violet.
 Ainsi nous reprenons la mise en forme vu précédement : 
 
-`<mark style="color:red;">Ce texte est Rouge</mark>`
-`<mark style="color:blue;">Ce texte est Bleu</mark>`
-`<mark style="color:green;">Ce texte est Vert</mark>`
-`<mark style="color:yellow;">Ce texte est Jaune</mark>`
-`<mark style="color:orange;">Ce texte est Orange</mark>`
-`<mark style="color:purple;">Ce texte est Violet</mark>`
+`<mark style="color:red;">Ce texte est Rouge</mark>` -> <mark style="color:red;">Ce texte est Rouge</mark>
+
+`<mark style="color:blue;">Ce texte est Bleu</mark>` -> <mark style="color:blue;">Ce texte est Bleu</mark>
+
+`<mark style="color:green;">Ce texte est Vert</mark>` -> <mark style="color:green;">Ce texte est Vert</mark>
+
+`<mark style="color:yellow;">Ce texte est Jaune</mark>` -> <mark style="color:yellow;">Ce texte est Jaune</mark>
+
+`<mark style="color:orange;">Ce texte est Orange</mark>` -> <mark style="color:orange;">Ce texte est Orange</mark>
+
+`<mark style="color:purple;">Ce texte est Violet</mark>` -> <mark style="color:purple;">Ce texte est Violet</mark>
 
 
 ### Utilisation des listes 
