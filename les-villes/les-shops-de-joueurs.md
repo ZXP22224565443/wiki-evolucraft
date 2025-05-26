@@ -27,8 +27,8 @@ Et voilà ! Votre coffre de vente est créé 🤩 !
 Le Finditem vous permet de **chercher un item** parmi **tous les coffres de vente existants**, et vous téléportera au **pwarp le plus proche du coffre de vente**. Lors de l'affichage de sa recherche, il indiquera dans un **ordre croissant les prix unitaires** de chaque shop.
 
 Pour cela, réalisez la commande suivante en fonction de votre besoin :
-* **<mark style="color:green;">`/finditem acheter [id de l'item]`</mark> : Permet de chercher tous les coffres où les joueurs vendent l'item.**
-* **<mark style="color:green;">`/finditem vendre [id de l'item]`</mark> : Permet de chercher tous les coffres où les joueurs achètent l'item.**
+* **<mark style="color:green;">`/finditem acheter [id de l'item / bout d'un mot de l'item]`</mark> : Permet de chercher tous les coffres où les joueurs vendent l'item.**
+* **<mark style="color:green;">`/finditem vendre [id de l'item / bout d'un mot de l'item]`</mark> : Permet de chercher tous les coffres où les joueurs achètent l'item.**
 
 ## <mark style="color:green;">**💡 Quelques commandes à connaître !**</mark>
 
