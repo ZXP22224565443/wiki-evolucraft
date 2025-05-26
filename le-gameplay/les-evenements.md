@@ -35,6 +35,7 @@ Pour participer aux enchères, vous devez avoir au minimum <mark style="color:gr
 🎯 **Différentes déclinaison de l'événement :**
 
 * **Pêche chanceuse** → Tous les poissons **non vanilla** donnent les points suivant :
+
 | Type de Poissons                                  |Points données                                 |
 | ------------------------------------------------- | --------------------------------------------- |
 | <mark style="color:green;">**Commun**</mark>      | <mark style="color:green;">**1 point**</mark>  |
