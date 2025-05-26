@@ -343,7 +343,7 @@ La clé de la Caisse Saint-Patrick n'est plus disponible.
 ## <mark style="color:green;">Caisse Pâques</mark> (Temporaire)
 
 {% hint style="success" %}
-La clé de la caisse Pâques est actuellement disponible (/boutique)
+La clé de la caisse Pâques est actuellement n'est plus disponible.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Paques.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
