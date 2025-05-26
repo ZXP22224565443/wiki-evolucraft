@@ -56,9 +56,9 @@ Il existe aussi 6 quêtes associées aux anciens évènement :&#x20;
 * <mark style="color:yellow;">Fabrique de Chocolat</mark>
 
 
-Ces quêtes sont obtenables dans les caisses, récompenses votes, récompenses jobs, les Rewards ainsi que dans les donjons.&#x20;
+Ces quêtes sont obtenables dans les caisses, récompenses votes, récompenses jobs, le `/rewards` ainsi que dans les donjons.&#x20;
 
-Accomplir ces quêtes vous permet de recevoir des récompenses exclusives, chaque niveau de difficulté propose des défis différents et des récompenses à la hauteur de vos exploits.&#x20;
+**Accomplir ces quêtes vous permet de recevoir des récompenses exclusives. Chaque niveau de difficulté propose des défis différents et des récompenses à la hauteur de vos exploits, visibles dans le <mark style="color:green;">**`/quete`**</mark>, puis en cliquant sur <mark style="color:green;">**parchemins**</mark> et en passant votre curseur sur la quête que vous avez.**
 
 {% hint style="warning" %}
 Et puisse le sort vous être favorable !
