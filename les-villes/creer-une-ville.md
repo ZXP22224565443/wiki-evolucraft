@@ -20,7 +20,7 @@ Vous souhaitez créer une ville ? Parfait, vous êtes au bon endroit ! Commenço
 
 ### <mark style="color:green;">Étape 2</mark>
 
-Trouver une zone disponible et à plus de 5 chunks des autres villes grâce à un <mark style="color:green;">**`/rtp`**</mark> ou avec le <mark style="color:green;">**`/v map`**</mark>
+Trouver une zone disponible et à plus de 5 chunks des autres villes grâce à un <mark style="color:green;">**`/rtp`**</mark> et avec le <mark style="color:green;">**`/v map`**</mark>
 
 <figure><img src="../.gitbook/assets/Les_Villes/Vmap.png" alt=""><figcaption><p><strong>Aperçu du <code>/v map</code></strong></p></figcaption></figure>
 
