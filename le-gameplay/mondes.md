@@ -33,7 +33,7 @@ Enfin, le monde <mark style="color:green;">**End**</mark>, accessible à partir 
 
 ### 💠 Le NEW-WORLD 🏝️
 
-Pour entrer dans ce monde, il vous suffit de taper la commande <mark style="color:green;">**`/neworld`**</mark>, puis de cliquer sur **"New World"**.
+Pour entrer dans ce monde, il vous suffit de taper la commande <mark style="color:green;">**`/newworld`**</mark>, puis de cliquer sur **"New World"**.
 
 <figure><img src="../.gitbook/assets/Menu/Monde_NewWorld.png" alt=""><figcaption><p><strong>Aperçu de la commande </strong><mark style="color:green;"><strong><code>/neworld</code></strong></mark></p></figcaption></figure>
 
@@ -43,5 +43,7 @@ Dans ce monde <mark style="color:green;">**New World**</mark>, vous pouvez explo
 * des **nouveaux poissons** 🐟  
 * un **nouveau bois** 🌴  
 * de **nouvelles plantations** 🌱
+
+Vous pouvez également acheter des items dans la boutique avec de la viande de poisson 🐡, obtenue en tuant des mobs dans le monde New World !
 
 ### Chers aventuriers, il ne vous reste plus qu’à explorer 🤠
