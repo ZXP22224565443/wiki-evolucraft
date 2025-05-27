@@ -51,6 +51,10 @@ Pour participer aux enchères, vous devez avoir au minimum <mark style="color:gr
 * <mark style="color:blue;">**Pêche épique**</mark> → <mark style="color:blue;">Tous les poissons de rareté **Épique**</mark> donnent 1 point.
 * <mark style="color:purple;">**Pêche légendaire**</mark> → <mark style="color:purple;">Tous les poissons de rareté **Légendaire**</mark> donnent 1 point.
 
+{% hint style="warning" %}
+Cet événement ne comptabilise pas vos poissons si vous pêchez dans le monde New World.
+{% endhint %}
+
 🏆 **Récompenses pour le top 3 :**
 
 * <mark style="color:yellow;">**🥇・1er**</mark> → <mark style="color:green;">**10 poissons légendaires**</mark> aléatoires, <mark style="color:green;">**1 carte commune**</mark> aléatoire, <mark style="color:green;">**1 pierre de téléportation**</mark> vers un <mark style="color:green;">**donjon commun**</mark>
