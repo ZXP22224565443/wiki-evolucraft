@@ -43,3 +43,5 @@ Dans ce monde <mark style="color:green;">**New World**</mark>, vous pouvez explo
 * des **nouveaux poissons** 🐟  
 * un **nouveau bois** 🌴  
 * de **nouvelles plantations** 🌱
+
+### Chers aventuriers, il ne vous reste plus qu’à explorer 🤠
