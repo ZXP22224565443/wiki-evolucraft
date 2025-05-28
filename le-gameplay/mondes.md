@@ -37,12 +37,12 @@ Pour entrer dans ce monde, il vous suffit de taper la commande <mark style="colo
 
 <figure><img src="../.gitbook/assets/Menu/Monde_NewWorld.png" alt=""><figcaption><p><strong>Aperçu de la commande </strong><mark style="color:green;"><strong><code>/neworld</code></strong></mark></p></figcaption></figure>
 
-Dans ce monde <mark style="color:green;">**New World**</mark>, vous pouvez explorer, récolter et développer vos métiers (à partir du niveau 50) avec :
-* un **nouveau minerai** ⛏️  
-* de **nouveaux mobs** 👹  
+Dans ce monde <mark style="color:green;">**New World**</mark>, vous pouvez explorer, récolter et développer vos métiers avec :
+* de **nouvelles plantations** 🌱 *(à partir du level 50 fermier pour les tomates 🍅 et 100 pour le maïs 🌽)*
+* un **nouveau minerai** ⛏️ *(à partir du level 50 mineurs)*
+* de **nouveaux mobs** 👹
 * des **nouveaux poissons** 🐟  
-* un **nouveau bois** 🌴  
-* de **nouvelles plantations** 🌱
+* un **nouveau bois** 🌴
 
 Vous pouvez également acheter des items dans la boutique avec de la viande de poisson 🐡, obtenue en tuant des mobs dans le monde New World !
 
