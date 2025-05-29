@@ -84,6 +84,8 @@ Ces acheteurs sont spécialisés dans l'achat de différentes catégories de pro
 
 Les coffres de vente automatique vendent et octroient un boost de vente sur les objets du `/shop`. Ce boost varie en fonction du coffre : 1.5 pour le coffre Rubis et 2 pour le coffre Leprechaun.
 
+Pour mettre en marche votre coffre, posez-le au sol et attendez quelques secondes. Vous n'avez plus qu'à faire un clic droit sur le coffre pour ouvrir son interface.
+
 <figure><img src="../.gitbook/assets/Le_Commerce/Coffre_Rubis.png" alt=""><figcaption><p><strong>Aperçu du coffre Rubis</strong></p></figcaption></figure>
 
 Les coffres de vente automatique possèdent 5 icônes :
