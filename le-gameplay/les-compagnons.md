@@ -164,8 +164,8 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td>
       <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+5%</strong></mark><strong> sur la vente de </strong><mark style="color:green;"><strong>Poulet cru</strong></mark>
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.500</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎ Vitesse</strong></mark><strong> +3</strong>
-      <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2.500</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎ Vitesse</strong></mark><strong> +3</strong>
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>2,5</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Fermier</strong></mark>
     </td>
   </tr>
@@ -712,7 +712,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td>
       <mark style="color:purple;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+20%</strong></mark><strong> sur la vente de </strong><mark style="color:purple;"><strong>Pastèque</strong></mark> 
       <br><mark style="color:purple;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>10.500</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> 🛡 </strong><mark style="color:blue;"><strong> Défense</strong></mark><strong> +17</strong>
+      <br><mark style="color:purple;"><strong>Niv. 10</strong></mark><strong> -> 🛡 </strong><mark style="color:blue;"><strong> Défense</strong></mark><strong> +17</strong>
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+11.000</strong></mark><strong>💰/h</strong>
       <br><mark style="color:purple;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+10%</strong></mark><strong> d'EXP </strong><mark style="color:purple;"><strong>Fermier</strong></mark>
     </td>
