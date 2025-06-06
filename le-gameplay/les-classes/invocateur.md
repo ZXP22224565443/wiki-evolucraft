@@ -6,7 +6,7 @@ description: Retrouvez ici toutes les informations concernant la classe Invocate
 
 Maîtrisez les arcanes des invocations spirituelles pour invoquer des gardiens et manipuler les énergies magiques pour soutenir vos alliés et attaquer vos ennemis.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/Invocateur.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Archer</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Invocateur.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Invocateur</strong></p></figcaption></figure>
 
 ## <mark style="color:blue;">Compétences</mark>
 
