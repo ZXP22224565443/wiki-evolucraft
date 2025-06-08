@@ -61,12 +61,6 @@ Voici les commandes à connaître pour gérer votre ville :
 ### Globale
 * <mark style="color:green;">**`/v create <nom de votre ville>`**</mark> : Crée votre ville.
 * <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
-
-{% hint style="warning" %}
-### Important 🚨
-Avant de confirmer la suppression de votre ville, pensez à récupérer l’argent de votre ville avec le /v bank withdraw [montant] et à récupérer le stuff qui s’y trouve dans votre ville !
-{% endhint %}
-
 * <mark style="color:green;">**`/v`**</mark> : Ouvre le menu de votre ville
 * <mark style="color:green;">**`/v sethome /v setspawn`**</mark> : Crée le point de téléportation de votre ville.
 * <mark style="color:green;">**`/v home /v spawn`**</mark> : Se téléporte au home de votre ville.
