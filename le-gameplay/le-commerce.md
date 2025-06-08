@@ -12,8 +12,6 @@ description: Retrouvez ici toutes les informations concernant les différents co
 
 ### <mark style="color:green;"></mark><mark style="color:green;">**Créer un Coffre de Vente dans votre Ville**</mark>
 
-#### Création Manuel
-
 Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples pour créer un coffre de vente : &#x20;
 
 <mark style="color:green;">**Placez un Coffre**</mark>**&#x20;:** Posez un coffre dans votre ville à l'emplacement souhaité.
@@ -25,8 +23,6 @@ Si vous souhaitez vendre des items dans votre ville, suivez ces étapes simples 
 <mark style="color:green;">**Choisissez le Prix**</mark>**&#x20;:** Dans le chat, on vous demandera de spécifier le prix en monnaie pour l'item que vous souhaitez vendre.
 
 <mark style="color:green;">**Coffre de Vente Créé**</mark>**&#x20;:** Une fois que vous avez défini le prix, le coffre de vente sera créé. Maintenant, vous pouvez stocker l'item que vous souhaitez vendre dans ce coffre.
-
-#### Commande
 
 {% hint style="info" %}
 En suivant ces étapes, vous pouvez établir un système de vente dans votre ville, offrant aux autres joueurs la possibilité d'acheter les items que vous proposez.
@@ -87,6 +83,8 @@ Ces acheteurs sont spécialisés dans l'achat de différentes catégories de pro
 ### Coffre de vente automatique
 
 Les coffres de vente automatique vendent et octroient un boost de vente sur les objets du `/shop`. Ce boost varie en fonction du coffre : 1.5 pour le coffre Rubis et 2 pour le coffre Leprechaun.
+
+Pour mettre en marche votre coffre, posez-le au sol et attendez quelques secondes. Vous n'avez plus qu'à faire un clic droit sur le coffre pour ouvrir son interface.
 
 <figure><img src="../.gitbook/assets/Le_Commerce/Coffre_Rubis.png" alt=""><figcaption><p><strong>Aperçu du coffre Rubis</strong></p></figcaption></figure>
 
