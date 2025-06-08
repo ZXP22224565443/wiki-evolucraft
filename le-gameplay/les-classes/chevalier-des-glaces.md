@@ -18,7 +18,7 @@ Effectuez une attaque tranchante avec votre lame.
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 0.5s
 * <mark style="color:yellow;">**Mana**</mark>: 0
-* <mark style="color:yellow;">**Dégâts**</mark>: 9.25
+* <mark style="color:yellow;">**Dégâts**</mark>:  5,9 + 9.9 pour le troisième coup
 
 ### <mark style="color:yellow;">**Niveau 5 : Engelures**</mark>
 
@@ -26,7 +26,7 @@ Vos attaques ont 15% de chances d'infliger des engelures.
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 0s
 * <mark style="color:yellow;">**Mana**</mark>: 0
-* <mark style="color:yellow;">**Dégâts**</mark>: 15
+* <mark style="color:yellow;">**Dégâts**</mark>: 11,3 par coup
 
 ### <mark style="color:yellow;">**Niveau 10 : Lance givrée**</mark>
 
@@ -34,7 +34,7 @@ Invoquez votre lance glaciale et visez. Après 3 secondes, la lance glaciale se 
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 5s
 * <mark style="color:yellow;">**Mana**</mark>: 100
-* <mark style="color:yellow;">**Dégâts**</mark>: 69
+* <mark style="color:yellow;">**Dégâts**</mark>: 29,2 + Dégâts de trainée 7,3 par coup
 
 ### <mark style="color:yellow;">**Niveau 15 : Fracas glacial**</mark>
 
@@ -42,7 +42,7 @@ Sautez vers le haut et fracassez la surface, créant un cratère de glace. Les e
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 10s
 * <mark style="color:yellow;">**Mana**</mark>: 120
-* <mark style="color:yellow;">**Dégâts**</mark>: 28
+* <mark style="color:yellow;">**Dégâts**</mark>: 73
 
 ### <mark style="color:yellow;">**Niveau 20 : Charge arctique**</mark>
 
@@ -50,7 +50,7 @@ Concentrez votre énergie glaciaire et foncez en avant. Les ennemis touchés son
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 10s
 * <mark style="color:yellow;">**Mana**</mark>: 125
-* <mark style="color:yellow;">**Dégâts**</mark>: 18.25
+* <mark style="color:yellow;">**Dégâts**</mark>: 61,4 + Dégâts de trainée 15.3 par coup
 
 ### <mark style="color:yellow;">**Niveau 30 : Bouclier gelé**</mark>
 
@@ -58,7 +58,7 @@ Déployez un bouclier de glace empêchant les ennemis d'approcher en bloquant le
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 5s
 * <mark style="color:yellow;">**Mana**</mark>: 100
-* <mark style="color:yellow;">**Dégâts**</mark>: 55
+* <mark style="color:yellow;">**Dégâts**</mark>: 102,6
 
 ### <mark style="color:yellow;">**Niveau 40 : Percée glaciale**</mark>
 
@@ -66,4 +66,4 @@ Percez les défenses de vos ennemis avec votre lance , vos deux premières frapp
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 25s
 * <mark style="color:yellow;">**Mana**</mark>: 350
-* <mark style="color:yellow;">**Dégâts**</mark>: 20 les deux premières attaques et 35 les deux dernières attaques
+* <mark style="color:yellow;">**Dégâts**</mark>: 191,2 les deux premières attaques et 237,2 les deux dernières attaques. Dégâts passifs : 84,2

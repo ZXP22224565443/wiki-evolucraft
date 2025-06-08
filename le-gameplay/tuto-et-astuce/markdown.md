@@ -32,17 +32,17 @@ Pour mettre en couleurdu texte, c'est assez simple, il suffit de respecter le fo
 Le nom des couleurs, doit uniquement s'écrire en anglais. De plus gitbook nous limite au couleur suivante : rouge, bleu, vert, jaune, orange et violet.
 Ainsi si nous reprenons la mise en forme vu précédement : 
 
-`<mark style="color:red;">Ce texte est Rouge</mark>` -> <mark style="color:red;">Ce texte est Rouge</mark>
+`<mark style="color:red;">Ce texte est Rouge</mark>` **->** <mark style="color:red;">Ce texte est Rouge</mark>
 
-`<mark style="color:blue;">Ce texte est Bleu</mark>` -> <mark style="color:blue;">Ce texte est Bleu</mark>
+`<mark style="color:blue;">Ce texte est Bleu</mark>` **->** <mark style="color:blue;">Ce texte est Bleu</mark>
 
-`<mark style="color:green;">Ce texte est Vert</mark>` -> <mark style="color:green;">Ce texte est Vert</mark>
+`<mark style="color:green;">Ce texte est Vert</mark>` **->** <mark style="color:green;">Ce texte est Vert</mark>
 
-`<mark style="color:yellow;">Ce texte est Jaune</mark>` -> <mark style="color:yellow;">Ce texte est Jaune</mark>
+`<mark style="color:yellow;">Ce texte est Jaune</mark>` **->** <mark style="color:yellow;">Ce texte est Jaune</mark>
 
-`<mark style="color:orange;">Ce texte est Orange</mark>` -> <mark style="color:orange;">Ce texte est Orange</mark>
+`<mark style="color:orange;">Ce texte est Orange</mark>` **->** <mark style="color:orange;">Ce texte est Orange</mark>
 
-`<mark style="color:purple;">Ce texte est Violet</mark>` -> <mark style="color:purple;">Ce texte est Violet</mark>
+`<mark style="color:purple;">Ce texte est Violet</mark>` **->** <mark style="color:purple;">Ce texte est Violet</mark>
 
 ### Mise en forme du texte
 

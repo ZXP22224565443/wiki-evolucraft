@@ -16,7 +16,7 @@ Votre masse produit une traînée de lumière rayonnante, repoussant les ennemis
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:purple;">**Mana**</mark>**:** 0
-* <mark style="color:purple;">**Dégâts**</mark>**:** 3.5
+* <mark style="color:purple;">**Dégâts**</mark>**:** 6,2
 
 ### <mark style="color:purple;">**Niveau 5 : Aile Angélique**</mark>
 
@@ -64,4 +64,4 @@ Obtenez l'éclat divin et l'invulnérabilité, soignant et renforçant les alli�
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 40s
 * <mark style="color:purple;">**Mana**</mark>**:** 500
-* <mark style="color:purple;">**Dégâts**</mark>**:** 21
+* <mark style="color:purple;">**Dégâts**</mark>**:** 548,5 par coup

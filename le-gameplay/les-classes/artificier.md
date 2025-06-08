@@ -16,7 +16,7 @@ Libère une orbe chargée d'énergie qui explose à l'impact, endommageant les e
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 1s
 * <mark style="color:purple;">**Mana**</mark>**:** 0
-* <mark style="color:purple;">**Dégâts**</mark>**:** 18
+* <mark style="color:purple;">**Dégâts**</mark>**:** 23,7
 
 ### <mark style="color:purple;">**Niveau 5 : Bouclier**</mark>
 
@@ -32,7 +32,7 @@ Régénère automatiquement votre bouclier à la fin du temps de recharge si vot
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 2s
 * <mark style="color:purple;">**Mana**</mark>**:** 5
-* <mark style="color:purple;">**Dégâts**</mark>**:** 5.7
+* <mark style="color:purple;">**Dégâts**</mark>**:** 13,9 par coup
 
 ### <mark style="color:purple;">**Niveau 15 : Tourelle**</mark>
 
@@ -40,7 +40,7 @@ Construisez une tourelle d'énergie qui défend inlassablement votre position. E
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 60s
 * <mark style="color:purple;">**Mana**</mark>**:** 125
-* <mark style="color:purple;">**Dégâts**</mark>**:** 32
+* <mark style="color:purple;">**Dégâts**</mark>**:** 234,6 par coup
 
 ### <mark style="color:purple;">**Niveau 20 : Moteur**</mark>
 
@@ -48,7 +48,7 @@ Activez vos propulseurs pour glisser vers l'avant, laissant une traînée de fla
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 15s
 * <mark style="color:purple;">**Mana**</mark>**:** 125
-* <mark style="color:purple;">**Dégâts**</mark>**:** 20
+* <mark style="color:purple;">**Dégâts**</mark>**:** 204,6 par coup
 
 ### <mark style="color:purple;">**Niveau 30 : Chrono**</mark>
 
@@ -64,4 +64,4 @@ Ralentissez le temps de 3 de vos ennemis. Leur temps ralentit progressivement, f
 
 * <mark style="color:purple;">**Temps de recharge**</mark>**:** 60s
 * <mark style="color:purple;">**Mana**</mark>**:** 350
-* <mark style="color:purple;">**Dégâts**</mark>**:** 27.5
+* <mark style="color:purple;">**Dégâts**</mark>**:** 701,2

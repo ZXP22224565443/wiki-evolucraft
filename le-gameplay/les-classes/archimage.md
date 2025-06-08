@@ -15,7 +15,7 @@ L'Archimage est une classe spécialisée dans les attaques à mi-distance. Grâc
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 0.5
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 9
+* <mark style="color:blue;">**Dégâts**</mark>**:** 11,9
 
 ### <mark style="color:blue;">**Niveau 5 : Bouclier Mana**</mark>
 
@@ -23,7 +23,7 @@ Vous formez 2 boucliers de mana qui vous donne résistance. Vos boucliers se ré
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** Passif (toujours actif)
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 153 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 0 
 
 ### <mark style="color:blue;">**Niveau 10 : Blizzard**</mark>
 
@@ -32,7 +32,7 @@ Invoquez des glaçons qui tombent à la surface créant une aura glacée qui ral
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 12s
 * <mark style="color:blue;">**Mana**</mark>**:** 125
-* <mark style="color:blue;">**Dégâts**</mark>**:** 38
+* <mark style="color:blue;">**Dégâts**</mark>**:** 13,8 par coup
 
 ### <mark style="color:blue;">**Niveau 15 : Cape d'Hastur**</mark>
 
@@ -40,7 +40,7 @@ Invoquez une créature de l'ombre masquée rampant lentement au sol, répandant 
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 10
 * <mark style="color:blue;">**Mana**</mark>**:** 100
-* <mark style="color:blue;">**Dégâts**</mark>**:** 332
+* <mark style="color:blue;">**Dégâts**</mark>**:** 0
 
 ### <mark style="color:blue;">**Niveau 20 : Chaîne du Vide**</mark>
 
@@ -48,7 +48,7 @@ Ouvrez un portail de vide au sol, invoquant des chaînes de vide qui frappent la
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 7.5
 * <mark style="color:blue;">**Mana**</mark>**:** 50
-* <mark style="color:blue;">**Dégâts**</mark>**:** 204
+* <mark style="color:blue;">**Dégâts**</mark>**:** 105,8 par coup
 
 ### <mark style="color:blue;">**Niveau 30 : Pluie de Feu**</mark>
 
@@ -64,4 +64,4 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 35s
 * <mark style="color:blue;">**Mana**</mark>**:** 200
-* <mark style="color:blue;">**Dégâts**</mark>**:** 13.5 puis 37.5
+* <mark style="color:blue;">**Dégâts**</mark>**:** 287,1 puis 329,1

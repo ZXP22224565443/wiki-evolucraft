@@ -9,7 +9,7 @@
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 0.5s
 * <mark style="color:purple;">**Mana**</mark>: 0
-* <mark style="color:purple;">**Dégâts**</mark>: 
+* <mark style="color:purple;">**Dégâts**</mark>: 15,3 puis 14,4 pour le troisième coup
 
 ### <mark style="color:purple;">**Niveau 5 : Etat de flux **</mark>
 Chaque utilisation de tranchant sanglant accorde un bonus de vitesse de déplacement cumulable jusqu'à la vitesse III.
@@ -25,28 +25,28 @@ Foncez instantanément dans votre ennemi, causant des dégâts mortels quelques 
 
 * <mark style="color:purple;">**Temps de recharge**</mark>:
 * <mark style="color:purple;">**Mana**</mark>:
-* <mark style="color:purple;">**Dégâts**</mark>: 
+* <mark style="color:purple;">**Dégâts**</mark>: 72,3 par coup
 
 ### <mark style="color:purple;">**Niveau 15 : Fumigène**</mark>
 Lancez une bombe fumigène qui crée une aura de fumée. L'aura vous confère un boost de saut et une invisibilité tout en donnant la cécité et la lenteur aux ennemis.
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 
 * <mark style="color:purple;">**Mana**</mark>: 
-* <mark style="color:purple;">**Dégâts**</mark>: 
+* <mark style="color:purple;">**Dégâts**</mark>: 0
 
 ### <mark style="color:purple;">**Niveau 20 : Shuriken**</mark>
 Faire un saut en arrière en lançant un shuriken qui rebondit entre les ennemis jusqu'à 3 fois, laissant une marque de shuriken.
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 
 * <mark style="color:purple;">**Mana**</mark>: 
-* <mark style="color:purple;">**Dégâts**</mark>: 
+* <mark style="color:purple;">**Dégâts**</mark>: 430,1
 
 ### <mark style="color:purple;">**Niveau 30 : Charge mortelle**</mark>
 Chargez vers les ennemis marqués tout en faisant tourner votre lame jusqu'à 4 fois.
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 
 * <mark style="color:purple;">**Mana**</mark>: 
-* <mark style="color:purple;">**Dégâts**</mark>: 
+* <mark style="color:purple;">**Dégâts**</mark>: 280,4 par coup
 
 ### <mark style="color:purple;">**Niveau 40 : Art Oublié**</mark>
 Entrez dans les ombres et foncez vers l'avant, transperçant rapidement vos ennemis 5 fois.
@@ -57,4 +57,4 @@ Vous effectuez une frappe finale, amenant vos ennemis au sol provoquant des dég
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 
 * <mark style="color:purple;">**Mana**</mark>: 
-* <mark style="color:purple;">**Dégâts**</mark>: 
+* <mark style="color:purple;">**Dégâts**</mark>:  1432,2 par coup

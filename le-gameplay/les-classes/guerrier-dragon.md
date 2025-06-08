@@ -16,7 +16,7 @@ Effectuez une attaque tranchante.
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 0.5s
 * <mark style="color:purple;">**Mana**</mark>: 0
-* <mark style="color:purple;">**Dégâts**</mark>: 10
+* <mark style="color:purple;">**Dégâts**</mark>: 14,5
 
 ### <mark style="color:purple;">**Niveau 5 : Peau du dragon**</mark>
 

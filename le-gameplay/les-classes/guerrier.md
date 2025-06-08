@@ -16,7 +16,7 @@ Effectuez une large gamme d'attaques tranchantes et perçantes.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:green;">**Mana**</mark>**:** 0
-* <mark style="color:green;">**Dégâts**</mark>**:** 4
+* <mark style="color:green;">**Dégâts**</mark>**:** 6.6
 
 ### <mark style="color:green;">**Niveau 5 : Carnage**</mark>
 
@@ -32,7 +32,7 @@ Bondissez en avant pour vous rapprocher de votre cible.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 5s
 * <mark style="color:green;">**Mana**</mark>**:** 50
-* <mark style="color:green;">**Dégâts**</mark>**:** 5
+* <mark style="color:green;">**Dégâts**</mark>**:** 29
 
 ### <mark style="color:green;">**Niveau 15 : Bouclier**</mark>
 
@@ -48,7 +48,7 @@ Lancez une chaîne qui tire la cible vers vous.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 5s
 * <mark style="color:green;">**Mana**</mark>**:** 100
-* <mark style="color:green;">**Dégâts**</mark>**:** 48
+* <mark style="color:green;">**Dégâts**</mark>**:** 0
 
 ### <mark style="color:green;">**Niveau 30 : Tourbillon**</mark>
 
@@ -56,12 +56,11 @@ Faites tourner votre épée, endommageant les cibles proches.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 150
-* <mark style="color:green;">**Dégâts**</mark>**:** 36
-
+* <mark style="color:green;">**Dégâts**</mark>**:** 173.4 par coups
 ### <mark style="color:green;">**Niveau 40 : Jugement**</mark>
 
 Chargez vers l'avant avec un énorme bouclier qui endommage et étourdit les cibles. Vous bondissez et invoquez l'épée du jugement, brisant la surface, endommageant et étourdissant les cibles proches.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 30s
 * <mark style="color:green;">**Mana**</mark>**:** 300
-* <mark style="color:green;">**Dégâts**</mark>**:** 80
+* <mark style="color:green;">**Dégâts**</mark>**:** 2359 + 225.7 par coups

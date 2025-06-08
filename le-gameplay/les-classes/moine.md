@@ -16,7 +16,7 @@ Frappez trois fois rapidement avec vos poings, touchant tous les ennemis devant 
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 4.1
+* <mark style="color:blue;">**Dégâts**</mark>**:** 7,9
 
 ### <mark style="color:blue;">**Niveau 5 : Chi**</mark>
 
@@ -32,7 +32,7 @@ Tirez une explosion de chi qui laisse une marque sur votre ennemi. Volez instant
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 33
+* <mark style="color:blue;">**Dégâts**</mark>**:** 109,4
 
 ### <mark style="color:blue;">**Niveau 15 : Projection**</mark>
 
@@ -56,7 +56,7 @@ Créez un bouclier spirituel qui absorbe les attaques entrantes et augmente les 
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
 * <mark style="color:blue;">**Mana**</mark>**:** 50
-* <mark style="color:blue;">**Dégâts**</mark>**:** 12
+* <mark style="color:blue;">**Dégâts**</mark>**:** Dépend des dégâts accumuler
 
 ### <mark style="color:blue;">**Niveau 40 : Poings Final**</mark>
 
@@ -64,4 +64,4 @@ Invoquez des poings spirituels pour effectuer un combo ultime dévastateur.
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 5s
 * <mark style="color:blue;">**Mana**</mark>**:** 350
-* <mark style="color:blue;">**Dégâts**</mark>**:** 26.5
+* <mark style="color:blue;">**Dégâts**</mark>**:** deux premières attaques à 170, trois seconde attaque 340 puis 11263,6 pour le final.
