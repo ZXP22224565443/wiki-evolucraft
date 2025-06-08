@@ -54,6 +54,7 @@
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
+* [💒 Le Mariage](Non_utiliser/le-mariage.md) 
 * [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce.md)
 * [🧍‍♂️ Ase](le-gameplay/le-ase.md)
 
