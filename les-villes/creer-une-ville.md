@@ -68,7 +68,7 @@ Voici les commandes à connaître pour gérer votre ville :
 * <mark style="color:green;">**`/v select`**</mark> : Permet de choisir ça ville principal.
 * <mark style="color:green;">**`/v pinfo [joueur]`**</mark> : Donne des informations concernant la ville du joueur.
 * <mark style="color:green;">**`/v list`**</mark> : Donne la liste de toutes les villes présentes sur le serveur.
-* <mark style="color:green;">**`/v player [joueur]`**</mark> : Donne les informations d'un joueur : ville, statue dans la ville, dernière connexion.
+* <mark style="color:green;">**`/v player [joueur]`** : Donne les informations d'un joueur : ville, statue dans la ville, dernière connexion.
 * <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
 
 {% hint style="warning" %}
