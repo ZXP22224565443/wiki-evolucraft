@@ -313,8 +313,8 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td>
       <mark style="color:yellow;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+10%</strong></mark><strong> sur la vente de </strong><mark style="color:yellow;"><strong>Roches</strong></mark>
       <br><mark style="color:yellow;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>3.500</strong></mark><strong>💰/</strong>
-      <br><mark style="color:yellow;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>Monture</strong></mark><strong> (Aérienne)</strong> 
-      <br><mark style="color:yellow;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>Célérité I</strong></mark>
+      <br><mark style="color:yellow;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>Célérité I</strong></mark>
+      <br><mark style="color:yellow;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+4.500</strong></mark><strong>💰/</strong>
       <br><mark style="color:yellow;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+5%</strong></mark><strong> d'EXP </strong><mark style="color:yellow;"><strong>Fermier</strong></mark>
     </td>
   </tr>
