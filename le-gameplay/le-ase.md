@@ -45,6 +45,10 @@ Astuce 💡 : Pour changer l'axe de déplacement, il vous suffit de faire le rac
 
 ### 💠 Ajouter des éléments sur votre armor stand
 
+{% hint style="success" %} 
+Pour cette partie, vous n'êtes pas obligé d'utiliser le /ase pour mettre des éléments d'armure ou une tête sur votre armor stand, car vous avez la permission de changer les armures sans passer par le menu.
+{% endhint %}
+
 Pour ajouter des <mark style="color:green;">**éléments à votre porte-armure**</mark>, commencez par ouvrir le menu du `/ase`, puis cliquez sur <mark style="color:green;">**l’icône du coffre**</mark>. Ensuite, faites un clic droit sur <mark style="color:green;">**votre porte-armure**</mark> pour ouvrir un nouvel affichage. Dans ce nouveau menu, <mark style="color:green;">**chaque emplacement en haut représente une partie du corps**</mark>.
 
 Par exemple, si vous souhaitez placer **un objet sur la tête du porte-armure**, placez-le dans l’emplacement **situé sous le casque**.

@@ -138,7 +138,7 @@ Le reste des commandes liées au Ville est disponible dans la section [créer un
 ### <mark style="color:green;">Coffre Privé</mark>
 * <mark style="color:green;">**/cadena lock**</mark> : Crée un coffre privé.
 * <mark style="color:green;">**/cadena unclock**</mark> : Supprime le cadena sur un coffre privé.
-* <mark style="color:green;">**/cadena add "pseudo"</mark> : Permet au joueur spécifier d'ouvrir le coffre privé.
+* <mark style="color:green;">**/cadena add [nom du joueur]**</mark> : Permet au joueur spécifier d'ouvrir le coffre privé.
 * <mark style="color:green;">**/cadena open**</mark> : Permet de gérer la liste des joueurs qui peuvent ouvrir le coffre privé.
 
 {% hint style="warning" %}

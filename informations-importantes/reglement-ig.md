@@ -91,6 +91,8 @@ Cette liste n'est pas exhaustive.
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 
 * **Concernant les mondes constructions et les villes :**
+  * Vous n'avez le droit **d'être maire que d'une seule ville** 
+(*L'accès à d'autres villes (grâce aux /rangs) vous permet de rejoindre celle d'un ami, par exemple, en plus de la vôtre*)
   * Il est interdit de créer des villes dans le seul but de récupérer des coffres, de piller des structures, etc.
   * Il est recommandé de ne pas dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
   * Toute ville peut **être unclaim si tout les joueurs de cette dernière ont au minimum 30 jours d'inactivité**.

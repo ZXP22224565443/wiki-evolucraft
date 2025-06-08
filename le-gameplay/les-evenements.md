@@ -11,6 +11,7 @@ Les événements présentés ici sont exclusivement des événements récurrents
 ### <mark style="color:green;">💠 Farm Boost 💱</mark>
 
 **⏰ Tous les jours à 18h15**
+*(12H15 AM GMT-4🍁)*
 
 L’événement <mark style="color:green;">**Farm Boost**</mark> vous offre un <mark style="color:green;">**bonus**</mark> pendant <mark style="color:green;">**30 minutes**</mark> augmentant <mark style="color:green;">**les gains d’XP et d’argents**</mark> liés aux métiers qui sont <mark style="color:green;">**doublés 🤩**</mark> ! C’est l’occasion parfaite pour vous motiver à progresser plus rapidement dans vos <mark style="color:green;">**métiers préférés**</mark> (ou non🙃) et faire le plein d'argent 🤑 !
 
@@ -18,6 +19,7 @@ L’événement <mark style="color:green;">**Farm Boost**</mark> vous offre un <
 ### <mark style="color:green;">💠 Enchère 💸</mark>
 
 **⏰ Tous les jours à 19h**
+*(1H PM GMT-4🍁)*
 
 <mark style="color:green;">**Les enchères**</mark>, accessibles via la commande <mark style="color:green;">**`/encheres`**</mark> puis <mark style="color:green;">**`/encherejoin`**</mark>, est l'événements où <mark style="color:green;">**plusieurs objets sont mis en vente**</mark>. À vous <mark style="color:green;">**d’enchérir**</mark> pour avoir le dernier mot et <mark style="color:green;">**remporter l’objet**</mark> ! Vous pourrez ensuite le récupérer à la fin de l’événement avec la commande <mark style="color:green;">**`/enchereclaim`**</mark> 🎁.
 
@@ -28,17 +30,30 @@ Pour participer aux enchères, vous devez avoir au minimum <mark style="color:gr
 
 ### <mark style="color:green;">💠 Évent Pêche 🎣</mark>
 
-**⏰ Tous les jours à 21h**
+**⏰ Tous les jours à 21h Heure française**
+*(3H PM GMT-4🍁)*
 
-<mark style="color:green;">**L’évent pêche**</mark> est un concours où vous devez <mark style="color:green;">**pêcher le plus de poissons possible**</mark> selon la <mark style="color:green;">**rareté demandée**</mark> pour marquer des points (**1 point** par poisson correspondant). Après <mark style="color:green;">**15 minutes**</mark> de pêche intense, les <mark style="color:green;">**3 meilleurs pêcheurs**</mark> seront récompensés 🏆!
+<mark style="color:green;">**L’évent pêche**</mark> est un concours où vous devez <mark style="color:green;">**pêcher le plus de poissons possible**</mark> selon la <mark style="color:green;">**rareté demandée**</mark> pour marquer des points. Après <mark style="color:green;">**15 minutes**</mark> de pêche intense, les <mark style="color:green;">**3 meilleurs pêcheurs**</mark> seront récompensés 🏆!
 
 🎯 **Différentes déclinaison de l'événement :**
 
-* **Pêche chanceuse** → Tous les poissons **non vanilla**
-* <mark style="color:green;">**Pêche commune**</mark> → <mark style="color:green;">Tous les poissons de rareté **Commune**</mark>
-* <mark style="color:yellow;">**Pêche rare**</mark> → <mark style="color:yellow;">Tous les poissons de rareté **Rare**</mark>
-* <mark style="color:blue;">**Pêche épique**</mark> → <mark style="color:blue;">Tous les poissons de rareté **Épique**</mark>
-* <mark style="color:purple;">**Pêche légendaire**</mark> → <mark style="color:purple;">Tous les poissons de rareté **Légendaire**</mark>
+* **Pêche chanceuse** → Tous les poissons **non vanilla** donnent les points suivant :
+
+| Type de Poissons                                  |Points données                                 |
+| ------------------------------------------------- | --------------------------------------------- |
+| <mark style="color:green;">**Commun**</mark>      | <mark style="color:green;">**1 point**</mark>  |
+| <mark style="color:yellow;">**Rare**</mark>       | <mark style="color:yellow;">**3 points**</mark> |
+| <mark style="color:blue;">**Épique**</mark>       | <mark style="color:blue;">**10 points**</mark>   |
+| <mark style="color:purple;">**Légendaire**</mark> | <mark style="color:purple;">**25 points**</mark>  |
+
+* <mark style="color:green;">**Pêche commune**</mark> → <mark style="color:green;">Tous les poissons de rareté **Commune**</mark> donnent 1 point.
+* <mark style="color:yellow;">**Pêche rare**</mark> → <mark style="color:yellow;">Tous les poissons de rareté **Rare**</mark> donnent 1 point.
+* <mark style="color:blue;">**Pêche épique**</mark> → <mark style="color:blue;">Tous les poissons de rareté **Épique**</mark> donnent 1 point.
+* <mark style="color:purple;">**Pêche légendaire**</mark> → <mark style="color:purple;">Tous les poissons de rareté **Légendaire**</mark> donnent 1 point.
+
+{% hint style="warning" %}
+Cet événement ne comptabilise pas vos poissons si vous pêchez dans le monde New World.
+{% endhint %}
 
 🏆 **Récompenses pour le top 3 :**
 
