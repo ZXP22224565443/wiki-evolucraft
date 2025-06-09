@@ -4,23 +4,22 @@ description: Retrouvez ici toutes les informations concernant les machines
 
 # ⚒️ Les Machines
 
-## <mark style="color:green;">Informations Générales</mark>
+### <mark style="color:green;">Informations Générales</mark>
 
 Les machines sont des blocs de craft qui permettent aux joueurs de créer de nouvelles fournitures à partir de différentes ressources.&#x20;
 
 Sur le serveur Evolucraft, voici les machines disponibles :
 
-### <mark style="color:green;">**Machine à bois**</mark>**&#x20;:**
+## <mark style="color:green;">**💠 Machine à bois 🪚**</mark>**&#x20;:**
 
-* Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
-* La machine à bois est récupérable à partir du niveau 40 bûcheron.
+* La machine à bois est récupérable à partir du <mark style="color:green;">niveau 40 bûcheron</mark>.
+Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
 
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_MachineBois.png" alt=""><figcaption><p><strong>Interface de la Machine à Bois </strong></p></figcaption></figure>
 
-Pour plus d'information concernant les crafts : 
-{% content-ref url="machine-à-bois.md" %}
-[machine-à-bois.md](machine-à-bois.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+Pour plus d'information concernant les crafts <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/machine-a-bois"><mark style="color:green;">**de la machine à bois**</mark></a>
+{% endhint %}
 
 ### <mark style="color:green;">**Tailleuse de pierre**</mark>**&#x20;:**
 
