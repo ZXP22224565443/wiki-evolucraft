@@ -196,7 +196,7 @@ La clé de la Caisse Draconique n'est plus disponible.&#x20;
 &#x20;La clé de la Caisse aux Trésors n'est plus disponible.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Les_Caisses/CaisseAuxTrésors.png" alt=""><figcaption><p>Aperçu de la Caisse New World</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/CaisseAuxTrésors.png" alt=""><figcaption><p>Aperçu de la Caisse aux Trésors</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
