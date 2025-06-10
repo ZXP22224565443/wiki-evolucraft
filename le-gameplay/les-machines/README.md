@@ -12,7 +12,7 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 
 ## <mark style="color:green;">**💠 Machine à bois 🪚**</mark>**&#x20;:**
 
-* La machine à bois est récupérable à partir du <mark style="color:green;">niveau 40 bûcheron 🪵</mark>.
+* La machine à bois est récupérable à partir du <mark style="color:green;">**niveau 40 bûcheron** 🪵</mark> avec la commande<mark style="color:green;">**`/jobs claim`</mark>**.
 
 Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
 
@@ -22,14 +22,14 @@ Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne d
 Pour plus d'information concernant les crafts <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/machine-a-bois"><mark style="color:green;">**de la machine à bois**</mark></a>
 {% endhint %}
 
-### <mark style="color:green;">**Tailleuse de pierre**</mark>**&#x20;:**
+## <mark style="color:green;">** 💠Tailleuse de pierre ⛏️**</mark>**&#x20;:**
 
-* Laissez libre cours à votre créativité en fabriquant des statues uniques, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>.
+* La tailleuse de pierre est récupérable à partir du <mark style="color:green;">**niveau 45 et 145 forgeage 📖** </mark> avec la commande<mark style="color:green;">**`/jobs claim`</mark>**.
+
+Laissez libre cours à votre créativité en fabriquant des statues unique et de différentes rareté : commun, rare, épique et légendaire, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>.
 * &#x20;Notez que chaque joueur est limité à deux tailleuses de pierre.
 * Les statues sont fabriquées à partir de matériaux provenant des donjons et des ressources classiques.
-* La Tailleuse en pierre est récupérable à partir du niveau 45 et 145 forgemage.
-* Les statues sont vendable au près du tailleur de pierre situé au spawn. 
-* Il existe 4 rareté de statue : commun, rare, épique et légendaire.
+
 
 <figure><img src="../../.gitbook/assets/Les_Machines/Interface_TailleusePierre.png" alt=""><figcaption><p><strong>Interface de la Tailleuse de Pierre</strong></p></figcaption></figure>
 
