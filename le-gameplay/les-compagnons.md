@@ -786,7 +786,7 @@ Il existe 5 types de bonbons, chacun ayant une rareté différente, les voici :
 
 Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessaire à son évolution, il vous suffit de survoler le compagnon en question avec votre souris.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/les_compagnons/le pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
 
 ## <mark style="color:green;">Fonctionnement du menu</mark> <mark style="color:green;"></mark><mark style="color:green;">`/pets`</mark>
 
