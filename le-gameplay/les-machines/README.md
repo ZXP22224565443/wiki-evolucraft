@@ -34,6 +34,10 @@ Laissez libre cours à votre créativité en fabriquant des statues uniques et d
 Pour plus d'informations concernant les crafts de chaque statue <a href="https://wiki.evolucraft.fr/le-gameplay/les-machines/tailleuse-de-pierre"><mark style="color:green;">**dans la tailleuse de pierre**</mark></a>
 {% endhint %}
 
+{% hint style="warning" %}
+🚨 **Attention ! Vous ne pouvez en poser que 2 par joueurs !**
+{% endhint %}
+
 ## <mark style="color:green;">**💠 Forge 🔨**</mark> :
 
 * La forge est récupérable à partir du <mark style="color:green;">**niveau 115 forgemage 📖** </mark> avec la commande <mark style="color:green;">**`/jobs claim`**</mark>.
