@@ -161,15 +161,16 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
 {% endhint %}
 
-* Merci de signaler pour une pancarte dans le spawn de votre ville & par un ticket une absence de plus d'un mois.
+* **Disband et transfert de lead de ville :**
 
-* Au bout d'un mois d'inactivité de tout les joueurs d'une ville et/ou sous certaines conditions, nous nous gardons le droit d'unclaim une ville.
-* Vous pouvez désormais récupérer le lead d'une ville sous ces conditions :
-  * Si le maire est totalement inactif depuis 60 jours
-  * Si le maire ne répond pas sur discord et/ou est totalement injoignable
-  * Seul un maire adjoint peut faire la demande pour récupérer la ville
+  * Lorsque vous prévoyez une absence prolongée de plus d’un mois, merci de nous en informer en plaçant une pancarte au spawn de votre ville et en créant un ticket dans le channel <a href="https://discord.com/channels/699670538737418343/709491272385298532">**`#🎫・créer un ticket`**</a>.
 
+  * Au bout d’un mois d’inactivité de tous les joueurs d’une ville et/ou sous certaines conditions, nous nous réservons le droit d’unclaim la ville. Un joueur proche de cette ville peut également demander l’unclaim en créant un ticket dans le channel <a href="https://discord.com/channels/699670538737418343/709491272385298532">**`#🎫・créer un ticket`**</a>.
 
+  * Vous pouvez désormais récupérer le lead d’une ville sous les conditions suivantes :
+    * Le maire est totalement inactif depuis 60 jours.
+    * Le maire ne répond pas sur Discord et/ou est totalement injoignable.
+    * Seul un maire adjoint peut faire la demande pour récupérer la ville.
 
 ### <mark style="color:green;">Article H : Triche et usebugs</mark>
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
