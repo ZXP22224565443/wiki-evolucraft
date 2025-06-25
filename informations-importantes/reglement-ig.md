@@ -86,11 +86,11 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 Cette liste n'est pas exhaustive.
 {% endhint %}
 * **Concernant les machines :**
-* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-* Si votre ferme comporte une clock, cette dernière doit obligatoirement avoir un système on/off, pour désactiver et activer votre ferme en cas d'absence.
-* Les trieurs d'items et ferme à spawner ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
-* Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
-* Les machines volantes sont toutes interdites.
+  * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+  * Si votre ferme comporte une clock, cette dernière doit obligatoirement avoir un système on/off, pour désactiver et activer votre ferme en cas d'absence.
+  * Les trieurs d'items et ferme à spawner ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+  * Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
+  * Les machines volantes sont toutes interdites.
 
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 
