@@ -77,16 +77,20 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
-* Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
 * La vente d’items en jeu contre l’argent réel est interdite.
-* La vente de cosmétiques, d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
+* Il est interdit d'utiliser une machine à pêche
+* La vente de cosmétiques (issue d'un use bug), d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
 {% endhint %}
-
-* Vous devez progresser dans votre métier de manière classique. Les machines automatiques et autres systèmes venant à contourner la progression prévue par le serveur sont interdits. Il est de ce fait interdit d’exploiter un bug pour augmenter votre métier.
+* **Concernant les machines :**
+* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+* Si votre ferme comporte une clock, cette dernière doit obligatoirement avoir un système on/off, pour désactiver et activer votre ferme en cas d'absence.
+* Les trieurs d'items et ferme à spawner ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+* Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
+* Les machines volantes sont toutes interdites.
 
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
 
@@ -106,7 +110,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 * Les machines volantes sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
-* Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+* Les trieurs d'items et ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
@@ -115,11 +119,12 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 ### <mark style="color:green;">Article D : Les mods autorisés</mark>
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
-  * Optifine, ReplayMod (Uniquement pour Record).
+  * Optifine, Iris 
+  * ReplayMod, Flashback (Uniquement pour Record).
   * Badlion / Lunar / Labymod.
-  * Schematica (Sans le mode printer ou easyplace).
+  * Schematica (Sans activer l'option printer ou easyplace).
   * Toggle Sneak / Sprint.
-  * Mini-map
+  * Mini-map / World map
 
 ### <mark style="color:green;">Article E : Les mods interdits</mark>
 
@@ -129,14 +134,13 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
     * Schematica Printer ou Easyplace
     * Freecam ou ce qui peut permettre de voler des farms.
 
-    Cette liste n'est pas exhaustive.
+{% hint style="warning" %}
+Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket. L'utilisation d'un mod, après avoir demandé au staff, sera sanctionnable.
+{% endhint %}
 
 ### <mark style="color:green;">Article F : Les doubles comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
-
-
-
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
 * L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner.
