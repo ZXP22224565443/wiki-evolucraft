@@ -92,7 +92,9 @@ Cette liste n'est pas exhaustive.
   * Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
   * Les machines volantes sont toutes interdites.
 
+{% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
+{% endhint %}
 
 * **Concernant les mondes constructions et les villes :**
   * Vous n'avez le droit **d'être maire que d'une seule ville** 
