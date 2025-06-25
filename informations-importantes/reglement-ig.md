@@ -171,7 +171,7 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 
 
 
-* ### <mark style="color:green;">Article H : Triche et usebugs</mark>
+### <mark style="color:green;">Article H : Triche et usebugs</mark>
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
