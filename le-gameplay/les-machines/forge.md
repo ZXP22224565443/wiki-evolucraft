@@ -182,7 +182,7 @@ description: Retrouvez ici toutes les informations concernant la forge
 </table>
 
 
-### <mark style="color:red"> Gemme légendaire </mark>
+### <mark style="color:purple"> Gemme légendaire </mark>
 
 <mark style="color:green"> **Temps de Craft**</mark> : 7 minutes et 30 secondes
 
@@ -280,51 +280,138 @@ description: Retrouvez ici toutes les informations concernant la forge
   </tr>
 </table>
 
+### <mark style="color:red"> Gemme mythique </mark>
+
+**Temps de Craft : <mark style="color:green">10 minutes</mark>**
+
+<table>
+  <tr>
+    <th>Gemme du fermier</th>
+    <th>Gemme du mineur</th>
+    <th>Gemme du chasseur</th>
+    <th>Gemme du pêcheur</th>
+    <th>Gemme du bûcheron</th>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;"><strong>4 gemme légendaire (fermier)</strong></mark></td>
+    <td><mark style="color:purple;"><strong>4 gemme légendaire (mineur)</strong></mark></td>
+    <td><mark style="color:purple;"><strong>4 gemme légendaire (chasseur)</strong></mark></td>
+    <td><mark style="color:purple;"><strong>4 gemme légendaire (pêcheur)</strong></mark></td>
+    <td><mark style="color:purple;"><strong>4 gemme légendaire (bûcheron)</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:white;"><strong>64 pierres</strong></mark></td>
+    <td><mark style="color:white;"><strong>64 pierres</strong></mark></td>
+    <td><mark style="color:white;"><strong>64 pierres</strong></mark></td>
+    <td><mark style="color:white;"><strong>64 pierres</strong></mark></td>
+    <td><mark style="color:white;"><strong>64 pierres</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:white;"><strong>320 cacao</strong></mark></td>
+    <td><mark style="color:white;"><strong>64 débris antiques</strong></mark></td>
+    <td><mark style="color:white;"><strong>448 bâtons de blaze</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 Blobfish</strong></mark></td>
+    <td><mark style="color:red;"><strong>128 bûches d'accacia</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:white;"><strong>320 lianes</strong></mark></td>
+    <td><mark style="color:white;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>112 perles de l'ender</strong></mark></td>
+    <td><mark style="color:blue;"><strong>2 homard</strong></mark></td>
+    <td><mark style="color:red;"><strong>128 bûches de palétuvier/mangrove</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:white;"><strong>X</strong></mark></td>
+    <td><mark style="color:white;"><strong>X</strong></mark></td>
+    <td><mark style="color:white;"><strong>X</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 crevettes</strong></mark></td>
+    <td><mark style="color:white;"><strong>X</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 Hippocampes</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 Poissons perroquet</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+    <td><mark style="color:purple;"><strong>2 Truites arc-en-ciel</strong></mark></td>
+    <td><mark style="color:red;"><strong>X</strong></mark></td>
+  </tr>
+</table>
+
 
 ## Les armes
 
 ### <mark style="color:yellow;">Arme Rare</mark>
 
-<mark style="color:green;">**Temps de Craft**</mark> : **30 minutes**
+**Temps de Craft : <mark style="color:green;">30 minutes</mark>**
 
 | Ressources                                                     | Nombre                                   |
 | -------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:green;">**Arme commune**</mark>             | <mark style="color:green;">**1**</mark>  |
-| <mark style="color:yellow;">**Gemmes de fermier rare**</mark>  | <mark style="color:yellow;">**1**</mark> |
-| <mark style="color:yellow;">**Gemmes de mineur rare**</mark>   | <mark style="color:yellow;">**1**</mark> |
-| <mark style="color:yellow;">**Gemmes de chasseur rare**</mark> | <mark style="color:yellow;">**1**</mark> |
-| <mark style="color:yellow;">**Gemmes de bûcheron rare**</mark> | <mark style="color:yellow;">**1**</mark> |
-| <mark style="color:yellow;">**Gemmes de pêcheur rare**</mark>  | <mark style="color:yellow;">**1**</mark> |
-| <mark style="color:yellow;">**Cristaux rare**</mark>           | <mark style="color:yellow;">**4**</mark> |
+| <mark style="color:green;">**Arme commune**</mark>             | **1**                                    |
+| <mark style="color:yellow;">**Gemmes de fermier rare**</mark>  | **1**                                    |
+| <mark style="color:yellow;">**Gemmes de mineur rare**</mark>   | **1**                                    |
+| <mark style="color:yellow;">**Gemmes de chasseur rare**</mark> | **1**                                    |
+| <mark style="color:yellow;">**Gemmes de bûcheron rare**</mark> | **1**                                    |
+| <mark style="color:yellow;">**Gemmes de pêcheur rare**</mark>  | **1**                                    |
+| <mark style="color:yellow;">**Cristaux rare**</mark>           | **4**                                    |
 
 ### <mark style="color:blue;">Arme Épique</mark>
 
-<mark style="color:green;">**Temps de Craft**</mark> : **1 heure**
+**Temps de Craft : <mark style="color:green;">1 heure</mark>**
 
 | Ressources                                                     | Nombre                                   |
 | -------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:yellow;">**Arme rare**</mark>               | <mark style="color:yellow;">**1**</mark> |
-| <mark style="color:blue;">**Gemmes de fermier épique**</mark>  | <mark style="color:blue;">**1**</mark>   |
-| <mark style="color:blue;">**Gemmes de mineur épique**</mark>   | <mark style="color:blue;">**1**</mark>   |
-| <mark style="color:blue;">**Gemmes de chasseur épique**</mark> | <mark style="color:blue;">**1**</mark>   |
-| <mark style="color:blue;">**Gemmes de bûcheron épique**</mark> | <mark style="color:blue;">**1**</mark>   |
-| <mark style="color:blue;">**Gemmes de pêcheur épique**</mark>  | <mark style="color:blue;">**1**</mark>   |
-| <mark style="color:blue;">**Cristaux épique**</mark>           | <mark style="color:blue;">**4**</mark>   |
+| <mark style="color:yellow;">**Arme rare**</mark>               | **1**                                    |
+| <mark style="color:blue;">**Gemmes de fermier épique**</mark>  | **1**                                    |
+| <mark style="color:blue;">**Gemmes de mineur épique**</mark>   | **1**                                    |
+| <mark style="color:blue;">**Gemmes de chasseur épique**</mark> | **1**                                    |
+| <mark style="color:blue;">**Gemmes de bûcheron épique**</mark> | **1**                                    |
+| <mark style="color:blue;">**Gemmes de pêcheur épique**</mark>  | **1**                                    |
+| <mark style="color:blue;">**Cristaux épique**</mark>           | **4**                                    |
 
 ### <mark style="color:purple;">Arme Légendaire</mark>
 
-<mark style="color:green;">**Temps de Craft**</mark> : **1 heure 30 minutes**
+**Temps de Craft : <mark style="color:green;">1 heure 30 minutes</mark>**
 
 | Ressources                                                           | Nombre                                   |
 | -------------------------------------------------------------------- | ---------------------------------------- |
-| <mark style="color:blue;">**Arme épique**</mark>                     | <mark style="color:blue;">**1**</mark>   |
-| <mark style="color:purple;">**Gemmes de fermier légendaire**</mark>  | <mark style="color:purple;">**1**</mark> |
-| <mark style="color:purple;">**Gemmes de mineur légendaire**</mark>   | <mark style="color:purple;">**1**</mark> |
-| <mark style="color:purple;">**Gemmes de chasseur légendaire**</mark> | <mark style="color:purple;">**1**</mark> |
-| <mark style="color:purple;">**Gemmes de bûcheron légendaire**</mark> | <mark style="color:purple;">**1**</mark> |
-| <mark style="color:purple;">**Gemmes de pêcheur légendaire**</mark>  | <mark style="color:purple;">**1**</mark> |
-| <mark style="color:purple;">**Cristaux légendaire**</mark>           | <mark style="color:purple;">**4**</mark> |
-| <mark style="color:purple;">**Corne du golem**</mark>                | <mark style="color:purple;">**4**</mark> |
-| <mark style="color:purple;">**Bâton brisé de la sorcière**</mark>    | <mark style="color:purple;">**4**</mark> |
-| <mark style="color:purple;">**Braise de chaudron**</mark>            | <mark style="color:purple;">**4**</mark> |
+| <mark style="color:blue;">**Arme épique**</mark>                     | **1**                                    |
+| <mark style="color:purple;">**Gemmes de fermier légendaire**</mark>  | **1**                                    |
+| <mark style="color:purple;">**Gemmes de mineur légendaire**</mark>   | **1**                                    |
+| <mark style="color:purple;">**Gemmes de chasseur légendaire**</mark> | **1**                                    |
+| <mark style="color:purple;">**Gemmes de bûcheron légendaire**</mark> | **1**                                    |
+| <mark style="color:purple;">**Gemmes de pêcheur légendaire**</mark>  | **1**                                    |
+| <mark style="color:purple;">**Cristaux légendaire**</mark>           | **4**                                    |
+| <mark style="color:purple;">**Corne du golem**</mark>                | **4**                                    |
+| <mark style="color:purple;">**Bâton brisé de la sorcière**</mark>    | **4**                                    |
+| <mark style="color:purple;">**Braise de chaudron**</mark>            | **4**                                    |
+
+### <mark style="color:red;">Arme Mythique</mark>
+
+**Temps de Craft : <mark style="color:green;">2 heures</mark>**
+
+| Ressources                                                           | Nombre                                   |
+| -------------------------------------------------------------------- | ---------------------------------------- |
+| <mark style="color:purple;">**Arme légendaire**</mark>               | **1**                                    |
+| <mark style="color:red;">**Gemmes de fermier mythique**</mark>       | **1**                                    |
+| <mark style="color:red;">**Gemmes de mineur mythique**</mark>        | **1**                                    |
+| <mark style="color:red;">**Gemmes de chasseur mythique**</mark>      | **1**                                    |
+| <mark style="color:red;">**Gemmes de bûcheron mythique**</mark>      | **1**                                    |
+| <mark style="color:red;">**Gemmes de pêcheur mythique**</mark>       | **1**                                    |
+| <mark style="color:red;">**Cristal de mythique**</mark>              | **4**                                    |
+| <mark style="color:red;">**Yeux du Void**</mark>                     | **4**                                    |
+| <mark style="color:red;">**Coeur du Void**</mark>                    | **4**                                    |
+| <mark style="color:red;">**Cube de Void**</mark>                     | **1**                                    |
 
