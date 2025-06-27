@@ -26,7 +26,7 @@ Les événements présentés ici sont exclusivement des événements récurrents
 Quant aux <mark style="color:green;">**autres participants**</mark> qui n'ont pas réussi à être dans le top 5, vous gagnez quand même <mark style="color:yellow;">**250 Soleils**</mark> *
 
 {% hint style="info" %}
--# * : Les soleils 🌞 vous permettent d'acheter des éléments dans le /summer > boutique summer !
+☝🤓 * : Les soleils 🌞 vous permettent d'acheter des éléments dans le /summer > boutique summer !
 {% endhint %}
 
 ### <mark style="color:green;">💠 Farm Boost 💱</mark>
