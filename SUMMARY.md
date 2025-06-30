@@ -17,6 +17,7 @@
   * [🏹 Archer](le-gameplay/les-classes/archer.md)
   * [🧙‍♂️ Mage](le-gameplay/les-classes/mage.md)
   * [🎼 Barde](le-gameplay/les-classes/barde.md)
+  * [🎭 Illusionniste](le-gameplay/les-classes/illusionniste.md)
   * [🗡️ Assassin](le-gameplay/les-classes/assassin.md)
   * [🛡️ Paladin](le-gameplay/les-classes/paladin.md)
   * [❄️ Chevalier des glaces](le-gameplay/les-classes/chevalier-des-glaces.md)
@@ -30,6 +31,8 @@
   * [⛪ Clerc](le-gameplay/les-classes/clerc.md)
   * [🥋 Artiste Martial](le-gameplay/les-classes/artiste-martial.md)
   * [🎇 Artificier](le-gameplay/les-classes/artificier.md)
+  * [🥷 Samouraï](le-gameplay/les-classes/samouraï.md)
+  * [Chevalier de la mort](le-gameplay/les-classes/chevalier-des-glaces.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons/README.md) <!-- Un grand merci à Draco808_ pour l'xp/mobs en dj -->
   * [🟩 Commun](le-gameplay/les-donjons/commun.md)
   * [🟧 Rare](le-gameplay/les-donjons/rare.md)
