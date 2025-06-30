@@ -47,6 +47,7 @@
   * [🟥 Cupidon](le-gameplay/les-donjons/cupidon.md)
   * [🟫 Terrier du Roi Lapin](le-gameplay/les-donjons/RoiLapin.md)
   * [🟫 Fabrique de Chocolat](le-gameplay/les-donjons/FabriqueChocolat.md)
+  *[🟥 Mythique](le-gameplay/les-donjons/mythique.md)
 * [💰 Le Commerce](le-gameplay/le-commerce.md)
 * [👷 Les Métiers](le-gameplay/les-metiers.md)
 * [📜 Les Quêtes](le-gameplay/les-quetes.md)
