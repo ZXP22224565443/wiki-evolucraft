@@ -133,6 +133,18 @@ Dans chaque menu de classe, vous trouverez une boutique dédiée à l'achat de n
 | <mark style="color:purple;">**6**</mark> | <mark style="color:purple;">**16**</mark>                     | <mark style="color:purple;">**16 200 000**</mark> |
 | <mark style="color:purple;">**7**</mark> | <mark style="color:purple;">**32**</mark>                     | <mark style="color:purple;">**48 600 000**</mark> |
 
+<mark style="color:red;">**Mythique**</mark>
+
+| Compétences                              | Cartes requises                                               | Prix                                              |
+| ---------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
+| <mark style="color:red;">**1**</mark>    | <mark style="color:red;">**Obtention de la classe**</mark>    | <mark style="color:red;">**-**</mark>             |
+| <mark style="color:red;">**2**</mark>    | <mark style="color:red;">**1**</mark>                         | <mark style="color:red;">**400 000**</mark>       |
+| <mark style="color:red;">**3**</mark>    | <mark style="color:red;">**1**</mark>                         | <mark style="color:red;">**1 200 000**</mark>     |
+| <mark style="color:red;">**4**</mark>    | <mark style="color:red;">**2**</mark>                         | <mark style="color:red;">**3 600 000**</mark>     |
+| <mark style="color:red;">**5**</mark>    | <mark style="color:red;">**4**</mark>                         | <mark style="color:red;">**10 800 000**</mark>    |
+| <mark style="color:red;">**6**</mark>    | <mark style="color:red;">**8**</mark>                         | <mark style="color:red;">**32 400 000**</mark>    |
+| <mark style="color:red;">**7**</mark>    | <mark style="color:red;">**16**</mark>                        | <mark style="color:red;">**97 200 000**</mark>    |
+
 <mark style="color:green;">**Nombre de cartes nécessaires pour les classes aléatoires**</mark>
 
 |                               Classe                               |          Nombre de cartes minimum          |          Nombre de cartes maximum          |
