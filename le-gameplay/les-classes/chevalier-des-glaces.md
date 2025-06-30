@@ -1,7 +1,5 @@
 ---
-description: >-
-  Retrouvez ici toutes les informations concernant la classe Chevalier des
-  glaces
+description: Retrouvez ici toutes les informations concernant la classe Chevalier des glaces
 ---
 
 # ❄️ Chevalier des glaces
@@ -18,7 +16,7 @@ Effectuez une attaque tranchante avec votre lame.
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>: 0.5s
 * <mark style="color:yellow;">**Mana**</mark>: 0
-* <mark style="color:yellow;">**Dégâts**</mark>: 9.25
+* <mark style="color:yellow;">**Dégâts**</mark>: 5.9 ou 9.9 pour le troisième coup du 
 
 ### <mark style="color:yellow;">**Niveau 5 : Engelures**</mark>
 

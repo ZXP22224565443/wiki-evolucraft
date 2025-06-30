@@ -3,6 +3,7 @@ description: Retrouvez ici toutes les informations concernant la classe Illusion
 ---
 
 # 🎭 Illusionniste
+Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible.
 
 
 
