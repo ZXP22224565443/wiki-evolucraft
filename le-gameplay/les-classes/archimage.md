@@ -64,4 +64,4 @@ Lévitez dans les airs et formez une zone de destruction où vous invoquez des �
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 35s
 * <mark style="color:blue;">**Mana**</mark>**:** 200
-* <mark style="color:blue;">**Dégâts**</mark>**:** 13.5 puis 37.5
+* <mark style="color:blue;">**Dégâts**</mark>**:** 287,1 puis 329,1
