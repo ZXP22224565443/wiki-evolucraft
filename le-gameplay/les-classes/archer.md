@@ -25,6 +25,7 @@ Le quatrième coup de votre flèche ralentit la cible pendant une courte périod
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 1s
 * <mark style="color:green;">**Mana**</mark>**:** 0
 * <mark style="color:green;">**Dégâts**</mark>**:** 0
+<!--Il faudrai demander a un staff le bonus de vitesse-->
 
 ### <mark style="color:green;">**Niveau 10 : Recul**</mark>
 
@@ -49,6 +50,7 @@ Lancez un javelot, repoussant et étourdissant la cible pendant une courte péri
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 15s
 * <mark style="color:green;">**Mana**</mark>**:** 100
 * <mark style="color:green;">**Dégâts**</mark>**:** 786,7
+<!--Il faudrai demander la durée de stun-->
 
 ### <mark style="color:green;">**Niveau 30 : Nuée de Flèches**</mark>
 

@@ -33,6 +33,7 @@ Téléportez-vous dans la direction dans laquelle vous regardez.
 * <mark style="color:green;">**Temps de recharge**</mark>: 3s
 * <mark style="color:green;">**Mana**</mark>: 10
 * <mark style="color:green;">**Dégâts**</mark>: 0
+<!--Il faudrai demander le nombre de blocs max pour la tp-->
 
 ### <mark style="color:green;">**Niveau 15 : Nova de Froid**</mark>
 
@@ -41,6 +42,7 @@ Invoque une vague de pointes de glace qui endommagent et paralysent les ennemis.
 * <mark style="color:green;">**Temps de recharge**</mark>: 5s
 * <mark style="color:green;">**Mana**</mark>: 50
 * <mark style="color:green;">**Dégâts**</mark>: 98,7
+<!--Il faudrai demander la durée de paralysie-->
 
 ### <mark style="color:green;">**Niveau 20 : Météore**</mark>
 
@@ -56,7 +58,9 @@ Créez un petit tremblement de terre, endommageant et étourdissant les cibles a
 
 * <mark style="color:green;">**Temps de recharge**</mark>: 5s
 * <mark style="color:green;">**Mana**</mark>: 38
-* <mark style="color:green;">**Dégâts**</mark>: 395,2
+* <mark style="color:green;">**Dégâts**</mark>: 395.2
+<!--Il faudrai demander la durée du stun-->
+
 
 ### <mark style="color:green;">**Niveau 40 : Chaîne Infernal**</mark>
 
@@ -64,4 +68,4 @@ Invoquez 4 chaînes de feu qui étourdissent les cibles, créant une rupture au 
 
 * <mark style="color:green;">**Temps de recharge**</mark>: 30s
 * <mark style="color:green;">**Mana**</mark>: 175
-* <mark style="color:green;">**Dégâts**</mark>: 1324,9
+* <mark style="color:green;">**Dégâts**</mark>: 48

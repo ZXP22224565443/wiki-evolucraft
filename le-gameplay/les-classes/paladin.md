@@ -16,7 +16,8 @@ Effectuez une attaque sacrée. Chaque troisième frappe coupe vos ennemis et les
 
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:yellow;">**Mana**</mark>**:** 0
-* <mark style="color:yellow;">**Dégâts**</mark>**:** 4,2 ou 14,8 pour le troisième coup du combo
+* <mark style="color:yellow;">**Dégâts**</mark>**:** 4.2
+* <mark style="color:yellow;">**Dégâts du combo**</mark>**:** 14.8
 
 ### <mark style="color:yellow;">**Niveau 5 : Aura radieuse**</mark>
 
@@ -33,6 +34,7 @@ Invoquez un bouclier sacré devant vous, foncez à l'emplacement ciblé et repou
 * <mark style="color:yellow;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:yellow;">**Mana**</mark>**:** 75
 * <mark style="color:yellow;">**Dégâts**</mark>**:** 77,2
+<!--Il faudrai demander la durée du stun-->
 
 ### <mark style="color:yellow;">**Niveau 15 : Marteau de justice**</mark>
 

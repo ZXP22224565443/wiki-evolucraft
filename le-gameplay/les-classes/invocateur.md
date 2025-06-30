@@ -24,7 +24,8 @@ Les attaques de votre gardien spirituel sont plus puissantes et peuvent ralentir
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** Passif (toujours actif)
 * <mark style="color:blue;">**Mana**</mark>**:** 0
-* <mark style="color:blue;">**Dégâts**</mark>**:** 39,1
+* <mark style="color:blue;">**Dégâts**</mark>**:** 10
+<!--Il faudrai demander : Le % de slow, durée du slow, % d'augmentation des damages-->
 
 ### <mark style="color:blue;">**Niveau 10 : Ange gardien**</mark>
 
@@ -64,4 +65,4 @@ Invoquez un phénix qui glisse à travers le sol, brûlant et infligeant des dé
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:blue;">**Mana**</mark>**:** 350
-* <mark style="color:blue;">**Dégâts**</mark>**:** 1593 + 980 
+* <mark style="color:blue;">**Dégâts**</mark>**:** 980 + 1593

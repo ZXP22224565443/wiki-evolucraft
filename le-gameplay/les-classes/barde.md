@@ -17,6 +17,7 @@ Envoyez une onde sonore harmonieuse qui perturbe et endommage les ennemis.
 * <mark style="color:green;">**Temps de recharge**</mark>: 1s
 * <mark style="color:green;">**Mana**</mark>: 0
 * <mark style="color:green;">**Dégâts**</mark>: 23,7
+<!--Il faudrai demander la durée du slow-->
 
 ### <mark style="color:green;">**Niveau 5 : Harmonie**</mark>
 
@@ -33,6 +34,7 @@ Crée une vibration massive qui étourdit les ennemis.
 * <mark style="color:green;">**Temps de recharge**</mark>: 15s
 * <mark style="color:green;">**Mana**</mark>: 25
 * <mark style="color:green;">**Dégâts**</mark>: 44,8
+<!--Il faudrai demander la durée du stun-->
 
 ### <mark style="color:green;">**Niveau 15 : Sérénade**</mark>
 
@@ -65,3 +67,4 @@ Invoquez un cercle de mélodies, ralentissant toutes les cibles à l'intérieur 
 * <mark style="color:green;">**Temps de recharge**</mark>: 30s
 * <mark style="color:green;">**Mana**</mark>: 300
 * <mark style="color:green;">**Dégâts**</mark>: 2384,9
+<!--Il faudrai demander la puissance du slow-->

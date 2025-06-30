@@ -16,7 +16,7 @@ Effectuez une large gamme d'attaques tranchantes et perçantes.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 0.5s
 * <mark style="color:green;">**Mana**</mark>**:** 0
-* <mark style="color:green;">**Dégâts**</mark>**:** 6,6
+* <mark style="color:green;">**Dégâts**</mark>**:** 6.6
 
 ### <mark style="color:green;">**Niveau 5 : Carnage**</mark>
 
@@ -56,7 +56,7 @@ Faites tourner votre épée, endommageant les cibles proches.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 150
-* <mark style="color:green;">**Dégâts**</mark>**:** 173,4
+* <mark style="color:green;">**Dégâts**</mark>**:** 173.4
 
 ### <mark style="color:green;">**Niveau 40 : Jugement**</mark>
 

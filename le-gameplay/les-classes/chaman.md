@@ -51,7 +51,7 @@ Invoquez un totem qui peut changer de forme aléatoirement :
 
 * <mark style="color:blue;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:blue;">**Mana**</mark>**:** 150
-* <mark style="color:blue;">**Dégâts**</mark>**:** 35,2
+* <mark style="color:blue;">**Dégâts du totem d'attaque**</mark>**:** 35,2
 
 ### <mark style="color:blue;">**Niveau 30 : Rayon Solaire**</mark>
 

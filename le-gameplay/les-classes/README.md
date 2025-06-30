@@ -22,7 +22,6 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</
 * <mark style="color:green;">**Archer**</mark> : Maîtres dans l'art du tir à l'arc, agiles et précis, ne ratant jamais leur cible.
 * <mark style="color:green;">**Mage**</mark> : Manipulateurs des forces mystiques, lançant des sorts dévastateurs, incarnant la puissance des arcanes.
 * <mark style="color:green;">**Barde**</mark> : Maître dans l'art de la musique et de la poésie, charmant et inspirant, il envoûte toujours son auditoire.
-* <mark style="color:green;">**Illusionniste**</mark> : Maître des illusions et de la ruse, troube les sens et trompe l'ennemi, il frappe où nul ne s'y attend.
 
 ## <mark style="color:yellow;">Classes Rares</mark>
 
@@ -48,7 +47,7 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</
 * <mark style="color:purple;">**Samouraï**</mark> : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision.
 
 ## <mark style="color:red;">Classe Mythique</mark>
-* <mark style="color:red;">**Chevalier de la mort**</mark> : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur.
+* <mark style="color:red;">**Chevalier de la mort**</mark> : 
 
 ## <mark style="color:green;">Catégories de Classes</mark>
 
@@ -56,7 +55,7 @@ Les classes sont réparties en trois catégories : Tanks, DPS, et Soutien.
 
 **Tanks :&#x20;**<mark style="color:green;">**Guerrier**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Paladin**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Moine**</mark>
 
-**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;****<mark style="color:purple;">**Illusionniste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chavalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Samouraï**</mark>**<mark style="color:red;">**Chevalier de la mort**</mark>**&#x20;/&#x20;**
+**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chavalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Samouraï**</mark>
 
 **Soutien :&#x20;**<mark style="color:green;">**Barde**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Chaman**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Clerc**</mark>
 
