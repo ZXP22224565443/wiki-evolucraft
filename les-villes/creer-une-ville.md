@@ -34,9 +34,9 @@ Créer la ville grâce à la commande <mark style="color:green;">**`/v create [N
 
 ### <mark style="color:green;">Étape 4</mark>
 
-Agrandir la ville grâce à la commande <mark style="color:green;">**`/v claim`**</mark> sur un chunk voisin.&#x20;
+Agrandir la ville grâce à la commande <mark style="color:green;">**`/v claim`**</mark> sur un chunk voisin.
 
-Le coût d'un claim dépend du niveau de votre ville.&#x20;
+Le coût d'un claim dépend du niveau de votre ville.
 
 ### <mark style="color:green;">Étape 5</mark>
 
@@ -59,6 +59,7 @@ Configurer les paramètres de la ville et des rôles dans le /ville
 Voici les commandes à connaître pour gérer votre ville :
 
 ### Globale
+
 * <mark style="color:green;">**`/v create <nom de votre ville>`**</mark> : Crée votre ville.
 * <mark style="color:green;">**`/v`**</mark> : Ouvre le menu de votre ville
 * <mark style="color:green;">**`/v sethome /v setspawn`**</mark> : Crée le point de téléportation de votre ville.
@@ -68,15 +69,17 @@ Voici les commandes à connaître pour gérer votre ville :
 * <mark style="color:green;">**`/v select`**</mark> : Permet de choisir ça ville principal.
 * <mark style="color:green;">**`/v pinfo [joueur]`**</mark> : Donne des informations concernant la ville du joueur.
 * <mark style="color:green;">**`/v list`**</mark> : Donne la liste de toutes les villes présentes sur le serveur.
-* <mark style="color:green;">**`/v player [joueur]`** : Donne les informations d'un joueur : ville, statue dans la ville, dernière connexion.
+* <mark style="color:green;">**`/v player [joueur]`**</mark> <mark style="color:green;"></mark><mark style="color:green;">: Donne les informations d'un joueur : ville, statue dans la ville, dernière connexion.</mark>
 * <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
 
 {% hint style="warning" %}
-### Important 🚨
-Avant de confirmer la suppression de votre ville, pensez à récupérer l’argent de votre ville avec le /v bank withdraw [montant] et à récupérer le stuff qui s’y trouve dans votre ville !
+#### Important 🚨
+
+Avant de confirmer la suppression de votre ville, pensez à récupérer l’argent de votre ville avec le /v bank withdraw \[montant] et à récupérer le stuff qui s’y trouve dans votre ville !
 {% endhint %}
 
 ### Gestion des joueurs
+
 * <mark style="color:green;">**`/v add [joueur] /v invite [joueur]`**</mark> : Invite un joueur dans votre ville.
 * <mark style="color:green;">**`/v accept [joueur]`**</mark> : Accepte la demande d'adhésion d'un joueur à votre ville.
 * <mark style="color:green;">**`/v kick [joueur]`**</mark> : Retire un joueur de sa ville.
@@ -86,6 +89,7 @@ Avant de confirmer la suppression de votre ville, pensez à récupérer l’arge
 * <mark style="color:green;">**`/v setowner [joueur]`**</mark> : Donne le rôle "maire au joueur désigné.
 
 ### Gestion des claims
+
 * <mark style="color:green;">**`/v map`**</mark> : Donne la topographie des villes à l'endroit où vous vous situez.
 * <mark style="color:green;">**`/v claim`**</mark> : Réclame le chunk sur lequel vous vous situez.
 * <mark style="color:green;">**`/v unclaim`**</mark> : Retire le claim du chunk sur lequel vous vous situez.
@@ -93,6 +97,7 @@ Avant de confirmer la suppression de votre ville, pensez à récupérer l’arge
 * <mark style="color:green;">**`/v view`**</mark> : Affiche la délimitation de votre ville avec des particules vertes.
 
 ### Chat de ville
+
 * <mark style="color:green;">**`/v chat`**</mark> : Active le chat de votre ville.
 * <mark style="color:green;">**`/v chat message`**</mark> : Écrit dans le chat de la ville sans l'activé.
 

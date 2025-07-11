@@ -6,13 +6,13 @@ description: >-
 
 # 🛠️ Les niveaux de ville
 
-Pour augmenter la taille de votre ville, vous devez augmenter son niveau.&#x20;
+Pour augmenter la taille de votre ville, vous devez augmenter son niveau.
 
-Pour passer au niveau suivant, vous devez remplir certains prérequis.&#x20;
+Pour passer au niveau suivant, vous devez remplir certains prérequis.
 
 Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style="color:green;">**`/ville`**</mark> et en cliquant sur l'icône représentant une maison.
 
-<figure><img src="../.gitbook/assets/Les_Villes/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du <code>/ville</code></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/Interface_Ville (1).png" alt=""><figcaption><p><strong>Aperçu du <code>/ville</code></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">**Niveau 0 : Parcelle**</mark>
 
@@ -23,9 +23,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 25 chunks disponibles
-* 25$ par chunk de taxes
+* 25$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 500$
 
@@ -39,9 +39,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 50 chunks disponibles
-* 50$ par chunk de taxes
+* 50$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 1.000$
 
@@ -55,9 +55,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 100 chunks disponibles
-* 75$ par chunk de taxes
+* 75$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 1.500$
 
@@ -71,9 +71,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 200 chunks disponibles
-* 125$ par chunk de taxes
+* 125$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 2.500$
 
@@ -87,9 +87,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 300 chunks disponibles
-* 200$ par chunk de taxes
+* 200$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 4.000$
 
@@ -103,9 +103,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 400 chunks disponibles
-* 325$ par chunk de taxes
+* 325$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 6.500$
 
@@ -119,9 +119,9 @@ Vous pouvez consulter ces prérequis en jeu en accédant au menu via <mark style
 <mark style="color:green;">**Avantages**</mark> :
 
 * 500 chunks disponibles
-* 500$ par chunk de taxes
+* 500$ par chunk de taxes
 
-<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**&#x20;
+<mark style="color:green;">**Coût du Claim**</mark>**&#x20;:**
 
 * 10.000$
 
