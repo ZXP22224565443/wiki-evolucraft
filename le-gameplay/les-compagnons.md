@@ -585,7 +585,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>+15%</strong></mark><strong> sur la vente de </strong><mark style="color:blue;"><strong>Steak</strong></mark>
       <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>5.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +15</strong>
-      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>6.2500</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>6.250</strong></mark><strong>💰/h</strong>
       <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>+7,5%</strong></mark><strong> d'EXP </strong><mark style="color:blue;"><strong>Forgemage</strong></mark>
     </td>
   </tr>
@@ -604,7 +604,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
   <tr>
     <td align="center"><mark style="color:blue;"><strong>Gemling</strong></mark></td>
     <td>
-      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:blue;"><strong>Mana</strong></mark><strong> +10</strong>
+      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +10</strong>
       <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +15</strong>
       <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +20</strong>
       <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +25</strong>

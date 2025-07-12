@@ -32,7 +32,7 @@
   * [🥋 Artiste Martial](le-gameplay/les-classes/artiste-martial.md)
   * [🎇 Artificier](le-gameplay/les-classes/artificier.md)
   * [🥷 Samouraï](le-gameplay/les-classes/samouraï.md)
-  * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-des-glaces.md)
+  * [☠️ Chevalier de la mort](le-gameplay/les-classes/chevalier-de-la-mort.md)
 * [🏛️ Les Donjons](le-gameplay/les-donjons/README.md) <!-- Un grand merci à Draco808_ pour l'xp/mobs en dj -->
   * [🟩 Commun](le-gameplay/les-donjons/commun.md)
   * [🟧 Rare](le-gameplay/les-donjons/rare.md)
