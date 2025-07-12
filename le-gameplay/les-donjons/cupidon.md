@@ -20,15 +20,14 @@ Boss : 4000 xp
 
 ### <mark style="color:green;">Récompense en fin de donjon</mark>
 
-|                                                                |
-| :------------------------------------------------------------: |
-|    <mark style="color:red;">**Parchemin de l'amour**</mark>    |
-|          <mark style="color:red;">**40.000 💰**</mark>         |
-|          <mark style="color:red;">**60.000 💰**</mark>         |
-|         <mark style="color:red;">**100.000 💰**</mark>         |
-|        <mark style="color:red;">**Auréole (x2)**</mark>        |
-|  <mark style="color:orange;">**Bonbon à l'orange (x2)**</mark> |
-| <mark style="color:red;">**Œuf de familier de l'amour**</mark> |
-|     <mark style="color:red;">**Exp classe (x5.000)**</mark>    |
-|        <mark style="color:red;">**Cœur (x2.500)**</mark>       |
-|      <mark style="color:red;">**Clé Cupidon (x1)**</mark>      |
+                                                                 |
+|:----------------------------------------------------------------------------:|
+| <mark style="color:red;"><strong>Parchemin de l'amour</strong></mark>       |
+| <mark style="color:red;"><strong>40.000 💰</strong></mark>                  |
+| <mark style="color:red;"><strong>60.000 💰</strong></mark>                  |
+| <mark style="color:red;"><strong>100.000 💰</strong></mark>                 |
+| <mark style="color:red;"><strong>Auréole (x2)</strong></mark>               |
+| <mark style="color:orange;"><strong>Bonbon à l'orange (x2)</strong></mark>   |
+| <mark style="color:red;"><strong>Œuf de familier de l'amour</strong></mark> |
+| <mark style="color:red;"><strong>Exp classe (x5.000)</strong></mark>        |
+| <mark style="color:red;"><strong>Clé Cupidon (x1)</strong></mark>           |

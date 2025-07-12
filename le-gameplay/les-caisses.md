@@ -370,6 +370,36 @@ La clé de la caisse Pâques est actuellement n'est plus disponible.
 | <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**           | <mark style="color:purple;">**5,56%**</mark> |
 | <mark style="color:yellow;">**Clé Pâques**</mark>**&#x20;(x2)**                 | <mark style="color:yellow;">**5,56%**</mark> |
 
+## <mark style="color:green;">Caisse Summer</mark> (Temporaire)
+
+{% hint style="success" %}
+La clé de la caisse Summer est actuellement disponible (/boutique).
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Les_Caisses/Summer.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
+
+|                                                                                    |                                                      |
+| -----------------------------------------------------------------------------------| -----------------------------------------------------|
+| **Récompense**                                                                     | **Chance**                                           |
+| <mark style="color:blue;">**Casque Summer**</mark>                                 | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Plastron Summer**</mark>                               | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Jambières Summer**</mark>                              |  <mark style="color:blue;">**5,56%**</mark>          |
+| <mark style="color:blue;">**Bottes Summer**</mark>                                 | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Adamantium**</mark>                                    | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Poussière d'étoile**</mark>                            | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Oeufs de familier summer**</mark>                      | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Pack de décoration**</mark>                            | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Peluche Aléatoire**</mark>                             | <mark style="color:blue;">**5,56%**</mark>           |
+| <mark style="color:blue;">**Arme Aléatoire**</mark>                                | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:blue;">**Booster Aléatoire (100%) (1h)**</mark>                 | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:blue;">**4.500.000💰**</mark>                                   | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:blue;">**Spawner Aléatoire (x2)**</mark>                        | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:green;">**Carte de l'illusionniste (x40)**</mark>               | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:red;">**Carte du chavalier de la mort**</mark>                  | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:blue;">**Parchemin Abyssal**</mark>                             | <mark style="color:blue;">**5,55%**</mark>           |
+| <mark style="color:purple;">**Bonbon au Raisin**</mark>**&#x20;(x4)**              | <mark style="color:purple;">**5,55%**</mark>         |
+| <mark style="color:blue;">**Clé Summer**</mark>**&#x20;(x2)**                      | <mark style="color:blue;">**5,55%**</mark>           |
+
 {% hint style="success" %}
 Tentez votre chance et ouvrez des caisses sur Evolucraft !
 {% endhint %}
