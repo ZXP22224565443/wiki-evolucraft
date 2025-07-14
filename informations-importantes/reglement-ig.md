@@ -67,8 +67,7 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Il est interdit de dévoiler dans le chat public les informations liées aux quêtes (position de NPC, réponse à une énigme, etc).
 * Les arnaques, les pillages, les vols, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
 * Il est interdit de voler volontairement les loots de mobs d’un autre joueur, que ce soit l'exp gagné ou les récompenses liées à leur mort.
-* Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls.\
-
+* Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls. ⇒ Si un item a commencé à être payé, le montant total de ce dernier doit être honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
 
