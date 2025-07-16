@@ -745,7 +745,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td>
       <mark style="color:purple;"><strong>Niv. 1</strong></mark><strong> -></strong>  <a href="https://emojiterra.com/fr/tete-de-mort/">☠️</a><mark style="color:purple;"><strong>6.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:purple;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>❤ Vie</strong></mark><strong> +35</strong>
-      <br><mark style="color:purple;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>2,5</strong></mark> <strong>de</strong> <mark style="color:purple;"><strong>Vol de vie</strong></mark>
+      <br><mark style="color:purple;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>2,5%</strong></mark> <strong>de</strong> <mark style="color:purple;"><strong>Vol de vie</strong></mark>
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>17.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:purple;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎Vitesse</strong></mark><strong> +12</strong>
     </td>
@@ -787,7 +787,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+50%</strong></mark><strong> sur la vente de </strong><mark style="color:red;"><strong>Patates empoisonnées</strong></mark>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+2,5%</strong></mark><strong> d'EXP </strong><mark style="color:red;"><strong>Métiers</strong></mark>    
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>Statistiques</strong></mark><strong> +1</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> +</strong><mark style="color:red;"><strong>1.500</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+1.500</strong></mark><strong>💰/h</strong>
     </td>
   </tr>
 
@@ -797,8 +797,8 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:red;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:red;"><strong>7.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>❤ Vie</strong></mark><strong> +48</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+15%</strong></mark><strong> sur la vente de </strong><mark style="color:red;"><strong>Lingots d'or</strong></mark>
-      <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>11.000</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> +7.5%</strong> <strong>d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+11.000</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+7.5%</strong></mark><strong>d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -806,9 +806,9 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td align="center"><mark style="color:red;"><strong>Petit Biscuit</strong></mark></td><td>
       <mark style="color:red;"><strong>Niv. 1</strong></mark><strong> -> 🔥 </strong><mark style="color:orange;"><strong>Mana</strong></mark><strong> +150</strong>
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>9.500</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>10.500</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>※ Chance de Critique</strong></mark><strong> +4</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> +5%</strong> <strong>d'EXP </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+5%</strong></mark> <strong>d'EXP </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -818,7 +818,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎ Vitesse</strong></mark><strong> +11</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+12.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -></strong> <a href="https://emojiterra.com/fr/tete-de-mort/">☠️</a> <mark style="color:orange;"><strong>Dégâts critiques</strong></mark><strong> +20</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> +10%</strong> <strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -827,8 +827,8 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:red;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+25%</strong></mark><strong>sur la vente de </strong><mark style="color:red;"></strong>Chêne Noir</strong></mark>
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>16.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>✨ Régénération de mana +3</strong></mark>
-      <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>18.000</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> +5%</strong> <strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+18.000</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+5%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
