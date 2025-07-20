@@ -700,7 +700,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td align="center"><mark style="color:purple;"><strong>René</strong></mark></td>
     <td>
       <mark style="color:purple;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+5%</strong></mark><strong> sur la vente de </strong><mark style="color:purple;"><strong>minerais</strong></mark>
-      <br><mark style="color:purple;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>Célérité I</strong></mark>
+      <br><mark style="color:purple;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>Célérité II</strong></mark>
       <br><mark style="color:purple;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+15%</strong></mark><strong> d'argent </strong><mark style="color:purple;"><strong>Mineur</strong></mark> 
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>5.000</strong></mark><strong>💰/h</strong>
       <br><mark style="color:purple;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>Vision nocturne</strong></mark>
@@ -743,7 +743,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
   <tr>
     <td align="center"><mark style="color:purple;"><strong>Dracula</strong></mark></td>
     <td>
-      <mark style="color:purple;"><strong>Niv. 1</strong></mark><strong> -></strong>  <a href="https://emojiterra.com/fr/tete-de-mort/">☠️</a><mark style="color:purple;"><strong>6.500</strong></mark><strong>💰/h</strong>
+      <mark style="color:purple;"><strong>Niv. 1</strong></mark><strong> -></strong><mark style="color:purple;"><strong>6.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:purple;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>❤ Vie</strong></mark><strong> +35</strong>
       <br><mark style="color:purple;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>2,5%</strong></mark> <strong>de</strong> <mark style="color:purple;"><strong>Vol de vie</strong></mark>
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>17.500</strong></mark><strong>💰/h</strong>
