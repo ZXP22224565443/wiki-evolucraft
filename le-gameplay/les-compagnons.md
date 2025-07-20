@@ -571,11 +571,11 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
   <tr>
     <td align="center"><mark style="color:blue;"><strong>Dovregubben</strong></mark></td>
     <td>
-      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡</strong></mark> <mark style="color:blue;"><strong>Défense</strong></mark><strong> +3</strong>
-      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡</strong></mark> <mark style="color:blue;"><strong>Défense</strong></mark><strong> +5</strong>
-      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡</strong></mark> <mark style="color:blue;"><strong>Défense</strong></mark><strong> +7</strong>
-      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡</strong></mark> <mark style="color:blue;"><strong>Défense</strong></mark><strong> +9</strong>
-      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡</strong></mark> <mark style="color:blue;"><strong>Défense</strong></mark><strong> +11</strong>
+      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡 Défense</strong></mark><strong> +3</strong>
+      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡 Défense</strong></mark><strong> +5</strong>
+      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡 Défense</strong></mark><strong> +7</strong>
+      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡 Défense</strong></mark><strong> +9</strong>
+      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>🛡 Défense</strong></mark><strong> +11</strong>
     </td>
   </tr>
 
@@ -593,33 +593,33 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
   <tr>
     <td align="center"><mark style="color:blue;"><strong>Beepu</strong></mark></td>
     <td>
-      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠</strong></mark> <mark style="color:blue;"><strong>Dégâts Critiques</strong></mark><strong> +2</strong>
-      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠</strong></mark> <mark style="color:blue;"><strong>Dégâts Critiques</strong></mark><strong> +4</strong>
-      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠</strong></mark> <mark style="color:blue;"><strong>Dégâts Critiques</strong></mark><strong> +5</strong>
-      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠</strong></mark> <mark style="color:blue;"><strong>Dégâts Critiques</strong></mark><strong> +7</strong>
-      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠</strong></mark> <mark style="color:blue;"><strong>Dégâts Critiques</strong></mark><strong> +9</strong>
+      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠ Dégâts Critiques</strong></mark><strong> +2</strong>
+      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠ Dégâts Critiques</strong></mark><strong> +4</strong>
+      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠ Dégâts Critiques</strong></mark><strong> +5</strong>
+      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠ Dégâts Critiques</strong></mark><strong> +7</strong>
+      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>☠ Dégâts Critiques</strong></mark><strong> +9</strong>
     </td>
   </tr>
 
   <tr>
     <td align="center"><mark style="color:blue;"><strong>Gemling</strong></mark></td>
     <td>
-      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +10</strong>
-      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +15</strong>
-      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +20</strong>
-      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +25</strong>
-      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥</strong></mark> <mark style="color:orange;"><strong>Mana</strong></mark><strong> +30</strong>
+      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥 Mana</strong></mark><strong> +10</strong>
+      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥 Mana</strong></mark><strong> +15</strong>
+      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥 Mana</strong></mark><strong> +20</strong>
+      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥 Mana</strong></mark><strong> +25</strong>
+      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥 Mana</strong></mark><strong> +30</strong>
     </td>
   </tr>
 
   <tr>
     <td align="center"><mark style="color:blue;"><strong>Skel</strong></mark></td>
     <td>
-      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡</strong></mark> <mark style="color:red;"><strong>Force</strong></mark><strong> +3</strong>
-      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡</strong></mark> <mark style="color:red;"><strong>Force</strong></mark><strong> +5</strong>
-      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡</strong></mark> <mark style="color:red;"><strong>Force</strong></mark><strong> +7</strong>
-      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡</strong></mark> <mark style="color:red;"><strong>Force</strong></mark><strong> +9</strong>
-      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡</strong></mark> <mark style="color:red;"><strong>Force</strong></mark><strong> +11</strong>
+      <mark style="color:blue;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡 Force</strong></mark><strong> +3</strong>
+      <br><mark style="color:blue;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡 Force</strong></mark><strong> +5</strong>
+      <br><mark style="color:blue;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡 Force</strong></mark><strong> +7</strong>
+      <br><mark style="color:blue;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡 Force</strong></mark><strong> +9</strong>
+      <br><mark style="color:blue;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>🗡 Force</strong></mark><strong> +11</strong>
     </td>
   </tr>
 
@@ -727,7 +727,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> 🗡 </strong><mark style="color:red;"><strong>Force</strong></mark><strong> +13</strong>
       <br><mark style="color:purple;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+5%</strong></mark><strong> d'argent </strong><mark style="color:purple;"><strong>Métiers</strong></mark>
     </td>
-  </tr>
+  </tr>I
 
   <tr>
     <td align="center"><mark style="color:purple;"><strong>Phoenix</strong></mark></td>
