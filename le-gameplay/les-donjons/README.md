@@ -24,6 +24,8 @@ Les donjons sont classés en quatre niveaux de difficulté :
 * <mark style="color:yellow;">Rare</mark> : il faut être <mark style="color:yellow;">niveau 10</mark> pour y accéder.
 * <mark style="color:blue;">Épique</mark> : il faut être <mark style="color:blue;">niveau 25</mark> pour y accéder.
 * <mark style="color:purple;">Légendaire</mark> : il faut être <mark style="color:purple;">niveau 40</mark> pour y accéder.
+* <mark style="color:red;">Mythique</mark> : il faut être <mark style="color:red;">niveau 50</mark> pour y accéder.
+
 
 {% hint style="info" %}
 Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
@@ -55,7 +57,7 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 
 Chaque donjon propose des monstres différents selon son biome.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_Donjon_Foret.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_DonjonForet.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
 
@@ -429,7 +431,7 @@ Chaque donjon propose des monstres différents selon son biome.
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}
 
-## <mark style="color:green;">A</mark><mark style="color:green;">**pparition des Donjons**</mark>
+## <mark style="color:green;"></mark><mark style="color:green;">**Apparition des Donjons**</mark>
 
 Il y aura toujours 80 donjons ouverts en permanence sur la carte des ressources. Pour le Nether, seulement 10 donjons sont ouverts en permanence.&#x20;
 
