@@ -41,10 +41,10 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
   <tr>
     <td align="center"><mark style="color:green;"><strong>Meow</strong></mark></td>
     <td>
-      <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1'000</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
+      <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎Vitesse</strong></mark><strong> +2</strong>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>Vision Nocturne</strong></mark>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> +</strong><mark style="color:green;"><strong>1.500</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.500</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2,5%</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Chasseur</strong></mark>
     </td>
   </tr>
@@ -67,7 +67,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2,5%</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Forgemage</strong></mark>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark><strong>💰/h</strong> 
       <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+50%</strong></mark><strong> sur la vente de </strong><mark style="color:green;"><strong>Pattes de lapin</strong></mark> 
-      <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> +</strong><mark style="color:green;"><strong>1.000</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> +</strong><mark style="color:green;"><strong>+1.000</strong></mark><strong>💰/h</strong>
     </td>
   </tr>
 
@@ -77,7 +77,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> ->  </strong><mark style="color:red;"><strong>❤ Vie</strong></mark><strong> +5</strong>
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark><strong>💰/h</strong> 
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2,5%</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Bûcheron</strong></mark> 
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> +</strong><mark style="color:green;"><strong>2.000</strong></mark><strong>💰/h</strong> 
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2.000</strong></mark><strong>💰/h</strong> 
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> 🛡 </strong><mark style="color:blue;"><strong>Défense</strong></mark><strong> +2</strong>
     </td>
   </tr>
@@ -121,7 +121,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.500</strong></mark><strong>💰/h</strong>  
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> ->  </strong><mark style="color:green;"><strong>Vision nocture</strong></mark>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:orange;"><strong>🔥 Mana</strong></mark><strong> +20</strong>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.500</strong></mark><strong>💰/h</strong>  
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.500</strong></mark><strong>💰/h</strong>  
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>2,5</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Forgemage</strong></mark>
     </td>
   </tr>
@@ -132,7 +132,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+5%</strong></mark><strong> sur la vente de </strong><mark style="color:green;"><strong>Citrouille</strong></mark>
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> ->  </strong><mark style="color:green;"><strong>1.000</strong></mark><strong>💰/h</strong>  
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> 🛡 </strong><mark style="color:blue;"><strong>Défense</strong></mark><strong> +2</strong>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark><strong>💰/h</strong>  
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.000</strong></mark><strong>💰/h</strong>  
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>❣ Régénération</strong></mark><strong> +1</strong>
     </td>
   </tr>
@@ -144,7 +144,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:yellow;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>⚔ Dextérité</strong></mark><strong> +3</strong>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>❤ Vie</strong></mark><strong> +5</strong>
-      <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.500</strong></mark><strong>💰/h</strong>  
+      <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.500</strong></mark><strong>💰/h</strong>  
     </td>
   </tr>
 
