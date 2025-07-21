@@ -314,7 +314,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:yellow;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+10%</strong></mark><strong> sur la vente de </strong><mark style="color:yellow;"><strong>Baies</strong></mark>
       <br><mark style="color:yellow;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>❤ Vie</strong></mark><strong> +6</strong>
       <br><mark style="color:yellow;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>Monture</strong></mark><strong> (Aérienne)</strong> 
-      <br><mark style="color:yellow;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>4.500</strong></mark><strong>💰/h</strong>
+      <br><mark style="color:yellow;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>4.500</strong></mark><strong>💰/ h</strong>
       <br><mark style="color:yellow;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+5%</strong></mark><strong> d'EXP </strong><mark style="color:yellow;"><strong>Forgemage</strong></mark>
     </td>
   </tr>
