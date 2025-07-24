@@ -21,7 +21,7 @@ Lancez 1 à 3 cartes sur vos ennemis
 
 ### <mark style="color:green;">**Niveau 5 : Reine**</mark>
 
-Les cartes tournet autour de vous, étourdissant les ennemis qui vous attaquent lorsque les cartes sont activés
+Les cartes tourne autour de vous, étourdissant les ennemis autour.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 0s
 * <mark style="color:green;">**Mana**</mark>**:** 0
@@ -39,7 +39,11 @@ Votre clone miroir fonce alors sur la trajectoire que vous venez de quitter infl
 
 ### <mark style="color:green;">**Niveau 15 : Shuriken **</mark>
 
-Lancez un shuriken miroir qui repousse les ennemis. Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
+Lancez un shuriken miroir qui repousse les ennemis. 
+
+Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
+
+Les ennemis touché subissent un saignement
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 125
@@ -47,7 +51,7 @@ Lancez un shuriken miroir qui repousse les ennemis. Votre shuriken revient vers 
 
 ### <mark style="color:green;">**Niveau 20 : Mirage **</mark>
 
-Vous vouez téléportez vers l'avent. Votre clone miroir se précipite à nouveau sur votre chemin, endommageant les ennemis en contact avec votre clone.
+Vous vous téléportez vers l'avant. Votre clone miroir se précipite à nouveau sur votre chemin, endommageant les ennemis en contact avec votre clone.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 8s
 * <mark style="color:green;">**Mana**</mark>**:** 100
@@ -65,7 +69,7 @@ Invoquez 2 miroirs sur vos côtés. Chaque miroir déclenche 3 aiguilles miroir
 
 Vous invoquez un portail miroir sous vos pieds, ce qui étourdit les ennemis proches. 
 
-Après un court délai, le portail se téléporte dans la direction où vous regardez emmenant avec lui tout les ennemis étourdis qui se trouvent à l'intérieur.
+Après un court délai, le portail se téléporte dans la direction où vous regardez emmenant avec lui tout ennemis les ennemis étourdis qui se trouvent à l'intérieur.
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:green;">**Mana**</mark>**:** 300
