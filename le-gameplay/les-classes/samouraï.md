@@ -4,8 +4,12 @@
 
 ## <mark style="color:purple;">Compétences</mark>
 
-### <mark style="color:purple;">**Niveau 1 : Tranchant Sanglant**</mark>
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
 
+### <mark style="color:purple;">**Niveau 1 : Tranchant Sanglant**</mark>
 
 * <mark style="color:purple;">**Temps de recharge**</mark>: 0.5s
 * <mark style="color:purple;">**Mana**</mark>: 0

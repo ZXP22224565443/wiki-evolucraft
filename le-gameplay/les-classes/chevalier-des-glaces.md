@@ -12,6 +12,11 @@ Chevalier maniant le givre, paralysant ses ennemis dans le froid et refroidi leu
 
 ## <mark style="color:yellow;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:yellow;">**Niveau 1 : Frappe de givre**</mark>
 
 Effectuez une attaque tranchante avec votre lame.

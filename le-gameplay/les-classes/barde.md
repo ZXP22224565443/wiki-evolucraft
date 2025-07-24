@@ -10,6 +10,11 @@ Le Barde est une classe polyvalente qui utilise la musique pour soutenir ses all
 
 ## <mark style="color:green;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:green;">**Niveau 1 : Onde Mélodieuse**</mark>
 
 Envoyez une onde sonore harmonieuse qui perturbe et endommage les ennemis.

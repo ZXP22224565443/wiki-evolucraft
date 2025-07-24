@@ -10,6 +10,11 @@ Maîtrisez les arts sacrés pour soutenir vos alliés et infliger des dégâts d
 
 ## <mark style="color:purple;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:purple;">**Niveau 1 : L'immolation divine**</mark>
 
 Votre masse produit une traînée de lumière rayonnante, repoussant les ennemis.

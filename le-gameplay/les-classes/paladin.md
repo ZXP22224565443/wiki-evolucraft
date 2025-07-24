@@ -10,6 +10,11 @@ L'art de la divinité et de la défense. Utilisez des attaques puissantes et des
 
 ## <mark style="color:yellow;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:yellow;">**Niveau 1 : Frappe sacrée**</mark>
 
 Effectuez une attaque sacrée. Chaque troisième frappe coupe vos ennemis et les fait décoller.

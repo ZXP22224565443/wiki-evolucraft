@@ -10,6 +10,11 @@ Maîtrisez les arcanes des invocations spirituelles pour invoquer des gardiens e
 
 ## <mark style="color:blue;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:blue;">**Niveau 1 : Frappe d'Âme**</mark>
 
 Votre gardien spirituel dégaine son épée, frappant les cibles devant vous.
