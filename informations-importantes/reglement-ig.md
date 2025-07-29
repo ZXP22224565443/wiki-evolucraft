@@ -16,17 +16,16 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 ### <mark style="color:green;">Article A : Votre compte</mark>
 
 * Vous êtes entièrement responsable de votre compte Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une sanction adéquate sera mise en place.
-* Votre pseudonyme doit être respectueux et ne doit pas faire référence à des insultes, de la politique ou à toute forme de discrimination (racisme, xénophobie, misogynie, homophobie, transphobie, etc.).
+* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
 * Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
-* Votre skin doit être correct et respecter les règles en vigueur sur notre serveur. Les skins insultants, discriminatoires, sexistes ou provocants envers une personne morale ou physique sont interdits.
-* Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 * Nous ne prenons pas en charge les transferts de compte.
 
 ### <mark style="color:green;">Article B : Le Discord</mark>
 
-* Evolucraft a pour moyen de communication principal son serveur Discord.
-* Pour tout problème, toute question, toute suggestion, nous vous invitons à vous rendre sur cette plateforme.
+* Evolucraft a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
+* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
 * Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
+* **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
 
 ## <mark style="color:green;">Partie II : Le Chat</mark>
 
@@ -34,6 +33,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
 * La langue officielle du serveur est le français, la langue anglaise reste cependant tolérée.
+* Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
 * Chaque pub portant sur **le même sujet** (pwarp, vente d’items, annonce d’événement, promotion d’un item, téléportation à un donjon...) ne doit apparaître **qu’une seule fois** dans le menu des pubs et doit obligatoirement être réalisée via la commande **`/pub`**. Vous ne pourrez la republier **qu’après expiration de l’ancienne**. Dans le cas contraire, elle sera **supprimée par un membre compétent du staff**.
 
 {% hint style="info" %}
@@ -83,7 +83,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Il est interdit de voler des farms aux autres joueurs sans leur accord.
 * La vente d’items en jeu contre l’argent réel est interdite.
 * Il est interdit d'utiliser une machine à pêche.
-* La vente de cosmétiques (issue d'un use bug), d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
+* La vente de cosmétiques (issue d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * La création de casino est interdite.
 
 
@@ -94,13 +94,10 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 Cette liste n'est pas exhaustive.
 {% endhint %}
 
-* **Concernant les machines :**
-  * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-  * Votre ferme ne doit pas comporter de véhicule (Minecart ou bateau par exemple).
-  * Si votre ferme comporte une clock, cette dernière doit obligatoirement avoir un système on/off, pour désactiver et activer votre ferme en cas d'absence.
-  * Les trieurs d'items et ferme à spawner ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
-  * Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
-  * Les machines volantes sont toutes interdites.
+
+
+* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+* Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
 
 {% hint style="warning" %}
 Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
@@ -131,19 +128,22 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 ### <mark style="color:green;">Article D : Les mods autorisés</mark>
 
 * **Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :**
-  * Optifine, Iris
+  * Optifine, Minimap, ReplayMod (Uniquement pour Record)
   * ReplayMod, Flashback (Uniquement pour Record).
   * Badlion / Lunar / Labymod.
-  * Schematica (Sans activer l'option printer ou easyplace).
+    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
+  * Schematica / Litematica (Sans activer l'option printer ou easyplace).
   * Toggle Sneak / Sprint.
-  * Mini-map / World map
 
 ### <mark style="color:green;">Article E : Les mods interdits</mark>
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
-  * XRay, Fly-Mod, Auto-click, Auto-pêche
-  * Schematica Printer ou Easyplace
-  * Freecam ou ce qui peut permettre de voler des farms.
+  *
+  * X-Ray / FreeCam
+  * Schematica Printer & Easy Place & copy/paste
+  * FlyMod
+  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
+  * AutoTools
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
@@ -165,7 +165,7 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Il est interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
 
 {% hint style="warning" %}
-Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.\*\*
+Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
 {% endhint %}
 
 * **Disband et transfert de lead de ville :**
@@ -205,3 +205,6 @@ Nous vous conseillons fortement d’appuyer vos demandes de remboursement par un
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté le règlement, même en cas de changement.
 
 Toute sanction sera donnée à l'entière appréciation du staff.
+
+Si vous souhaitez contester une quelconque sanction, merci de créer un ticket sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
+Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
