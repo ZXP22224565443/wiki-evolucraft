@@ -96,7 +96,7 @@ Cette liste n'est pas exhaustive.
 
 * **Concernant les machines :**
   * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
-  * Votre ferme ne doit pas comporter de véhicule (Minekart ou bateau par exemple).
+  * Votre ferme ne doit pas comporter de véhicule (Minecart ou bateau par exemple).
   * Si votre ferme comporte une clock, cette dernière doit obligatoirement avoir un système on/off, pour désactiver et activer votre ferme en cas d'absence.
   * Les trieurs d'items et ferme à spawner ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
   * Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
@@ -119,7 +119,7 @@ Si ces règles ne sont pas respectées, nous vous contacterons et nous vous lais
 ### <mark style="color:green;">Article C : Utilisation de la Redstone</mark>
 
 * Les machines volantes sont interdites.
-* Les machines ne doivent pas comporter de véhicule (Minekart ou bateau par exemple).
+* Les machines ne doivent pas comporter de véhicule (Minecart ou bateau par exemple).
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
