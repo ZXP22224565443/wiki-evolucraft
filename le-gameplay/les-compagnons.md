@@ -41,10 +41,10 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
   <tr>
     <td align="center"><mark style="color:green;"><strong>Meow</strong></mark></td>
     <td>
-      <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
+      <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark>💰<strong>/h</strong>
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎Vitesse</strong></mark><strong> +2</strong>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>Vision Nocturne</strong></mark>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.500</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.500</strong></mark>💰<strong>/h</strong>
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2,5%</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Chasseur</strong></mark>
     </td>
   </tr>
@@ -53,9 +53,9 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td align="center"><mark style="color:green;"><strong>Duck</strong></mark></td>
     <td>
       <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>Respiration</strong></mark>
-      <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.250</strong></mark><a href="https://www.alt-codes.net/dollar-sign.php">💰</a><strong>/h</strong>
+      <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.250</strong></mark>💰<strong>/h</strong>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>Grâce du Dauphin</strong></mark>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -></strong> <a href="https://emojiterra.com/fr/tete-de-mort/">☠️</a> <mark style="color:orange;"><strong>Dégâts critiques</strong></mark><strong> +1</strong>
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -></strong><mark style="color:orange;"><strong>☠️ Dégâts critiques</strong></mark><strong> +1</strong>
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+2,5%</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Pêcheur</strong></mark>
     </td>
   </tr>
@@ -184,7 +184,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:yellow;">Compagnons Rares</mark> <a href="#pets-rares" id="pets-rares"></a>
+### <mark style="color:yellow;">Compagnons Rares</mark> <a href="#pets-rares" id="pets-rares">
 
 <table><thead><tr><th width="263" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
   
@@ -344,7 +344,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:blue;">Compagnons Épiques</mark> <a href="#pets-epiques" id="pets-epiques"></a>
+### <mark style="color:blue;">Compagnons Épiques</mark> <a href="#pets-epiques" id="pets-epiques">
 
 <table><thead><tr><th width="265" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -626,7 +626,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:purple;">Compagnons Légendaires</mark> <a href="#pets-legendaires" id="pets-legendaires"></a>
+### <mark style="color:purple;">Compagnons Légendaires</mark> <a href="#pets-legendaires" id="pets-legendaires">
 
 <table><thead><tr><th width="270" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -776,7 +776,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:red;">Compagnon Mythique</mark> <a href="#pets-mythiques" id="pets-mythiques"></a>
+### <mark style="color:red;">Compagnon Mythique</mark> <a href="#pets-mythiques" id="pets-mythiques">
 
 <table><thead><tr><th width="258" align="center">Compagnon</th><th>Effets</th></tr></thead><tbody>
 
@@ -817,7 +817,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:red;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:red;"><strong>11.000</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>◎ Vitesse</strong></mark><strong> +11</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+12.500</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -></strong> <a href="https://emojiterra.com/fr/tete-de-mort/">☠️</a> <mark style="color:orange;"><strong>Dégâts critiques</strong></mark><strong> +20</strong>
+      <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -></strong> ☠️ <mark style="color:orange;"><strong>Dégâts critiques</strong></mark><strong> +20</strong>
       <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
