@@ -226,7 +226,7 @@ La clé de la Caisse aux Trésors n'est plus disponible.
 La clé de la Caisse Halloween n'est plus disponible.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Les_Caisses/Halloween (1).png" alt=""><figcaption><p>Aperçu de la Caisse Halloween</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Caisses/Halloween.png" alt=""><figcaption><p>Aperçu de la Caisse Halloween</p></figcaption></figure>
 
 |                                                                               |                                              |
 | ----------------------------------------------------------------------------- | -------------------------------------------- |
