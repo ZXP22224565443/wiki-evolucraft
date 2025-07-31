@@ -3,7 +3,7 @@ description: Retrouvez ici différent tuto/astuce pour votre aventure sur évolu
 ---
 
 ### Changer de version et jouer au serveur
-<!-- Un grand merci à WhiteMarshadow pour les images ! -->
+<!-- Un grand merci à WhiteMarshadow & Kawaynn pour les images ! -->
 Pour jouer au serveur vous devez être dans une version comprise entre la 1.20.4-1.21.1, si vous ne savez pas faire suivez le tuto ci-dessous.
 
 1.<span style="align-items:center;"> Tu ouvres ton launcher minecraft et tu cliques sur l'onglet configuration.
@@ -22,7 +22,7 @@ Pour jouer au serveur vous devez être dans une version comprise entre la 1.20.4
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_ConfVersion.png" alt="" width="600"></figure>
 </span>
 
-5.<span style="align-items:center;"> Lance le launcher et choisi Multijoueur (Multiplayer).
+5.<span style="align-items:center;"> Lance le launcher et choisi Multijoueur.
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/menu_multi.png" alt="" width="600"></figure>
 </span>
 
