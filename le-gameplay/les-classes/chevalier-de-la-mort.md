@@ -10,6 +10,11 @@ Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible
 
 ## <mark style="color:green;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:green;">**Niveau 1 : Frappe Mortelle **</mark>
 
 Frappez vers l'avent en repoussant les ennemis. Au troisème lancer. Lancez des chaînes en avant, accrochez-vous à des blocs ou des ennemis.
@@ -34,7 +39,7 @@ En atteignant la pleine charge, l'ennemi marqué obtient Faiblesse I.
 
 Foncez vers l'avent, avec une force écrasante, traînant les ennemis sur votre chemin et laissant le chaos dans votre sillage.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 25
 * <mark style="color:green;">**Dégâts**</mark>**:** 53,6
 
@@ -44,7 +49,7 @@ Déchaîne les chaînes fantomatique, liant les ennemis et les traînant lenteme
 
 Les mains nécrotiques se lèvent, s'aggrippant à leurs cibles et les étourdissant en place.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 12s
 * <mark style="color:green;">**Mana**</mark>**:** 125
 * <mark style="color:green;">**Dégâts**</mark>**:** 0
 
@@ -54,7 +59,7 @@ Invoque une barrière d'énergie nécrotique, vous accordant l'invulnérabilité
 
 Pendant ce temps, tout les dégâts reçus sont absorbés et convertis en soins.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:green;">**Mana**</mark>**:** 100
 * <mark style="color:green;">**Dégâts**</mark>**:**  62,3 + 311,6
 
@@ -64,7 +69,7 @@ Faites tourner votre Nécrophage dans un vortex mortel, soulevant légèrement l
 
 À la fin de la compétence, invoquez des griffes nécrotiques pour trancher les ennemis proches et soignez-vous en fonction du nombre d'ennemis touchés. Les ennemis sont repoussées et ralentis.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 17s
 * <mark style="color:green;">**Mana**</mark>**:** 150
 * <mark style="color:green;">**Dégâts**</mark>**:** 62,3 + 311,6
 
@@ -74,6 +79,6 @@ Déployez vos ailes mortelles et envolez-vous dans les airs, invoquer lentement 
 
 Les ennemis avec des sceaux maudits complètement chargés prennent des dégâts supplémentaire, ne laissant aucune chance de survie.
 
-* <mark style="color:green;">**Temps de recharge**</mark>**:** s
+* <mark style="color:green;">**Temps de recharge**</mark>**:** 35s
 * <mark style="color:green;">**Mana**</mark>**:** 300
 * <mark style="color:green;">**Dégâts**</mark>**:** 4012,1

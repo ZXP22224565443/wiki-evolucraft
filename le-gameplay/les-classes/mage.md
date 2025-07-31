@@ -10,6 +10,11 @@ Le Mage est une classe puissante qui utilise la magie pour infliger des dégâts
 
 ## <mark style="color:green;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:green;">Niveau 1 : Boule de Feu</mark>
 
 Tirez une boule de feu brûlante sur votre cible.

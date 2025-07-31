@@ -10,6 +10,11 @@ Maîtrisez les techniques de combat agile pour infliger des dégâts rapides et 
 
 ## <mark style="color:purple;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:purple;">**Niveau 1 : Double frappe**</mark>
 
 Frappez rapidement votre cible 2 fois.

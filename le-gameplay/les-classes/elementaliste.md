@@ -10,6 +10,11 @@ Maîtrisez les éléments pour manipuler le terrain et infliger des dégâts dé
 
 ## <mark style="color:yellow;">Compétences</mark>&#x20;
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:yellow;">**Niveau 1 : Lancer de Terre**</mark>
 
 Projectile de rocher lancé sur un ennemi, le repoussant légèrement.

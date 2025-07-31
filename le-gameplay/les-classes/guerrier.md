@@ -10,6 +10,11 @@ Le Guerrier est une classe robuste, excelle dans le combat rapproché et dispose
 
 ## <mark style="color:green;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:green;">**Niveau 1 : Frappe Brutale**</mark>
 
 Effectuez une large gamme d'attaques tranchantes et perçantes.

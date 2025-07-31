@@ -153,6 +153,7 @@ Dans chaque menu de classe, vous trouverez une boutique dédiée à l'achat de n
 | <mark style="color:yellow;">**Classe aléatoire rare**</mark>       | <mark style="color:yellow;">**x5**</mark>  | <mark style="color:yellow;">**x10**</mark> |
 | <mark style="color:blue;">**Classe aléatoire épique**</mark>       | <mark style="color:blue;">**x2**</mark>    | <mark style="color:blue;">**x4**</mark>    |
 | <mark style="color:purple;">**Classe aléatoire légendaire**</mark> | <mark style="color:purple;">**x1**</mark>  | <mark style="color:purple;">**x1**</mark>  |
+| <mark style="color:red;">**Classe aléatoire Mythique**</mark>      | <mark style="color:red;">**x1**</mark>     | <mark style="color:red;">**x1**</mark>     |
 
 ## <mark style="color:green;">Utilisation des compétences</mark>
 
