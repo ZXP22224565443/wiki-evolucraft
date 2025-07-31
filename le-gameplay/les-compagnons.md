@@ -33,7 +33,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
 <figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 ## Liste des différents compagnons
-
+<!--
 ### <mark style="color:green;">Compagnons Communs</mark>
 
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
@@ -880,3 +880,4 @@ Lorsqu'un familier est en mode inactif, il reste à l'écart et ne participe pas
 {% hint style="info" %}
 Maintenant que vous savez tout sur ces compagnons, essayez d'en obtenir le plus possible sur Evolucraft !
 {% endhint %}
+-->
