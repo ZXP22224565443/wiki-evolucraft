@@ -855,7 +855,7 @@ Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessai
 
 <figure><img src="../.gitbook/assets/Les_Compagnons/le_pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
 
-Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots.
+Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots avec le Grade Légende.
 
 Vous avez la possibilité de collectionner tous les Compagnons, mais seuls un maximum de 5 peuvent être actifs pour bénéficier de leurs effets. Il est important de noter qu'un seul de vos compagnons peut se balader à vos côtés. Les autres compagnons en dehors des 5 sélectionnés seront considérés comme inactifs.
 
