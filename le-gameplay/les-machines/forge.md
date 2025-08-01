@@ -155,7 +155,7 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>320 citrouilles</strong></td>
     <td><strong>64 lapis-lazuli</strong></td>
     <td><strong>448 chairs putréfiées</strong></td>
-    <td><mark style="color:yellow;"><strong>2 carpes herbivores</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 carpes d'herbe</strong></mark></td>
     <td><strong>128 bûches de cerisier</strong></td>
   </tr>
   <tr>
