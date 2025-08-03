@@ -28,7 +28,7 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</
 * <mark style="color:yellow;">**Assassin**</mark> : Maîtres de l'ombre, spécialisés dans les attaques furtives et les éliminations rapides.
 * <mark style="color:yellow;">**Paladin**</mark> : Chevaliers sacrés combattant au nom de la justice, purifiant les forces du malin.
 * <mark style="color:yellow;">**Élémentaliste**</mark> : Maîtres des éléments primordiaux, manipulant le feu, le vent, l'eau et la terre. Aussi versatile que puissant.
-* <mark style="color:yellow;">**Chavalier des glaces**</mark> : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidi leurs ardeur.
+* <mark style="color:yellow;">**Chevalier des glaces**</mark> : Chevalier maniant le givre paralysant ses ennemis dans le froid et refroidi leurs ardeur.
 
 ## <mark style="color:blue;">Classes Épiques</mark>
 
@@ -55,7 +55,7 @@ Les classes sont réparties en trois catégories : Tanks, DPS, et Soutien.
 
 **Tanks :&#x20;**<mark style="color:green;">**Guerrier**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Paladin**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Moine**</mark>
 
-**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chavalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Samouraï**</mark>
+**DPS :&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Élémentaliste**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Chevalier des glaces**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Invocateur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Faucheur**</mark>**&#x20;/&#x20;** <mark style="color:blue;">**Archimage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Guerrier Dragon**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificier**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artiste Martial**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Samouraï**</mark>
 
 **Soutien :&#x20;**<mark style="color:green;">**Barde**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Chaman**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Clerc**</mark>
 
