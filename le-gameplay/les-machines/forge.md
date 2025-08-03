@@ -407,6 +407,6 @@ description: Retrouvez ici toutes les informations concernant la forge
 | <mark style="color:red;">**Gemme de pêcheur mythique**</mark>        | **1**                                    |
 | <mark style="color:red;">**Cristaux mythiques**</mark>               | **4**                                    |
 | <mark style="color:red;">**Yeux du Void**</mark>                     | **4**                                    |
-| <mark style="color:red;">**Cœur du Void**</mark>                     | **4**                                    |
-| <mark style="color:red;">**Cube du Void**</mark>                     | **1**                                    |
+| <mark style="color:red;">**Cœur du Void**</mark>                     | **1**                                    |
+| <mark style="color:red;">**Cube du Void**</mark>                     | **4**                                    |
 
