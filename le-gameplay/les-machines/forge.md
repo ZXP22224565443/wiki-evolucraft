@@ -162,14 +162,14 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>1 dorade</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 dorade</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>1 doré jaune</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 doré jaune</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
