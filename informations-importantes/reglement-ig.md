@@ -19,7 +19,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
 * Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Nous ne prenons pas en charge les transferts de compte.
-* Toute vente, achat ou échange de comptes ou de stuff de celui-ci est interdite. 
+* Toute vente, achat de comptes ou de stuff avec autre chose que de l'argent IG est interdite. 
 
 ### <mark style="color:green;">Article B : Le Discord</mark>
 
