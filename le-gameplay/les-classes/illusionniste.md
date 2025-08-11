@@ -5,8 +5,6 @@ description: Retrouvez ici toutes les informations concernant la classe Illusion
 # 🎭 Illusionniste
 Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible.
 
-
-
 <figure><img src="../../.gitbook/assets/Les_Classes/Illusionniste.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Illusionniste</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Compétences</mark>
@@ -15,6 +13,7 @@ Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible
 Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
 -L'équipe du wiki
 {% endhint %}
+
 
 ### <mark style="color:green;">**Niveau 1 : Tir de cartes **</mark>
 
@@ -42,19 +41,23 @@ Votre clone miroir fonce alors sur la trajectoire que vous venez de quitter infl
 * <mark style="color:green;">**Mana**</mark>**:** 025
 * <mark style="color:green;">**Dégâts**</mark>**:** 55,7
 
-### <mark style="color:green;">**Niveau 15 : Shuriken **</mark>
+### <mark style="color:green;">**Niveau 15 : Shuriken**</mark>
 
 Lancez un shuriken miroir qui repousse les ennemis. 
 
 Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
 
-Les ennemis touché subissent un saignement
+=======
+Lancez un shuriken miroir qui repousse les ennemis. 
+
+Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
+
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 125
 * <mark style="color:green;">**Dégâts**</mark>**:** 80,7
 
-### <mark style="color:green;">**Niveau 20 : Mirage **</mark>
+### <mark style="color:green;">**Niveau 20 : Mirage**</mark>
 
 Vous vous téléportez vers l'avant. Votre clone miroir se précipite à nouveau sur votre chemin, endommageant les ennemis en contact avec votre clone.
 
