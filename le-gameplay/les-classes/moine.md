@@ -10,6 +10,11 @@ Maîtrisez les arts martiaux spirituels pour infliger des dégâts rapides et so
 
 ## <mark style="color:blue;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:blue;">**Niveau 1 : Frappes rapides**</mark>
 
 Frappez trois fois rapidement avec vos poings, touchant tous les ennemis devant vous.

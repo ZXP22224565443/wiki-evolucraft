@@ -10,6 +10,11 @@ L'artificier est un ingénieur de génie qui maîtrise les technologies futurist
 
 ## <mark style="color:purple;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:purple;">**Niveau 1 : Tir explosif**</mark>
 
 Libère une orbe chargée d'énergie qui explose à l'impact, endommageant les ennemis proches.

@@ -10,6 +10,11 @@ Manipulez la lumière et les éléments pour soigner, attaquer et soutenir vos a
 
 ## <mark style="color:blue;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:blue;">**Niveau 1 : Faisceau lumineux**</mark>
 
 Tire un faisceau de lumière qui endommage vos adversaires.

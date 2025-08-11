@@ -10,6 +10,11 @@ L'Assassin est un maître de l'art de la furtivité et du combat rapproché. Uti
 
 ## <mark style="color:yellow;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:yellow;">**Niveau 1 : Coup de Lame**</mark>
 
 Effectuez une attaque tranchante avec votre lame.

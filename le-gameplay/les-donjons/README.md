@@ -24,6 +24,8 @@ Les donjons sont classés en quatre niveaux de difficulté :
 * <mark style="color:yellow;">Rare</mark> : il faut être <mark style="color:yellow;">niveau 10</mark> pour y accéder.
 * <mark style="color:blue;">Épique</mark> : il faut être <mark style="color:blue;">niveau 25</mark> pour y accéder.
 * <mark style="color:purple;">Légendaire</mark> : il faut être <mark style="color:purple;">niveau 40</mark> pour y accéder.
+* <mark style="color:red;">Mythique</mark> : il faut être <mark style="color:red;">niveau 50</mark> pour y accéder.
+
 
 {% hint style="info" %}
 Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
@@ -55,7 +57,7 @@ De plus, deux donjons temporaires sont actuellement disponibles (événements sp
 
 Chaque donjon propose des monstres différents selon son biome.
 
-<figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_Donjon_Foret.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_DonjonForet.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Récompenses par Donjon</mark>
 
@@ -194,217 +196,6 @@ Chaque donjon propose des monstres différents selon son biome.
   </tbody>
 </table>
 
-<table data-header-hidden>
-  <thead>
-    <tr>
-      <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Draconique</strong></mark></td>      
-      <td align="center"><mark style="color:blue;"><strong>Abyssal</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Halloween</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td>
-      <td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Classe Aléatoire Rare</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Parchemin Halloween</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Parchemin Rare</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Parchemin Rare</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>50.000 💰</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>100.000 💰</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>50.000 💰</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>75.000 💰</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>250.000 💰</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>100.000 💰</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>125.000 💰</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Citrouille Scintillante (x2)</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>150.000 💰</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>175.000 💰</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Cœur de Dragon (x4)</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Pince de Crabe Abyssale (x2)</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Œuf de Familier Halloween</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Cœur de Dragon (x6)</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Bonbon à l'Orange (x2)</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Exp Classe (x5.000)</strong></mark></td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Bonbon à l'Orange</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Pet Boss Abyssal</strong></mark></td>
-      <td align="center">X</td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Œuf de Familier Draconique</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Exp Classe (x5.000)</strong></mark></td>
-      <td align="center">X</td>
-    </tr>
-    <tr>
-      <td align="center"><mark style="color:orange;"><strong>Exp Classe (x5.000)</strong></mark></td>
-      <td align="center">X</td>
-      <td align="center">X</td>
-    </tr>
-  </tbody>
-</table>
-
-<table data-header-hidden>
-  <thead>
-    <tr>
-      <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th align="center"> <mark style="color:red;">Donjon Noël Commun</th>
-      <th align="center"><mark style="color:red;">Donjon Noël Épique</th>
-      <th align="center"><mark style="color:red;">Donjon De l'Amour</th>
-      <th align="center"><mark style="color:red;">Donjon Cupidon</th>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">Parchemin Noël</td>
-      <td><mark style="color:red;">Parchemin Noël</td>
-      <td><mark style="color:red;">Parchemin de l'amour</td>
-      <td><mark style="color:red;">Parchemin de l'amour</td>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">10.000 💰</td>
-      <td><mark style="color:red;">40.000 💰</td>
-      <td><mark style="color:red;">10.000 💰</td>
-      <td><mark style="color:red;">40.000 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">15.000 💰</td>
-      <td><mark style="color:red;">60.000 💰</td>
-      <td><mark style="color:red;">15.000 💰</td>
-      <td><mark style="color:red;">60.000 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">25.000 💰</td>
-      <td><mark style="color:red;">100.000 💰</td>
-      <td><mark style="color:blue;">25.000 💰</td>
-      <td><mark style="color:red;">100.000 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">Sucre d'orge (x1)</td>
-      <td><mark style="color:red;">Sucre d'orge (x2)</td>
-      <td><mark style="color:red;">Auréole (x1)</td>
-      <td><mark style="color:red;">Auréole (x2)</td>
-    </tr>
-    <tr>
-      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
-      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
-      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
-      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">Œuf de familier givré</td>
-      <td><mark style="color:red;">Œuf de familier givré</td>
-      <td><mark style="color:red;">Œuf de familier de l'amour</td>
-      <td><mark style="color:red;">Œuf de familier de l'amour</td>
-    </tr>
-    <tr>
-      <td><mark style="color:red;">Exp classe (x250)</td>
-      <td><mark style="color:red;">EXP classe (x1.500)</td>
-      <td><mark style="color:red;">Exp classe (x1.000)</td>
-      <td><mark style="color:red;">Exp classe (x5.000)</td>
-    </tr>
-    <tr>
-      <td>X</td>
-      <td><mark style="color:red;">Clé givrée (x1)</td>
-      <td><mark style="color:red;">Coeur (x500)</td>
-      <td><mark style="color:red;">Cœur (x2.500)</td>
-    </tr>
-    <tr>
-      <td>X</td>
-      <td>X</td>
-      <td>X</td>
-      <td><mark style="color:red;">Clé Cupidon (x1)</td>
-    </tr>
-  </tbody>
-</table>
-
-<table data-header-hidden>
-  <thead>
-    <tr>
-      <th align="center"></th>
-      <th align="center"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th align="center"> <mark style="color:yellow;">Donjon Terrier du Roi Lapin</th>
-      <th align="center"><mark style="color:yellow;">Donjon Fabrique de Chocolat</th>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">Parchemin du Terrier Roi Lapin</td>
-      <td><mark style="color:yellow;">Parchemin de la Fabrique de Chocolat</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">10.000 💰</td>
-      <td><mark style="color:yellow;">40.000 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">15.000 💰</td>
-      <td><mark style="color:yellow;">60.000 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">25.000 💰</td>
-      <td><mark style="color:yellow;">100.000 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">Tablette de chocolat (x1) 💰</td>
-      <td><mark style="color:yellow;">Tablette de chocolat (x2) 💰</td>
-    </tr>
-    <tr>
-      <td><mark style="color:green;">Bonbon à la pomme (x1)</td>
-      <td><mark style="color:orange;">Bonbon à l'orange (x2)</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">Œuf de familier de Pâques</td>
-      <td><mark style="color:yellow;">Œuf de familier de Pâques</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;">Exp classe (x1.000)</td>
-      <td><mark style="color:yellow;">EXP classe (x5.000)</td>
-    </tr>
-    <tr>
-      <td><mark style="color:yellow;"> Chocolat (x500)</td>
-      <td><mark style="color:yellow;"> Chocolat (x2.500)</td>
-    </tr>
-    <tr>
-      <td>X</td>
-      <td><mark style="color:yellow;">Clé de Pâques (x1)</td>
-    </tr>
-  </tbody>
-</table>
-
 ### Armes obtenables en fonction des biomes
 
 | **Forêt**           | **Jungle**               | **Marais**                    | **Toundra**              |
@@ -429,7 +220,7 @@ Chaque donjon propose des monstres différents selon son biome.
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}
 
-## <mark style="color:green;">A</mark><mark style="color:green;">**pparition des Donjons**</mark>
+## <mark style="color:green;"></mark><mark style="color:green;">**Apparition des Donjons**</mark>
 
 Il y aura toujours 80 donjons ouverts en permanence sur la carte des ressources. Pour le Nether, seulement 10 donjons sont ouverts en permanence.&#x20;
 

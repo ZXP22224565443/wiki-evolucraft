@@ -10,6 +10,11 @@ L'Archer est une classe spécialisée dans les attaques à distance, utilisant d
 
 ## <mark style="color:green;">Compétences</mark>
 
+{% hint style="warning" %}
+Les dégâts des compétences sont en cours de modification, ne les prennez pas pour argent comptant !
+-L'équipe du wiki
+{% endhint %}
+
 ### <mark style="color:green;">Niveau 1 : Tir Rapide</mark>
 
 Tire une flèche.

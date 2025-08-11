@@ -14,7 +14,8 @@ Les dégâts des compétences sont en cours de modification, ne les prennez pas 
 -L'équipe du wiki
 {% endhint %}
 
-### <mark style="color:green;">**Niveau 1 : Tir de cartes**</mark>
+
+### <mark style="color:green;">**Niveau 1 : Tir de cartes **</mark>
 
 Lancez 1 à 3 cartes sur vos ennemis
 
@@ -46,7 +47,11 @@ Lancez un shuriken miroir qui repousse les ennemis.
 
 Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
 
-Les ennemis touché subissent un saignement
+=======
+Lancez un shuriken miroir qui repousse les ennemis. 
+
+Votre shuriken revient vers vous, repoussant les ennemis dans la direction opposée.
+
 
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 10s
 * <mark style="color:green;">**Mana**</mark>**:** 125
