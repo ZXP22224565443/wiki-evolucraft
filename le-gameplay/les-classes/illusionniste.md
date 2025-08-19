@@ -79,3 +79,50 @@ Après un court délai, le portail se téléporte dans la direction où vous reg
 * <mark style="color:green;">**Temps de recharge**</mark>**:** 20s
 * <mark style="color:green;">**Mana**</mark>**:** 300
 * <mark style="color:green;">**Dégâts**</mark>**:** 2360,6
+
+## <mark style="color:green;">Armes</mark>
+
+<table>
+  <tr>
+    <th>Armes</th>
+    <th>Rareté</th>
+    <th>Stat</th>
+    <th>Obtention</th>
+  </tr>
+  <tr>
+    <td><mark style="color:green;">Carte divinatoire</mark></td>
+    <td><mark style="color:green;">Commun</mark></td>
+    <td><mark style="color:red;">🗡 Force +7</mark>, <mark style="color:orange;">☠ Dégât Critique +4</mark></td>
+    <td>Pack d'arme</td>
+  </tr>
+  <tr>
+    <td><mark style="color:orange;">Carte divinatoire</mark></td>
+    <td><mark style="color:orange;">Rare</mark></td>
+    <td><mark style="color:red;">🗡 Force +15</mark>, <mark style="color:orange;">☠ Dégât Critique +8</mark></td>
+    <td>Pack d'arme ou Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Carte divinatoire</mark></td>
+    <td><mark style="color:blue;">Épique</mark></td>
+    <td><mark style="color:red;">🗡 Force +25</mark>, <mark style="color:orange;">☠ Dégât Critique +12</mark></td>
+    <td>Pack d'arme ou Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:purple;">Carte divinatoire</mark></td>
+    <td><mark style="color:purple;">Légendaire</mark></td>
+    <td><mark style="color:red;">🗡 Force +45</mark>, <mark style="color:orange;">☠ Dégât Critique +22</mark></td>
+    <td>Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:red;">Carte divinatoire</mark></td>
+    <td><mark style="color:red;">Mythique</mark></td>
+    <td><mark style="color:red;">🗡 Force +80</mark>, <mark style="color:orange;">☠ Dégât Critique +39</mark></td>
+    <td>Forge</td>
+  </tr>
+  <tr>
+    <td><mark style="color:blue;">Carte Mythique Summer</mark></td>
+    <td><mark style="color:blue;">Summer</mark></td>
+    <td><mark style="color:red;">🗡 Force +43</mark>, <mark style="color:orange;">☠ Dégât Critique +19</mark>, <mark style="color:blue;">◎ Vitesse +2</mark></td>
+    <td>Marché Noir</td>
+  </tr>
+</table>
