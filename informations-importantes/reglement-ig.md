@@ -19,6 +19,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
 * Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub (pour un pw, une ville, une chaine youtube etc) ou d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
 * Nous ne prenons pas en charge les transferts de compte.
+* Toute vente, achat de comptes ou de stuff avec autre chose que de l'argent IG est interdite.
 
 ### <mark style="color:green;">Article B : Le Discord</mark>
 
@@ -70,7 +71,13 @@ Cependant, vous pouvez activer le **message automatique** dans le **`/pub`**. Po
 * Le serveur ne prend pas en charge les contrats ou accords entre joueurs : ceux-ci se font à vos risques et périls. ⇒ Si un item a commencé à être payé, le montant total de ce dernier doit être honoré.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
 
+### **Action dans une ville :**&#x20;
 
+En cas de départ volontaire d’une ville, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
+
+Si un joueur est banni de sa ville par le maire, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement.
+
+Toute copies de farms/constructions présentes dans la ville est strictement interdite sans l’accord explicite du maire de celle-ci et ce même si vous prévoyez de quitter la ville.
 
 {% hint style="info" %}
 Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
@@ -85,16 +92,11 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 * Il est interdit d'utiliser une machine à pêche.
 * La vente de cosmétiques (issue d'un use bug), d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
 * La création de casino est interdite.
-
-
-
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus.
 
 {% hint style="warning" %}
 Cette liste n'est pas exhaustive.
 {% endhint %}
-
-
 
 * Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
 * Monter de manière abussif vos items évolutif est interdit. Exemple : Ferme à neige pour la pelle évolutif.
@@ -138,15 +140,14 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 ### <mark style="color:green;">Article E : Les mods interdits</mark>
 
 * **Tous les mods donnant un avantage sur les autres joueurs :**
-  *
   * X-Ray / FreeCam
   * Schematica Printer & Easy Place & copy/paste
   * FlyMod
-  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
+  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
 
 {% hint style="warning" %}
-Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
+Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket afin que celui-ci soit approuvé par l'équipe Staff.
 {% endhint %}
 
 ### <mark style="color:green;">Article F : Les doubles comptes</mark>
@@ -155,14 +156,19 @@ Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un m
 * Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
 * Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
 * L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner.
-*   Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
+* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
-    Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket.
+{% hint style="warning" %}
+```
+Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket.
+```
+{% endhint %}
 
 ### <mark style="color:green;">Article G : L'AFK & Inactivité</mark>
 
 * L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
-* Il est interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
+* Il est interdit de contourner l'anti-AFK de quelconque manière (macro, mods, etc...), sous peine de sanctions.
+* L'AFK de manière indéfinie est autorisé uniquement dans le /afk
 
 {% hint style="warning" %}
 Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.
@@ -181,7 +187,9 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
-* Le poser-casser est interdit, sauf pour réaliser les parchemins.
+* Le poser-casser afin d'XP les jobs est interdit, sauf pour réaliser les parchemins.
+  * Par exemple : il est autorisé de poser des minerais de diamant et de les récupérer avec fortune (sans utiliser cela pour le pass).
+  * A contrario, il est interdit de poser une buche par une personne X et qu'une personne Y la casse après 15 minutes afin d'up son xp job plusieurs fois.
 
 ### <mark style="color:green;">Article I : Les donjons</mark>
 
@@ -201,6 +209,12 @@ Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, 
 {% hint style="info" %}
 Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais.
 {% endhint %}
+
+### <mark style="color:green;">Article K : La boutique</mark>
+
+* Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
+* Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
+* Tout litige, contestation de paiement ou rétrofacturation (“chargeback”) entraînera automatiquement un bannissement définitif du ou des comptes concernés, sans possibilité de recours.
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté le règlement, même en cas de changement.
 

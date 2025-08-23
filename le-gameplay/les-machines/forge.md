@@ -155,21 +155,21 @@ description: Retrouvez ici toutes les informations concernant la forge
     <td><strong>320 citrouilles</strong></td>
     <td><strong>64 lapis-lazuli</strong></td>
     <td><strong>448 chairs putréfiées</strong></td>
-    <td><mark style="color:yellow;"><strong>2 carpes herbivores</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 carpes d'herbe</strong></mark></td>
     <td><strong>128 bûches de cerisier</strong></td>
   </tr>
   <tr>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>1 dorade</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 dorade</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
     <td><strong>X</strong></td>
-    <td><mark style="color:yellow;"><strong>1 doré jaune</strong></mark></td>
+    <td><mark style="color:yellow;"><strong>2 doré jaune</strong></mark></td>
     <td><strong>X</strong></td>
   </tr>
   <tr>
@@ -407,6 +407,6 @@ description: Retrouvez ici toutes les informations concernant la forge
 | <mark style="color:red;">**Gemme de pêcheur mythique**</mark>        | **1**                                    |
 | <mark style="color:red;">**Cristaux mythiques**</mark>               | **4**                                    |
 | <mark style="color:red;">**Yeux du Void**</mark>                     | **4**                                    |
-| <mark style="color:red;">**Cœur du Void**</mark>                     | **4**                                    |
-| <mark style="color:red;">**Cube du Void**</mark>                     | **1**                                    |
+| <mark style="color:red;">**Cœur du Void**</mark>                     | **1**                                    |
+| <mark style="color:red;">**Cube du Void**</mark>                     | **4**                                    |
 

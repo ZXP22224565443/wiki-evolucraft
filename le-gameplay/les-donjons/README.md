@@ -28,7 +28,7 @@ Les donjons sont classés en quatre niveaux de difficulté :
 
 
 {% hint style="info" %}
-Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
+Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes.
 {% endhint %}
 
 Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`.

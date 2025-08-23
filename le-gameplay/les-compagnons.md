@@ -33,7 +33,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
 <figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 ## Liste des différents compagnons
-<!--
+
 ### <mark style="color:green;">Compagnons Communs</mark>
 
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
@@ -184,7 +184,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:yellow;">Compagnons Rares</mark> <a href="#pets-rares" id="pets-rares">
+### <mark style="color:yellow;">Compagnons Rares</mark>
 
 <table><thead><tr><th width="263" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
   
@@ -344,7 +344,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:blue;">Compagnons Épiques</mark> <a href="#pets-epiques" id="pets-epiques">
+### <mark style="color:blue;">Compagnons Épiques</mark>
 
 <table><thead><tr><th width="265" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -626,7 +626,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:purple;">Compagnons Légendaires</mark> <a href="#pets-legendaires" id="pets-legendaires">
+### <mark style="color:purple;">Compagnons Légendaires</mark>
 
 <table><thead><tr><th width="270" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -727,7 +727,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:purple;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong> 🗡 Force</strong></mark><strong> +13</strong>
       <br><mark style="color:purple;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:purple;"><strong>+5%</strong></mark><strong> d'argent </strong><mark style="color:purple;"><strong>Métiers</strong></mark>
     </td>
-  </tr>I
+  </tr>
 
   <tr>
     <td align="center"><mark style="color:purple;"><strong>Phoenix</strong></mark></td>
@@ -776,7 +776,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
  </tbody>
 </table>
 
-### <mark style="color:red;">Compagnon Mythique</mark> <a href="#pets-mythiques" id="pets-mythiques">
+### <mark style="color:red;">Compagnons Mythique</mark>
 
 <table><thead><tr><th width="258" align="center">Compagnon</th><th>Effets</th></tr></thead><tbody>
 
@@ -798,7 +798,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong> ❤ Vie</strong></mark><strong> +48</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+15%</strong></mark><strong> sur la vente de </strong><mark style="color:red;"><strong>Lingots d'or</strong></mark>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+11.000</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+7.5%</strong></mark><strong>d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+7.5%</strong></mark><strong> d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -818,7 +818,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong> ◎ Vitesse</strong></mark><strong> +11</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+12.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -></strong>  <mark style="color:orange;"><strong>☠ dégâts critiques</strong></mark><strong> +20</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+10%</strong></mark><strong> d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -828,7 +828,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <br><mark style="color:red;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:red;"><strong>16.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:red;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>✨ Régénération de mana +3</strong></mark>
       <br><mark style="color:red;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+18.000</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+5%</strong></mark><strong>d'Argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
+      <br><mark style="color:red;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:red;"><strong>+5%</strong></mark><strong> d'argent </strong><mark style="color:red;"><strong>Métiers</strong></mark>
     </td>
   </tr>
 
@@ -855,7 +855,7 @@ Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessai
 
 <figure><img src="../.gitbook/assets/Les_Compagnons/le_pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
 
-Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots.
+Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots avec le Grade Légende.
 
 Vous avez la possibilité de collectionner tous les Compagnons, mais seuls un maximum de 5 peuvent être actifs pour bénéficier de leurs effets. Il est important de noter qu'un seul de vos compagnons peut se balader à vos côtés. Les autres compagnons en dehors des 5 sélectionnés seront considérés comme inactifs.
 
@@ -880,4 +880,3 @@ Lorsqu'un familier est en mode inactif, il reste à l'écart et ne participe pas
 {% hint style="info" %}
 Maintenant que vous savez tout sur ces compagnons, essayez d'en obtenir le plus possible sur Evolucraft !
 {% endhint %}
--->
