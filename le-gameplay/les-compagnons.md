@@ -154,7 +154,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
       <mark style="color:green;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+5%</strong></mark><strong> sur la vente de </strong><mark style="color:green;"><strong>Peau de lapin</strong></mark>
       <br><mark style="color:green;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:green;"><strong>1.000</strong></mark><strong>💰/h</strong>
       <br><mark style="color:green;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:green;"><strong>+1.500</strong></mark><strong>💰/h</strong>
-      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:orange;"><strong> ※ Chance de critique</strong></mark><strong> +4</strong>
+      <br><mark style="color:green;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong> ※ Chance de critique</strong></mark><strong> +4</strong>
       <br><mark style="color:green;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:green;"><strong>2,5</strong></mark><strong> d'EXP </strong><mark style="color:green;"><strong>Chasseur</strong></mark>
     </td>
   </tr>
@@ -334,7 +334,7 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
     <td align="center"><mark style="color:yellow;"><strong>Clocher</strong></mark></td>
     <td>
       <mark style="color:yellow;"><strong>Niv. 1</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+10%</strong></mark><strong> sur la vente de </strong><mark style="color:yellow;"><strong>Cuivre</strong></mark>
-      <br><mark style="color:yellow;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>✨ Régénération de mana +1</strong></mark>
+      <br><mark style="color:yellow;"><strong>Niv. 5</strong></mark><strong> -> </strong><mark style="color:blue;"><strong>✨ Régénération de mana</strong><strong>+1</strong></mark>
       <br><mark style="color:yellow;"><strong>Niv. 10</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>3.500</strong></mark><strong>💰/h</strong>
       <br><mark style="color:yellow;"><strong>Niv. 15</strong></mark><strong> -> </strong><mark style="color:red;"><strong> ❤ Vie</strong></mark><strong> +35</strong>
       <br><mark style="color:yellow;"><strong>Niv. 20</strong></mark><strong> -> </strong><mark style="color:yellow;"><strong>+5%</strong></mark><strong> d'EXP </strong><mark style="color:yellow;"><strong>Forgemage</strong></mark>
