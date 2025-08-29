@@ -16,7 +16,7 @@ Le /pub vous permet de promouvoir votre publicité via un affichage ou dans le c
 
 ### <mark style="color:green;">• Étape 3️⃣</mark>
 **En faisant un clic droit ou un clic gauche sur l'émeraude ou l'élément qui apparaît à l'emplacement montré ci-dessous, sélectionnez la catégorie où vous souhaitez que votre publicité soit affichée.**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_Pub_Catégorie.png" alt="" width="600"></figure>
+<figure><img src="../..gitbook/assets/Tuto_Et_Astuce/Tuto_Pub_Catégorie.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">• Étape 4️⃣</mark>
 **Veuillez insérer les informations demandées dans les éléments encadrés ci-dessous. Chaque item correspond à une information pour votre publicité.**
