@@ -37,5 +37,3 @@ Le /pub vous permet de promouvoir votre publicité via un affichage ou dans le c
 <figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Tuto_Pub_AnnonceAutomatique.png" alt="" width="600"></figure>
 
 **Et voilà, vous savez désormais comment créer une publicité dans le /pub ! 🥳**
-
-<figure><img src="../../.gitbook/assets/Les_Donjons/Portail_Halloween.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Halloween</strong></p></figcaption></figure>
