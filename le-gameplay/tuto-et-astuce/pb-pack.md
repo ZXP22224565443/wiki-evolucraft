@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici afin de connaitre la solution pour avoir le pack de ressource du serveur !
+description: Retrouvez ici afin de connaitre la solution pour avoir le pack de ressource du serveur même avec un shaderpack !
 ---
 
 ## <mark style="color:green;">💠 Comment avoir le pack de ressources activé à ma connexion ? 🖼️</mark>
@@ -20,3 +20,14 @@ Lors de votre première connexion, le serveur vous rajoute automatiquement le te
 {% endhint %}
 
 **Et vous voilà dans une expérience incroyable avec ce pack de textures custom ! 🥳**
+
+## <mark style="color:green;">💠 Comment avoir les armures non bugguées avec son shader ? 🖼️</mark>
+
+Vous vous demandez pourquoi vos armures custom ressemblent à l'image ci-dessous lorsque vous mettez un shader ? Nous avons la solution pour résoudre ce souci !
+<figure><img src="../../.gitbook/assets/Tuto_Et_Astuce/Tuto_ArmureBug.png" alt="" width="600"></figure>
+
+**Téléchargez le mod "[<mark style="color:green;">CustomItemTextures</mark>](https://modrinth.com/mod/cit-resewn/versions)" avec la version que vous avez, puis insérez-le dans votre dossier de mods. Relancez votre jeu, et normalement le souci sera résolu !**
+
+{% hint style="warning" %}
+**⚠️ Attention, le mod est disponible seulement sous Fabric**
+{% endhint %}
