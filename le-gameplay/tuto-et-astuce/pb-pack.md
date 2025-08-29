@@ -19,8 +19,6 @@ Lors de votre première connexion, le serveur vous rajoute automatiquement le te
 **⚠️ En cas d'échec, pensez à bien allouer suffisamment de RAM pour votre jeu afin qu'il puisse être téléchargé !**
 {% endhint %}
 
-**Et vous voilà dans une expérience incroyable avec ce pack de textures custom ! 🥳**
-
 ## <mark style="color:green;">💠 Comment avoir les armures non bugguées avec son shader ? 🖼️</mark>
 
 Vous vous demandez pourquoi vos armures custom ressemblent à l'image ci-dessous lorsque vous mettez un shader ? Nous avons la solution pour résoudre ce souci !
@@ -31,3 +29,5 @@ Vous vous demandez pourquoi vos armures custom ressemblent à l'image ci-dessous
 {% hint style="warning" %}
 **⚠️ Attention, le mod est disponible seulement sous Fabric**
 {% endhint %}
+
+**Et vous voilà dans une expérience incroyable avec ce pack de textures custom ! 🥳**
