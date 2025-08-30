@@ -11,7 +11,7 @@
 
 ## LE GAMEPLAY
 
-* [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce)
+* [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce/README)
   * [🎫 Nous rejoindre](le-gameplay/tuto-et-astuce/rejoindre-serveur.md)
   * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
