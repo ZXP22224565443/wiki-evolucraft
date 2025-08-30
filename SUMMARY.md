@@ -72,7 +72,7 @@
 
 * [🏠 Créer une ville](les-villes/creer-une-ville.md)
 * [⚙️ Paramètres de Ville](les-villes/parametres-de-ville.md)
-* [✂️ Les sous-zones](les-villes/les-sous-zones.md)
+* [🗃️ Les sous-zones](les-villes/les-sous-zones.md)
 * [👁️‍🗨️ Les Pwarps](les-villes/les-warps.md)
 * [🛒 Les shops de joueurs](les-villes/les-shops-de-joueurs.md)
 * [🛠️ Les niveaux de ville](les-villes/les-niveaux-de-ville.md)
