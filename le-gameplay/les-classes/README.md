@@ -47,7 +47,7 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</
 * <mark style="color:purple;">**Samouraï**</mark> : Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision.
 
 ## <mark style="color:red;">Classe Mythique</mark>
-* <mark style="color:red;">**Chevalier de la mort**</mark> : 
+* <mark style="color:red;">**Chevalier de la mort**</mark> : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur.
 
 ## <mark style="color:green;">Catégories de Classes</mark>
 
