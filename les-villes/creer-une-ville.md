@@ -12,7 +12,7 @@ description: Retrouvez ici toutes les informations concernant la création de vi
 
 ## <mark style="color:green;">**💠 Comment être dans une ville ? 🏙️**</mark>
 
-**Nous vous invitons à consulter ce petit tuto pour savoir comment : <mark style="color:green;">Être dans une ville 🏙️</mark>**
+**Nous vous invitons à consulter ce petit tuto pour savoir comment : [<mark style="color:green;">Être dans une ville 🏙️</mark>](https://wiki.evolucraft.fr/le-gameplay/tuto-et-astuce/creer-une-ville)**
 
 ## <mark style="color:green;">**💠 Comment agrandir ma ville ? 📈**</mark>
 
