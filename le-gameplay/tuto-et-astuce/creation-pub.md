@@ -2,6 +2,10 @@
 description: Retrouvez ici le tuto pour savoir comment créer une publicité dans le /pub
 ---
 
+{% embed url="https://discord.com/channels/699670538737418343/1276486409913503755/1276486409913503755" %}
+**La commande /Pub**
+{% endembed %}
+
 ## <mark style="color:green;">💠 Comment ajouter une pub dans le /pub ? 🏪</mark>
 
 Le /pub vous permet de promouvoir votre publicité via un affichage ou dans le chat auprès des autres joueurs du serveur pendant une certaine période et pour diverses catégories. Mais comment la créer ? Voici donc un tuto.
