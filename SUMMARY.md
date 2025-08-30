@@ -69,12 +69,12 @@
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
 * [💒 Le Mariage](le-gameplay/le-mariage.md) 
 
-## 🏙️ LE MONDE DES VILLES
+## 🌆 LE MONDE DES VILLES
 
-* [🏙️ Les villes](les-villes/les-villes.md)
+* [🏙️ Les Villes](les-villes/les-villes.md)
 * [⚙️ Paramètres de Ville](les-villes/parametres-de-ville.md)
-* [🗃️ Les sous-zones](les-villes/les-sous-zones.md)
+* [🎭 Les Rôles](les-villes/les-roles.md)
+* [🗃️ Les Sous-zones](les-villes/les-sous-zones.md)
 * [👁️‍🗨️ Les Pwarps](les-villes/les-warps.md)
-* [🛒 Les shops de joueurs](les-villes/les-shops-de-joueurs.md)
-* [🛠️ Les niveaux de ville](les-villes/les-niveaux-de-ville.md)
-
+* [🛒 Les Shops de Joueurs](les-villes/les-shops-de-joueurs.md)
+* [🛠️ Les Niveaux de Ville](les-villes/les-niveaux-de-ville.md)
