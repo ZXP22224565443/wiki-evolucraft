@@ -14,6 +14,7 @@
 * [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce/README.md)
   * [🎫 Nous rejoindre](le-gameplay/tuto-et-astuce/rejoindre-serveur.md)
   * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
+  * [🏙️ Être dans une ville](le-gameplay/tuto-et-astuce/creer-une-ville.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
   * [🧍‍♂️ Ase](le-gameplay/tuto-et-astuce/le-ase.md)
 * [🌍 Mondes](le-gameplay/mondes.md)
@@ -68,9 +69,9 @@
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
 * [💒 Le Mariage](le-gameplay/le-mariage.md) 
 
-## 🏙️ LES VILLES
+## 🏙️ LE MONDE DES VILLES
 
-* [🏠 Créer une ville](les-villes/creer-une-ville.md)
+* [🏙️ Les villes](les-villes/les-villes.md)
 * [⚙️ Paramètres de Ville](les-villes/parametres-de-ville.md)
 * [🗃️ Les sous-zones](les-villes/les-sous-zones.md)
 * [👁️‍🗨️ Les Pwarps](les-villes/les-warps.md)
