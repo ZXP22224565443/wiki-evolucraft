@@ -22,6 +22,7 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**18 classes**</
 * <mark style="color:green;">**Archer**</mark> : Maîtres dans l'art du tir à l'arc, agiles et précis, ne ratant jamais leur cible.
 * <mark style="color:green;">**Mage**</mark> : Manipulateurs des forces mystiques, lançant des sorts dévastateurs, incarnant la puissance des arcanes.
 * <mark style="color:green;">**Barde**</mark> : Maître dans l'art de la musique et de la poésie, charmant et inspirant, il envoûte toujours son auditoire.
+* <mark style="color:green;">**Illusioniste**</mark> : Maître des illusions et de la ruse, trouble les sens et trompe l'ennemi, il frappe où nul ne s'y attend.
 
 ## <mark style="color:yellow;">Classes Rares</mark>
 
