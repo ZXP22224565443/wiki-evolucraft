@@ -14,6 +14,7 @@
 * [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce/README.md)
   * [🎫 Nous rejoindre](le-gameplay/tuto-et-astuce/rejoindre-serveur.md)
   * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
+  * [♒ Problème de BossBar](le-gameplay/tuto-et-astuce/pb-bossbar.md)
   * [🏙️ Être dans une ville](le-gameplay/tuto-et-astuce/creer-une-ville.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
   * [🧍‍♂️ Ase](le-gameplay/tuto-et-astuce/le-ase.md)
