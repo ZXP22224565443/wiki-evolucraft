@@ -17,7 +17,7 @@
   * [♒ Problème de BossBar](le-gameplay/tuto-et-astuce/pb-bossbar.md)
   * [🏙️ Être dans une ville](le-gameplay/tuto-et-astuce/creer-une-ville.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
-  * [🧍‍♂️ Ase](le-gameplay/tuto-et-astuce/le-ase.md)
+  * [🧍‍♂️ Le guide de l'Ase](le-gameplay/tuto-et-astuce/le-ase.md)
 * [🌍 Mondes](le-gameplay/mondes.md)
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
   * [⚔️ Guerrier](le-gameplay/les-classes/guerrier.md)
