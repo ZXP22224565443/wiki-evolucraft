@@ -15,6 +15,7 @@
   * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
   * [♒ Problème de BossBar](le-gameplay/tuto-et-astuce/pb-bossbar.md)
   * [🏙️ Être dans une ville](le-gameplay/tuto-et-astuce/creer-une-ville.md)
+  * [💸 Gagner de l'argent](le-gameplay/tuto-et-astuce/gagner-argent.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
   * [🧍‍♂️ Le guide de l'Ase](le-gameplay/tuto-et-astuce/le-ase.md)
 
