@@ -9,15 +9,17 @@
 * [‼️ Contribuer](CONTRIBUTING.Md)
 * [❔ Commandes](informations-importantes/commandes.md)
 
-## LE GAMEPLAY
+## TUTO ET ASTUCE 💡
 
-* [📋 Tuto et Astuce](le-gameplay/tuto-et-astuce/README.md)
   * [🎫 Nous rejoindre](le-gameplay/tuto-et-astuce/rejoindre-serveur.md)
   * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
   * [♒ Problème de BossBar](le-gameplay/tuto-et-astuce/pb-bossbar.md)
   * [🏙️ Être dans une ville](le-gameplay/tuto-et-astuce/creer-une-ville.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
   * [🧍‍♂️ Le guide de l'Ase](le-gameplay/tuto-et-astuce/le-ase.md)
+
+## LE GAMEPLAY
+
 * [🌍 Mondes](le-gameplay/mondes.md)
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
   * [⚔️ Guerrier](le-gameplay/les-classes/guerrier.md)
