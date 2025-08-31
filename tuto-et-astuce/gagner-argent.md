@@ -82,7 +82,17 @@ En vous balandant dans les différents monde ressources, vous pouvez également 
 
 #### <mark style="color:green;">• 3️⃣ Les publicitées 📣</mark>
 
-Avec le /pub
+Avec le <a href="https://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite"><mark style="color:green;">/pub 📢</mark></a>, vous pourrez y activé les notifications lorsque des joueurs ont trouvé un donjon et souhaite le partager. Très utile alors pour y gagner des loots tout en y participant au donjon !
+
+Pour tentez d'y participez à ces donjons, il vous suffit de cliquez dans le chat sur la ligne "Demandez une téléportation" pour que le joueurs ayant trouvé puissent vous y téléporter.
+<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent_DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
+
+## 🔶 <mark style="color:green;">Vendre à l'hotel de vente 🏪
+
+Un hotel de vente est aussi disponible sur le serveur qui vous permettent de 
+
+
+
 
 
 
