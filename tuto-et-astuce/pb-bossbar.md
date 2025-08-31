@@ -5,7 +5,7 @@ description: Retrouvez ici le tuto pour savoir comment ne plus avoir les barre v
 ## <mark style="color:green;">💠 Comment enlever les barres violettes sur mon écran ? ♒</mark>
 
 Si tu as ces barres, c'est que tu dois jouer sous launcher Lunar Client, Badlion, Feather ou autre que celui de base. Il se peut que des **barres violettes** s'affichent sur ton écran comme ci-dessous lors de ta première connexion 🤨.  
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_BarreViolette.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/BarreViolette.png" alt=""></figure>
 
 Pour les enlever sur **Lunar Client 🌙**, voici les étapes à suivre (la manipulation reste similaire sur les autres launchers cités plus haut) :
 
