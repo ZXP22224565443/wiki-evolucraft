@@ -1,4 +1,5 @@
 # 🥷 Samouraï
+Guerrier d'honneur et de discipline maître de la lame et du silence, le samouraï fauche ses ennemis avec grâce et précision.
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Samourai.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Samouraï</strong></p></figcaption></figure>
 
