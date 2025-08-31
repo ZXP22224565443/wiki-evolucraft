@@ -30,7 +30,62 @@ Si vous avez besoin de plus d'infos sur les métiers, nous vous invitons à lire
 
 ## 🔶 <mark style="color:green;">Les clés de votes 🗝️
 
-Les clés de votes font parties d'un des marchés adoré par les joueurs ont beaucoup adore joué pour gagner de l'argent ou avoir des items plutôt peu commun (items en émeraude ou Rubis Shiny ou encore des pets).
+Les clés de votes font parties d'un des marchés adoré par les joueurs qui adore joué pour gagner par exemple de l'argent ou encore avoir des items plutôt peu commun (items en émeraude ou Rubis Shiny ou encore des pets).
 
-Avoir des clés est relativement assez simple
+### 🔹 Comment voter sur le serveur ? ✅
+
+#### <mark style="color:green;">• Étape 1️⃣</mark>
+Avoir des clés est relativement assez simple, dans un premier temps, vous pouvez aller sur le site d'<a href="https://evolucraft.fr/vote"><mark style="color:green;">Évolucraft 🌏</mark></a> puis aller sur l'onglet Vote.
+<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent_VoteSiteEvo.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+
+#### <mark style="color:green;">• Étape 2️⃣</mark>
+Ensuite vous devrez insérez votre pseudo sur la droite comme sur l'image ci-dessous, faites bien attention à écrire le pseudo exacte, au caractère près !
+<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent_VoteSiteVote.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+
+#### <mark style="color:green;">• Étape 3️⃣</mark>
+Vous devrez par la suite, cliquez sur Site 1 ou Site 2. Il vous ammènera via un autre site, en suivant les instruction demandé, vous devrez alors remplir sans doute un captcha (avec image ou texte suivant la demande) puis cliquez sur "Je Vote Maintenant". Après avoir voté, vous devrez impérativement retourné sur le site d'évolucraft afin que le vote ce valide (Le vote sera compté comme validé lorsque le temps du prochain vote sera entrain d'être compté, si celà n'est pas le cas, pensez à soit refaire le vote ou à rafraichir la page internet).
+<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent_VoteSite1.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
+
+{% hint style="warning" %}
+**⚠️ Attention, si plusieurs joueurs joue sur la même connexion internet, il faudra que chaqun utilise une connesion internet différente, en utilisant les données mobile par exemple.**
+{% endhint %}
+
+### 🔹 Comment récupérer ces clés de vote ? ✔️
+
+Pour récupérer vos clés durement aquis, effectuez la commande `/claimvote` dans le spawn en laissant quelques slots d'inventaire de libre afin de pas en trash certain inutilement.
+
+{% hint style="info" %}
+**REMARQUE 🔍 : Vous n'avez pas besoin d'être obligatoirement connecté en jeu pour voter**.
+{% endhint %}
+
+**Vous pouvez dès maintenant faire le choix soit de les ouvrir à la box au spawn 🧰 ou de les vendre au /ah 🛒**
+
+## 🔶 <mark style="color:green;">Les donjons 🟪
+
+Faire des donjons, c'est la nouveauté de cette V4 d'Évolucraft afin de vous aider à compléter les prérequis pour vos futurs rangs !
+
+### 🔹 Comment trouver des donjons ? 🤔
+
+Pour trouver des donjons, il y a plusieurs solutions :
+
+#### <mark style="color:green;">• 1️⃣ Les pierre de tp donjon 🟩</mark>
+
+Les pierre de tp donjon vous servent à être tp directement, en étant dans le monde ressource, à un portail généré, très utile si vous voulez ne pas vous prendre la tête en chercher un pendant des heures !
+
+Pour vous en procurrez, il vous suffit de faire `/kit donjon` _(disponible tout les 24 heures)_ ou via la box de vote.
+
+Pour les joueurs plus avancé dans le jeu, vous avez le `/dragon` où sur la deuxième page, vous pourrez y échanger des pierre de tp donjon de rareté plus importante de Rare, en passant par Épique, jusqu'au Légendaire !
+
+#### <mark style="color:green;">• 2️⃣ La recherche en balade 🚶‍♂️</mark>
+
+En vous balandant dans les différents monde ressources, vous pouvez également trouver des donjon généré et y entrez pour défier ces mobs féroce.
+
+#### <mark style="color:green;">• 3️⃣ Les publicitées 📣</mark>
+
+Avec le /pub
+
+
+
+
+
 
