@@ -11,18 +11,18 @@ Pour les enlever sur **Lunar Client 🌙**, voici les étapes à suivre (la mani
 
 ### <mark style="color:green;">• Étape 1️⃣</mark>
 **Appuyez sur la touche "ECHAP" de votre clavier, puis cliquez sur les "paramètres de votre launcher".** 
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_LunarOption.png" alt="" width="600"></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/LunarOption.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">• Étape 2️⃣</mark>
 **Recherchez "Boss Bar" dans l’onglet de recherche.**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_SelectBossBar.png" alt="" width="600"></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/SelectBossBar.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">• Étape 3️⃣</mark>
 **Mettez l'échelle des bossbars à 1 (facultatif), puis désactivez les "barres personnalisées".**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_ScaleEtDesac.png" alt="" width="600"></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/ScaleEtDesac.png" alt="" width="600"></figure>
 
 ### <mark style="color:green;">• Étape 4️⃣</mark>
 **Enfin, sélectionnez la modification de l'HUD, et cliquez sur votre bossbar afin de la positionner __tout en haut et au milieu de votre jeu__ comme sur l'image ci-dessous.**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Tuto_BarrePlacement.png" alt="" width="600"></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Pb-Bossbar/BarrePlacement.png" alt="" width="600"></figure>
 
 **Et voilà, vous n'aurez plus les bossbars de visible pour votre plus grand bonheur ! 🥳**
