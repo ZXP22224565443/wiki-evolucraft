@@ -20,10 +20,10 @@ Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'arg
 <figure><img src="../.gitbook/assets/Menu/Jobs.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
 
 Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémunérée</mark>" représentée par <mark style="color:green;">une feuille de papier</mark>.
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
 
 Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier)
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
 
 Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
 
@@ -37,15 +37,15 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 
 #### <mark style="color:green;">• Étape 1️⃣</mark>
 **Obtenir des clés est relativement simple : dans un premier temps, vous pouvez <mark style="color:green;">aller sur le site d'<a href="https://evolucraft.fr/vote">Évolucraft 🌏</mark></a> puis aller dans <mark style="color:green;">l'onglet Vote</mark>.**
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-VoteSiteEvo.png" alt=""><figcaption><p><strong>Aperçu de la page <mark style="color:green;">d'accueil du site</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-VoteSiteEvo.png" alt=""><figcaption><p><strong>Aperçu de la page <mark style="color:green;">d'accueil du site</mark></strong></p></figcaption></figure>
 
 #### <mark style="color:green;">• Étape 2️⃣</mark>
 **Ensuite, vous devrez <mark style="color:green;">insérer votre pseudo</mark> sur la droite comme sur l'image ci-dessous, <mark style="color:green;">veillez à bien écrire le pseudo exact, au caractère près</mark> !**
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-VoteSiteVote.png" alt=""><figcaption><p><strong>Aperçu de l'onglet <mark style="color:green;">vote du site</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-VoteSiteVote.png" alt=""><figcaption><p><strong>Aperçu de l'onglet <mark style="color:green;">vote du site</mark></strong></p></figcaption></figure>
 
 #### <mark style="color:green;">• Étape 3️⃣</mark>
 **Vous devrez ensuite <mark style="color:green;">cliquer sur Site 1 ou Site 2</mark>. Cela vous amènera vers un autre site ; suivez les instructions demandées, il vous faudra probablement <mark style="color:green;">remplir un captcha</mark> (avec image ou texte selon la demande) puis <mark style="color:green;">cliquer sur "Je Vote Maintenant"</mark>. Après avoir voté, il est impératif de <mark style="color:green;">revenir sur le site d'Évolucraft</mark> afin que le vote soit validé (Le vote sera considéré comme validé lorsque le temps du prochain vote commencera à s'afficher ; sinon, refaites le vote ou rafraîchissez la page internet).**
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-VoteSite1.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-VoteSite1.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Site 1</mark></strong></p></figcaption></figure>
 
 {% hint style="warning" %}
 **⚠️ Attention : si plusieurs joueurs jouent sur la même connexion internet, chacun doit utiliser une connexion différente, par exemple en utilisant les données mobiles.**
@@ -86,7 +86,7 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 **Avec le <a href="http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite"><mark style="color:green;">/pub 📢</mark></a>, vous pouvez <mark style="color:green;">activer les notifications de pubs pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !**
 
 **Pour <mark style="color:green;">tenter de participer à ces donjons</mark>, il vous suffit de <mark style="color:green;">cliquer dans le chat</mark> sur la ligne "<mark style="color:green;">Envoyer une demande de téléportation"</mark> pour que le joueur ayant trouvé le donjon puisse <mark style="color:green;">vous téléporter</mark>.**
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-DemandeDetéléporterDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une <mark style="color:green;">pub de donjon</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-DemandeDetéléporterDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une <mark style="color:green;">pub de donjon</mark></strong></p></figcaption></figure>
 
 ## 🔶 <mark style="color:green;">Vendre des items 🏪</mark>
 
@@ -112,7 +112,7 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 
 **Afin de <mark style="color:green;">vendre un item à un coffre de rachat</mark>, il vous suffit de <mark style="color:green;">faire la commande `/finditem vendre [id de l'item/premier mot de l'item custom]`</mark>, puis il vous donnera <mark style="color:green;">la liste de tous les joueurs rachetant cet item</mark>. À vous de <mark style="color:green;">sélectionner le racheteur</mark> en cliquant sur l’item en question.**
 
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Les items sont triés du plus cher au moins cher 📉**.
@@ -121,6 +121,6 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 ## 🔶 <mark style="color:green;">Le `/rewards` 🕐</mark>
 
 **Le <mark style="color:green;">`/rewards`</mark> vous permet de <mark style="color:green;">gagner des récompenses</mark> chaque jour avec un reset à minuit _(heure française)_ selon votre temps de jeu. <mark style="color:green;">Une notification sur votre écran</mark> vous informe lorsqu’un cadeau est débloqué. Vous pouvez y <mark style="color:green;">recevoir des quêtes</mark>, <mark style="color:green;">divers blocs et items</mark>, <mark style="color:green;">une carte aléatoire commune</mark> mais surtout <mark style="color:green;">de l’argent</mark> !**
-<figure><img src="../.gitbook/assets/tuto_et_astuce/Argent-InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface <mark style="color:green;">/rewards</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent-InterfaceReward.png" alt=""><figcaption><p><strong>Aperçu de l’interface <mark style="color:green;">/rewards</mark></strong></p></figcaption></figure>
 
 **Vous avez toutes les infos pour savoir comment gagner de l’argent facilement 🤑 ! À vous de trouver la meilleure technique ou d’en découvrir une nouvelle 😏**
