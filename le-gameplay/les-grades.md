@@ -14,6 +14,8 @@ Sur Évolucraft, bien que les [<mark style="color:green;">rangs</mark>](https://
 
 Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins, une monnaie obtenable via des récompenses en jeu (Métiers, Vote, `/afk`, etc.) ou achetable directement sur la boutique du site d'<a href="https://store.evolucraft.fr/">Évolucraft 🌏</a>. Ils ne sont valables que pendant la version où ils ont été achetés.
 
+<figure><img src="../.gitbook/assets/Menu/Grades.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **REMARQUE 🔍 : Si vous achetez un grade et que vous souhaitez ensuite passer à un grade supérieur, le prix de votre grade inférieur est déduit du nouveau grade que vous achetez.**
 {% endhint %}
