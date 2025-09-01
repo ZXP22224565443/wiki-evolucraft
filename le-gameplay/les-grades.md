@@ -87,7 +87,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 * <mark style="color:purple;">**Temps d'AFK : 1 heure**</mark> 🕐
 * <mark style="color:purple;">**Avantages du Grade Élite 💠**</mark>
 * Bonus à l'achat : <mark style="color:purple;">**2 Clés Rubis 🗝️**</mark>
-* Accès aux <mark style="color:purple;">**aventages du grade précédent ✨**</mark>
+* Accès aux <mark style="color:purple;">**aventages des grades précédents ✨**</mark>
 
 ### **🔸 Son kit : [<mark style="color:yellow;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-légende)**
 
