@@ -1,5 +1,5 @@
 ---
-**Retrouvez ici toutes les informations vous permettant de nous aider à modifier ce wiki**
+Retrouvez ici toutes les informations vous permettant de nous aider à modifier ce wiki
 ---
 
 # Contribution
