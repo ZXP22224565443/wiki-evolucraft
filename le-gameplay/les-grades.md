@@ -12,7 +12,7 @@ Sur Évolucraft, bien que les [<mark style="color:green;">rangs</mark>](https://
 
 ## 💠 <mark style="color:green;">Comment se procurer un grade sur le serveur ?</mark>
 
-Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins, une monnaie obtenable via des récompenses en jeu (Métiers, Vote, `/afk`, etc.) ou achetable directement sur la boutique du site d'<a href="https://store.evolucraft.fr/">Évolucraft 🌏</a>. Ils ne sont valables que pendant la version où ils ont été achetés.
+Les grades sont disponibles à l'achat dans le menu `/grades` contre des Gemmes, une monnaie obtenable via des récompenses en jeu (Métiers, Vote, `/afk`, etc.) ou achetable directement sur la boutique du site d'<a href="https://store.evolucraft.fr/">Évolucraft 🌏</a>. Ils ne sont valables que pendant la version où ils ont été achetés.
 
 <figure><img src="../.gitbook/assets/Menu/Grades.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 
 ### <mark style="color:yellow;">⚜️ Héros ⚜️</mark>
 
-**Prix : <mark style="color:yellow;">1 900 Ecoins 💎</mark>** ou **obtenable dans la box Rubis**
+**Prix : <mark style="color:yellow;">1 900 Gemmes 💎</mark>** ou **obtenable dans la box Rubis**
 
 #### **🔸 Ses avantages :**
 
@@ -45,7 +45,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 
 ## <mark style="color:blue;">💠 Élite 💠</mark>
 
-**Prix : <mark style="color:blue;">4 900 Ecoins 💎</mark>**
+**Prix : <mark style="color:blue;">4 900 Gemmes 💎</mark>**
 
 #### **🔸 Ses avantages :**
 
@@ -70,7 +70,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 
 ## <mark style="color:purple;">💞 Légende 💞</mark>
 
-**Prix : <mark style="color:purple;">7 900 Ecoins 💎</mark>**
+**Prix : <mark style="color:purple;">7 900 Gemmes 💎</mark>**
 
 #### **🔸 Ses avantages :**
 
