@@ -63,6 +63,31 @@ Ces kits sont récupérables une fois toutes les 24 heures en utilisant la comma
 
 ## 💠 <mark style="color:blue;">Le /kit Élite 💠</mark>
 
+* <mark style="color:blue;">**Casque en diamant**</mark> _(Protection 3 / Solidité 3 )_
+* <mark style="color:blue;">**Plastron en diamant**</mark> _(Protection 3 / Solidité 3)_
+* <mark style="color:blue;">**Pantalon en diamant**</mark> _(Protection 3 / Solidité 3)_
+* <mark style="color:blue;">**Bottes en diamant**</mark> _(Protection 3 / Solidité 3)_
+* <mark style="color:blue;">**Épée en diamant**</mark> _(Tranchant 3 / Solidité 3)_
+* <mark style="color:blue;">**Pioche en diamant**</mark> _(Efficacité 3 / Solidité 3)_
+* <mark style="color:blue;">**Pelle en diamant**</mark> _(Efficacité 3 / Solidité 3)_
+* <mark style="color:blue;">**Hache en diamant**</mark> _(Efficacité 3 / Solidité 3)_
+* <mark style="color:blue;">**Houe en diamant**</mark> _(Solidité 3)_
+* <mark style="color:blue;">**Canne à pêche**</mark> _(Chance de la mer 3 / Solidité 3)_
+* <mark style="color:blue;">**Bouclier**</mark> _(Solidité 2)_
+* <mark style="color:blue;">**32 steaks**</mark>
+* <mark style="color:blue;">**6 lingots d’or**</mark>
+* <mark style="color:blue;">**4 diamants**</mark>
+* <mark style="color:blue;">**12 lingots de fer**</mark>
+* <mark style="color:blue;">**16 lingots de cuivre**</mark>
+* <mark style="color:blue;">**24 lapis-lazuli**</mark>
+* <mark style="color:blue;">**16 redstone**</mark>
+* <mark style="color:blue;">**64 bûches de chêne**</mark>
+* <mark style="color:blue;">**1 parchemin d’aventure (Difficile)**</mark>
+
+<figure><img src="../.gitbook/assets/Menu/Kit/elite.png" alt=""><figcaption></figcaption></figure>
+
+## 💠 <mark style="color:blue;">Le /kit Légende 💞</mark>
+
 * <mark style="color:blue;">**Casque en diamant**</mark> _(Protection 4 / Solidité 3 / Affinité aquatique)_
 * <mark style="color:blue;">**Plastron en diamant**</mark> _(Protection 4 / Solidité 3)_
 * <mark style="color:blue;">**Pantalon en diamant**</mark> _(Protection 4 / Solidité 3)_
