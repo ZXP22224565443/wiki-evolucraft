@@ -57,4 +57,4 @@ ATTENTION ⚠️ : Vous ne pouvez pas mettre d'espace dans le nom de votre sous-
 
 ## <mark style="color:green;">**💠 Autres commandes 🤨**</mark>
 
-* <mark style="color:green;">**/ville subarea kick [Nom de la sous-zone] [Pseudo]**</mark> : Permet d'exclure un membre de la sous-zone qu'il avait rejointe.
+* <mark style="color:green;">**/ville subarea kick [Nom de la sous-zone] [Pseudo]**</mark> : Permet d'exclure un membre de la sous-zone qu'il avait rejointe. _(La personne ayant pris la location sera remboursée au prorata du temps restant)._
