@@ -20,7 +20,7 @@ Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'arg
 <figure><img src="../.gitbook/assets/Menu/Jobs.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
 
 Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémunérée</mark>" représentée par <mark style="color:green;">une feuille de papier</mark>.
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">menu du jobs Mineur</mark></strong></p></figcaption></figure>
 
 Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier)
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
@@ -87,6 +87,8 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 
 **Pour <mark style="color:green;">tenter de participer à ces donjons</mark>, il vous suffit de <mark style="color:green;">cliquer dans le chat</mark> sur la ligne "<mark style="color:green;">Envoyer une demande de téléportation"</mark> pour que le joueur ayant trouvé le donjon puisse <mark style="color:green;">vous téléporter</mark>.**
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDetéléporterDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une <mark style="color:green;">pub de donjon</mark></strong></p></figcaption></figure>
+
+Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjons et sa réalisation : **[<mark style="color:green;">Les Donjons 🏛️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons)**
 
 ## 🔶 <mark style="color:green;">Vendre des items 🏪</mark>
 
