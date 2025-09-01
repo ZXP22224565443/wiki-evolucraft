@@ -4,9 +4,7 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 # 🎪 Les Événements
 
-Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement.
-
-## <mark style="color:green;">**Quels sont les différents événements journaliers ?**</mark>
+**Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
 ### <mark style="color:green;">💠 Event Farm 🪓</mark>
 
