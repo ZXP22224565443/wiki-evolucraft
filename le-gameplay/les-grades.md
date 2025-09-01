@@ -40,6 +40,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 * <mark style="color:yellow;">**Temps d'AFK : 25 minutes**</mark> 🕔
 * Bonus à l'achat : <mark style="color:yellow;">**1 Clé Émeraude 🗝️**</mark>
 
+
 ### **🔸 Son kit : [<mark style="color:yellow;">Le kit Héros ⚜️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-héros)** 
 
 ## <mark style="color:blue;">💠 Élite 💠</mark>
@@ -63,6 +64,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 * <mark style="color:blue;">**Temps d'AFK : 35 minutes**</mark> 🕖
 * <mark style="color:blue;">**Avantages du Grade Héros ⚜️**</mark>
 * Bonus à l'achat : <mark style="color:blue;">**1 Clé Rubis 🗝️**</mark>
+* Accès aux <mark style="color:blue;">**aventages du grade précédent ✨**</mark>
 
 ### **🔸 Son kit : [<mark style="color:yellow;">Le kit Élite 💠</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-élite)** 
 
@@ -85,6 +87,7 @@ Les grades sont disponibles à l'achat dans le menu `/grades` contre des Ecoins,
 * <mark style="color:purple;">**Temps d'AFK : 1 heure**</mark> 🕐
 * <mark style="color:purple;">**Avantages du Grade Élite 💠**</mark>
 * Bonus à l'achat : <mark style="color:purple;">**2 Clés Rubis 🗝️**</mark>
+* Accès aux <mark style="color:purple;">**aventages du grade précédent ✨**</mark>
 
 ### **🔸 Son kit : [<mark style="color:yellow;">Le kit Légende 💞</mark>](https://wiki.evolucraft.fr/le-gameplay/les-kits#-le-kit-légende)**
 
