@@ -6,9 +6,9 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement.
 
-## <mark style="color:green;">Q</mark><mark style="color:green;">**uels sont les différents événements journaliers ?**</mark>
+## <mark style="color:green;">**Quels sont les différents événements journaliers ?**</mark>
 
-### <mark style="color:green;">💠 Event Farm 🪓</mark> (Événement temporaire pour la <mark style="color:blue;">mise à jour Summer ⛱️</mark>)
+### <mark style="color:green;">💠 Event Farm 🪓</mark>
 
 **⏰ Tous les jours à 15h00 et 19h30** _(9h00 AM et 1h30 PM GMT-4🍁)_
 
