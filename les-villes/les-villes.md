@@ -58,7 +58,7 @@ Une fois cela fait, vous pouvez utiliser la commande <mark style="color:green;">
 
 Lors de la création de votre ville, vous pourrez accéder à un menu de ville permettant de gérer tous les aspects de votre ville et la personnaliser à votre guise ! Pour y accéder, il suffit de faire la commande `/ville` ou `/v`.
 
-<figure><img src="../.gitbook/assets/Menu/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/Interface_Ville.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
 
 Dans cette interface de ville, vous avez 8 boutons cliquables correspondant à une catégorie d'action que vous pouvez réaliser :
 
