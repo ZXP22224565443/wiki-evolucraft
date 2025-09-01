@@ -71,6 +71,7 @@
 * [👑 Les Rangs](le-gameplay/les-rangs.md)
 * [🎁 Les Caisses](le-gameplay/les-caisses.md)
 * [🎖️ Les Grades](le-gameplay/les-grades.md)
+* [🦺 Les Kits](le-gameplay/les-kits.md)
 * [💒 Le Mariage](le-gameplay/le-mariage.md) 
 
 ## 🌆 LE MONDE DES VILLES
