@@ -81,7 +81,7 @@ Ces kits sont récupérables une fois toutes les 24 heures en utilisant la comma
 * <mark style="color:blue;">**16 lingots de cuivre**</mark>
 * <mark style="color:blue;">**24 lapis-lazuli**</mark>
 * <mark style="color:blue;">**16 redstone**</mark>
-* <mark style="color:blue;">**64 bûches de chêne**</mark>
+* <mark style="color:blue;">**24 bûches de chêne**</mark>
 * <mark style="color:blue;">**1 parchemin d’aventure (Difficile)**</mark>
 
 <figure><img src="../.gitbook/assets/Menu/Kit/elite.png" alt=""><figcaption></figcaption></figure>
