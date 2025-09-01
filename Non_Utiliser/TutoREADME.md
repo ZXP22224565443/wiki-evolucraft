@@ -10,6 +10,14 @@ description: Retrouvez ici différents tutos/astuces pour répondre à vos quest
 
 -> [<mark style="color:green;">**Problème de pack de texture ?**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/pb-pack)
 
+## <mark style="color:green;">💠 Comment créer une ville ? 🏙️</mark>
+
+-> [<mark style="color:green;">**Création d'une ville**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/creer-une-ville)
+
+## <mark style="color:green;">💠 Comment avoir de l'argent facilement ? 💸</mark>
+
+-> [<mark style="color:green;">**Avoir de l'argent rapidement 💸**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent)
+
 ## <mark style="color:green;">💠 Comment ajouter une pub dans le /pub ? 🏪</mark>
 
 -> [<mark style="color:green;">**Création d'un /pub**</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/creation-pub)
