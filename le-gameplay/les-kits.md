@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 
 # 🦺 Les Kits
 
-<mark style="color:green;">Les kits</mark> sont <mark style="color:green;">des pack d’items</mark> mis à disposition gratuitement pour tous les joueurs sur Évolucraft via la commande `/kits`. Ils permettent de <mark style="color:green;">récupérer facilement du <mark style="color:green;">stuff</mark>, <mark style="color:green;">des minerais</mark>, <mark style="color:green;">des outils</mark> et même <mark style="color:green;">des parchemins de toutes sortes</mark>, sans dépenser la moindre ressource. C’est une fonctionnalité particulièrement utile <mark style="color:green;">pour les nouveaux joueurs</mark> souhaitant se constituer <mark style="color:green;">un équipement de base rapidement</mark> et démarrer leur aventure dans de bonnes conditions !
+<mark style="color:green;">Les kits</mark> sont <mark style="color:green;">des pack d’items</mark> mis à disposition gratuitement pour tous les joueurs sur Évolucraft via la commande `/kits`. Ils permettent de <mark style="color:green;">récupérer facilement du stuff</mark>, <mark style="color:green;">des minerais</mark>, <mark style="color:green;">des outils</mark> et même <mark style="color:green;">des parchemins de toutes sortes</mark>, sans dépenser la moindre ressource. C’est une fonctionnalité particulièrement utile <mark style="color:green;">pour les nouveaux joueurs</mark> souhaitant se constituer <mark style="color:green;">un équipement de base rapidement</mark> et démarrer leur aventure dans de bonnes conditions !
 
 Ces kits sont récupérables une fois toutes les 24 heures en utilisant la commande correspondante.
 
