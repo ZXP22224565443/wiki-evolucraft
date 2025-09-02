@@ -40,11 +40,11 @@ Pour reconnaître à quel type appartient le donjon, vous avez <mark style="colo
 
 #### 🔸 Les donjons basiques
 
-* <mark style="color:green;">Commun</mark> : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
-* <mark style="color:yellow;">Rare</mark> : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
-* <mark style="color:blue;">Épique</mark> : _(Niveau requis : <mark style="color:blue;">niveau 25</mark>)_
-* <mark style="color:purple;">Légendaire</mark> : _(Niveau requis : <mark style="color:purple;">niveau 40</mark>)_
-* <mark style="color:red;">Mythique</mark> : _(Niveau requis : <mark style="color:red;">niveau 50</mark>)_
+* 🟩 <mark style="color:green;">Commun</mark> : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
+* 🟨 <mark style="color:yellow;">Rare</mark> : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
+* 🟦 <mark style="color:blue;">Épique</mark> : _(Niveau requis : <mark style="color:blue;">niveau 25</mark>)_
+* 🟪 <mark style="color:purple;">Légendaire</mark> : _(Niveau requis : <mark style="color:purple;">niveau 40</mark>)_
+* 🟥 <mark style="color:red;">Mythique</mark> : _(Niveau requis : <mark style="color:red;">niveau 50</mark>)_
 
 {% hint style="info" %}
 REMARQUE 🤓☝ : Plus un donjon demande un niveau élevé, plus il est difficile, mais les récompenses sont également plus importantes !
@@ -122,11 +122,11 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
   </thead>
   <tbody>
     <tr>
-      <td align="center"><mark style="color:green;"><strong>Commun</strong></mark></td>
-      <td align="center"><mark style="color:yellow;"><strong>Rare</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Épique</strong></mark></td>
-      <td align="center"><mark style="color:purple;"><strong>Légendaire</strong></mark></td>
-      <td align="center"><mark style="color:red;"><strong>Mythique</strong></mark></td>
+      <td align="center"><mark style="color:green;"><strong>Commun 🟩</strong></mark></td>
+      <td align="center"><mark style="color:yellow;"><strong>Rare 🟨</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Épique 🟦</strong></mark></td>
+      <td align="center"><mark style="color:purple;"><strong>Légendaire 🟪</strong></mark></td>
+      <td align="center"><mark style="color:red;"><strong>Mythique 🟥</strong></mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Classe Aléatoire Commune</mark></td>
