@@ -6,10 +6,9 @@
 
 * [‼️ Règlement IG](informations-importantes/reglement-ig.md)
 * [‼️ Règlement Discord](informations-importantes/reglement-discord.md)
-* [‼️ Contribuer](CONTRIBUTING.Md)
-* [❔ Commandes](informations-importantes/commandes.md)
+* [🤲 Contribuer](CONTRIBUTING.Md)
 
-## TUTO ET ASTUCE 💡
+## 💡 TUTO ET ASTUCE 
 
   * [🎫 Nous rejoindre](le-gameplay/tuto-et-astuce/rejoindre-serveur.md)
   * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
@@ -18,8 +17,9 @@
   * [💸 Gagner de l'argent](le-gameplay/tuto-et-astuce/gagner-argent.md)
   * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
   * [🧍‍♂️ Le guide de l'Ase](le-gameplay/tuto-et-astuce/le-ase.md)
+  * [❔ Commandes](informations-importantes/commandes.md)
 
-## LE GAMEPLAY
+## 🎮 LE GAMEPLAY 
 
 * [🌍 Mondes](le-gameplay/mondes.md)
 * [⚔️ Les Classes](le-gameplay/les-classes/README.md)
