@@ -106,7 +106,7 @@ La banque vous permet de faire fonctionner et de maintenir la ville sur le serve
 Les rôles permettent d’attribuer des permissions différentes selon les joueurs afin de garantir la sécurité et éviter les abus. Ils permettent également, dans une optique de roleplay, d’avoir une hiérarchie dans la ville et bien d’autres fonctionnalités ! 🎉
 
 Nous vous invitons à lire cette page du wiki pour en savoir plus sur les rôles : **[<mark style="color:green;">Les Rôles 🎭</mark>](https://wiki.evolucraft.fr/les-villes/les-roles)**
-<figure><img src="../.gitbook/assets/Les_Villes/Role_RoleSelect.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/Role/Select.png" alt=""><figcaption></figcaption></figure>
 
 ### 🔶 <mark style="color:green;">Niveau de ville 🔝</mark>
 
