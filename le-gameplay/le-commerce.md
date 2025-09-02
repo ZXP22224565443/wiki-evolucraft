@@ -53,7 +53,7 @@ Les deux boutons en bas de l'interface permettent aux joueurs de gérer leurs ve
 
 Sur Evolucraft, vous pouvez accéder facilement au marché du spawn en utilisant la commande <mark style="color:green;">**`/shop`**</mark>. C'est l'endroit idéal pour vendre vos matériaux à des PNJ. Cependant, gardez à l'esprit que la rentabilité est assez faible 📉.
 
-<figure><img src="../.gitbook/assets/Le_Commerce/Apercu_Commercent.png" alt=""><figcaption><p><strong>Aperçu des commerçants</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Apercu_Shop.png" alt=""><figcaption><p><strong>Aperçu de la zone `/shop`</strong></p></figcaption></figure>
 
 Ces acheteurs sont spécialisés dans l'achat de différentes catégories de produits :
 
