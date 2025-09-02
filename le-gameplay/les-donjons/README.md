@@ -210,20 +210,20 @@ Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres<
       <td align="center"><mark style="color:yellow;">Arme 3 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 4 Rare</mark></td>
       <td align="center"><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
-      <td align="center"><mark style="color:red;">Pet Aléatoire de Donjon</mark></td>
+      <td align="center"><mark style="color:red;">Pet de Donjon Aléatoire</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:yellow;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
-      <td align="center"><mark style="color:purple;">Pet Aléatoire Donjon</mark></td>
-      <td align="center"><mark style="color:red;">Clé d'événemnts alétaoire</mark></td>
+      <td align="center"><mark style="color:purple;">Pet de Donjon Aléatoire</mark></td>
+      <td align="center"><mark style="color:red;">Clé Aléatoire d'événement</mark></td>
     </tr>
     <tr>
       <td align="center">X</td>
       <td align="center"><mark style="color:yellow;">Arme 1 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
-      <td align="center"><mark style="color:purple;">Clé d'événement Aléatoire</mark></td>
+      <td align="center"><mark style="color:purple;">Clé Aléatoire d'événement</mark></td>
       <td align="center">X</td>
     </tr>
     <tr>
