@@ -28,6 +28,8 @@ Pour cela, réalisez la commande suivante en fonction de votre besoin :
 * <mark style="color:green;">**`/finditem acheter [id de l'item / bout d'un mot de l'item]`**</mark>**&#x20;: Permet de chercher tous les coffres où les joueurs vendent l'item.**
 * <mark style="color:green;">**`/finditem vendre [id de l'item / bout d'un mot de l'item]`**</mark>**&#x20;: Permet de chercher tous les coffres où les joueurs achètent l'item.**
 
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/InterfaceFinditem.png" alt=""><figcaption><p><strong>Aperçu de l’interface du<mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
+
 ## <mark style="color:green;">**💡 Quelques commandes à connaître !**</mark>
 
 * <mark style="color:green;">**`/qs create [montant]`**</mark>**&#x20;: Permet de créer un coffre de vente (⚠: Il faudra cependant avoir l'item en main et en regardant le coffre).**
