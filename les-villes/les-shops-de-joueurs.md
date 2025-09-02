@@ -15,6 +15,8 @@ description: Retrouvez ici toutes les informations concernant les coffres de ven
 
 Et voilà ! Votre coffre de vente est créé 🤩 !
 
+<figure><img src="../.gitbook/assets/Les_Villes/CoffreVente.png" alt=""><figcaption><p><strong>Aperçu d'un <mark style="color:green;">coffre de vente d'item</mark></strong></p></figcaption></figure>
+
 {% hint style="info" %}
 **💡 REMARQUE : Pensez à créer votre pwarp au plus proche de vos coffres de vente afin d'éviter que les autres joueurs soient téléportés à plusieurs blocs de votre ville ou qu'ils ne puissent pas y accéder !**
 {% endhint %}
