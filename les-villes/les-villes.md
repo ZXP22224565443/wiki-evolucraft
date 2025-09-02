@@ -69,7 +69,7 @@ Pour cela, il vous suffit de passer votre souris sur la tête du joueur puis de 
 * <mark style="color:green;">**Accéder 🖼️**</mark> : Permet de voir le /profile du joueur. _(Clic gauche)_
 * <mark style="color:green;">**Promouvoir ⏫**</mark> : Permet d’attribuer un rôle supérieur au joueur. _(Touche d'accroupissement + Clic gauche)_
 * <mark style="color:green;">**Destituer ⏬**</mark> : Permet de rétrograder le rôle du joueur. _(Touche d'accroupissement + Clic droit)_
-<figure><img src="../.gitbook/assets/Les_Villes/Role_InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Villes/Role/InterfaceMembre.png" alt=""><figcaption></figcaption></figure>
 
 ### 🔶 <mark style="color:green;">Divers 📂</mark>
 Dans ce menu Divers, vous pouvez trouver l’aspect visuel ainsi que les informations principales de la ville pour vos habitants, comme :
