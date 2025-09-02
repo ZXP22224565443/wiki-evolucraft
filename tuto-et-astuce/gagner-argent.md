@@ -86,7 +86,7 @@ Les <mark style="color:green;">clés de vote</mark> font partie des marchés pr�
 **Avec le <a href="http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite"><mark style="color:green;">/pub 📢</mark></a>, vous pouvez <mark style="color:green;">activer les notifications de pubs pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !**
 
 **Pour <mark style="color:green;">tenter de participer à ces donjons</mark>, il vous suffit de <mark style="color:green;">cliquer dans le chat</mark> sur la ligne "<mark style="color:green;">Envoyer une demande de téléportation"</mark> pour que le joueur ayant trouvé le donjon puisse <mark style="color:green;">vous téléporter</mark>.**
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDetéléporterDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une <mark style="color:green;">pub de donjon</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/DemandeDeTPDonjon.png" alt=""><figcaption><p><strong>Aperçu d'une <mark style="color:green;">pub de donjon</mark></strong></p></figcaption></figure>
 
 Nous vous invitons à lire cette page du wiki pour en savoir plus sur les donjons et sa réalisation : **[<mark style="color:green;">Les Donjons 🏛️</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons)**
 
