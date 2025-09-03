@@ -10,14 +10,14 @@
 
 ## 💡 TUTO ET ASTUCE 
 
-  * [🎫 Nous rejoindre](le-gameplay/tuto-et-astuce/rejoindre-serveur.md)
-  * [🖼️ Problème de Pack](le-gameplay/tuto-et-astuce/pb-pack.md)
-  * [♒ Problème de BossBar](le-gameplay/tuto-et-astuce/pb-bossbar.md)
-  * [🏙️ Être dans une ville](le-gameplay/tuto-et-astuce/creer-une-ville.md)
-  * [💸 Gagner de l'argent](le-gameplay/tuto-et-astuce/gagner-argent.md)
-  * [📣 Créer une pub](le-gameplay/tuto-et-astuce/creation-pub.md)
-  * [🧍‍♂️ Le guide de l'Ase](le-gameplay/tuto-et-astuce/le-ase.md)
-  * [❔ Commandes](informations-importantes/commandes.md)
+  * [🎫 Rejoindre le serveur](tuto-et-astuce/rejoindre-serveur.md)
+  * [🖼️ Problème de pack de ressource](tuto-et-astuce/pb-pack.md)
+  * [♒ Problème de barre de boss](tuto-et-astuce/pb-bossbar.md)
+  * [🏙️ Être dans une ville](tuto-et-astuce/creer-une-ville.md)
+  * [💸 Gagner de l'argent](tuto-et-astuce/gagner-argent.md)
+  * [📣 Créer une pub](tuto-et-astuce/creation-pub.md)
+  * [🧍‍♂️ Le guide de l'ASE](tuto-et-astuce/le-ase.md)
+  * [❔ Les Commandes](tuto-et-astuce/commandes.md)
 
 ## 🎮 LE GAMEPLAY 
 
