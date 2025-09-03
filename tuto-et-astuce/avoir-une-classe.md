@@ -58,7 +58,7 @@ Après avoir récolté des <mark style="color:green;">cartes de classe</mark>, v
 ### <mark style="color:green;">🔹 Étape 1️⃣</mark>
 Effectuez la commande <mark style="color:green;">`/classe`</mark>. L'interface ci-dessous s'affichera.
 
-<figure><img src="../.gitbook/assets/Les_Classes/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">classes</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/Readme/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">classes</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Étape 2️⃣</mark>
 Cliquez sur la <mark style="color:green;">classe</mark> que vous souhaitez choisir en cliquant sur le pictogramme qui la représente.
@@ -81,7 +81,7 @@ Si vous n'êtes pas satisfait de votre <mark style="color:green;">classe</mark> 
 ### <mark style="color:green;">🔹 Étape 1️⃣</mark>
 Effectuez la commande <mark style="color:green;">`/classe`</mark>. L'interface ci-dessous s'affichera.
 
-<figure><img src="../.gitbook/assets/Les_Classes/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">classes</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/Readme/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">classes</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Étape 2️⃣</mark>
 Cliquez sur la <mark style="color:green;">classe</mark> que vous souhaitez en cliquant sur le pictogramme qui la représente.
