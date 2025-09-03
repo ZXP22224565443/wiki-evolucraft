@@ -373,7 +373,7 @@ La clé de la caisse Pâques est actuellement n'est plus disponible.
 ## <mark style="color:green;">Caisse Summer</mark> (Temporaire)
 
 {% hint style="success" %}
-La clé de la caisse Summer est actuellement disponible (/boutique).
+La clé de la caisse Summer n'est actuellement plus disponible.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Les_Caisses/Summer.png" alt=""><figcaption><p>Aperçu de la Caisse Paques</p></figcaption></figure>
