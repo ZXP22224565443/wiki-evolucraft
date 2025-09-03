@@ -99,7 +99,7 @@ Lorsque les deux joueurs ont appuyé sur la croix, un <mark style="color:green;"
 **REMARQUE 🤓☝: Si vous n’avez plus assez de place dans votre inventaire pour accueillir les items échangés, ils seront jetés au sol. Faites donc attention au clear lag** !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Le_Commerce/Trade.png" alt=""><figcaption><p><strong>Aperçu de l’interface du <mark style="color:green;">/finditem</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Le_Commerce/Trade.png" alt=""><figcaption><p><strong>Aperçu de l’interface du <mark style="color:green;">/trade</mark></strong></p></figcaption></figure>
 
 ## <mark style="color:green;">💠 Publicité 📣</mark>
 
