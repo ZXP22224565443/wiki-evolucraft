@@ -12,7 +12,7 @@ Les villes sont l'une des parties centrales du serveur. C'est à l'intérieur de
 
 ## <mark style="color:green;">**💠 Comment créer ou rejoindre une ville ? 🏙️**</mark>
 
-Nous vous invitons à consulter ce petit tuto pour savoir comment : [<mark style="color:green;">Rejoindre une ville 🏙️</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/creer-une-ville)
+Nous vous invitons à consulter ce petit tuto pour savoir comment : [<mark style="color:green;">Être dans une ville 🏙️</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/creer-une-ville)
 
 ## <mark style="color:green;">**💠 Comment agrandir ma ville ? 📈**</mark>
 
