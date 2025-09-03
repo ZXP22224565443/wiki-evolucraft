@@ -2,18 +2,18 @@
 description: Retrouvez ici toutes les informations concernant l'ase
 ---
 
-# 🧍‍♂️ Ase
+# 🧍‍♂️ Le guide de l'ASE
 
 Le `/ase` vous permet de <mark style="color:green;">**personnaliser vos armor stands**</mark> afin d’apporter de la vie dans vos villes ou encore de magnifiques détails à vos shops de villes.
 
-## Comment l’obtenir 🎁 ?
+## <mark style="color:green;">💠 Comment l’obtenir 🎁 ?</mark>
 
 Pour accéder à la commande `/ase`, vous devez disposer du <mark style="color:green;">**Premium 👑**</mark> que vous pouvez obtenir de deux manières :
 
 * Soit <mark style="color:green;">**gratuitement via la box vote**</mark> pendant **24 heures** !
 * Soit via <mark style="color:green;">**l'abonnement mensuel**</mark> disponible à **la** [**boutique**](https://store.evolucraft.fr/) **du site**.
 
-## Le `/ase`, comment ça fonctionne ? 🤔
+## <mark style="color:green;">💠 Le `/ase`, comment ça fonctionne ? 🤔</mark>
 
 Pour personnaliser un **armor stand**, vous aurez besoin d'un <mark style="color:green;">**silex**</mark> et d'un ou plusieurs <mark style="color:green;">**armor stands**</mark>, disponibles dans le `/shop`.
 
@@ -26,9 +26,9 @@ Assurez-vous d’avoir les <mark style="color:green;">**permissions d’édition
 
 <figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Ase/Menu.png" alt=""><figcaption><p><strong>Aperçu du menu</strong></p></figcaption></figure>
 
-## Que peut-on faire avec le `/ase` ? 🔎
+## <mark style="color:green;">💠 Que peut-on faire avec le `/ase` ? 🔎</mark>
 
-### 💠 Déplacer un armor stand
+### 🔸 Déplacer un armor stand
 
 Pour déplacer votre armor stand à un endroit précis, vous devez :
 
@@ -43,7 +43,7 @@ Pour déplacer votre armor stand à un endroit précis, vous devez :
 Astuce 💡 : Pour changer l'axe de déplacement, il vous suffit de faire le raccourci clavier **sneak + molette**.
 {% endhint %}
 
-### 💠 Ajouter des éléments sur votre armor stand
+### 🔸 Ajouter des éléments sur votre armor stand
 
 {% hint style="success" %}
 Pour cette partie, vous n'êtes pas obligé d'utiliser le /ase pour mettre des éléments d'armure ou une tête sur votre armor stand, car vous avez la permission de changer les armures sans passer par le menu.
@@ -57,11 +57,11 @@ Par exemple, si vous souhaitez placer **un objet sur la tête du porte-armure**,
 🔎 **Remarque** : **Seuls les équipements d’armure** peuvent être visibles **sur les emplacements du plastron, du pantalon et des bottes**. Il n’est donc <mark style="color:green;">**pas possible d’y placer un objet ou une tête personnalisée**</mark>.
 {% endhint %}
 
-### 💠 Afficher les bras de l’armor stand
+### 🔸 Afficher les bras de l’armor stand
 
 Pour afficher <mark style="color:green;">les bras du porte-armure</mark>, ouvrez le menu du `/ase`, sélectionnez **l’icône en forme de bâton**, puis **cliquez sur le porte-armure** pour activer ou désactiver les bras.
 
-### 💠 Bouger les membres (tête, corps, bras et jambes) librement
+### 🔸 Bouger les membres (tête, corps, bras et jambes) librement
 
 Pour modifier la position des différentes parties du porte-armure, la méthode est similaire à celle du déplacement général.
 
@@ -79,7 +79,7 @@ Pour modifier la position des différentes parties du porte-armure, la méthode 
 **Remarque 🤓☝** : Les parties du corps peuvent uniquement **tourner sur elles-mêmes à 360°**.
 {% endhint %}
 
-### 💠 Ajouter un nom à votre name tag
+### 🔸 Ajouter un nom à votre name tag
 
 Pour ajouter un nom visible au-dessus de votre armor stand, il vous suffit d'utiliser **un nametag que vous avez préalablement renommé**, puis de **cliquer sur l’armor stand** avec ce nametag.
 
@@ -93,7 +93,7 @@ Mais ce n’est pas tout ! Lors du renommage du nametag, vous pouvez personnalis
 
 **Image créée par Minecraft.fr**
 
-## ⚙️ Quelques options de personnalisation supplémentaires...
+## <mark style="color:green;">💠 Quelques options de personnalisation supplémentaires... ⚙️</mark>
 
 * **Potion d'invisibilité** : rend le <mark style="color:green;">**porte-armure invisible**</mark>, mais uniquement sa structure de base. Les éléments ajoutés dessus (armures, objets, etc.) **restent visibles**.
 * **Poisson-globe (**_**pufferfish**_**)** : change la <mark style="color:green;">**taille de l’armor stand**</mark>. Deux tailles sont disponibles : la taille **standard** et une version **réduite**, équivalente à celle d’un **bébé villageois**.
