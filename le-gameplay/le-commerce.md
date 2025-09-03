@@ -115,7 +115,7 @@ En cliquant sur le bouton "Trier", en bas à gauche du menu principal, vous trou
 * <mark style="color:green;">**Vente 💸**</mark>
 * <mark style="color:green;">**Achat 🛒**</mark>
 * <mark style="color:green;">**Pwarp 📌**</mark>
-* <mark style="color:green;">**Donjon 🟪**</mark>
+* <mark style="color:green;">**Donjon 🏛️**</mark>
 * <mark style="color:green;">**Recherche Donjon 🔍**</mark>
 * <mark style="color:green;">**Recrutement 📢**</mark>
 * <mark style="color:green;">**Service 💼**</mark>
