@@ -145,8 +145,8 @@ Voici les commandes à connaître pour gérer votre ville :
 * <mark style="color:green;">**`/v list`**</mark> : Donne la liste de toutes les villes présentes sur le serveur.
 * <mark style="color:green;">**`/v player [joueur]`**</mark> : Donne les informations d'un joueur : ville, statut dans la ville, dernière connexion.
 * <mark style="color:green;">**`/v disband --confirm`**</mark> : Supprime votre ville.
-* <mark style="color:green;">**`/v bank deposit [montant]`**<mark> : Permet de déposer de l'argent dans votre banque de ville.
-* <mark style="color:green;">**`/v bank withdraw [montant]`**<mark> : Permet de reprendre de l'argent dans votre banque de ville. _(Accessible si vous avez la permission dans votre rôle de ville)_
+* <mark style="color:green;">**`/v bank deposit [montant]`**</mark> : Permet de déposer de l'argent dans votre banque de ville.
+* <mark style="color:green;">**`/v bank withdraw [montant]`**</mark> : Permet de reprendre de l'argent dans votre banque de ville. _(Accessible si vous avez la permission dans votre rôle de ville)_
 
 {% hint style="warning" %}
 **Important 🚨**
