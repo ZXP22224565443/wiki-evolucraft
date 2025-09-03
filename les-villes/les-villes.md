@@ -10,7 +10,7 @@ description: Retrouvez ici toutes les informations concernant la création de vi
 
 Les villes sont l'une des parties centrales du serveur. C'est à l'intérieur de celles-ci que vous pourrez stocker votre stuff, créer vos builds selon votre imagination ou encore installer vos fermes pour monter vos métiers ! À vous de créer le RP qui vous convient, selon ce que vous avez imaginé !
 
-## <mark style="color:green;">**💠 Comment rejoindre une ville ? 🏙️**</mark>
+## <mark style="color:green;">**💠 Comment créer ou rejoindre une ville ? 🏙️**</mark>
 
 Nous vous invitons à consulter ce petit tuto pour savoir comment : [<mark style="color:green;">Rejoindre une ville 🏙️</mark>](https://wiki.evolucraft.fr/tuto-et-astuce/creer-une-ville)
 
