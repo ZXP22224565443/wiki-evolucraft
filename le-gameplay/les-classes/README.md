@@ -8,21 +8,21 @@ description: Retrouvez ici toutes les informations concernant les classes
 **Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
 {% endembed %}
 
-**Les <mark style="color:green;">classes</mark> sont une nouveauté majeure de la V4 d'Évolucraft 🌍, conçues pour enrichir et personnaliser le <mark style="color:green;">gameplay</mark> des joueurs. Grâce aux classes, chaque joueur bénéficie de <mark style="color:green;">statistiques de base modifiées</mark> telles que la <mark style="color:green;">vie</mark>, la <mark style="color:green;">vitesse</mark>, la <mark style="color:green;">défense</mark>, et bien d’autres encore, lui permettant d’adopter un style de jeu unique et adapté à ses préférences.**
+**Les <mark style="color:green;">classes</mark> sont une nouveauté majeure de la V4 d’Évolucraft 🌍, conçues pour enrichir et personnaliser le <mark style="color:green;">gameplay</mark> des joueurs. Grâce aux <mark style="color:green;">classes</mark>, chaque joueur bénéficie de <mark style="color:green;">statistiques de base modifiées</mark> telles que la <mark style="color:green;">vie</mark>, la <mark style="color:green;">vitesse</mark>, la <mark style="color:green;">défense</mark>, et bien d’autres encore, lui permettant d’adopter un style de jeu unique et adapté à ses préférences.**
 
-**De plus, les classes permettent d’accéder aux <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons"><mark style="color:green;">donjons 🏛️</mark></a>, des lieux riches en aventures et en récompenses, où la stratégie et l’optimisation de votre classe seront essentielles pour triompher.**
+**De plus, les <mark style="color:green;">classes</mark> permettent d’accéder aux <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons"><mark style="color:green;">donjons 🏛️</mark></a>, des lieux riches en aventures et en récompenses, où la <mark style="color:green;">stratégie</mark> et l’<mark style="color:green;">optimisation</mark> de votre classe seront essentielles pour triompher.**
 
-**Choisir une classe, c’est donc faire évoluer son personnage, participer à des défis exclusifs, et découvrir une nouvelle dimension de progression sur Évolucraft !**
+**Choisir une <mark style="color:green;">classe</mark>, c’est donc faire évoluer son <mark style="color:green;">personnage</mark>, participer à des <mark style="color:green;">défis exclusifs</mark>, et découvrir une nouvelle <mark style="color:green;">dimension de progression</mark> sur Évolucraft !**
 
-<figure><img src="../../.gitbook/assets/Les_Classes/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">Classes</mark></strong></p></figcaption></figure>
 
-## <mark style="color:green;">💠Comment débloquer une classe ? 🕵️‍♂️</mark>
+## <mark style="color:green;">💠 Comment débloquer une classe ? 🕵️‍♂️</mark>
 
-Nous vous invitons à lire cette page du wiki expliquant le proccessus pour rejoindre une classe : <a href="https://wiki.evolucraft.fr/tuto-et-astuce/avoir-une-classe"><mark style="color:green;">**Avoir une classe 🧙‍♀️**</mark></a>
+Nous vous invitons à lire cette page du wiki expliquant le <mark style="color:green;">processus</mark> pour rejoindre une <mark style="color:green;">classe</mark> : <a href="https://wiki.evolucraft.fr/tuto-et-astuce/avoir-une-classe"><mark style="color:green;">**Avoir une classe 🧙‍♀️**</mark></a>
 
-## <mark style="color:green;">💠 Quel sont les classes disponibles sur le serveur ? 🧐</mark>
+## <mark style="color:green;">💠 Quelles sont les classes disponibles sur le serveur ? 🧐</mark>
 
-Sur le serveur Evolucraft, il existe <mark style="color:green;">**20 classes**</mark> distinctes avec 3 types de gameplay disponible (le tank, le soutiens et le DPS) :
+Sur le serveur Évolucraft, il existe <mark style="color:green;">**20 classes**</mark> distinctes avec <mark style="color:green;">3 types de gameplay</mark> disponibles (<mark style="color:green;">Tank</mark>, <mark style="color:green;">Soutien</mark> et <mark style="color:green;">DPS</mark>) :
 
 ## <mark style="color:green;">Classes Communes</mark>
 
@@ -58,152 +58,153 @@ Sur le serveur Evolucraft, il existe <mark style="color:green;">**20 classes**</
 ## <mark style="color:red;">Classe Mythique</mark>
 * [<mark style="color:red;">**Chevalier de la mort ☠️**</mark>](https://wiki.evolucraft.fr/le-gameplay/les-classes/chevalier-de-la-mort) : Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur. _(DPS)_
 
-## <mark style="color:green;">💠 Que veulent dire les aventages statistique ? 👨‍🔬</mark>
+## <mark style="color:green;">💠 Que signifient les avantages statistiques ? 👨‍🔬</mark>
 
-Après avoir découvert les classes, vous hésitez sur plusieurs classes mais vous ne savez pas la quel choisir mais vous voulez de l'aide sur les points statistiques ! Alors vous êtes au bon points.
+Après avoir découvert les <mark style="color:green;">classes</mark>, vous hésitez entre plusieurs <mark style="color:green;">classes</mark> et vous souhaitez de l’aide sur les <mark style="color:green;">statistiques</mark> ? Vous êtes au bon endroit !
 
-<figure><img src="../../.gitbook/assets/Les_Classes/ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de la <mark style="color:green;">Classe Guerrier Dragon</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/ApercuStat.png" alt=""><figcaption><p><strong>Aperçu des Statistiques de la <mark style="color:green;">Classe Guerrier Dragon</mark></strong></p></figcaption></figure>
 
-* <mark style="color:green;">**Vie ❤️**</mark> : Vous permet d'avoir plus de vie.
-* <mark style="color:green;">**Défense 🛡️**</mark> : Vous permet de prendre de moins de dégats.
-* <mark style="color:green;">**Régénération 💕**</mark> : Vous permet de régénérer plus vite votre vie.
-* <mark style="color:green;">**Mana 🧪**</mark> : Vous permet d'avoir une plus grande capacité de Mana.
-* <mark style="color:green;">**Vitesse 🏃‍♂️**</mark> : Vous permet d'être plus rapide.
-* <mark style="color:green;">**Résistence ⚔️**</mark> : Vous permet de réduire les dégats de chute et de .
-* <mark style="color:green;">**Dégats Critique 💀**</mark> : Vous permet de faire plus mals en coup critique.
-* <mark style="color:green;">**Chance de Critique 🥊**</mark> : Vous permet de réaliser d'aventages de coup critique.
-* <mark style="color:green;">**Dextérité 🐱‍🏍**</mark> : Vous permet de taper plus rapidement.
+* <mark style="color:green;">**Vie ❤️**</mark> : Permet d’avoir plus de points de vie.
+* <mark style="color:green;">**Défense 🛡️**</mark> : Permet de prendre moins de dégâts.
+* <mark style="color:green;">**Régénération 💕**</mark> : Permet de régénérer plus vite sa vie.
+* <mark style="color:green;">**Mana 🧪**</mark> : Permet d’avoir une plus grande capacité de mana.
+* <mark style="color:green;">**Vitesse 🏃‍♂️**</mark> : Permet d’être plus rapide.
+* <mark style="color:green;">**Résistance ⚔️**</mark> : Permet de réduire les dégâts de chute et autres.
+* <mark style="color:green;">**Dégâts Critiques 💀**</mark> : Permet de faire plus mal en coup critique.
+* <mark style="color:green;">**Chance de Critique 🥊**</mark> : Permet d’augmenter la probabilité de réaliser un coup critique.
+* <mark style="color:green;">**Dextérité 🐱‍🏍**</mark> : Permet de taper plus rapidement.
 
-## <mark style="color:green;">💠 Comment augmenter de level dans ma classe ? 🆙</mark>
+## <mark style="color:green;">💠 Comment augmenter de niveau dans ma classe ? 🆙</mark>
 
-Pour xp votre classe afin de monter en level et pour pouvoir réaliser d'autre donjons requierant un plus gros level, voici les deux astuces possible :
+Pour <mark style="color:green;">XP</mark> votre <mark style="color:green;">classe</mark> et monter en niveau afin d’accéder à d’autres <mark style="color:green;">donjons</mark> nécessitant un <mark style="color:green;">niveau supérieur</mark>, voici deux astuces possibles :
 
 ### <mark style="color:blue;">🔸 Les donjons 🏛️</mark>
-Le meilleur moyen afin de faire level up ça classe, c'est de réaliser des donjons en tuants des mobs, mini-boss, les boss ou encore les récompenses de donjons. Ils vous permettent de monter assez rapidement les premiers levels et un amusement garenties !
+Le meilleur moyen de faire évoluer votre <mark style="color:green;">classe</mark> est de réaliser des <mark style="color:green;">donjons</mark> en tuant des <mark style="color:green;">mobs</mark>, <mark style="color:green;">mini-boss</mark>, <mark style="color:green;">boss</mark> ou en obtenant les <mark style="color:green;">récompenses</mark> des donjons. Cela permet de monter rapidement les premiers niveaux, pour un <mark style="color:green;">amusement garanti</mark> !
 
-L'xp donné par les ennemies est définies suivant les donjons réalisé, nous vous laissons regarder la page correspondantes afin de connaitre ce dernier : <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons"><mark style="color:green;">donjons 🏛️</mark></a>
+L’<mark style="color:green;">XP</mark> donnée par les <mark style="color:green;">ennemis</mark> dépend du <mark style="color:green;">donjon</mark> réalisé. Consultez la page correspondante pour en savoir plus : <a href="https://wiki.evolucraft.fr/le-gameplay/les-donjons"><mark style="color:green;">donjons 🏛️</mark></a>
 
 ### <mark style="color:blue;">🔸 La box de vote 🧰</mark>
-Pour ceux qui ne sont pas trop fan des donjons, vous avez quand même un moyen de faire level up ça classe !
+Pour ceux qui ne sont pas fans des <mark style="color:green;">donjons</mark>, il existe un autre moyen de faire évoluer votre <mark style="color:green;">classe</mark> !
 
-Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#-les-clés-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une petite chance sur la récompense "1000 XP CLASSE", ce qui vous permettra d'avoir un petit coup de pouce sur vos levels de classe !
+Lorsque vous <a href="https://wiki.evolucraft.fr/tuto-et-astuce/gagner-argent#-les-clés-de-vote"><mark style="color:green;">votez sur le serveur</mark></a>, vous avez une chance d’obtenir la récompense <mark style="color:green;">"1000 XP CLASSE"</mark>, ce qui vous permettra de progresser plus rapidement dans les niveaux de classe !
 
 ## <mark style="color:green;">💠 Comment débloquer, installer et utiliser les compétences ? 🥏</mark>
 
-Les compétences vous servent à réaliser des actions, en dépendant de classe, de faire de gros dégats ou de soigner ces coéquipier en échange de Mana. Très pratique pour la bonne avancée dans votre donjon !
+Les <mark style="color:green;">compétences</mark> servent à réaliser des <mark style="color:green;">actions</mark> en fonction de la <mark style="color:green;">classe</mark> : infliger de <mark style="color:green;">gros dégâts</mark> ou <mark style="color:green;">soigner</mark> ses coéquipiers en échange de <mark style="color:green;">Mana</mark>. Très pratique pour avancer dans les <mark style="color:green;">donjons</mark> !
 
-<figure><img src="../../.gitbook/assets/Les_Classes/Classe.gif" alt=""><figcaption><p><strong>Compétence de Classe</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/Classe.gif" alt=""><figcaption><p><strong>Exemple d'une compétence d'une <mark style="color:green;">Classe</mark></strong></p></figcaption></figure>
 
 ### <mark style="color:blue;">🔸 Débloquer des compétences/passifs 🆕</mark>
 
 #### <mark style="color:green;">🔹 Étape 1️⃣</mark>
-Effectuez la commande `/class` afin d'y afficher le menu de votre classe comme l'image ci-dessous.
+Effectuez la commande <mark style="color:green;">`/class`</mark> pour afficher le menu de votre <mark style="color:green;">classe</mark> comme sur l’image ci-dessous.
 
-(Image Classe)
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/MenuClasse.png" alt=""><figcaption><p><strong>Aperçu de la <mark style="color:green;">classe Samouraï</mark></strong></p></figcaption></figure>
 
 #### <mark style="color:green;">🔹 Étape 2️⃣</mark>
-Cliquez sur "Boutique de Compétences" avec la petite gemme verte en bas à droite comme ci-dessous.
+Cliquez sur <mark style="color:green;">"Boutique de Compétences"</mark> avec la petite <mark style="color:green;">gemme verte</mark> en bas à droite comme ci-dessous.
 
-(Image Classee avec Gemme verte entouré)
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/MenuGemme.png" alt=""><figcaption><p><strong>Aperçu du pictogramme de la <mark style="color:green;">boutique des compétences</mark></strong></p></figcaption></figure>
 
 #### <mark style="color:green;">🔹 Étape 3️⃣</mark>
-Passez votre curseur sur la compétence ou le passif affichés afin d'y voir les prérequis ci-desssous puis faites un clique droit pour l'acheter _(si vous en avez les prérequis)_.
+Passez votre curseur sur la <mark style="color:green;">compétence</mark> ou le <mark style="color:green;">passif</mark> affichés pour voir les <mark style="color:green;">prérequis</mark>, puis faites un <mark style="color:green;">clic droit</mark> pour l’acheter _(si vous remplissez les conditions)_.
+
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/Boutique.png" alt=""><figcaption><p><strong>Aperçu de la boutique de compétences de la <mark style="color:green;">classe Samouraï</mark></strong></p></figcaption></figure>
 
 ##### <mark style="color:green;">Commun</mark>
 
-|  Compétences                                 |  Cartes requises                            |  Prix                                               |  Niveau de classe                              |
+|  Compétence                                  |  Cartes requises                            |  Prix                                               |  Niveau de classe                              |
 | -------------------------------------------- | ------------------------------------------- | --------------------------------------------------- | ---------------------------------------------- |
-| <mark style="color:green;">**Passif**</mark> | <mark style="color:green;">**50**</mark>    | <mark style="color:green;">**50 000 💰**</mark>     | <mark style="color:green;">**Level 5**</mark>  |
-| <mark style="color:green;">**1**</mark>      | <mark style="color:green;">**100**</mark>   | <mark style="color:green;">**150 000 💰**</mark>    | <mark style="color:green;">**Level 10**</mark> |
-| <mark style="color:green;">**2**</mark>      | <mark style="color:green;">**200**</mark>   | <mark style="color:green;">**450 000 💰**</mark>    | <mark style="color:green;">**Level 15**</mark> |
-| <mark style="color:green;">**3**</mark>      | <mark style="color:green;">**400**</mark>   | <mark style="color:green;">**1 350 000 💰**</mark>  | <mark style="color:green;">**Level 20**</mark> |
-| <mark style="color:green;">**4**</mark>      | <mark style="color:green;">**800**</mark>   | <mark style="color:green;">**4 050 000 💰**</mark>  | <mark style="color:green;">**Level 30**</mark> |
-| <mark style="color:green;">**5**</mark>      | <mark style="color:green;">**1 600**</mark> | <mark style="color:green;">**12 150 000 💰**</mark> | <mark style="color:green;">**Level 40**</mark> |
+| <mark style="color:green;">**Passif**</mark> | <mark style="color:green;">**50**</mark>    | <mark style="color:green;">**50 000 💰**</mark>     | <mark style="color:green;">**Niveau 5**</mark>  |
+| <mark style="color:green;">**1**</mark>      | <mark style="color:green;">**100**</mark>   | <mark style="color:green;">**150 000 💰**</mark>    | <mark style="color:green;">**Niveau 10**</mark> |
+| <mark style="color:green;">**2**</mark>      | <mark style="color:green;">**200**</mark>   | <mark style="color:green;">**450 000 💰**</mark>    | <mark style="color:green;">**Niveau 15**</mark> |
+| <mark style="color:green;">**3**</mark>      | <mark style="color:green;">**400**</mark>   | <mark style="color:green;">**1 350 000 💰**</mark>  | <mark style="color:green;">**Niveau 20**</mark> |
+| <mark style="color:green;">**4**</mark>      | <mark style="color:green;">**800**</mark>   | <mark style="color:green;">**4 050 000 💰**</mark>  | <mark style="color:green;">**Niveau 30**</mark> |
+| <mark style="color:green;">**5**</mark>      | <mark style="color:green;">**1 600**</mark> | <mark style="color:green;">**12 150 000 💰**</mark> | <mark style="color:green;">**Niveau 40**</mark> |
 
 ##### <mark style="color:yellow;">Rare</mark>
 
-|  Compétences                                  |  Cartes requises                           |  Prix                                                |  Niveau de classe                               |
+|  Compétence                                   |  Cartes requises                           |  Prix                                                |  Niveau de classe                               |
 | --------------------------------------------- | ------------------------------------------ | ---------------------------------------------------- | ----------------------------------------------- |
-| <mark style="color:yellow;">**Passif**</mark> | <mark style="color:yellow;">**10**</mark>  | <mark style="color:yellow;">**75 000 💰**</mark>     | <mark style="color:yellow;">**Level 5**</mark>  |
-| <mark style="color:yellow;">**1**</mark>      | <mark style="color:yellow;">**20**</mark>  | <mark style="color:yellow;">**225 000 💰**</mark>    | <mark style="color:yellow;">**Level 10**</mark> |
-| <mark style="color:yellow;">**2**</mark>      | <mark style="color:yellow;">**40**</mark>  | <mark style="color:yellow;">**675 000 💰**</mark>    | <mark style="color:yellow;">**Level 15**</mark> |
-| <mark style="color:yellow;">**3**</mark>      | <mark style="color:yellow;">**80**</mark>  | <mark style="color:yellow;">**2 025 000 💰**</mark>  | <mark style="color:yellow;">**Level 20**</mark> |
-| <mark style="color:yellow;">**4**</mark>      | <mark style="color:yellow;">**160**</mark> | <mark style="color:yellow;">**6 075 000 💰**</mark>  | <mark style="color:yellow;">**Level 30**</mark> |
-| <mark style="color:yellow;">**5**</mark>      | <mark style="color:yellow;">**320**</mark> | <mark style="color:yellow;">**18 225 000 💰**</mark> | <mark style="color:yellow;">**Level 40**</mark> |
+| <mark style="color:yellow;">**Passif**</mark> | <mark style="color:yellow;">**10**</mark>  | <mark style="color:yellow;">**75 000 💰**</mark>     | <mark style="color:yellow;">**Niveau 5**</mark>  |
+| <mark style="color:yellow;">**1**</mark>      | <mark style="color:yellow;">**20**</mark>  | <mark style="color:yellow;">**225 000 💰**</mark>    | <mark style="color:yellow;">**Niveau 10**</mark> |
+| <mark style="color:yellow;">**2**</mark>      | <mark style="color:yellow;">**40**</mark>  | <mark style="color:yellow;">**675 000 💰**</mark>    | <mark style="color:yellow;">**Niveau 15**</mark> |
+| <mark style="color:yellow;">**3**</mark>      | <mark style="color:yellow;">**80**</mark>  | <mark style="color:yellow;">**2 025 000 💰**</mark>  | <mark style="color:yellow;">**Niveau 20**</mark> |
+| <mark style="color:yellow;">**4**</mark>      | <mark style="color:yellow;">**160**</mark> | <mark style="color:yellow;">**6 075 000 💰**</mark>  | <mark style="color:yellow;">**Niveau 30**</mark> |
+| <mark style="color:yellow;">**5**</mark>      | <mark style="color:yellow;">**320**</mark> | <mark style="color:yellow;">**18 225 000 💰**</mark> | <mark style="color:yellow;">**Niveau 40**</mark> |
 
+##### <mark style="color:blue;">Épique</mark>
 
-##### <mark style="color:blue;">**Épique**</mark>
-
-|  Compétences                                |  Cartes requises                         |  Prix                                              |  Niveau de classe                             |
-| ------------------------------------------- | ---------------------------------------- | -------------------------------------------------- | --------------------------------------------- |
-| <mark style="color:blue;">**Passif**</mark> | <mark style="color:blue;">**5**</mark>   | <mark style="color:blue;">**100 000 💰**</mark>    | <mark style="color:blue;">**Level 5**</mark>  |
-| <mark style="color:blue;">**1**</mark>      | <mark style="color:blue;">**10**</mark>  | <mark style="color:blue;">**300 000 💰**</mark>    | <mark style="color:blue;">**Level 10**</mark> |
-| <mark style="color:blue;">**2**</mark>      | <mark style="color:blue;">**20**</mark>  | <mark style="color:blue;">**900 000 💰**</mark>    | <mark style="color:blue;">**Level 15**</mark> |
-| <mark style="color:blue;">**3**</mark>      | <mark style="color:blue;">**40**</mark>  | <mark style="color:blue;">**2 700 000 💰**</mark>  | <mark style="color:blue;">**Level 20**</mark> |
-| <mark style="color:blue;">**4**</mark>      | <mark style="color:blue;">**80**</mark>  | <mark style="color:blue;">**8 100 000 💰**</mark>  | <mark style="color:blue;">**Level 30**</mark> |
-| <mark style="color:blue;">**5**</mark>      | <mark style="color:blue;">**160**</mark> | <mark style="color:blue;">**24 300 000 💰**</mark> | <mark style="color:blue;">**Level 40**</mark> |
+|  Compétence                                  |  Cartes requises                         |  Prix                                              |  Niveau de classe                             |
+| -------------------------------------------- | ---------------------------------------- | -------------------------------------------------- | --------------------------------------------- |
+| <mark style="color:blue;">**Passif**</mark> | <mark style="color:blue;">**5**</mark>   | <mark style="color:blue;">**100 000 💰**</mark>    | <mark style="color:blue;">**Niveau 5**</mark>  |
+| <mark style="color:blue;">**1**</mark>      | <mark style="color:blue;">**10**</mark>  | <mark style="color:blue;">**300 000 💰**</mark>    | <mark style="color:blue;">**Niveau 10**</mark> |
+| <mark style="color:blue;">**2**</mark>      | <mark style="color:blue;">**20**</mark>  | <mark style="color:blue;">**900 000 💰**</mark>    | <mark style="color:blue;">**Niveau 15**</mark> |
+| <mark style="color:blue;">**3**</mark>      | <mark style="color:blue;">**40**</mark>  | <mark style="color:blue;">**2 700 000 💰**</mark>  | <mark style="color:blue;">**Niveau 20**</mark> |
+| <mark style="color:blue;">**4**</mark>      | <mark style="color:blue;">**80**</mark>  | <mark style="color:blue;">**8 100 000 💰**</mark>  | <mark style="color:blue;">**Niveau 30**</mark> |
+| <mark style="color:blue;">**5**</mark>      | <mark style="color:blue;">**160**</mark> | <mark style="color:blue;">**24 300 000 💰**</mark> | <mark style="color:blue;">**Niveau 40**</mark> |
 
 {% hint style="info" %}
-<mark style="color:green;">REMARQUE 🔍</mark> : Si vous êtes dans le classe INVOCATEUR, la classe fait débloquer directement le passif dès le niveau 1.
+<mark style="color:green;">REMARQUE 🔍</mark> : Pour la <mark style="color:green;">classe Invocateur</mark>, le <mark style="color:green;">passif</mark> est débloqué automatiquement dès le <mark style="color:green;">niveau 1</mark>.
 {% endhint %}
 
-##### <mark style="color:purple;">**Légendaire**</mark>
+##### <mark style="color:purple;">Légendaire</mark>
 
-|  Compétences                                  |  Cartes requises                          |  Prix                                                |  Niveau de classe                                |
+|  Compétence                                   |  Cartes requises                          |  Prix                                                |  Niveau de classe                                |
 | --------------------------------------------- | ----------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
-| <mark style="color:purple;">**Passif**</mark> | <mark style="color:purple;">**1**</mark>  | <mark style="color:purple;">**200 000 💰**</mark>    | <mark style="color:purple;">**Level 5**</mark>   |
-| <mark style="color:purple;">**1**</mark>      | <mark style="color:purple;">**2**</mark>  | <mark style="color:purple;">**600 000 💰**</mark>    |  <mark style="color:purple;">**Level 10**</mark> |
-| <mark style="color:purple;">**2**</mark>      | <mark style="color:purple;">**4**</mark>  | <mark style="color:purple;">**1 800 000 💰**</mark>  |  <mark style="color:purple;">**Level 15**</mark> |
-| <mark style="color:purple;">**3**</mark>      | <mark style="color:purple;">**8**</mark>  | <mark style="color:purple;">**5 400 000 💰**</mark>  | <mark style="color:purple;">**Level 20**</mark>  |
-| <mark style="color:purple;">**4**</mark>      | <mark style="color:purple;">**16**</mark> | <mark style="color:purple;">**16 200 000 💰**</mark> |  <mark style="color:purple;">**Level 30**</mark> |
-| <mark style="color:purple;">**5**</mark>      | <mark style="color:purple;">**32**</mark> | <mark style="color:purple;">**48 600 000 💰**</mark> |  <mark style="color:purple;">**Level 40**</mark> |
+| <mark style="color:purple;">**Passif**</mark> | <mark style="color:purple;">**1**</mark>  | <mark style="color:purple;">**200 000 💰**</mark>    | <mark style="color:purple;">**Niveau 5**</mark>   |
+| <mark style="color:purple;">**1**</mark>      | <mark style="color:purple;">**2**</mark>  | <mark style="color:purple;">**600 000 💰**</mark>    | <mark style="color:purple;">**Niveau 10**</mark> |
+| <mark style="color:purple;">**2**</mark>      | <mark style="color:purple;">**4**</mark>  | <mark style="color:purple;">**1 800 000 💰**</mark>  | <mark style="color:purple;">**Niveau 15**</mark> |
+| <mark style="color:purple;">**3**</mark>      | <mark style="color:purple;">**8**</mark>  | <mark style="color:purple;">**5 400 000 💰**</mark>  | <mark style="color:purple;">**Niveau 20**</mark> |
+| <mark style="color:purple;">**4**</mark>      | <mark style="color:purple;">**16**</mark> | <mark style="color:purple;">**16 200 000 💰**</mark> | <mark style="color:purple;">**Niveau 30**</mark> |
+| <mark style="color:purple;">**5**</mark>      | <mark style="color:purple;">**32**</mark> | <mark style="color:purple;">**48 600 000 💰**</mark> | <mark style="color:purple;">**Niveau 40**</mark> |
 
-##### <mark style="color:red;">**Mythique**</mark>
+##### <mark style="color:red;">Mythique</mark>
 
-| Compétences                                | Cartes requises                        | Prix                                           |                Niveau de classe               |
-| ------------------------------------------ | -------------------------------------- | ---------------------------------------------- | --------------------------------------------- |
-| <mark style="color:red;">**Passif**</mark> | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**400 000 💰**</mark> | <mark style="color:red;">**Level 5**</mark>   |
-| <mark style="color:red;">**1**</mark>      | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**1 200 000**</mark>  |  <mark style="color:red;">**Level 10**</mark> |
-| <mark style="color:red;">**2**</mark>      | <mark style="color:red;">**2**</mark>  | <mark style="color:red;">**3 600 000**</mark>  | <mark style="color:red;">**Level 15**</mark>  |
-| <mark style="color:red;">**3**</mark>      | <mark style="color:red;">**4**</mark>  | <mark style="color:red;">**10 800 000**</mark> | <mark style="color:red;">**Level 20**</mark>  |
-| <mark style="color:red;">**4**</mark>      | <mark style="color:red;">**8**</mark>  | <mark style="color:red;">**32 400 000**</mark> |  <mark style="color:red;">**Level 30**</mark> |
-| <mark style="color:red;">**5**</mark>      | <mark style="color:red;">**16**</mark> | <mark style="color:red;">**97 200 000**</mark> | <mark style="color:red;">**Level 40**</mark>  |
+| Compétence                                   | Cartes requises                        | Prix                                           | Niveau de classe                |
+| -------------------------------------------- | -------------------------------------- | ---------------------------------------------- | ------------------------------- |
+| <mark style="color:red;">**Passif**</mark>  | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**400 000 💰**</mark> | <mark style="color:red;">**Niveau 5**</mark>   |
+| <mark style="color:red;">**1**</mark>       | <mark style="color:red;">**1**</mark>  | <mark style="color:red;">**1 200 000**</mark>  | <mark style="color:red;">**Niveau 10**</mark>  |
+| <mark style="color:red;">**2**</mark>       | <mark style="color:red;">**2**</mark>  | <mark style="color:red;">**3 600 000**</mark>  | <mark style="color:red;">**Niveau 15**</mark>  |
+| <mark style="color:red;">**3**</mark>       | <mark style="color:red;">**4**</mark>  | <mark style="color:red;">**10 800 000**</mark> | <mark style="color:red;">**Niveau 20**</mark>  |
+| <mark style="color:red;">**4**</mark>       | <mark style="color:red;">**8**</mark>  | <mark style="color:red;">**32 400 000**</mark> | <mark style="color:red;">**Niveau 30**</mark>  |
+| <mark style="color:red;">**5**</mark>       | <mark style="color:red;">**16**</mark> | <mark style="color:red;">**97 200 000**</mark> | <mark style="color:red;">**Niveau 40**</mark>  |
 
 ### <mark style="color:blue;">🔸 Installer des compétences/passifs 🔧</mark>
 
 #### <mark style="color:green;">🔹 Étape 1️⃣</mark>
-Effectuez la commande `/class` afin d'y afficher le menu de votre classe comme l'image ci-dessous.
+Effectuez la commande <mark style="color:green;">`/class`</mark> pour afficher le menu de votre <mark style="color:green;">classe</mark> comme sur l’image ci-dessous.
 
-(Image Classe)
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/MenuClasse.png" alt=""><figcaption><p><strong>Aperçu de la <mark style="color:green;">classe Samouraï</mark></strong></p></figcaption></figure>
 
 #### <mark style="color:green;">🔹 Étape 2️⃣</mark>
-Séllectionner l'un des carrés qui sont vides, elle permet de voir les compétences que vous avez sélectionné sur votre classe.
+Sélectionnez l’un des <mark style="color:green;">carrés vides</mark> pour voir les <mark style="color:green;">compétences</mark> que vous avez sélectionnées sur votre <mark style="color:green;">classe</mark>.
 
-(Image Classe Carré entourés)
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/MenuCompetence.png" alt=""><figcaption><p><strong>Aperçu de la <mark style="color:green;">classe Samouraï</mark></strong></p></figcaption></figure>
 
 #### <mark style="color:green;">🔹 Étape 3️⃣</mark>
-Séllectionner la compétences ou le passif de ce que vous avez acheter.
+Sélectionnez la <mark style="color:green;">compétence</mark> ou le <mark style="color:green;">passif</mark> que vous avez acheté.
 
-(Image Compétence)
+<figure><img src="../../.gitbook/assets/Les_Classes/Readme/Competence.png" alt=""><figcaption><p><strong>Aperçu des compétences de la <mark style="color:green;">classe Samouraï</mark></strong></p></figcaption></figure>
 
 {% hint style="warning" %}
-**🚨 <mark style="color:green;">IMPORTANT</mark> 🚨 : Lorsque vous avez plus de 3 compétences acheté, il faut impérativement laissé le passif**. Sans ce dernier, aucune compétence ne pourra se lancé.
+**🚨 <mark style="color:green;">IMPORTANT</mark> 🚨 : Lorsque vous avez plus de 3 <mark style="color:green;">compétences achetées</mark>, il faut impérativement laisser le <mark style="color:green;">passif</mark> équipé. Sans ce dernier, aucune <mark style="color:green;">compétence</mark> ne pourra être lancée.**
+{% endhint %}
 
-### <mark style="color:blue;">🔸 Utilier une compétences ou un passifs 🔧</mark>
+### <mark style="color:blue;">🔸 Utiliser une compétence ou un passif 🔧</mark>
 
 #### <mark style="color:orange;">◻️ Le passif</mark>
-Le passif ne peut pas se choisir, il est lancé automatiquement et aléatoirement lorsque vous tapé un ennemie, c'est ainsi qu'il sera utilisé.
+Le <mark style="color:green;">passif</mark> ne peut pas être choisi, il se lance automatiquement et aléatoirement lorsque vous frappez un <mark style="color:green;">ennemi</mark>.
 
-#### <mark style="color:orange;">◻️ La compétences</mark>
-Lorsque vos attaques sont équipées, vous pouvez les utiliser :
-* Clique GAUCHE : Vous permet de faire l'attaque de base de la classe,
-* Clique DROIT + Clique GAUCHE :  Vous permet de lancer votre compétence.
-* Double-clique DROIT : Vous permet de changer votre compétence sélectionné.
+#### <mark style="color:orange;">◻️ La compétence</mark>
+Lorsque vos <mark style="color:green;">compétences</mark> sont équipées, vous pouvez les utiliser :
+* <mark style="color:green;">Clic GAUCHE</mark> : Permet de réaliser l’<mark style="color:green;">attaque de base</mark> de la <mark style="color:green;">classe</mark>.
+* <mark style="color:green;">Clic DROIT + Clic GAUCHE</mark> : Permet de lancer votre <mark style="color:green;">compétence</mark>.
+* <mark style="color:green;">Double-clic DROIT</mark> : Permet de changer la <mark style="color:green;">compétence sélectionnée</mark>.
 
-## <mark style="color:green;">💠 Comment augmenter de prestige ? 🆙</mark>
-Lorsque vous atteignez le niveau 50 de votre classe, vous avez accès à des niveau de prestiges, ce dernier vous permet de monter encore votre classe sans y gagner de stats suplémentaire. Ce dernier vous sert juste à stacker les levels en cas d'augmentation du palier max des classe (Aujourd'hui à 50).
+## <mark style="color:green;">💠 Comment augmenter son prestige ? 🆙</mark>
+Lorsque vous atteignez le <mark style="color:green;">niveau 50</mark> de votre <mark style="color:green;">classe</mark>, vous avez accès aux <mark style="color:green;">niveaux de prestige</mark>. Cela vous permet de continuer à faire évoluer votre <mark style="color:green;">classe</mark> sans gagner de <mark style="color:green;">statistiques supplémentaires</mark>. Le <mark style="color:green;">prestige</mark> sert à "stacker" les niveaux dans le cas d’une augmentation du <mark style="color:green;">palier maximum</mark> des classes (actuellement 50).
 
-Pour monter de prestiges, il vous suffit de faire comme si vous montiez votre classe de manière classique.
+Pour monter en <mark style="color:green;">prestige</mark>, il suffit de progresser dans votre <mark style="color:green;">classe</mark> comme d’habitude.
 
-**Et voilà, vous connaissez TOUT sur vos classes préféré. Maintenant à vous d'y faire votre choix ! 🤩**
-
+**Et voilà, vous connaissez TOUT sur vos <mark style="color:green;">classes préférées</mark>. À vous de faire votre <mark style="color:green;">choix</mark> ! 🤩**
