@@ -54,7 +54,7 @@ Après avoir récolter des carte de classe, vous pouvez alors choisir une classe
 ### <mark style="color:green;">🔹 Étape 1️⃣</mark>
 Effectuez la commande `/classe`. Cette commande vous fera afficher l'interface ci-dessous.
 
-<figure><img src="../../.gitbook/assets/Les_Classes/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Les_Classes/ClassesExistantes.png" alt=""><figcaption><p><strong>Aperçu des Classes</strong></p></figcaption></figure>
 
 ### <mark style="color:green;">🔹 Étape 2️⃣</mark>
 Cliquez sur la classe que vous souhaitez choisir en cliquant sur le pictogramme qui lui représente.
