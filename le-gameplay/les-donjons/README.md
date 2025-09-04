@@ -12,7 +12,7 @@ Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventu
 
 ## <mark style="color:green;">💠 Où trouver un donjon ? 📍</mark>
 
-Les donjons apparaissent <mark style="color:green;">aléatoirement</mark> dans le <mark style="color:green;">monde ressource</mark>, avec au minimum <mark style="color:green;">un type de donjon par monde ressource</mark>, qu'il s'agisse de donjons basiques ou de donjons événements.
+Les donjons apparaissent <mark style="color:green;">aléatoirement</mark> dans le <mark style="color:green;">monde ressource</mark> et <mark style="color:green;">le nether</mark>, avec au minimum <mark style="color:green;">un type de donjon par monde ressource</mark>, qu'il s'agisse de donjons basiques ou de donjons événements.
 
 ## <mark style="color:green;">💠 Comment trouver un donjon ? 🔍</mark>
 
