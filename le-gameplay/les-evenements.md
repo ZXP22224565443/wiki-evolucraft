@@ -8,7 +8,7 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 ### <mark style="color:green;">💠 Event Farm 🪓</mark>
 
-**⏰ Tous les jours à 15h00 et 19h30** _(9h00 AM et 1h30 PM GMT-4🍁)_
+**⏰ Tous les jours à 19h30** _(1h30 PM GMT-4🍁)_
 
 <mark style="color:green;">**L'Event Farm**</mark> vous met en compétition avec tous les joueurs : votre objectif est de <mark style="color:green;">**récolter un maximum de fois l'item demandé**</mark> (indiqué dans le chat 5 minutes avant le commencement) pendant une période de <mark style="color:green;">**20 minutes**</mark>.
 
