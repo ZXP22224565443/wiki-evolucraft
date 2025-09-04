@@ -10,7 +10,7 @@ description: Retrouvez ici toutes les informations concernant les kits présents
 **REMARQUE 🔍 :**Ces kits sont **récupérables une fois toutes les 24 heures** en utilisant la commande correspondante.
 {% endhint %}
 
-## 💠 <mark style="color:green;">Le /kit boussole 🧭</mark>
+## 💠 <mark style="color:green;">Le /kit bousole 🧭</mark>
 
 * <mark style="color:green;">**1 boussole de navigation du `/menu`**</mark>
 <figure><img src="../.gitbook/assets/Menu/Kit/bousole.png" alt=""><figcaption></figcaption></figure>
