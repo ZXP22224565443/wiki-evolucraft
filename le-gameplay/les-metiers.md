@@ -31,7 +31,7 @@ Mais pour y rejoindre un métiers, il faudrait connaitre les métiers disponible
 
 Pour connaître votre avancé ou celle d'un autre joueurs dans les métiers, vous pouvez y réaliser la commande `/jobs stats [Pseudo]`. Lorsque vous aurez effectué cette commande, alors un message appraitra dans votre chat montrant, pour chaque métier, votre level, le nombre d'xp aquis sur le nombre d'xp, avec son poucentage qui a été réalisé demandé pour monter de level.
 
-(Image du message chat)
+<figure><img src="../.gitbook/assets/Jobs/JobsStats.png" alt=""><figcaption><p><strong>Message du <mark style="color:green;">/jobs stats</mark></strong></p></figcaption></figure>
 
 ## 💠 **<mark style="color:green;">A quoi sert l'interface du /jobs ?</mark> 🤨**
 
