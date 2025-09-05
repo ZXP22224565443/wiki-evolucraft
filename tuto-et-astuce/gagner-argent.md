@@ -17,13 +17,13 @@ Pour <mark style="color:green;">rejoindre un métier</mark>, il vous suffit de f
 ### 🔹 Comment gagner de l'argent avec son métier ? 💰
 
 Pour savoir quelles <mark style="color:green;">actions vous font gagner de l'argent</mark> (ainsi que de l'xp métier), il vous suffit d'abord de faire <mark style="color:green;">`/jobs`</mark> puis de <mark style="color:green;">sélectionner le métier</mark> que vous avez rejoint.
-<figure><img src="../.gitbook/assets/Menu/Jobs.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Aperçu du "<mark style="color:green;">`/jobs`</mark></strong></p></figcaption></figure>
 
 Puis, il vous suffira de cliquer sur "<mark style="color:green;">Action rémunérée</mark>" représentée par <mark style="color:green;">une feuille de papier</mark>.
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">menu du jobs Mineur</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">menu du jobs Mineur</mark></strong></p></figcaption></figure>
 
 Et vous aurez la liste, selon la <mark style="color:green;">catégorie d'action</mark> (casser, tuer, pêcher, etc.) avec les <mark style="color:green;">actions possibles</mark> et <mark style="color:green;">leur gain associé</mark> (Argent et XP métier)
-<figure><img src="../.gitbook/assets/Tuto_Et_Astuce/Argent/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
 
 Également, lorsque vous passez un niveau dans votre métier, vous pouvez récupérer de l'argent en faisant la commande <mark style="color:green;">`/jobs claim`</mark>. Elle vous donnera les récompenses de paliers de tous les métiers atteints.
 
