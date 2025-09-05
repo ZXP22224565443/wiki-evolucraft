@@ -8,33 +8,58 @@ description: Retrouvez ici toutes les informations concernant les métiers
 **Tuto : Comment gagner de l'argent sur Evolucraft**
 {% endembed %}
 
-## <mark style="color:green;">Informations Générales</mark>
+Les <mark style="color:green;">métiers</mark> constituent un <mark style="color:green;">pilier essentiel</mark> du serveur, offrant aux joueurs une <mark style="color:green;">progression continue</mark> et motivante.
+En accomplissant des <mark style="color:green;">actions</mark> liées à votre <mark style="color:green;">métier choisi</mark>, vous pouvez non seulement <mark style="color:green;">gagner de l’argent</mark> mais aussi <mark style="color:green;">gravir les rangs</mark>, débloquant ainsi de <mark style="color:green;">nouveaux avantages</mark>.
+Chaque métier possède ses propres <mark style="color:green;">spécificités</mark>, ce qui permet à chacun de développer une <mark style="color:green;">stratégie unique</mark> selon son style de jeu et ses objectifs.
 
-La totalité des choses à connaître sur les métiers est à retrouver dans le menu <mark style="color:green;">**`/jobs`**</mark>
+<figure><img src="../.gitbook/assets/Jobs/InterfaceJobs.png" alt=""><figcaption><p><strong>Menu des Métiers</strong></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Menu/Jobs.png" alt=""><figcaption><p><strong>Menu des Métiers</strong></p></figcaption></figure>
+## 💠 **<mark style="color:green;">Comment rejoindre un métier ?</mark> 🛠️**
 
-Sur Evolucraft, les joueurs ont la possibilité de choisir parmi six métiers différents, chacun offrant des opportunités uniques pour gagner de l'argent et progresser dans le jeu.&#x20;
+Pour <mark style="color:green;">rejoindre un métier</mark>, il vous suffit de faire la commande <mark style="color:green;">`/jobs join [métier]`</mark>. Selon <mark style="color:green;">votre rang</mark>, vous pourrez <mark style="color:green;">choisir plusieurs métiers</mark> à la fois. Mais pas d'inquiétude : lorsque vous changez de métier, vous <mark style="color:green;">ne perdez pas votre progression</mark>.
 
-Les jobs sont accessibles en fonction du <mark style="color:green;">**rang des joueurs**</mark>, avec la possibilité de débloquer des métiers supplémentaires au fur et à mesure de leur avancement.
+Mais pour y rejoindre un métiers, il faudrait connaitre les métiers disponible sur le serveur. Alors voici la liste des métiers disponible sur le serveur.
 
-## <mark style="color:green;">Les Métiers Disponibles</mark>
+* <mark style="color:green;">**Fermier 🌾**</mark> : Cultivez et récoltez une variété de cultures pour gagner de l'argent tout en contribuant à l'approvisionnement alimentaire du serveur.
+* <mark style="color:green;">**Mineur ⛏️**</mark> : Explorez les profondeurs du monde pour extraire des minéraux précieux et des ressources essentielles à la construction et à l'artisanat.
+* <mark style="color:green;">**Chasseur 🗡️</mark> : Parcourez les étendues sauvages à la recherche de créatures à chasser, offrant des matériaux et des récompenses précieuses.
+* <mark style="color:green;">**Pêcheur 🎣**</mark> : Lancez vos lignes dans les eaux paisibles pour attraper une grande variété de poissons et d'autres trésors aquatiques.
+* <mark style="color:green;">**Bûcheron 🪚**</mark> : Abattez des arbres et récoltez du bois pour soutenir l'industrie de la construction et de l'artisanat tout en gagnant de l'argent.
+* <mark style="color:green;">**ForgeMage 📖**</mark> : Maîtrisez l'art de la forge et de l'enchantement pour créer des équipements puissants et des artefacts magiques.
 
-* <mark style="color:green;">**Fermier**</mark> : Cultivez et récoltez une variété de cultures pour gagner de l'argent tout en contribuant à l'approvisionnement alimentaire du serveur.
-* <mark style="color:green;">**Mineur**</mark> : Explorez les profondeurs du monde pour extraire des minéraux précieux et des ressources essentielles à la construction et à l'artisanat.
-* <mark style="color:green;">**Chasseur**</mark> : Parcourez les étendues sauvages à la recherche de créatures à chasser, offrant des matériaux et des récompenses précieuses.
-* <mark style="color:green;">**Pêcheur**</mark> : Lancez vos lignes dans les eaux paisibles pour attraper une grande variété de poissons et d'autres trésors aquatiques.
-* <mark style="color:green;">**Bûcheron**</mark> : Abattez des arbres et récoltez du bois pour soutenir l'industrie de la construction et de l'artisanat tout en gagnant de l'argent.
-* <mark style="color:green;">**ForgeMage**</mark> : Maîtrisez l'art de la forge et de l'enchantement pour créer des équipements puissants et des artefacts magiques.
+## 💠 **<mark style="color:green;">Comment savoir son avancée ?</mark> 📊**
 
-## <mark style="color:green;">Interface du Job</mark>
+Pour connaître votre avancé ou celle d'un autre joueurs dans les métiers, vous pouvez y réaliser la commande `/jobs stats [Pseudo]`. Lorsque vous aurez effectué cette commande, alors un message appraitra dans votre chat montrant, pour chaque métier, votre level, le nombre d'xp aquis sur le nombre d'xp, avec son poucentage qui a été réalisé demandé pour monter de level.
+
+(Image du message chat)
+
+## 💠 **<mark style="color:green;">A quoi sert l'interface du /jobs ?</mark> 🤨**
+
+<figure><img src="../.gitbook/assets/Jobs/JobsSelect.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">Menu du jobs Mineur</mark></strong></p></figcaption></figure>
 
 En cliquant sur le job de votre choix, un menu s'ouvrira, fournissant toutes les informations nécessaires pour commencer votre aventure professionnelle. Vous y trouverez :
 
-* <mark style="color:green;">**Classement du Job**</mark> : Consultez votre position par rapport aux autres joueurs exerçant le même métier, et travaillez pour grimper dans les rangs.
-* <mark style="color:green;">**Actions Rémunérées**</mark> : Découvrez les différentes tâches que vous pouvez accomplir pour gagner de l'argent, telles que la récolte de cultures, l'extraction de minéraux, la chasse aux monstres, la pêche, l'abattage d'arbres, ou la création d'objets magiques.
-* <mark style="color:green;">**Paliers de Niveau et Récompenses**</mark> : Explorez les différents niveaux de compétence et les récompenses associées à chaque palier. Plus vous progressez dans votre métier, plus vous débloquez des capacités et des avantages exclusifs.
-* <mark style="color:green;">**Bouton Rejoindre**</mark> : Un simple clic vous permet de rejoindre le job et de commencer à gagner de l'argent en exerçant votre métier.
+### 🔸 <mark style="color:green;">**Classement du Job 🏆**</mark>
+
+Le classements vous sert à vous comparez entre joueurs ayant farm son jobs afin de connaitre votre avancé sur ce métiers de ce qui ont le plus avancé dans ce jobs. Si vous ne faites pas parmis les 50 meilleurs de ce métiers, alors vous y consulter en mettant votre curseur sur votre tête de joueurs.
+
+### 🔸 <mark style="color:green;">**Actions Rémunérées 💱**</mark> : 
+
+Découvrez les différentes actions que vous permetant de gagner de l'argent ainsi que l'xp gagné. Celà vous guidera nottament pour savoir quels sont les meilleurs ressources à farmer afin de monter rapidement votre métier.
+
+<figure><img src="../.gitbook/assets/Jobs/JobsAction.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">actions rémunérées du mineur</mark></strong></p></figcaption></figure>
+
+Pour plus de rapidité, il existe également la commande `/jobs info [Métier]` faisant également la même chose, tout en mettant un message dans le chat.
+
+### 🔸 <mark style="color:green;">**Progression 💹**</mark> : 
+
+Lorsque vous passez la souris sur cette items, il vous indiquera votre niveau actuelle ainsi que l'xp demandé sur l'xp reaquis pour passer de niveau. Également, lorsque cette fois-ci sur l'item lui correspondant, vous pourrez alors y voir des paliers, correspondant a chaque niveau. Et chaque niveau passé vous procura une récompense que ça soit des items, de l'argent ou même encore des gemmes !
+
+Pour récuprérer vos récompenses, il vous suffira alors d'y effectuer la commande `/jobs claim`
+
+## 💠 **<mark style="color:green;">Comment augmenter ces gains ?</mark> 📈**
+
+....
 
 ## <mark style="color:green;">Boosters de Métier</mark>
 
@@ -73,32 +98,4 @@ Seul le boost le plus puissant que vous avez activé sera pris en compte pour am
 
 
 <mark style="color:green;">**Cumul des boosts**</mark>**&#x20;:** Les trois types de boosts disponibles sur le serveur (boosts des compagnons, boosts récupérables via les quêtes, les paliers de métiers et les caisses, et boosts de la boutique) s'additionnent entre eux pour offrir des avantages cumulatifs.
-{% endhint %}
-
-## <mark style="color:green;">Commandes</mark>
-
-{% hint style="warning" %}
-`[...]` Signifie que le paramètre est obligatoire
-
-`<...>` Signifie que vous pouvez mettre une chaine de caractères avec des espaces
-
-`{...}` Signifie que le paramètre est optionnel
-{% endhint %}
-
-**Voici les commandes à connaître pour gérer vos métiers :**
-
-* <mark style="color:green;">**`/jobs`**</mark> - Ouvrir le menu des métiers.
-* <mark style="color:green;">**`/jobs claim`**</mark> - Récupérer vos récompenses en attentes.
-* <mark style="color:green;">**`/jobs info [Métier]`**</mark> - Voir les informations d'un métier.
-* <mark style="color:green;">**`/jobs join [Métier]`**</mark> - Rejoindre un métier.
-* <mark style="color:green;">**`/jobs leave [Métier]`**</mark> - Quitter un métier.
-
-{% hint style="warning" %}
-Vous ne perdrez pas votre progression en quittant un métier !
-{% endhint %}
-
-* <mark style="color:green;">**`/jobs stats {Pseudo}`**</mark> - Afficher ses niveaux de métier utilisés ou ceux d'un joueur.
-
-{% hint style="info" %}
-C'est parti, commencez dès à présent à vous enrichir en progressant dans vos métiers !
 {% endhint %}
