@@ -57,7 +57,7 @@ Chaque type de bonbon donne une quantité d’XP différente :
 
 * <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
 * <mark style="color:yellow;">**Bonbon à l’Orange 🍊**</mark> _( +12 XP )_
-* <mark style="color:blue;">**Bonbon à la Myrtille 🟣**</mark> _( +24 XP )_
+* <mark style="color:blue;">**Bonbon à la Myrtille 🔵**</mark> _( +24 XP )_
 * <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_
 * <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_
 
