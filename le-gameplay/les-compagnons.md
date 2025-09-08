@@ -8,33 +8,68 @@ description: Retrouvez ici toutes les informations concernant les compagnons
 **Tuto : Comment faire Évoluer son Personnage sur Evolucraft ?**
 {% endembed %}
 
-Le serveur Evolucraft propose un système de Compagnons pour vous accompagner lors de votre aventure. Grâce à ce système, vous avez la possibilité d'acquérir plusieurs compagnons en jeu et de les cumuler.
+Grâce aux compagnons, vous avez la possibilité d'acquérir plusieurs compagnons en jeu et de les cumuler. Chaque compagnon possède des effets spécifiques pour vous aider dans votre progression.
 
-Chaque compagnon possède des effets spécifiques pour vous aider dans votre progression.
+## <mark style="color:green;">Système d'évolution</mark>
 
-Au total, il existe <mark style="color:green;">**82 compagnons différents**</mark>, que vous pouvez découvrir grâce à la commande <mark style="color:green;">**`/pokedex`**</mark>.
+Comme vous pouvez le constater dans la liste des compagnons, ils ont la capacité d'évoluer à différents niveaux.&#x20;
 
-Ces compagnons sont classés selon <mark style="color:green;">**différentes raretés**</mark>, suivant l'ordre :
+Cependant, pour cela, il sera nécessaire de les nourrir avec des bonbons récupérables dans les caisses, les quêtes, les métiers et l'Hotêl des Ventes.
 
-* <mark style="color:green;">**Commun**</mark> (18) dont 6 shiny.
-* <mark style="color:yellow;">**Rare**</mark> (19) dont 5 shiny.
-* <mark style="color:blue;">**Épique**</mark> (25) dont 4 shiny.
-* <mark style="color:purple;">**Légendaire**</mark> (15) dont 2 shiny.
-* <mark style="color:red;">**Mythique**</mark> (5) 
+Il existe 5 types de bonbons, chacun ayant une rareté différente, les voici :
 
-Les nouveaux donjons introduisent des **compagnons uniques** pour les aventuriers courageux. Dans le <mark style="color:green;">**donjon draconique**</mark>, vous pouvez obtenir des <mark style="color:green;">**œufs draconiques**</mark>, donnant naissance à des compagnons comme <mark style="color:purple;">**Saphira**</mark>, <mark style="color:blue;">**Drogon**</mark>, <mark style="color:yellow;">**Albi**</mark> et <mark style="color:green;">**Potato**</mark>.&#x20;
+* <mark style="color:green;">**Bonbon à la Pomme**</mark> _(+6 Xp)_
+* <mark style="color:yellow;">**Bonbon à l'Orange**</mark> _(+12 Xp)_
+* <mark style="color:blue;">**Bonbon à la Myrtille**</mark> _(+24 Xp)_
+* <mark style="color:purple;">**Bonbon aux Raisins**</mark> _(+32 Xp)_
+* <mark style="color:red;">**Bonbon à la Fraise**</mark> _(+50 Xp)_
 
-De même, le <mark style="color:green;">**donjon abyssal**</mark> offre des <mark style="color:green;">**œufs abyssaux**</mark>, permettant d'adopter des compagnons tels que <mark style="color:yellow;">**Crusty**</mark>, <mark style="color:blue;">**Gribouille**</mark> et <mark style="color:purple;">**Phoenix**</mark>.&#x20;
+Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessaire à son évolution, il vous suffit de survoler le compagnon en question avec votre souris.
 
-{% hint style="success" %}
-Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjons draconiques et abyssaux offrent une occasion unique d'élargir votre collection de pets et de ren🗡 Forcer votre équipe pour affronter de nouvelles aventures.
+## <mark style="color:green;">Fonctionnement du menu</mark> <mark style="color:green;"></mark><mark style="color:green;">`/pets`</mark>
+
+<figure><img src="../.gitbook/assets/Les_Compagnons/le_pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+
+Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots avec le Grade Légende.
+
+Vous avez la possibilité de collectionner tous les Compagnons, mais seuls un maximum de 5 peuvent être actifs pour bénéficier de leurs effets. Il est important de noter qu'un seul de vos compagnons peut se balader à vos côtés. Les autres compagnons en dehors des 5 sélectionnés seront considérés comme inactifs.
+
+Pour mieux comprendre le fonctionnement du menu, vous pouvez cliquer sur le point d'interrogation en bas à droite du menu qui répertorie les différents statuts des pets et le fonctionnement de vos sauvegardes.
+
+### <mark style="color:green;">Sauvegarde</mark>
+
+Les sauvegardes, symbolisées par les engrenages en bas du menu <mark style="color:green;">**`/pets`**</mark>, vous offrent la possibilité de stocker des configurations de pets dans les emplacements du haut, facilitant ainsi une utilisation plus rapide.
+
+### <mark style="color:green;">Statut : Actif</mark>
+
+Lorsqu'un familier est en mode actif, ses effets et capacités sont opérationnels, et votre pet vous accompagne, vous suivant partout où vous allez.
+
+### <mark style="color:yellow;">Statut : Passif</mark>
+
+Lorsqu'un familier est en mode passif, ses effets et capacités restes opérationnels, mais votre pet n'est pas physiquement présent à côté de vous.
+
+### <mark style="color:red;">Statut : Inactif</mark>
+
+Lorsqu'un familier est en mode inactif, il reste à l'écart et ne participe pas aux actions ni aux effets. Cependant, il demeure sous votre garde et prêt à être activé lorsque vous le souhaitez.
+
+{% hint style="info" %}
+Maintenant que vous savez tout sur ces compagnons, essayez d'en obtenir le plus possible sur Evolucraft !
 {% endhint %}
+
 
 <figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
 ## Liste des différents compagnons
 
-### <mark style="color:green;">Compagnons Communs</mark>
+Au total, il existe <mark style="color:green;">**88 compagnons différents**</mark>, que vous pouvez découvrir grâce à la commande <mark style="color:green;">**`/pokedex`**</mark>.
+
+Ces compagnons sont classés selon <mark style="color:green;">**différentes raretés**</mark>, suivant l'ordre :
+
+* <mark style="color:green;">**Commun**</mark> (19) dont 6 shiny.
+* <mark style="color:yellow;">**Rare**</mark> (19) dont 5 shiny.
+* <mark style="color:blue;">**Épique**</mark> (29) dont 4 shiny.
+* <mark style="color:purple;">**Légendaire**</mark> (15) dont 2 shiny.
+* <mark style="color:red;">**Mythique**</mark> (6) 
 
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
@@ -834,49 +869,3 @@ Que ce soit dans les cieux majestueux ou au fond des abysses obscurs, les donjon
 
  </tbody>
 </table>
-
-## <mark style="color:green;">Système d'évolution</mark>
-
-Comme vous pouvez le constater dans la liste des compagnons, ils ont la capacité d'évoluer à différents niveaux.&#x20;
-
-Cependant, pour cela, il sera nécessaire de les nourrir avec des bonbons récupérables dans les caisses, les quêtes, les métiers et l'Hotêl des Ventes.
-
-Il existe 5 types de bonbons, chacun ayant une rareté différente, les voici :
-
-* <mark style="color:green;">**Bonbon à la Pomme**</mark> _(+6 Xp)_
-* <mark style="color:yellow;">**Bonbon à l'Orange**</mark> _(+12 Xp)_
-* <mark style="color:blue;">**Bonbon à la Myrtille**</mark> _(+24 Xp)_
-* <mark style="color:purple;">**Bonbon aux Raisins**</mark> _(+32 Xp)_
-* <mark style="color:red;">**Bonbon à la Fraise**</mark> _(+50 Xp)_
-
-Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessaire à son évolution, il vous suffit de survoler le compagnon en question avec votre souris.
-
-## <mark style="color:green;">Fonctionnement du menu</mark> <mark style="color:green;"></mark><mark style="color:green;">`/pets`</mark>
-
-<figure><img src="../.gitbook/assets/Les_Compagnons/le_pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-
-Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots avec le Grade Légende.
-
-Vous avez la possibilité de collectionner tous les Compagnons, mais seuls un maximum de 5 peuvent être actifs pour bénéficier de leurs effets. Il est important de noter qu'un seul de vos compagnons peut se balader à vos côtés. Les autres compagnons en dehors des 5 sélectionnés seront considérés comme inactifs.
-
-Pour mieux comprendre le fonctionnement du menu, vous pouvez cliquer sur le point d'interrogation en bas à droite du menu qui répertorie les différents statuts des pets et le fonctionnement de vos sauvegardes.
-
-### <mark style="color:green;">Sauvegarde</mark>
-
-Les sauvegardes, symbolisées par les engrenages en bas du menu <mark style="color:green;">**`/pets`**</mark>, vous offrent la possibilité de stocker des configurations de pets dans les emplacements du haut, facilitant ainsi une utilisation plus rapide.
-
-### <mark style="color:green;">Statut : Actif</mark>
-
-Lorsqu'un familier est en mode actif, ses effets et capacités sont opérationnels, et votre pet vous accompagne, vous suivant partout où vous allez.
-
-### <mark style="color:yellow;">Statut : Passif</mark>
-
-Lorsqu'un familier est en mode passif, ses effets et capacités restes opérationnels, mais votre pet n'est pas physiquement présent à côté de vous.
-
-### <mark style="color:red;">Statut : Inactif</mark>
-
-Lorsqu'un familier est en mode inactif, il reste à l'écart et ne participe pas aux actions ni aux effets. Cependant, il demeure sous votre garde et prêt à être activé lorsque vous le souhaitez.
-
-{% hint style="info" %}
-Maintenant que vous savez tout sur ces compagnons, essayez d'en obtenir le plus possible sur Evolucraft !
-{% endhint %}
