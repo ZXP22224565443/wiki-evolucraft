@@ -8,37 +8,80 @@ description: Retrouvez ici toutes les informations concernant les compagnons
 **Tuto : Comment faire Évoluer son Personnage sur Evolucraft ?**
 {% endembed %}
 
-Grâce aux compagnons, vous avez la possibilité d'acquérir plusieurs compagnons en jeu et de les cumuler. Chaque compagnon possède des effets spécifiques pour vous aider dans votre progression.
+Les compagnons est un système vous permettant d'avoir un petit compagnon qui vous suit dans votre jeu mais égalements des aventages suivant les paliers passé de ce derniers voud donnant de l'argent à chaque heures, un boost d'expériences ou d'argents sur l'un des jobs ou encore un meilleurs revenus sur la vente d'objets dans le /shop.
 
+Mias pour avoir celà, faut-il encore avoir un compagnon ?
+
+## 💠 Comment avoir un compagnon ? 🐾
+
+Pour en obtenir un plusieurs moyen sont possible :
+
+### 🔸 Les caisses
+Lorsque vous avez des clés des boxs d'émeraude, rubis, d'évènements ou des jetons pour la box jackpot, il y a une petite chance d'obtenir un oeuf de famillier. Si vous avez la chance d'en avoir un, alors il vous suffira de faire un clique droit en l'ayant en main et un compagnon apparaitra dans votre inventaire.
+
+### 🔸 Les paliers de votes
+Lorsque vous votez plusieurs fois dans la semaine, des paliers de votes alors se débloquent. Mais lorsque que vous êtes à 50 votes dans la semaine, alors lors du palier 7, vous obtiendrez un oeuf de famillier de la même valeur que celui dans la box Émeraude
+
+### 🔸 L'hôtel de vente
+Également, vous pourrez obtenir des compagnons en achetant directement dans l'hôtel de vente en échange d'argent ingame. Reste à savoir si votre compagnon que vous voulez est encore disponible !
+
+## 💠 Équiper un compagnon ? 🎒
+Équiper un compagnon vous permet d'activer les aventages que ce dernier procurent si ce dernier à son palier débloqué. Mais comment l'équiper ?
+
+### 🔸 Étape 1 :
+Prenez votre compagnon que vous voulez rajouter dans votre collection dans votre main, et faites clique droit.
+
+### 🔸 Étape 2 :
+Effectuez la commande `/pets`, dessus vous aurez votre compagnon que vous venez de rajouter comme l'image ci-dessous.
+<figure><img src="../../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+
+### 🔸 Étape 3 :
+Faites un clique gauche sur votre compagnon afin qu'il soit apparue comme un pet "PASSIF"
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+
+Et c'est ainsi que votre compagnon à ces aventages aquis comptabilisé et actif.
+
+{% hint style="info" %} REMARQUE 🔍 : Si vous souhaitez que votre compagnon ne comptabilise plus ces aventages, il vous suffit de faire un clique droit sur le compagnon dans le /pets afin qu'il passe au mode Inactif. {% endhint %}
+
+## 💠 Améliorer un compagnon ? 🆙
+Équiper un compagnon vous permet d'activer les aventages que ce dernier procurent si ce dernier à son palier débloqué. Mais comment l'équiper ?
+
+### 🔸 Étape 1 :
+Prenez votre compagnon que vous voulez rajouter dans votre collection dans votre main, et faites clique droit.
+
+### 🔸 Étape 2 :
+Effectuez la commande `/pets`, dessus vous aurez votre compagnon que vous venez de rajouter comme l'image ci-dessous.
+<figure><img src="../../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+
+### 🔸 Étape 3 :
+Faites un clique gauche sur votre compagnon afin qu'il soit apparue comme un pet "PASSIF"
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
 ## <mark style="color:green;">Système d'évolution</mark>
 
-Comme vous pouvez le constater dans la liste des compagnons, ils ont la capacité d'évoluer à différents niveaux.&#x20;
+### 🔸 Étape 4 :
+Faites encore un clique gauche sur votre compagnon afin qu'il soit apparue comme un pet "ACTIF"
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+## <mark style="color:green;">Système d'évolution</mark>
 
-Cependant, pour cela, il sera nécessaire de les nourrir avec des bonbons récupérables dans les caisses, les quêtes, les métiers et l'Hotêl des Ventes.
+### 🔸 Étape 5 :
+Pour faire up son pets et donc débloquer de nouveau aventages, ils vous faut des bonbons. Ces derniers sont trouvable dans les différentes caisses (hors jackpot et cosmétique), les récompenses de donjons, les parchemins ou encore dans l'hôtel de vente. Il existe 5 types de bonbons, chaque rareté donne un nombre d'xp différent, les voici :
 
-Il existe 5 types de bonbons, chacun ayant une rareté différente, les voici :
+* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _(+6 Xp)_
+* <mark style="color:yellow;">**Bonbon à l'Orange 🍊**</mark> _(+12 Xp)_
+* <mark style="color:blue;">**Bonbon à la Myrtille 🟣**</mark> _(+24 Xp)_
+* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _(+32 Xp)_
+* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _(+50 Xp)_ 
 
-* <mark style="color:green;">**Bonbon à la Pomme**</mark> _(+6 Xp)_
-* <mark style="color:yellow;">**Bonbon à l'Orange**</mark> _(+12 Xp)_
-* <mark style="color:blue;">**Bonbon à la Myrtille**</mark> _(+24 Xp)_
-* <mark style="color:purple;">**Bonbon aux Raisins**</mark> _(+32 Xp)_
-* <mark style="color:red;">**Bonbon à la Fraise**</mark> _(+50 Xp)_
+Après en avoir récuprérer, prenez les en mains, et faites un clique droit sur le pet au niveau de ces pieds pour qu'il augmente son xp et donc de levels. Bien entendu, plus les levels montent, plus la demande d'xp est grande...
 
-Pour consulter le niveau de votre compagnon et le nombre d'expérience nécessaire à son évolution, il vous suffit de survoler le compagnon en question avec votre souris.
+## 💠 Créer une sauvegarde ? 💾
+Les sauvegarde, symboliser par les engrenages dans le `/pets`, vous offrent la possibilité de stocker des configurations de compagnons dans les emplacements passif, facilitant ainsi une utilisation plus rapide, dans une limite 3 sauvegarde. Très pratique nottament pour passer d'une composition farm à une composition donjon par exemple. 
 
-## <mark style="color:green;">Fonctionnement du menu</mark> <mark style="color:green;"></mark><mark style="color:green;">`/pets`</mark>
+### 🔸 Étape 1 :
+Créer votre composition de pet passif à équiper suivant vos slots disponible.
 
-<figure><img src="../.gitbook/assets/Les_Compagnons/le_pets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-
-Lorsque vous entrez la commande <mark style="color:green;">**`/pets`**</mark> en jeu, une interface de menu s'ouvre, vous permettant de gérer vos compagnons. À votre arrivée sur le serveur, vous disposez initialement de 2 slots pour vos compagnons. Cependant, ce nombre peut être augmenté grâce à vos Rangs et atteindre jusqu'à 5 slots avec le Grade Légende.
-
-Vous avez la possibilité de collectionner tous les Compagnons, mais seuls un maximum de 5 peuvent être actifs pour bénéficier de leurs effets. Il est important de noter qu'un seul de vos compagnons peut se balader à vos côtés. Les autres compagnons en dehors des 5 sélectionnés seront considérés comme inactifs.
-
-Pour mieux comprendre le fonctionnement du menu, vous pouvez cliquer sur le point d'interrogation en bas à droite du menu qui répertorie les différents statuts des pets et le fonctionnement de vos sauvegardes.
-
-### <mark style="color:green;">Sauvegarde</mark>
-
-Les sauvegardes, symbolisées par les engrenages en bas du menu <mark style="color:green;">**`/pets`**</mark>, vous offrent la possibilité de stocker des configurations de pets dans les emplacements du haut, facilitant ainsi une utilisation plus rapide.
+### 🔸 Étape 2 :
+Appuyez sur la sauvegarde disponible pour enregistrer cette dernière.
 
 ### <mark style="color:green;">Statut : Actif</mark>
 
