@@ -33,7 +33,7 @@ Ces warps peuvent être utilisés pour se déplacer rapidement à travers le mon
 * <mark style="color:green;">**`/pwarp setowner accept [nom du warp]`**</mark> : accepter la demande de devenir chef d’un warp
 * <mark style="color:green;">**`/pwarp setowner cancel [nom du warp]`**</mark> : refuser la demande de devenir chef d’un warp
 * <mark style="color:green;">**`/pwarp cost remove`**</mark> : met le prix de teleportation au warp à 0
-* <mark style="color:green;">**`/pwarp cost set [prix] [nom du warp]`**</mark> : mettre un prix à la teleportation au warp (max 500$)
+* <mark style="color:green;">**`/pwarp cost set [nom du warp] [prix]`**</mark> : mettre un prix à la teleportation au warp (max 500$)
 * <mark style="color:green;">**`/pwarp ban set [nom du pwarp] [nom du joueur]`**</mark> : bannir un joueur du pwarp
 * <mark style="color:green;">**`/pwarp ban list [nom du pwarp]`**</mark> : afficher la liste des joueurs bannis du pwarp
 * <mark style="color:green;">**`/pwarp ban remove [nom du pwarp] [nom du joueur]`**</mark> : dé-bannir un joueur du pwarp
