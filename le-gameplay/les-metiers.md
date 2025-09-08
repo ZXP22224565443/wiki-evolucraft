@@ -84,8 +84,8 @@ Augmente l’<mark style="color:green;">argent</mark> gagné par action.
 **REMARQUE 🔍 : Les boosters disponibles dans le <mark style="color:green;">/boutique</mark> fonctionnent comme ceux trouvés en jeu, mais ils profitent à l’ensemble des joueurs.**
 {% endhint %}
 
-### 🔸 Les pets 🐾  
-Les <mark style="color:green;">pets</mark> vous accompagnent et offrent des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
+### 🔸 Les compagnons 🐾  
+Les <mark style="color:green;">compagnons</mark> vous proposent, pour certains, à partir d'un certain levels, des <mark style="color:green;">bonus de métiers</mark> (xp ou revenus).  
 Consultez le <mark style="color:green;">`/pokedex`</mark> ou la page dédiée : [<mark style="color:green;">Les Compagnons</mark>](https://wiki.evolucraft.fr/le-gameplay/les-compagnons).  
 
 ### 🔸 L'évènement FARM BOOST 💱  
