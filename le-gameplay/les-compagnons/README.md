@@ -12,8 +12,6 @@ Les <mark style="color:green;">**compagnons**</mark> sont un système qui vous p
 
 Mais pour profiter de ces avantages… encore faut-il avoir un <mark style="color:green;">**compagnon**</mark> !
 
----
-
 ## 💠 Comment avoir un compagnon ? 🐾
 
 Pour en obtenir un, plusieurs moyens sont possibles :
@@ -29,8 +27,6 @@ Au palier 7 (atteint après <mark style="color:green;">**50 votes**</mark> dans 
 ### 🔸 L’<mark style="color:green;">**hôtel de vente**</mark>
 Vous pouvez aussi acheter des compagnons directement dans l’<mark style="color:green;">**hôtel de vente**</mark>, en échange d’<mark style="color:green;">**argent ingame**</mark>.  
 Cependant, leur disponibilité dépend de ce que les autres joueurs proposent à la vente.
-
----
 
 ## 💠 Équiper un compagnon 🎒
 
@@ -51,8 +47,6 @@ Cliquez gauche sur votre compagnon pour l’équiper en mode **PASSIF**.
 🔍 REMARQUE : Pour désactiver un compagnon, refaites un clic droit dans le <mark style="color:green;">`/pets`</mark> pour le passer en mode **Inactif**.
 {% endhint %}
 
----
-
 ## 💠 Améliorer un compagnon 🆙
 
 Pour améliorer un compagnon et débloquer de nouveaux <mark style="color:green;">**avantages**</mark>, vous devez lui donner des <mark style="color:green;">**bonbons**</mark>.
@@ -67,9 +61,9 @@ Chaque type de bonbon donne une quantité d’XP différente :
 * <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_
 * <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_
 
-👉 Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.
-
----
+{% hint style="info" %}
+🔍 REMARQUE : Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.
+{% endhint %}
 
 ## 💠 Créer une sauvegarde 💾
 
@@ -81,8 +75,6 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**<
 {% hint style="info" %}
 🔍 REMARQUE : Si l’un des compagnons de votre composition n’existe plus, la sauvegarde s’appliquera sans lui, ou un message d’erreur vous préviendra.
 {% endhint %}
-
----
 
 ## 💠 La liste des compagnons 🧸
 
