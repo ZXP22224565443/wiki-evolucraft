@@ -1,5 +1,5 @@
 ---
-description: Retrouvez ici toutes les informations concernant les compagnons
+description: Retrouvez ici toutes les informations concernant les <mark style="color:green;">**compagnons**</mark>
 ---
 
 # 🥚 Les Compagnons
@@ -8,111 +8,131 @@ description: Retrouvez ici toutes les informations concernant les compagnons
 **Tuto : Comment faire Évoluer son Personnage sur Evolucraft ?**
 {% endembed %}
 
-Les compagnons est un système vous permettant d'avoir un petit compagnon qui vous suit dans votre jeu mais égalements des aventages suivant les paliers passé de ce derniers voud donnant de l'argent à chaque heures, un boost d'expériences ou d'argents sur l'un des jobs ou encore un meilleurs revenus sur la vente d'objets dans le /shop.
+Les <mark style="color:green;">**compagnons**</mark> sont un système qui vous permet d’avoir un petit compagnon qui vous suit dans votre aventure, tout en offrant des <mark style="color:green;">**avantages**</mark> selon les <mark style="color:green;">**paliers**</mark> débloqués. Ces bonus peuvent être : un gain d’<mark style="color:green;">**argent**</mark> toutes les heures, un <mark style="color:green;">**boost d’XP**</mark> ou de <mark style="color:green;">**revenus sur vos métiers**</mark>, ainsi qu’un <mark style="color:green;">**meilleur bénéfice**</mark> lors de la vente d’objets dans le <mark style="color:green;">**`/shop`**</mark>.
 
-Mias pour avoir celà, faut-il encore avoir un compagnon ?
+Mais pour profiter de ces avantages… encore faut-il avoir un <mark style="color:green;">**compagnon**</mark> !
+
+---
 
 ## 💠 Comment avoir un compagnon ? 🐾
 
-Pour en obtenir un plusieurs moyen sont possible :
+Pour en obtenir un, plusieurs moyens sont possibles :
 
-### 🔸 Les caisses
-Lorsque vous avez des clés des boxs d'émeraude, rubis, d'évènements ou des jetons pour la box jackpot, il y a une petite chance d'obtenir un oeuf de famillier. Si vous avez la chance d'en avoir un, alors il vous suffira de faire un clique droit en l'ayant en main et un compagnon apparaitra dans votre inventaire.
+### 🔸 Les <mark style="color:green;">**caisses**</mark>
+Lorsque vous ouvrez les <mark style="color:green;">**boxs Émeraude, Rubis, Évènements ou Jackpot**</mark>, vous avez une petite chance d’obtenir un <mark style="color:green;">**œuf de familier**</mark>.  
+Si vous avez cette chance, il vous suffit de faire un **clic droit** avec l’œuf en main pour qu’un compagnon apparaisse dans votre inventaire.
 
-### 🔸 Les paliers de votes
-Lorsque vous votez plusieurs fois dans la semaine, des paliers de votes alors se débloquent. Mais lorsque que vous êtes à 50 votes dans la semaine, alors lors du palier 7, vous obtiendrez un oeuf de famillier de la même valeur que celui dans la box Émeraude
+### 🔸 Les <mark style="color:green;">**paliers de votes**</mark>
+En votant régulièrement pour le serveur, vous débloquez des <mark style="color:green;">**récompenses de paliers**</mark>.  
+Au palier 7 (atteint après <mark style="color:green;">**50 votes**</mark> dans la semaine), vous recevez un <mark style="color:green;">**œuf de familier**</mark> équivalent à celui de la <mark style="color:green;">**box Émeraude**</mark>.
 
-### 🔸 L'hôtel de vente
-Également, vous pourrez obtenir des compagnons en achetant directement dans l'hôtel de vente en échange d'argent ingame. Reste à savoir si votre compagnon que vous voulez est encore disponible !
+### 🔸 L’<mark style="color:green;">**hôtel de vente**</mark>
+Vous pouvez aussi acheter des compagnons directement dans l’<mark style="color:green;">**hôtel de vente**</mark>, en échange d’<mark style="color:green;">**argent ingame**</mark>.  
+Cependant, leur disponibilité dépend de ce que les autres joueurs proposent à la vente.
 
-## 💠 Équiper un compagnon ? 🎒
-Équiper un compagnon vous permet d'activer les aventages que ce dernier procurent si ce dernier à son palier débloqué. Mais comment l'équiper ?
+---
+
+## 💠 Équiper un compagnon 🎒
+
+Équiper un compagnon permet d’activer ses <mark style="color:green;">**avantages**</mark>, à condition que son <mark style="color:green;">**palier**</mark> soit débloqué.  
 
 ### 🔸 Étape 1 :
-Prenez votre compagnon que vous voulez rajouter dans votre collection dans votre main, et faites clique droit.
+Tenez votre <mark style="color:green;">**compagnon**</mark> en main et effectuez un **clic droit**.
 
 ### 🔸 Étape 2 :
-Effectuez la commande `/pets`, dessus vous aurez votre compagnon que vous venez de rajouter comme l'image ci-dessous.
-<figure><img src="../../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
+Faites la commande <mark style="color:green;">**`/pets`**</mark>. Votre compagnon apparaîtra alors dans l’interface.
+<figure><img src="../../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du <mark style="color:green;">/pets</mark></strong></p></figcaption></figure>
 
 ### 🔸 Étape 3 :
-Faites un clique gauche sur votre compagnon afin qu'il soit apparue comme un pet "PASSIF"
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-
-Et c'est ainsi que votre compagnon à ces aventages aquis comptabilisé et actif.
-
-{% hint style="info" %} REMARQUE 🔍 : Si vous souhaitez que votre compagnon ne comptabilise plus ces aventages, il vous suffit de faire un clique droit sur le compagnon dans le /pets afin qu'il passe au mode Inactif. {% endhint %}
-
-## 💠 Améliorer un compagnon ? 🆙
-Équiper un compagnon vous permet d'activer les aventages que ce dernier procurent si ce dernier à son palier débloqué. Mais comment l'équiper ?
-
-### 🔸 Étape 1 :
-Prenez votre compagnon que vous voulez rajouter dans votre collection dans votre main, et faites clique droit.
-
-### 🔸 Étape 2 :
-Effectuez la commande `/pets`, dessus vous aurez votre compagnon que vous venez de rajouter comme l'image ci-dessous.
-<figure><img src="../../.gitbook/assets/Les_Compagnons/InterfacePets.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-
-### 🔸 Étape 3 :
-Faites un clique gauche sur votre compagnon afin qu'il soit apparue comme un pet "PASSIF"
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-## <mark style="color:green;">Système d'évolution</mark>
-
-### 🔸 Étape 4 :
-Faites encore un clique gauche sur votre compagnon afin qu'il soit apparue comme un pet "ACTIF"
-<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pets</code></strong></mark></p></figcaption></figure>
-## <mark style="color:green;">Système d'évolution</mark>
-
-### 🔸 Étape 5 :
-Pour faire up son pets et donc débloquer de nouveau aventages, ils vous faut des bonbons. Ces derniers sont trouvable dans les différentes caisses (hors jackpot et cosmétique), les récompenses de donjons, les parchemins ou encore dans l'hôtel de vente. Il existe 5 types de bonbons, chaque rareté donne un nombre d'xp différent, les voici :
-
-* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _(+6 Xp)_
-* <mark style="color:yellow;">**Bonbon à l'Orange 🍊**</mark> _(+12 Xp)_
-* <mark style="color:blue;">**Bonbon à la Myrtille 🟣**</mark> _(+24 Xp)_
-* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _(+32 Xp)_
-* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _(+50 Xp)_ 
-
-Après en avoir récuprérer, prenez les en mains, et faites un clique droit sur le pet au niveau de ces pieds pour qu'il augmente son xp et donc de levels. Bien entendu, plus les levels montent, plus la demande d'xp est grande...
-
-## 💠 Créer une sauvegarde ? 💾
-Les sauvegarde, symboliser par les engrenages dans le `/pets`, vous offrent la possibilité de stocker des configurations de compagnons dans les emplacements passif, facilitant ainsi une utilisation plus rapide, dans une limite 3 sauvegarde. Très pratique nottament pour passer d'une composition farm à une composition donjon par exemple. 
-
-### 🔸 Étape 1 :
-Créer votre composition de pet passif à équiper suivant vos slots disponible.
-
-### 🔸 Étape 2 :
-Appuyez sur la sauvegarde disponible pour enregistrer cette dernière.
-
-### <mark style="color:green;">Statut : Actif</mark>
-
-Lorsqu'un familier est en mode actif, ses effets et capacités sont opérationnels, et votre pet vous accompagne, vous suivant partout où vous allez.
-
-### <mark style="color:yellow;">Statut : Passif</mark>
-
-Lorsqu'un familier est en mode passif, ses effets et capacités restes opérationnels, mais votre pet n'est pas physiquement présent à côté de vous.
-
-### <mark style="color:red;">Statut : Inactif</mark>
-
-Lorsqu'un familier est en mode inactif, il reste à l'écart et ne participe pas aux actions ni aux effets. Cependant, il demeure sous votre garde et prêt à être activé lorsque vous le souhaitez.
+Cliquez gauche sur votre compagnon pour l’équiper en mode **PASSIF**.
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Passif.png" alt=""><figcaption><p><strong>Compagnon en mode <mark style="color:green;">PASSIF</mark></strong></p></figcaption></figure>
 
 {% hint style="info" %}
-Maintenant que vous savez tout sur ces compagnons, essayez d'en obtenir le plus possible sur Evolucraft !
+🔍 REMARQUE : Pour désactiver un compagnon, refaites un clic droit dans le <mark style="color:green;">`/pets`</mark> pour le passer en mode **Inactif**.
 {% endhint %}
+
+---
+
+## 💠 Améliorer un compagnon 🆙
+
+Pour améliorer un compagnon et débloquer de nouveaux <mark style="color:green;">**avantages**</mark>, vous devez lui donner des <mark style="color:green;">**bonbons**</mark>.
+
+### 🔸 Les <mark style="color:green;">**bonbons**</mark>
+Ils s’obtiennent dans les <mark style="color:green;">**caisses**</mark> (hors Jackpot et Cosmétique), les <mark style="color:green;">**donjons**</mark>, les <mark style="color:green;">**parchemins**</mark> ou à l’<mark style="color:green;">**hôtel de vente**</mark>.  
+Chaque type de bonbon donne une quantité d’XP différente :
+
+* <mark style="color:green;">**Bonbon à la Pomme 🍏**</mark> _( +6 XP )_
+* <mark style="color:yellow;">**Bonbon à l’Orange 🍊**</mark> _( +12 XP )_
+* <mark style="color:blue;">**Bonbon à la Myrtille 🟣**</mark> _( +24 XP )_
+* <mark style="color:purple;">**Bonbon aux Raisins 🍇**</mark> _( +32 XP )_
+* <mark style="color:red;">**Bonbon à la Fraise 🍓**</mark> _( +50 XP )_
+
+👉 Plus votre compagnon monte en niveau, plus il demandera d’<mark style="color:green;">**XP**</mark> pour progresser.
+
+---
+
+## 💠 Créer une sauvegarde 💾
+
+Les <mark style="color:green;">**sauvegardes**</mark>, symbolisées par un engrenage dans le <mark style="color:green;">`/pets`</mark>, permettent de stocker vos compositions de compagnons.  
+Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**</mark>, ce qui facilite le passage d’une composition **farm** à une composition **donjon**.
+
+<figure><img src="../../.gitbook/assets/Les_Compagnons/Sauvegarde.png" alt=""><figcaption><p><strong>Aperçu des <mark style="color:green;">sauvegardes</mark></strong></p></figcaption></figure>
+
+{% hint style="info" %}
+🔍 REMARQUE : Si l’un des compagnons de votre composition n’existe plus, la sauvegarde s’appliquera sans lui, ou un message d’erreur vous préviendra.
+{% endhint %}
+
+---
+
+## 💠 La liste des compagnons 🧸
+
+Il existe au total <mark style="color:green;">**88 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
+Ils sont classés par <mark style="color:green;">**rareté**</mark> :
+
+* <mark style="color:green;">**Commun**</mark> (19) dont 6 shiny.  
+* <mark style="color:yellow;">**Rare**</mark> (19) dont 5 shiny.  
+* <mark style="color:blue;">**Épique**</mark> (29) dont 4 shiny.  
+* <mark style="color:purple;">**Légendaire**</mark> (15) dont 2 shiny.  
+* <mark style="color:red;">**Mythique**</mark> (6) dont 1 shiny.  
+
+
+....
+{% hint style="info" %}
+Maintenant que vous savez tout sur les <mark style="color:green;">**compagnons**</mark>, tentez d’en obtenir le plus possible et exploitez-les au maximum dans vos aventures sur Evolucraft !
+{% endhint %}
+
+
+
+
+
+
+
 
 
 <figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
 
-## Liste des différents compagnons
-
-Au total, il existe <mark style="color:green;">**88 compagnons différents**</mark>, que vous pouvez découvrir grâce à la commande <mark style="color:green;">**`/pokedex`**</mark>.
-
-Ces compagnons sont classés selon <mark style="color:green;">**différentes raretés**</mark>, suivant l'ordre :
-
-* <mark style="color:green;">**Commun**</mark> (19) dont 6 shiny.
-* <mark style="color:yellow;">**Rare**</mark> (19) dont 5 shiny.
-* <mark style="color:blue;">**Épique**</mark> (29) dont 4 shiny.
-* <mark style="color:purple;">**Légendaire**</mark> (15) dont 2 shiny.
-* <mark style="color:red;">**Mythique**</mark> (6) 
+<table>
+  <thead>
+    <tr>
+      <th>Métier</th>
+      <th>Actions possibles</th>
+      <th>Gains</th>
+      <th>Particularité</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mineur</td>
+      <td>
+        <ul>
+          <li>Miner du fer</li>
+          <li>Miner du diamant</li>
+        </ul>
+      </td>
+      <td>Argent + XP Métier</td>
+      <td>Ressources rares et précieuses</td>
+    </tr>
+    <tr>
 
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
