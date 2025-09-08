@@ -74,7 +74,7 @@ Augmente l’<mark style="color:green;">xp métiers</mark> gagnée à chaque act
 
 #### 🔷 EXP Métier Aléatoire 🎰  
 Donne un bonus de <mark style="color:green;">250 xp métiers</mark> aléatoire sur l’un des 6 métiers.
-<figure><img src="../.gitbook/assets/Jobs/EXPMétiers.png" alt=""><figcaption><p><strong>Aperçu de l'item<mark style="color:green;">EXP Métiers Aléatoire</mark></strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Jobs/EXPMétier.png" alt=""><figcaption><p><strong>Aperçu de l'item<mark style="color:green;">EXP Métiers Aléatoire</mark></strong></p></figcaption></figure>
 
 #### 🔷 Booster de richesse 💸  
 Augmente l’<mark style="color:green;">argent</mark> gagné par action.
