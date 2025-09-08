@@ -69,13 +69,16 @@ Les <mark style="color:green;">boosters de métiers</mark> multiplient vos <mark
 Ils sont disponibles dans les [<mark style="color:green;">caisses</mark>](https://wiki.evolucraft.fr/le-gameplay/les-caisses) ou à l’[<mark style="color:green;">hôtel des ventes</mark>](https://wiki.evolucraft.fr/le-gameplay/le-commerce#hôtel-des-ventes).  
 
 #### 🔷 Booster de savoir 🟢  
-Augmente l’<mark style="color:green;">xp métiers</mark> gagnée à chaque action.  
+Augmente l’<mark style="color:green;">xp métiers</mark> gagnée à chaque action.
+<figure><img src="../.gitbook/assets/Jobs/BoostSavoir.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Boost de savoir</mark></strong></p></figcaption></figure>
 
 #### 🔷 EXP Métier Aléatoire 🎰  
-Donne un bonus de <mark style="color:green;">250 xp métiers</mark> aléatoire sur l’un des 6 métiers.  
+Donne un bonus de <mark style="color:green;">250 xp métiers</mark> aléatoire sur l’un des 6 métiers.
+<figure><img src="../.gitbook/assets/Jobs/EXPMétiers.png" alt=""><figcaption><p><strong>Aperçu de l'item<mark style="color:green;">EXP Métiers Aléatoire</mark></strong></p></figcaption></figure>
 
 #### 🔷 Booster de richesse 💸  
-Augmente l’<mark style="color:green;">argent</mark> gagné par action.  
+Augmente l’<mark style="color:green;">argent</mark> gagné par action.
+<figure><img src="../.gitbook/assets/Jobs/BoostRichesse.png" alt=""><figcaption><p><strong>Aperçu de l'item <mark style="color:green;">Boost de richesse</mark></strong></p></figcaption></figure>  
 
 {% hint style="info" %}
 **REMARQUE 🔍 : Les boosters disponibles dans le <mark style="color:green;">/boutique</mark> fonctionnent comme ceux trouvés en jeu, mais ils profitent à l’ensemble des joueurs.**
