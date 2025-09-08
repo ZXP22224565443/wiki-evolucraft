@@ -86,6 +86,8 @@ Vous pouvez enregistrer jusqu’à <mark style="color:green;">**3 sauvegardes**<
 
 ## 💠 La liste des compagnons 🧸
 
+<figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
+
 Il existe au total <mark style="color:green;">**88 compagnons différents**</mark>, visibles via la commande <mark style="color:green;">**`/pokedex`**</mark>.  
 Ils sont classés par <mark style="color:green;">**rareté**</mark> :
 
@@ -102,37 +104,6 @@ Maintenant que vous savez tout sur les <mark style="color:green;">**compagnons**
 {% endhint %}
 
 
-
-
-
-
-
-
-
-<figure><img src="../.gitbook/assets/Les_Compagnons/Pokedex.png" alt=""><figcaption><p><strong>Aperçu du </strong><mark style="color:green;"><strong><code>/pokedex</code></strong></mark></p></figcaption></figure>
-
-<table>
-  <thead>
-    <tr>
-      <th>Métier</th>
-      <th>Actions possibles</th>
-      <th>Gains</th>
-      <th>Particularité</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Mineur</td>
-      <td>
-        <ul>
-          <li>Miner du fer</li>
-          <li>Miner du diamant</li>
-        </ul>
-      </td>
-      <td>Argent + XP Métier</td>
-      <td>Ressources rares et précieuses</td>
-    </tr>
-    <tr>
 
 <table><thead><tr><th width="259" align="center">Compagnons</th><th>Effets</th></tr></thead><tbody>
 
