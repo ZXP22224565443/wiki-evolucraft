@@ -1,8 +1,5 @@
 ---
-description: >-
-  Retrouvez ici toutes les informations vous permettant de nous aider à modifier
-  ce wiki
-icon: pen-to-square
+description: Retrouvez ici toutes les informations vous permettant de nous aider à modifier ce wiki
 ---
 
 # Contribution

@@ -4,32 +4,7 @@ description: Retrouvez ici toutes les informations concernant les événements
 
 # 🎪 Les Événements
 
-Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement.
-
-## <mark style="color:green;">Q</mark><mark style="color:green;">**uels sont les différents événements journaliers ?**</mark>
-
-### <mark style="color:green;">💠 Event Farm 🪓</mark> (Événement temporaire pour la <mark style="color:blue;">mise à jour Summer ⛱️</mark>)
-
-**⏰ Tous les jours à 15h00 et 19h30**\
-&#xNAN;_(9h00 AM et 1h30 PM GMT-4🍁)_
-
-<mark style="color:green;">**L'Event Farm**</mark> vous met en compétition avec tous les joueurs : votre objectif est de <mark style="color:green;">**récolter un maximum de fois l'item demandé**</mark> (indiqué dans le chat 5 minutes avant le commencement) pendant une période de <mark style="color:green;">**20 minutes**</mark>.
-
-À la fin du temps imparti, <mark style="color:green;">**un classement des 5 meilleurs participants**</mark> sera établi, et les récompenses suivantes seront distribuées :
-
-
-* <mark style="color:yellow;">**🥇・1er**</mark> → <mark style="color:blue;">**6 fragments clés summer**</mark> et <mark style="color:yellow;">**25 000 Soleils**</mark> *
-* **🥈・2e** → <mark style="color:blue;">**3 fragments clés summer**</mark> et <mark style="color:yellow;">**12 500 Soleils**</mark> *
-* <mark style="color:orange;">**🥉・3e**</mark> → <mark style="color:blue;">**2 fragments clés summer**</mark> et <mark style="color:yellow;">**5 000 Soleils**</mark> *
-* <mark style="color:green;">**4e**</mark> → <mark style="color:blue;">**1 fragment clés summer**</mark> et <mark style="color:yellow;">**2 500 Soleils**</mark> *
-* <mark style="color:green;">**5e**</mark> → <mark style="color:yellow;">**1 250 Soleils**</mark> *
-
-
-Quant aux <mark style="color:green;">**autres participants**</mark> qui n'ont pas réussi à être dans le top 5, vous gagnez quand même <mark style="color:yellow;">**250 Soleils**</mark> \*
-
-{% hint style="info" %}
-☝🤓 \* : Les soleils 🌞 vous permettent d'acheter des éléments dans le /summer > boutique summer !
-{% endhint %}
+**Les événements présentés ici sont exclusivement des événements récurrents, lancés automatiquement. Voici donc la liste des événements présents actuellement sur le serveur.**
 
 ### <mark style="color:green;">💠 Farm Boost 💱</mark>
 

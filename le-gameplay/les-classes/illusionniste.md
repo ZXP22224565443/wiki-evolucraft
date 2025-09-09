@@ -3,7 +3,7 @@ description: Retrouvez ici toutes les informations concernant la classe Illusion
 ---
 
 # 🎭 Illusionniste
-Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible.
+Maître des illusions et de la ruse, trouble les sens et trompe l'ennemi, il frappe où nul ne s'y attend.
 
 <figure><img src="../../.gitbook/assets/Les_Classes/Illusionniste.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Illusionniste</strong></p></figcaption></figure>
 

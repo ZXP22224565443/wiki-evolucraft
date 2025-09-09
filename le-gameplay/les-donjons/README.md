@@ -8,34 +8,49 @@ description: Retrouvez ici toutes les informations concernant les donjons
 **Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
 {% endembed %}
 
-## <mark style="color:green;">Informations Générales</mark>
+Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventures passionnantes aux explorateurs en quête d'action pour monter en niveaux de classe, gagner de nouvelles armes de classe ou encore obtenir de nombreuses autres récompenses !
 
-Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventures passionnantes aux explorateurs en quête d'action.&#x20;
+## <mark style="color:green;">💠 Où trouver un donjon ? 📍</mark>
 
-## <mark style="color:green;">But des Donjons</mark>
+Les donjons apparaissent <mark style="color:green;">aléatoirement</mark> dans le <mark style="color:green;">monde ressource</mark> et <mark style="color:green;">le nether</mark>, avec au minimum <mark style="color:green;">un type de donjon par monde ressource</mark>, qu'il s'agisse de donjons basiques ou de donjons événements.
 
-Les donjons apparaissent aléatoirement dans le monde ressource et offrent différentes récompenses en fonction de leur rareté et de leur complexité.&#x20;
+## <mark style="color:green;">💠 Comment trouver un donjon ? 🔍</mark>
 
-Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe, la difficulté s'adaptant en conséquence.
+### <mark style="color:green;">• 1️⃣ Les pierres de téléportation donjon 🟩</mark>
 
-Les donjons sont classés en quatre niveaux de difficulté :
+Les pierres de téléportation donjon vous servent à être <mark style="color:green;">téléporté directement</mark>, en étant dans le monde ressource, à <mark style="color:green;">un portail de donjon généré</mark>. Très utile si vous ne voulez pas passer des heures à en chercher un !
 
-* <mark style="color:green;">Commun</mark> : il faut être <mark style="color:green;">niveau 1</mark> pour y accéder.
-* <mark style="color:yellow;">Rare</mark> : il faut être <mark style="color:yellow;">niveau 10</mark> pour y accéder.
-* <mark style="color:blue;">Épique</mark> : il faut être <mark style="color:blue;">niveau 25</mark> pour y accéder.
-* <mark style="color:purple;">Légendaire</mark> : il faut être <mark style="color:purple;">niveau 40</mark> pour y accéder.
-* <mark style="color:red;">Mythique</mark> : il faut être <mark style="color:red;">niveau 50</mark> pour y accéder.
+Pour <mark style="color:green;">vous en procurer</mark>, il vous suffit d'utiliser <mark style="color:green;">`/kit donjon`</mark> _(disponible toutes les 24 heures)_ ou de passer par <mark style="color:green;">la box de vote</mark>.
 
+Pour les joueurs plus avancés, vous avez le <mark style="color:green;">`/dragon`</mark> où, sur la deuxième page, vous pouvez <mark style="color:green;">échanger des pierres de tp donjon</mark> de rareté supérieure : <mark style="color:yellow;">Rare</mark>, <mark style="color:blue;">Épique</mark> ou <mark style="color:purple;">Légendaire</mark> !
+
+### <mark style="color:green;">• 2️⃣ La recherche en balade 🚶‍♂️</mark>
+
+En vous <mark style="color:green;">baladant dans les différents mondes ressource</mark>, vous pouvez également <mark style="color:green;">trouver des donjons générés</mark> et y entrer pour défier leurs mobs féroces. Avec un peu de chance, le <mark style="color:green;">`/rtp`</mark> pourra vous faire apparaître <mark style="color:green;">près d’un portail de donjon</mark>.
+
+### <mark style="color:green;">• 3️⃣ Les publicités 📣</mark>
+
+Avec la commande <a href="http://wiki.evolucraft.fr/le-gameplay/le-commerce#publicite"><mark style="color:green;">/pub 📢</mark></a>, vous pouvez <mark style="color:green;">activer les notifications de pub pour donjon</mark> lorsque <mark style="color:green;">des joueurs trouvent un portail</mark> et souhaitent le partager. Très utile pour gagner des loots tout en participant au donjon !
+
+Si vous souhaitez faire la <mark style="color:green;">publicité</mark> de votre trouvaille d'un <mark style="color:green;">portail de donjon</mark>, vous pouvez inviter des joueurs à éventuellement vous accompagner en effectuant la commande <mark style="color:green;">`/donjon "nom du donjon" "nombre de joueurs" "prix"`</mark>.
+
+## <mark style="color:green;">💠 Comment différencier un donjon selon sa rareté ? 🔍</mark>
+
+Pour reconnaître à quel type appartient le donjon, vous avez <mark style="color:green;">plusieurs indices</mark> visibles dessus. Il y a notamment <mark style="color:green;">la couleur des vitres du portail</mark> mais aussi la <mark style="color:green;">taille du portail</mark> : plus il est grand, plus il demandera un niveau de classe élevé pour le réaliser.
+
+#### 🔸 Les donjons basiques
+
+* 🟩 <mark style="color:green;">Commun</mark> : _(Niveau requis : <mark style="color:green;">niveau 1</mark>)_
+* 🟨 <mark style="color:yellow;">Rare</mark> : _(Niveau requis : <mark style="color:yellow;">niveau 10</mark>)_
+* 🟦 <mark style="color:blue;">Épique</mark> : _(Niveau requis : <mark style="color:blue;">niveau 25</mark>)_
+* 🟪 <mark style="color:purple;">Légendaire</mark> : _(Niveau requis : <mark style="color:purple;">niveau 40</mark>)_
+* 🟥 <mark style="color:red;">Mythique</mark> : _(Niveau requis : <mark style="color:red;">niveau 50</mark>)_
 
 {% hint style="info" %}
-Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes.
+REMARQUE 🤓☝ : Plus un donjon demande un niveau élevé, plus il est difficile, mais les récompenses sont également plus importantes !
 {% endhint %}
 
-Pour inviter des joueurs a faire un donjon, faite la commande `/donjon "nom du donjon" "nombre de joueur" "prix"`.
-
-## <mark style="color:green;">Types de Donjons</mark>
-
-Il existe 8 types de donjons, chacun associé à un biome spécifique :
+Pour rendre votre expérience variée, plusieurs types de biomes de donjons sont présents, modifiant les salles, les monstres ainsi que l'apparence du portail. Vous pourrez y trouver des donjons dans les biomes suivants :
 
 * Forêt
 * Jungle
@@ -46,22 +61,55 @@ Il existe 8 types de donjons, chacun associé à un biome spécifique :
 * Savane
 * Nether
 
-De plus, deux donjons temporaires sont actuellement disponibles (événements spéciaux) :
-
-* Draconique
-* Abyssal
-* Halloween
-* Noël
-* Cupidon
-* Pâque
-
-Chaque donjon propose des monstres différents selon son biome.
-
 <figure><img src="../../.gitbook/assets/Les_Donjons/Apercu_DonjonForet.png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
-## <mark style="color:green;">Récompenses par Donjon</mark>
+#### 🔸 Les donjons événements
 
-### Récompenses dans les coffres
+De plus, des donjons spécifiques ajoutés lors de mises à jour sur le serveur vous permettent de diversifier l’expérience et d’adopter de nouvelles stratégies !
+
+* Draconique 🟧[<mark style="color:orange;">Donjon Draconique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/draconique) _(Niveau requis : <mark style="color:orange;">niveau 10</mark>)_
+* Abyssal 🟦[<mark style="color:blue;">Donjon Abyssal</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/abyssal) _(Niveau requis : <mark style="color:blue;">niveau 10</mark>)_
+* Halloween 🟧[<mark style="color:orange;">Donjon Halloween</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/Halloween)  _(Niveau requis : <mark style="color:orange;">niveau 20</mark>)_
+* Givrée Commun 🟦[<mark style="color:blue;">Donjon Givrée Commun</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre15)  _(Niveau requis : <mark style="color:blue;">niveau 15</mark>)_
+* Givrée Épique 🟦[<mark style="color:blue;">Donjon Givrée Épique</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)  _(Niveau requis : <mark style="color:blue;">niveau 40</mark>)_
+* Cupidon 🟥[<mark style="color:red;">Donjon Cupidon</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/cupidon)  _(Niveau requis : <mark style="color:red;">niveau 10</mark>)_
+* Amour 🟥[<mark style="color:red;">Donjon Amour</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/givre40)  _(Niveau requis : <mark style="color:red;">niveau 40</mark>)_
+* Terrier du Roi Lapin 🟫[<mark style="color:yellow;">Donjon Terrier du Roi Lapin</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/RoiLapin)  _(Niveau requis : <mark style="color:yellow;">niveau 15</mark>)_
+* Fabrique du Chocolat 🟫[<mark style="color:yellow;">Donjon Fabrique du Chocolat</mark>](https://wiki.evolucraft.fr/le-gameplay/les-donjons/FabriqueChocolat)  _(Niveau requis : <mark style="color:yellow;">niveau 40</mark>)_
+
+{% hint style="info" %}
+REMARQUE 🔍 : Lorsqu’un <mark style="color:green;">donjon est ajouté ou mis en avant après une mise à jour</mark>, son <mark style="color:green;">taux d’apparition est boosté</mark>. 📈
+{% endhint %}
+
+## <mark style="color:green;">💠 Comment réaliser un donjon ? 🎮</mark>
+
+### 🔸 Le départ 🏁
+Lorsqu’un membre a trouvé un donjon, il peut alors y téléporter ses amis ou publier une annonce pour inviter d’autres joueurs, en se plaçant <mark style="color:green;">devant le portail de donjon</mark>. Lorsque vous pensez pouvoir y entrer, vous pouvez <mark style="color:green;">entrer dans le portail</mark>. Dès que la première personne est téléportée dans le donjon, une <mark style="color:green;">période de 30 secondes</mark> commence, permettant à tous les joueurs de rejoindre.
+
+### 🔸 La salle de préparation ⏳
+Une fois entrés dans le donjon, les joueurs <mark style="color:green;">patientent le temps du décompte</mark> pour attendre les derniers arrivants. Une fois ce <mark style="color:green;">décompte passé</mark>, les joueurs n’ayant pas eu le temps de rejoindre le donjon <mark style="color:green;">ne pourront plus entrer</mark>.
+
+### 🔸 Les salles de combat ⚔️
+Selon le donjon effectué, plus il demandera <mark style="color:green;">un niveau de classe élevé</mark>, plus le <mark style="color:green;">nombre de salles à franchir augmentera</mark> _(sauf pour certains donjons événementiels)_.
+
+Dans un donjon, vous trouverez plusieurs types de salles :
+
+* <mark style="color:green;">Salle de monstres 🧟‍♂️</mark>
+* <mark style="color:yellow;">Salle de mini-boss 👽</mark>
+* <mark style="color:red;">Salle de boss 🐉</mark>
+
+{% hint style="info" %}
+REMARQUE 🔍 : Il n’est <mark style="color:green;">pas toujours obligatoire</mark> d’avoir <mark style="color:green;">une salle de mini-boss</mark>. Il peut donc arriver qu’il n’y ait que des salles de mobs et une salle pour le boss ⚔️
+{% endhint %}
+
+### 🔸 Les récompenses 🎁
+Après avoir <mark style="color:green;">vaincu le boss final du donjon</mark>, vous pourrez alors <mark style="color:green;">récupérer des récompenses</mark> si vous avez <mark style="color:green;">survécu</mark>.
+
+Pour cela, il vous suffit de <mark style="color:green;">cliquer sur les coffres</mark> au <mark style="color:green;">fond de la salle</mark>. Il y a <mark style="color:green;">3 coffres de récompenses</mark> _(2 coffres gratuits et le 3e disponible avec le [<mark style="color:green;">Premium 👑</mark>](https://wiki.evolucraft.fr/le-gameplay/les-grades#abonnement-premium))_.
+
+<figure><img src="../../.gitbook/assets/Les_Donjons/DJ-recompense.png" alt=""><figcaption><p><strong>Aperçu des coffres de <mark style="color:green;">récompenses de donjons</mark></strong></p></figcaption></figure>
+
+## <mark style="color:green;">💠 Quelques exemples de récompenses... 🧰</mark>
 
 <table data-header-hidden>
   <thead>
@@ -74,122 +122,142 @@ Chaque donjon propose des monstres différents selon son biome.
   </thead>
   <tbody>
     <tr>
-      <td align="center"><mark style="color:green;"><strong>Commun</strong></mark></td>
-      <td align="center"><mark style="color:orange;"><strong>Rare</strong></mark></td>
-      <td align="center"><mark style="color:blue;"><strong>Épique</strong></mark></td>
-      <td align="center"><mark style="color:purple;"><strong>Légendaire</strong></mark></td>
+      <td align="center"><mark style="color:green;"><strong>Commun 🟩</strong></mark></td>
+      <td align="center"><mark style="color:yellow;"><strong>Rare 🟨</strong></mark></td>
+      <td align="center"><mark style="color:blue;"><strong>Épique 🟦</strong></mark></td>
+      <td align="center"><mark style="color:purple;"><strong>Légendaire 🟪</strong></mark></td>
+      <td align="center"><mark style="color:red;"><strong>Mythique 🟥</strong></mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Classe Aléatoire Commune</mark></td>
-      <td align="center"><mark style="color:green;">Classe Aléatoire Commune (x2)</mark></td>
-      <td align="center"><mark style="color:orange;">Classe Aléatoire Rare</mark></td>
-      <td align="center"><mark style="color:orange;">Classe Aléatoire Rare</mark></td>
+      <td align="center"><mark style="color:yellow;">Classe Aléatoire Commune (x2)</mark></td>
+      <td align="center"><mark style="color:blue;">Classe Aléatoire Rare</mark></td>
+      <td align="center"><mark style="color:purple;">Classe Aléatoire Rare</mark></td>
+      <td align="center"><mark style="color:red;">Classe Aléatoire Épique</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Parchemin Commun</mark></td>
-      <td align="center"><mark style="color:orange;">Parchemin Rare</mark></td>
+      <td align="center"><mark style="color:yellow;">Parchemin Rare</mark></td>
       <td align="center"><mark style="color:blue;">Parchemin Expert</mark></td>
-      <td align="center"><mark style="color:blue;">Classe Aléatoire Épique</mark></td>
+      <td align="center"><mark style="color:purple;">Classe Aléatoire Épique</mark></td>
+      <td align="center"><mark style="color:red;">Classe Aléatoire Légendaire</mark></td>
     </tr>
     <tr>
-      <td align="center"><mark style="color:green;">10,000 💰</mark></td>
-      <td align="center"><mark style="color:orange;">20,000 💰</mark></td>
-      <td align="center"><mark style="color:blue;">50,000 💰</mark></td>
+      <td align="center"><mark style="color:green;">10.000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">20.000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">50.000 💰</mark></td>
       <td align="center"><mark style="color:purple;">Parchemin Difficile</mark></td>
+      <td align="center"><mark style="color:red;">Parchemin Expert</mark></td>
     </tr>
     <tr>
-      <td align="center"><mark style="color:green;">15,000 💰</mark></td>
-      <td align="center"><mark style="color:orange;">50,000 💰</mark></td>
-      <td align="center"><mark style="color:blue;">100,000 💰</mark></td>
+      <td align="center"><mark style="color:green;">15.000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">50.000 💰</mark></td>
+      <td align="center"><mark style="color:blue;">100.000 💰</mark></td>
       <td align="center"><mark style="color:purple;">Parchemin Expert</mark></td>
+      <td align="center"><mark style="color:red;">Parchemin Impossible</mark></td>
     </tr>
     <tr>
-      <td align="center"><mark style="color:green;">25,000 💰</mark></td>
-      <td align="center"><mark style="color:orange;">100,000 💰</mark></td>
+      <td align="center"><mark style="color:green;">25.000 💰</mark></td>
+      <td align="center"><mark style="color:orange;">100.000 💰</mark></td>
       <td align="center"><mark style="color:blue;">250.000 💰</mark></td>
       <td align="center"><mark style="color:purple;">150.000 💰</mark></td>
+      <td align="center"><mark style="color:red;">300.000 💰</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Cristaux Donjon Commun</mark></td>
-      <td align="center"><mark style="color:orange;">Cristaux Donjon Rare</mark></td>
+      <td align="center"><mark style="color:yellow;">Cristaux Donjon Rare</mark></td>
       <td align="center"><mark style="color:blue;">Cristaux Donjon Épique</mark></td>
       <td align="center"><mark style="color:purple;">300.000 💰</mark></td>
+      <td align="center"><mark style="color:red;">750.000 💰</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Bonbon à la Pomme</mark></td>
-      <td align="center"><mark style="color:orange;">Bonbon à l’Orange (x2)</mark></td>
-      <td align="center"><mark style="color:blue;">Bonbon à la Myrtille (x2)</mark></td>
+      <td align="center"><mark style="color:yellow;">2 Bonbons à l’Orange</mark></td>
+      <td align="center"><mark style="color:blue;">2 Bonbons à la Myrtille</mark></td>
       <td align="center"><mark style="color:purple;">750.000 💰</mark></td>
+      <td align="center"><mark style="color:red;">1.000.000 💰</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Plume de Fly 10min</mark></td>
-      <td align="center"><mark style="color:green;">Plume de Fly 30min</mark></td>
-      <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:yellow;">Plume de Fly 30min</mark></td>
+      <td align="center"><mark style="color:blue;">Plume de Phoenix</mark></td>
       <td align="center"><mark style="color:purple;">Cristaux de donjon légendaire</mark></td>
+      <td align="center"><mark style="color:red;">Cristaux de donjon Mythique</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Plume de Phoenix</mark></td>
-      <td align="center"><mark style="color:orange;">Plume de Phoenix</mark></td>
-      <td align="center"><mark style="color:orange;">Arme 1 Rare</mark></td>
-      <td align="center"><mark style="color:blue;">Bonbon à la Myrtille (x2)</mark></td>
+      <td align="center"><mark style="color:yellow;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:blue;">Arme 1 Rare</mark></td>
+      <td align="center"><mark style="color:purple;">2 Bonbons à la Myrtille</mark></td>
+      <td align="center"><mark style="color:red;">2 Bonbons au raisin</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
-      <td align="center"><mark style="color:green;">Arme 1 Commune</mark></td>
-      <td align="center"><mark style="color:orange;">Arme 2 Rare</mark></td>
-      <td align="center"><mark style="color:violet;">Bonbon au Raisin (x2)</mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 1 Commune</mark></td>
+      <td align="center"><mark style="color:blue;">Arme 2 Rare</mark></td>
+      <td align="center"><mark style="color:pruple;">2 Bonbon au Raisin</mark></td>
+      <td align="center"><mark style="color:red;">Plume de Phoenix</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
-      <td align="center"><mark style="color:green;">Arme 2 Commune</mark></td>
-      <td align="center"><mark style="color:orange;">Arme 3 Rare</mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 2 Commune</mark></td>
+      <td align="center"><mark style="color:blue;">Arme 3 Rare</mark></td>
       <td align="center"><mark style="color:purple;">Plume de Phoenix</mark></td>
+      <td align="center"><mark style="color:red;">Items Évolutif Aléatoire</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
-      <td align="center"><mark style="color:green;">Arme 3 Commune</mark></td>
-      <td align="center"><mark style="color:orange;">Arme 4 Rare</mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 3 Commune</mark></td>
+      <td align="center"><mark style="color:blue;">Arme 4 Rare</mark></td>
       <td align="center"><mark style="color:purple;">Item Évolutif Aléatoire</mark></td>
+      <td align="center"><mark style="color:red;">Pet de Donjon Aléatoire</mark></td>
     </tr>
     <tr>
       <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
-      <td align="center"><mark style="color:green;">Arme 4 Commune</mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 4 Commune</mark></td>
       <td align="center"><mark style="color:blue;">Arme 1 Épique</mark></td>
-      <td align="center"><mark style="color:purple;">Pet Aléatoire Donjon</mark></td>
+      <td align="center"><mark style="color:purple;">Pet de Donjon Aléatoire</mark></td>
+      <td align="center"><mark style="color:red;">Clé Aléatoire d'événement</mark></td>
     </tr>
     <tr>
       <td align="center">X</td>
-      <td align="center"><mark style="color:orange;">Arme 1 Rare </mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 1 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 2 Épique</mark></td>
-      <td align="center"><mark style="color:purple;">Clé Aléatoire</mark></td>
+      <td align="center"><mark style="color:purple;">Clé Aléatoire d'événement</mark></td>
+      <td align="center">X</td>
     </tr>
     <tr>
       <td align="center">X</td>
-      <td align="center"><mark style="color:orange;">Arme 2 Rare </mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 2 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 3 Épique</mark></td>
       <td align="center">X</td>
+      <td align="center">X</td>
     </tr>
     <tr>
       <td align="center">X</td>
-      <td align="center"><mark style="color:orange;">Arme 2 Rare </mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 2 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 3 Épique</mark></td>
       <td align="center">X</td>
+      <td align="center">X</td>
     </tr>
     <tr>
       <td align="center">X</td>
-      <td align="center"><mark style="color:orange;">Arme 3 Rare </mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 3 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Arme 4 Épique</mark></td>
       <td align="center">X</td>
+      <td align="center">X</td>
     </tr>
     <tr>
       <td align="center">X</td>
-      <td align="center"><mark style="color:orange;">Arme 4 Rare </mark></td>
+      <td align="center"><mark style="color:yellow;">Arme 4 Rare </mark></td>
       <td align="center"><mark style="color:blue;">Pet Donjon</mark></td>
+      <td align="center">X</td>
       <td align="center">X</td>
     </tr>
      <tr>
       <td align="center">X</td>
-      <td align="center"><mark style="color:orange;">Pet Donjon </mark></td>
+      <td align="center"><mark style="color:yellow;">Pet Donjon </mark></td>
+      <td align="center">X</td>
       <td align="center">X</td>
       <td align="center">X</td>
     </tr>
@@ -219,30 +287,3 @@ Chaque donjon propose des monstres différents selon son biome.
 {% hint style="info" %}
 Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
 {% endhint %}
-
-## <mark style="color:green;"></mark><mark style="color:green;">**Apparition des Donjons**</mark>
-
-Il y aura toujours 80 donjons ouverts en permanence sur la carte des ressources. Pour le Nether, seulement 10 donjons sont ouverts en permanence.&#x20;
-
-Les donjons événementiels sont accessibles de la même manière que les autres donjons. Lorsqu'un donjon est complété, un nouveau apparaît à un autre endroit de la carte.
-
-## <mark style="color:green;">Fonctionnement des Donjons</mark>
-
-### <mark style="color:green;">Entrée</mark>
-
-Chaque donjon possède une certaines limite de joueur, une fois le premier joueur entrée dans le donjon il commencera après un délai de 30 secondes.
-
-
-### <mark style="color:green;">Salle d'attente</mark>
-
-Une fois entrés dans le donjon, les joueurs arrivent dans une "salle d'attente" où ils peuvent attendre leurs amis avant de commencer l'exploration.
-
-### <mark style="color:green;">Salles</mark>
-
-Le nombre et le type de salles varient en fonction de la difficulté du donjon.&#x20;
-
-Il existe plusieurs types de salles, notamment :
-
-* Salle monstre
-* Salle mini-boss
-* Salle de boss

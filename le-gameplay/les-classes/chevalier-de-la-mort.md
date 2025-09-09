@@ -3,7 +3,7 @@ description: Retrouvez ici toutes les informations concernant la classe Chevalie
 ---
 
 # ☠️ Chevalier de la Mort
-Maître dans l'art du tir à l'arc, agile et précis, il ne rate jamais sa cible.
+Guerrier hanté, serviteur de la mort, maniant la corruption et la magie noire, il inspire la terreur.
 
 <figure><img src="../.gitbook/assets/Les_Classes/Chevalier_de_la_Mort.png" alt=""><figcaption><p><strong>Aperçu des stats de la classe Chevalier de la Mort</strong></p></figcaption></figure>
 
